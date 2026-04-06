@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Mon, 06 Apr 2026 16:37:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 17:38:05 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/queensland-child-safe-standards-implementation-qfcc-ecec-2026</guid>
       <description><![CDATA[Implementing Queensland’s Child Safe Standards: from compliance to culture in 2026]]></description>
       <content:encoded><![CDATA[Implementing Queensland’s Child Safe Standards: from compliance to culture in 2026]]></content:encoded>
-      <pubDate>Mon, 06 Apr 2026 16:37:37 GMT</pubDate>
+      <pubDate>Mon, 06 Apr 2026 17:38:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -26,7 +26,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/western-sydney-childcare-underpayment-penalties-ella-group-fair-work-ombudsman</guid>
       <description><![CDATA[Western Sydney childcare operator penalised again over failure to rectify underpayments]]></description>
       <content:encoded><![CDATA[Western Sydney childcare operator penalised again over failure to rectify underpayments]]></content:encoded>
-      <pubDate>Mon, 06 Apr 2026 15:37:37 GMT</pubDate>
+      <pubDate>Mon, 06 Apr 2026 16:38:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -36,7 +36,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/preschool-attendance-2025-abs-data-participation-equity-system-design</guid>
       <description><![CDATA[Preschool attendance in 2025: what new ABS data reveals about participation, equity and system design]]></description>
       <content:encoded><![CDATA[Preschool attendance in 2025: what new ABS data reveals about participation, equity and system design]]></content:encoded>
-      <pubDate>Mon, 06 Apr 2026 14:37:37 GMT</pubDate>
+      <pubDate>Mon, 06 Apr 2026 15:38:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -46,7 +46,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/qld-ecec-reform-pressure-workforce-wellbeing-aca-qld</guid>
       <description><![CDATA[Educator wellbeing in a time of reform: supporting the people who support Queensland’s children]]></description>
       <content:encoded><![CDATA[Educator wellbeing in a time of reform: supporting the people who support Queensland’s children]]></content:encoded>
-      <pubDate>Mon, 06 Apr 2026 13:37:37 GMT</pubDate>
+      <pubDate>Mon, 06 Apr 2026 14:38:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -56,7 +56,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/royal-far-west-appoints-dr-briony-scott-ceo-rural-child-health</guid>
       <description><![CDATA[Royal Far West appoints new chief executive officer]]></description>
       <content:encoded><![CDATA[Royal Far West appoints new chief executive officer]]></content:encoded>
-      <pubDate>Mon, 06 Apr 2026 12:37:37 GMT</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:38:04 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Werribee early learning service suspended for 90 days following serious safety breaches]]></title>
+      <link>https://thesector.com.au/article/werribee-early-learning-service-suspended-safety-breaches</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/werribee-early-learning-service-suspended-safety-breaches</guid>
+      <description><![CDATA[Werribee early learning service suspended for 90 days following serious safety breaches]]></description>
+      <content:encoded><![CDATA[Werribee early learning service suspended for 90 days following serious safety breaches]]></content:encoded>
+      <pubDate>Mon, 06 Apr 2026 06:38:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -68,16 +78,6 @@
       <content:encoded><![CDATA[Don’t gaslight stressed-out parents over childcare. Just fix it &nbsp;&nbsp; SMH.com.au]]></content:encoded>
       <pubDate>Mon, 06 Apr 2026 06:30:00 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Werribee early learning service suspended for 90 days following serious safety breaches]]></title>
-      <link>https://thesector.com.au/article/werribee-early-learning-service-suspended-safety-breaches</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/werribee-early-learning-service-suspended-safety-breaches</guid>
-      <description><![CDATA[Werribee early learning service suspended for 90 days following serious safety breaches]]></description>
-      <content:encoded><![CDATA[Werribee early learning service suspended for 90 days following serious safety breaches]]></content:encoded>
-      <pubDate>Mon, 06 Apr 2026 05:37:37 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -107,6 +107,16 @@
       <description><![CDATA[Melbourne childcare centre suspended for 90 days following multiple breaches &nbsp;&nbsp; Australian Broadcasting Corporation]]></description>
       <content:encoded><![CDATA[Melbourne childcare centre suspended for 90 days following multiple breaches &nbsp;&nbsp; Australian Broadcasting Corporation]]></content:encoded>
       <pubDate>Tue, 31 Mar 2026 06:06:38 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[UNICEF Australia welcomes increased funding for early childhood in new Budget - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1p0R1NZeHJraUk5MDNudTR1cnlsTnUzeUxuSVB6SEVhakF2X194ZFZBczU1MWY2WmlfUmZZNDg2Y1ZlbFVTQUo3Qmg1VmlKblhqejV4SXJmYlpRdWtZT1lnby1PUkZpYXpvb2o3YW5TWDQzakRLOTc1cTFHUG0wMy1jb1VnRjZJbGtXeFoyYWRlMDRTZDZWQ2pxd0ZKaXVZRkowcm1uMi0zdVV1LUhZ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1p0R1NZeHJraUk5MDNudTR1cnlsTnUzeUxuSVB6SEVhakF2X194ZFZBczU1MWY2WmlfUmZZNDg2Y1ZlbFVTQUo3Qmg1VmlKblhqejV4SXJmYlpRdWtZT1lnby1PUkZpYXpvb2o3YW5TWDQzakRLOTc1cTFHUG0wMy1jb1VnRjZJbGtXeFoyYWRlMDRTZDZWQ2pxd0ZKaXVZRkowcm1uMi0zdVV1LUhZ?oc=5</guid>
+      <description><![CDATA[UNICEF Australia welcomes increased funding for early childhood in new Budget &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[UNICEF Australia welcomes increased funding for early childhood in new Budget &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Mon, 30 Mar 2026 12:30:38 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -207,6 +217,16 @@
       <description><![CDATA[Managing the expectations of end of year celebrations &nbsp;&nbsp; The Sector]]></description>
       <content:encoded><![CDATA[Managing the expectations of end of year celebrations &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sat, 28 Mar 2026 22:45:15 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Preschool for three year olds hits new milestone in South Australia - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjB2a2M4aHBIX1dtRVpqc1kweDFzYXIxVWpJYmI5WUp3enBpeHhwYkd2Nzh1ajBpeTZfQ0NXWmFoQnBFSUZEUVpsaV9XZFNJQU8yeDc0bjl3VHpNZjZDN3QyanpNNmpQNWtUckZlR1FsMy1SY0Z4dGZZU1lYS1pVREFBTTZJZUVLVENOcUxHXzR6Qm9oWUlwSG5lUHdMVmt0UUE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjB2a2M4aHBIX1dtRVpqc1kweDFzYXIxVWpJYmI5WUp3enBpeHhwYkd2Nzh1ajBpeTZfQ0NXWmFoQnBFSUZEUVpsaV9XZFNJQU8yeDc0bjl3VHpNZjZDN3QyanpNNmpQNWtUckZlR1FsMy1SY0Z4dGZZU1lYS1pVREFBTTZJZUVLVENOcUxHXzR6Qm9oWUlwSG5lUHdMVmt0UUE?oc=5</guid>
+      <description><![CDATA[Preschool for three year olds hits new milestone in South Australia &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Preschool for three year olds hits new milestone in South Australia &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sat, 28 Mar 2026 22:07:22 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -351,16 +371,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[$250,000 in grant funding for ECEC worker retention - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzIyR21ZSF9RQTlPeGtTNmw4ZzZBNGQ0M0RGYjRvVmFHT2E0NGhDcC1fbndwUW9UTnBsdmdIV3BYQ004UnJKVmJXOF92Z0JsQ2hpVkNPbzluRDl3TmVtbnNiSW05Y2NtcFhVcnBfTVJkbzVXQ3o0WnJHSnp1anJRQlpHQW5pM2FmeHlheXZFQXc1bU9LVVZWYUhOYm95TGZITHRpWHhxOC1wX2ZJX3c?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzIyR21ZSF9RQTlPeGtTNmw4ZzZBNGQ0M0RGYjRvVmFHT2E0NGhDcC1fbndwUW9UTnBsdmdIV3BYQ004UnJKVmJXOF92Z0JsQ2hpVkNPbzluRDl3TmVtbnNiSW05Y2NtcFhVcnBfTVJkbzVXQ3o0WnJHSnp1anJRQlpHQW5pM2FmeHlheXZFQXc1bU9LVVZWYUhOYm95TGZITHRpWHhxOC1wX2ZJX3c?oc=5</guid>
-      <description><![CDATA[$250,000 in grant funding for ECEC worker retention &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[$250,000 in grant funding for ECEC worker retention &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Fri, 20 Mar 2026 21:14:46 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[ACECQA launches new risk assessment and management tool - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXRoaGpKZXRLcE1zckQ4RVBEZVV6Um5EaU45eWpidldOelM1bUxNLWx4UllaNnVpOGNGZV9Sb0lCQ1lneEZ2cWItdVlPQ18yS3FsWW9GMExFdzFlZXdBdUU5elpIMWU4bXN6cW5EcUFSTG9MSjFhVTlJZjBFdktiV1laTTNkRHF2dEFiTWlfSkJDZw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXRoaGpKZXRLcE1zckQ4RVBEZVV6Um5EaU45eWpidldOelM1bUxNLWx4UllaNnVpOGNGZV9Sb0lCQ1lneEZ2cWItdVlPQ18yS3FsWW9GMExFdzFlZXdBdUU5elpIMWU4bXN6cW5EcUFSTG9MSjFhVTlJZjBFdktiV1laTTNkRHF2dEFiTWlfSkJDZw?oc=5</guid>
@@ -378,16 +388,6 @@
       <content:encoded><![CDATA[FDC coordinator Mariam Shahid honoured with finalist position in national awards &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Tue, 17 Mar 2026 23:08:09 GMT</pubDate>
       <dc:creator><![CDATA[FDC News]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Why Swedish early learning is so much better than Australia’s - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjhVTTk2MGhHUC1pTDZZa1NUWks0T3g3cGQwbm1qVG15UWVFV255WlJaZ2RPbHZFZGptekVLZm5WSl9qU0xSU09yWUQ0MGNIZkcxWl83aEUzTWZoR3h1NnExQmx1NGJ1TFhWYTNSUTdnSGtOQlZ0Mml5TVptYjdpUURmU0dHbHNWUGtwbEFzTllJZzlFT1JhRQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjhVTTk2MGhHUC1pTDZZa1NUWks0T3g3cGQwbm1qVG15UWVFV255WlJaZ2RPbHZFZGptekVLZm5WSl9qU0xSU09yWUQ0MGNIZkcxWl83aEUzTWZoR3h1NnExQmx1NGJ1TFhWYTNSUTdnSGtOQlZ0Mml5TVptYjdpUURmU0dHbHNWUGtwbEFzTllJZzlFT1JhRQ?oc=5</guid>
-      <description><![CDATA[Why Swedish early learning is so much better than Australia’s &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[Why Swedish early learning is so much better than Australia’s &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Tue, 17 Mar 2026 16:10:18 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -428,6 +428,16 @@
       <content:encoded><![CDATA[The work we keep stealing &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Mon, 16 Mar 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[New advice on ratio and supervision - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTdRYnkyd3NaVGh5NDVnUWlZQlhqeG1SNWZiWXdwekFfdzU5eEFDbVhUa0VpM3VUbjZfOFVKSW5Xb182bGk2eHVRalhad2F5MkZ6NXhRZzYyNFBmbkNSREdDdms1TEg0ZHVFaTF4WUNKZ1NuWkM3YlByZFVhZXdPckpZR3NaMHBIT1BzT2FMQThRUWdXZmlWRlZHSnRXY3NQQ3c2OGJKVU91Nm8?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTdRYnkyd3NaVGh5NDVnUWlZQlhqeG1SNWZiWXdwekFfdzU5eEFDbVhUa0VpM3VUbjZfOFVKSW5Xb182bGk2eHVRalhad2F5MkZ6NXhRZzYyNFBmbkNSREdDdms1TEg0ZHVFaTF4WUNKZ1NuWkM3YlByZFVhZXdPckpZR3NaMHBIT1BzT2FMQThRUWdXZmlWRlZHSnRXY3NQQ3c2OGJKVU91Nm8?oc=5</guid>
+      <description><![CDATA[New advice on ratio and supervision &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[New advice on ratio and supervision &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sun, 15 Mar 2026 19:17:38 GMT</pubDate>
+      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -498,16 +508,6 @@
       <content:encoded><![CDATA[Why regulation alone won’t fix early childhood quality and safety &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sat, 14 Mar 2026 15:22:50 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Family Day Care Capability Trial officially launches - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3hQTFFZbkVMMVJpSG5BQlltdUl2VmhLRUNzUDd3UFNOcXlfdTBnT0xsUkJyVUQ4TnVBNlhraGpjTzN2UWxuTVJpU3ozUzRZMTZMbWhrOWdMd0Nqa3dvUThFeW5qNGxsb3BTa1FYLThuUXBtODF4TUpCQlFYN0k4bHVOMHA0M1FjUjZqU3Rn?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3hQTFFZbkVMMVJpSG5BQlltdUl2VmhLRUNzUDd3UFNOcXlfdTBnT0xsUkJyVUQ4TnVBNlhraGpjTzN2UWxuTVJpU3ozUzRZMTZMbWhrOWdMd0Nqa3dvUThFeW5qNGxsb3BTa1FYLThuUXBtODF4TUpCQlFYN0k4bHVOMHA0M1FjUjZqU3Rn?oc=5</guid>
-      <description><![CDATA[Family Day Care Capability Trial officially launches &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[Family Day Care Capability Trial officially launches &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Sat, 14 Mar 2026 10:18:47 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
