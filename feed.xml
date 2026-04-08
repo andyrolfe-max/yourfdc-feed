@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 08 Apr 2026 19:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 20:35:05 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/vecra-suspension-western-melbourne-educator</guid>
       <description><![CDATA[VECRA issues immediate suspension to western Melbourne educator following alleged misconduct]]></description>
       <content:encoded><![CDATA[VECRA issues immediate suspension to western Melbourne educator following alleged misconduct]]></content:encoded>
-      <pubDate>Wed, 08 Apr 2026 19:22:56 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 20:35:04 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[What WA’s 2026 Agency Commissioning Plan signals for the future of ECEC]]></title>
+      <link>https://thesector.com.au/article/wa-agency-commissioning-plan-2026-ecec</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/wa-agency-commissioning-plan-2026-ecec</guid>
+      <description><![CDATA[What WA’s 2026 Agency Commissioning Plan signals for the future of ECEC]]></description>
+      <content:encoded><![CDATA[What WA’s 2026 Agency Commissioning Plan signals for the future of ECEC]]></content:encoded>
+      <pubDate>Wed, 08 Apr 2026 19:35:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -51,22 +61,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[What WA’s 2026 Agency Commissioning Plan signals for the future of ECEC]]></title>
-      <link>https://thesector.com.au/article/wa-agency-commissioning-plan-2026-ecec</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/wa-agency-commissioning-plan-2026-ecec</guid>
-      <description><![CDATA[What WA’s 2026 Agency Commissioning Plan signals for the future of ECEC]]></description>
-      <content:encoded><![CDATA[What WA’s 2026 Agency Commissioning Plan signals for the future of ECEC]]></content:encoded>
-      <pubDate>Wed, 08 Apr 2026 18:22:56 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[ECEC workforce report reveals pay, conditions and retention challenges]]></title>
       <link>https://thesector.com.au/article/ecec-workforce-report-pay-conditions-retention</link>
       <guid isPermaLink="true">https://thesector.com.au/article/ecec-workforce-report-pay-conditions-retention</guid>
       <description><![CDATA[ECEC workforce report reveals pay, conditions and retention challenges]]></description>
       <content:encoded><![CDATA[ECEC workforce report reveals pay, conditions and retention challenges]]></content:encoded>
-      <pubDate>Wed, 08 Apr 2026 17:22:56 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 18:35:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -76,7 +76,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/science-early-childhood-education-teacher-preparation</guid>
       <description><![CDATA[Science in early childhood education: are teachers set up to fail]]></description>
       <content:encoded><![CDATA[Science in early childhood education: are teachers set up to fail]]></content:encoded>
-      <pubDate>Wed, 08 Apr 2026 16:22:56 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 17:35:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -86,27 +86,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/supporting-disengaged-behaviour-ecec-learning-environments</guid>
       <description><![CDATA[Supporting disengaged and disruptive behaviour: building calm, focused learning environments]]></description>
       <content:encoded><![CDATA[Supporting disengaged and disruptive behaviour: building calm, focused learning environments]]></content:encoded>
-      <pubDate>Wed, 08 Apr 2026 15:22:56 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Behaviour, regulation and trauma-informed practice: positioning music as an everyday tool in ECEC]]></title>
-      <link>https://thesector.com.au/article/childrens-online-privacy-code-australia-ecec-digital-rights</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/childrens-online-privacy-code-australia-ecec-digital-rights</guid>
-      <description><![CDATA[Behaviour, regulation and trauma-informed practice: positioning music as an everyday tool in ECEC]]></description>
-      <content:encoded><![CDATA[Behaviour, regulation and trauma-informed practice: positioning music as an everyday tool in ECEC]]></content:encoded>
-      <pubDate>Wed, 08 Apr 2026 09:22:56 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[A system under strain: what Victoria’s ECEC inquiry interim report reveals about safety, governance and the future of the sector]]></title>
-      <link>https://thesector.com.au/article/victoria-ecec-inquiry-interim-report-safety-governance-reform</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/victoria-ecec-inquiry-interim-report-safety-governance-reform</guid>
-      <description><![CDATA[A system under strain: what Victoria’s ECEC inquiry interim report reveals about safety, governance and the future of the sector]]></description>
-      <content:encoded><![CDATA[A system under strain: what Victoria’s ECEC inquiry interim report reveals about safety, governance and the future of the sector]]></content:encoded>
-      <pubDate>Wed, 08 Apr 2026 07:22:56 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 16:35:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -237,7 +217,7 @@
       <description><![CDATA[Foundational National Educator Register to provide greater visibility and accountability across ECEC &nbsp;&nbsp; The Sector]]></description>
       <content:encoded><![CDATA[Foundational National Educator Register to provide greater visibility and accountability across ECEC &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Mon, 30 Mar 2026 09:03:08 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -507,6 +487,26 @@
       <description><![CDATA[New small‑scale grants open to boost early learning access in communities of need &nbsp;&nbsp; The Sector]]></description>
       <content:encoded><![CDATA[New small‑scale grants open to boost early learning access in communities of need &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Mon, 23 Mar 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[ACECQA to become migration assessing authority - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTJUNlBvYVhTSzF4Z0ZUZGdkSmJ5RWJ4ZmV6LUpGUG5mcmxRQ2FVd2FsTWxUNk9hT255bGw5ZlYwRUZWVXNvTjlzTUFad05IMlNPNmdzSFF1MV9QNmhqeldRS25jVzRnby1wSGxFWVpTSHFaUUczUWxwYTNpcUxDQXl3cndFd296QUxTbGd3YW45QUhEVHRHMllzVFFRMlFvajhsajZzNDJtcFV6aVByUGRlTQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTJUNlBvYVhTSzF4Z0ZUZGdkSmJ5RWJ4ZmV6LUpGUG5mcmxRQ2FVd2FsTWxUNk9hT255bGw5ZlYwRUZWVXNvTjlzTUFad05IMlNPNmdzSFF1MV9QNmhqeldRS25jVzRnby1wSGxFWVpTSHFaUUczUWxwYTNpcUxDQXl3cndFd296QUxTbGd3YW45QUhEVHRHMllzVFFRMlFvajhsajZzNDJtcFV6aVByUGRlTQ?oc=5</guid>
+      <description><![CDATA[ACECQA to become migration assessing authority &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[ACECQA to become migration assessing authority &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sun, 22 Mar 2026 19:46:36 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Supporting young children to develop boundaries: why it matters in early childhood education and care - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1OTUJUU2ItUDMyNmFXLUpyUFZLMFItNGFxTC1lMG1vTExkWTNEM1ZrSjlLMFctWndTNUlFd2dINXl5cUJIR0JLd3Q4VW1PWmszcmI2b19IYjl0ZDdrekpnSWJ4SVVyWDFzOWtTS3d0SXc3OExhM1Y0YkhXV3RGRnc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1OTUJUU2ItUDMyNmFXLUpyUFZLMFItNGFxTC1lMG1vTExkWTNEM1ZrSjlLMFctWndTNUlFd2dINXl5cUJIR0JLd3Q4VW1PWmszcmI2b19IYjl0ZDdrekpnSWJ4SVVyWDFzOWtTS3d0SXc3OExhM1Y0YkhXV3RGRnc?oc=5</guid>
+      <description><![CDATA[Supporting young children to develop boundaries: why it matters in early childhood education and care &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Supporting young children to develop boundaries: why it matters in early childhood education and care &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sun, 22 Mar 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
