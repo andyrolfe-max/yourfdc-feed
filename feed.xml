@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Thu, 09 Apr 2026 13:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 15:14:42 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/vecra-suspension-western-melbourne-educator</guid>
       <description><![CDATA[VECRA issues immediate suspension to western Melbourne educator following alleged misconduct]]></description>
       <content:encoded><![CDATA[VECRA issues immediate suspension to western Melbourne educator following alleged misconduct]]></content:encoded>
-      <pubDate>Thu, 09 Apr 2026 13:02:41 GMT</pubDate>
+      <pubDate>Thu, 09 Apr 2026 15:14:41 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -26,7 +26,27 @@
       <guid isPermaLink="true">https://thesector.com.au/article/wa-agency-commissioning-plan-2026-ecec</guid>
       <description><![CDATA[What WA’s 2026 Agency Commissioning Plan signals for the future of ECEC]]></description>
       <content:encoded><![CDATA[What WA’s 2026 Agency Commissioning Plan signals for the future of ECEC]]></content:encoded>
-      <pubDate>Thu, 09 Apr 2026 12:02:41 GMT</pubDate>
+      <pubDate>Thu, 09 Apr 2026 14:14:41 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[ECEC workforce report reveals pay, conditions and retention challenges]]></title>
+      <link>https://thesector.com.au/article/ecec-workforce-report-pay-conditions-retention</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/ecec-workforce-report-pay-conditions-retention</guid>
+      <description><![CDATA[ECEC workforce report reveals pay, conditions and retention challenges]]></description>
+      <content:encoded><![CDATA[ECEC workforce report reveals pay, conditions and retention challenges]]></content:encoded>
+      <pubDate>Thu, 09 Apr 2026 13:14:41 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Science in early childhood education: are teachers set up to fail]]></title>
+      <link>https://thesector.com.au/article/science-early-childhood-education-teacher-preparation</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/science-early-childhood-education-teacher-preparation</guid>
+      <description><![CDATA[Science in early childhood education: are teachers set up to fail]]></description>
+      <content:encoded><![CDATA[Science in early childhood education: are teachers set up to fail]]></content:encoded>
+      <pubDate>Thu, 09 Apr 2026 12:14:41 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -41,32 +61,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[ECEC workforce report reveals pay, conditions and retention challenges]]></title>
-      <link>https://thesector.com.au/article/ecec-workforce-report-pay-conditions-retention</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/ecec-workforce-report-pay-conditions-retention</guid>
-      <description><![CDATA[ECEC workforce report reveals pay, conditions and retention challenges]]></description>
-      <content:encoded><![CDATA[ECEC workforce report reveals pay, conditions and retention challenges]]></content:encoded>
-      <pubDate>Thu, 09 Apr 2026 11:02:41 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Science in early childhood education: are teachers set up to fail]]></title>
-      <link>https://thesector.com.au/article/science-early-childhood-education-teacher-preparation</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/science-early-childhood-education-teacher-preparation</guid>
-      <description><![CDATA[Science in early childhood education: are teachers set up to fail]]></description>
-      <content:encoded><![CDATA[Science in early childhood education: are teachers set up to fail]]></content:encoded>
-      <pubDate>Thu, 09 Apr 2026 10:02:41 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Supporting disengaged and disruptive behaviour: building calm, focused learning environments]]></title>
       <link>https://thesector.com.au/article/supporting-disengaged-behaviour-ecec-learning-environments</link>
       <guid isPermaLink="true">https://thesector.com.au/article/supporting-disengaged-behaviour-ecec-learning-environments</guid>
       <description><![CDATA[Supporting disengaged and disruptive behaviour: building calm, focused learning environments]]></description>
       <content:encoded><![CDATA[Supporting disengaged and disruptive behaviour: building calm, focused learning environments]]></content:encoded>
-      <pubDate>Thu, 09 Apr 2026 09:02:41 GMT</pubDate>
+      <pubDate>Thu, 09 Apr 2026 11:14:41 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -161,16 +161,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[ALP pledges fee waiver for 10,000 early education TAFE students - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWdiLURNcFg5QzVPNDA5alpEZ0ZuOGlDTk5kdGJXVHRwQnRxUHUzcFIyUjVtemF1UTBDWmI0c3NSUm1MbU01WFlRckEyRVBNSS1JUXFPQ0ozdkJIUEdfczBFYk5fWVhmUk9KbTdMdFM3UGpFeENadlBtaUVVelBPZW42b1hobXFVT2xKaUI0MmdBNC1tZktkZ3l6RQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWdiLURNcFg5QzVPNDA5alpEZ0ZuOGlDTk5kdGJXVHRwQnRxUHUzcFIyUjVtemF1UTBDWmI0c3NSUm1MbU01WFlRckEyRVBNSS1JUXFPQ0ozdkJIUEdfczBFYk5fWVhmUk9KbTdMdFM3UGpFeENadlBtaUVVelBPZW42b1hobXFVT2xKaUI0MmdBNC1tZktkZ3l6RQ?oc=5</guid>
-      <description><![CDATA[ALP pledges fee waiver for 10,000 early education TAFE students &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[ALP pledges fee waiver for 10,000 early education TAFE students &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Tue, 07 Apr 2026 02:59:13 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[New tertiary education commission set to reshape ECEC workforce pathways - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJXZHpwVmNBeXNReElkbUlZc2ItQ09memxhdzUzZUF3ckRZdDVZbmh2TTVuSC0zUktYYVdfUHJiMzZXQ2NFOUZ1MG50a1RrVUtlbDZUSUxIY2FaV1pzc2FSR3daUnAtNDVnem5FZ0hEUTZTQXhyRWcwdWJNcUF0d1dSaFMwdlZaUWExc3IyazlfclMtTHZLX0lpOU1NUkk?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJXZHpwVmNBeXNReElkbUlZc2ItQ09memxhdzUzZUF3ckRZdDVZbmh2TTVuSC0zUktYYVdfUHJiMzZXQ2NFOUZ1MG50a1RrVUtlbDZUSUxIY2FaV1pzc2FSR3daUnAtNDVnem5FZ0hEUTZTQXhyRWcwdWJNcUF0d1dSaFMwdlZaUWExc3IyazlfclMtTHZLX0lpOU1NUkk?oc=5</guid>
@@ -211,6 +201,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[ELACCA welcomes PwC report on economic impact of ECEC - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQajBzNlA2Zk1mb0dWNVdLdUNHRUJKdWI4amVITW1YVEUtWV9FMWRHVTRYT0tBeTZQZE44RjdDUU43cVFCTU9tWUpSX0NOVEtGcl9vMWdJTFR1aEMydDhwNHhpWFZRMlZuQ3JzQm9UamVJUGtRMEk1T3NLRWVhTXFXd293UENhdEN3UVhJOWFLZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxQajBzNlA2Zk1mb0dWNVdLdUNHRUJKdWI4amVITW1YVEUtWV9FMWRHVTRYT0tBeTZQZE44RjdDUU43cVFCTU9tWUpSX0NOVEtGcl9vMWdJTFR1aEMydDhwNHhpWFZRMlZuQ3JzQm9UamVJUGtRMEk1T3NLRWVhTXFXd293UENhdEN3UVhJOWFLZw?oc=5</guid>
+      <description><![CDATA[ELACCA welcomes PwC report on economic impact of ECEC &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[ELACCA welcomes PwC report on economic impact of ECEC &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sat, 04 Apr 2026 21:39:26 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[National Family Day Care Week is on the way from 1 May - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOblNlMkdHM1hPSjZHeThzNUdIUGV1QkQxSHBZQVNuMzRJVzZEYzVqc05JNzdDLURiVUkwUzNUVUR4RzlmWnlVODNxS0JCSW1Wa1VnZ1hiUXlPTUQxQnpwR3JKd0pzbWFEV3VKMTlMSWJFR21FMy1DMlZNTlA4MDNPd0t2UFpXU0tFLU9hQlNxbk0?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxOblNlMkdHM1hPSjZHeThzNUdIUGV1QkQxSHBZQVNuMzRJVzZEYzVqc05JNzdDLURiVUkwUzNUVUR4RzlmWnlVODNxS0JCSW1Wa1VnZ1hiUXlPTUQxQnpwR3JKd0pzbWFEV3VKMTlMSWJFR21FMy1DMlZNTlA4MDNPd0t2UFpXU0tFLU9hQlNxbk0?oc=5</guid>
@@ -248,16 +248,6 @@
       <content:encoded><![CDATA[Parliament passes Direct Gap Fee legislation: Key changes for FDC and IHC from 1 January 2026 &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Mon, 30 Mar 2026 08:06:55 GMT</pubDate>
       <dc:creator><![CDATA[FDC News]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Finnish model of education provider in administration - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNRW8wZU5KRkw0b0FtWERPWFM0NzlCd0dGeGpqRkR1bm45Z3pxOXJsWWxyS0lOVFFMQTRRTnpETks3VEFCM0lkdEFqMlhLeDZrOFV5T2JYYVZwVzZZNnhzY2lCRzZ6X2otQW9VWFlCM3VWcjJVZmR6ZzM2SjZsY2JoclNXYmI1MXloOVRKTVhNaHlBRDdzbGFLVnpsM1lvUmlkTkhzZVRVNHV1MFg3QU1yZGMydmxrZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxNRW8wZU5KRkw0b0FtWERPWFM0NzlCd0dGeGpqRkR1bm45Z3pxOXJsWWxyS0lOVFFMQTRRTnpETks3VEFCM0lkdEFqMlhLeDZrOFV5T2JYYVZwVzZZNnhzY2lCRzZ6X2otQW9VWFlCM3VWcjJVZmR6ZzM2SjZsY2JoclNXYmI1MXloOVRKTVhNaHlBRDdzbGFLVnpsM1lvUmlkTkhzZVRVNHV1MFg3QU1yZGMydmxrZw?oc=5</guid>
-      <description><![CDATA[Finnish model of education provider in administration &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[Finnish model of education provider in administration &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Mon, 30 Mar 2026 05:50:06 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -467,6 +457,16 @@
       <description><![CDATA[Kinder Kits &nbsp;&nbsp; www.vic.gov.au]]></description>
       <content:encoded><![CDATA[Kinder Kits &nbsp;&nbsp; www.vic.gov.au]]></content:encoded>
       <pubDate>Thu, 26 Mar 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[SNAICC welcomes funding to improve First Nations access to ECEC - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQZlhickgwRjlsM2ZreTZpenR4b1MwdjRnRWgtVEpxZTI1YUFTYzRDSU10ZUViMlREdVFxRE8ybm1wM1FHeUlYZnpkMTZ4LTRiYXdzZ1ZGSDBLVWR6a2xjVTV3RWZnTk5jay1EZHhJdk1VbmpPME1ZTHZ2dnFjbXBkNmYwckNzV2I0RVlweXBqeWtOQU9xU0JqN3JYWXE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinAFBVV95cUxQZlhickgwRjlsM2ZreTZpenR4b1MwdjRnRWgtVEpxZTI1YUFTYzRDSU10ZUViMlREdVFxRE8ybm1wM1FHeUlYZnpkMTZ4LTRiYXdzZ1ZGSDBLVWR6a2xjVTV3RWZnTk5jay1EZHhJdk1VbmpPME1ZTHZ2dnFjbXBkNmYwckNzV2I0RVlweXBqeWtOQU9xU0JqN3JYWXE?oc=5</guid>
+      <description><![CDATA[SNAICC welcomes funding to improve First Nations access to ECEC &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[SNAICC welcomes funding to improve First Nations access to ECEC &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Tue, 24 Mar 2026 02:52:54 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
