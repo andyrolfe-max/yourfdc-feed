@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Sun, 12 Apr 2026 20:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 21:25:56 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/uniting-early-learning-auslan-inclusive-education</guid>
       <description><![CDATA[Uniting Early Learning, where communication doesn’t depend on hearing]]></description>
       <content:encoded><![CDATA[Uniting Early Learning, where communication doesn’t depend on hearing]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 20:26:07 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 21:25:56 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -26,7 +26,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/child-safety-governance-incident-evidence-ecec-australia</guid>
       <description><![CDATA[What 2026 child safety changes mean for incident evidence in childcare]]></description>
       <content:encoded><![CDATA[What 2026 child safety changes mean for incident evidence in childcare]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 19:26:07 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 20:25:56 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[School-based expansion raises stability concerns for UK early childhood sector, raising questions for Australia]]></title>
+      <link>https://thesector.com.au/article/uk-school-based-nursery-expansion-australia-sector-risks</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/uk-school-based-nursery-expansion-australia-sector-risks</guid>
+      <description><![CDATA[School-based expansion raises stability concerns for UK early childhood sector, raising questions for Australia]]></description>
+      <content:encoded><![CDATA[School-based expansion raises stability concerns for UK early childhood sector, raising questions for Australia]]></content:encoded>
+      <pubDate>Sun, 12 Apr 2026 19:25:56 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -51,22 +61,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[School-based expansion raises stability concerns for UK early childhood sector, raising questions for Australia]]></title>
-      <link>https://thesector.com.au/article/uk-school-based-nursery-expansion-australia-sector-risks</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/uk-school-based-nursery-expansion-australia-sector-risks</guid>
-      <description><![CDATA[School-based expansion raises stability concerns for UK early childhood sector, raising questions for Australia]]></description>
-      <content:encoded><![CDATA[School-based expansion raises stability concerns for UK early childhood sector, raising questions for Australia]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 18:26:07 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Tamworth among first of 49 new public preschools rolling out across regional NSW]]></title>
       <link>https://thesector.com.au/article/tamworth-public-preschool-regional-nsw-expansion</link>
       <guid isPermaLink="true">https://thesector.com.au/article/tamworth-public-preschool-regional-nsw-expansion</guid>
       <description><![CDATA[Tamworth among first of 49 new public preschools rolling out across regional NSW]]></description>
       <content:encoded><![CDATA[Tamworth among first of 49 new public preschools rolling out across regional NSW]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 17:26:07 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 18:25:56 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -76,7 +76,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/preci-national-road-trip-early-childhood-intervention-framework</guid>
       <description><![CDATA[PRECI launches national road trip to support Best Practice Framework implementation]]></description>
       <content:encoded><![CDATA[PRECI launches national road trip to support Best Practice Framework implementation]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 16:26:07 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:25:56 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -96,7 +96,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/nsw-child-safety-reforms-april-2026-ecec</guid>
       <description><![CDATA[NSW child safety reforms to commence 24 April 2026]]></description>
       <content:encoded><![CDATA[NSW child safety reforms to commence 24 April 2026]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 07:26:07 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 08:25:56 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -228,16 +228,6 @@
       <content:encoded><![CDATA[National Family Day Care Week is on the way from 1 May &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Fri, 03 Apr 2026 12:09:57 GMT</pubDate>
       <dc:creator><![CDATA[FDC News]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Excellent rated Belrose Community and Children’s Centre speaks on inclusion and advocacy - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxObGpGU3R1Y3FFTTNYeE1uQzlkeXZCcHJJd0NJNWhWc2JhZGtTZHhIZ2d5TnJtZjd4UmpyN0o2T3pZWXhRb2pLckVnV3BKR1kxdDNseE9LOW1pdnJpVk9tUUxjUFliOGVBeXhCd0FwN19CRFhIbXJHcWdaUTFFd3NsUFJnSWVoeldCQnVQa2xnQ0hMc1pfUU1iN3I1eGFJRVJrVHpGTmwxaGFyT3RPVjVNZlNWc2ozUVNTNmVROA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMivAFBVV95cUxObGpGU3R1Y3FFTTNYeE1uQzlkeXZCcHJJd0NJNWhWc2JhZGtTZHhIZ2d5TnJtZjd4UmpyN0o2T3pZWXhRb2pLckVnV3BKR1kxdDNseE9LOW1pdnJpVk9tUUxjUFliOGVBeXhCd0FwN19CRFhIbXJHcWdaUTFFd3NsUFJnSWVoeldCQnVQa2xnQ0hMc1pfUU1iN3I1eGFJRVJrVHpGTmwxaGFyT3RPVjVNZlNWc2ozUVNTNmVROA?oc=5</guid>
-      <description><![CDATA[Excellent rated Belrose Community and Children’s Centre speaks on inclusion and advocacy &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[Excellent rated Belrose Community and Children’s Centre speaks on inclusion and advocacy &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Tue, 31 Mar 2026 18:06:44 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -508,6 +498,16 @@
       <content:encoded><![CDATA[ACECQA brings out new educator-to-child ratio calculator for centre-based services &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Tue, 24 Mar 2026 01:57:58 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Further responses as sector unpacks PC report - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWxPQXBaUENQVWRaZ3FySmdOaFlzY2Z6OHIyLWVOUmZBa1VHOWhJWFQzV1hsU3VYdFFRbzBwaEVzV21ZYnk0Y3l0cFZwLTZVckRoUjdQc0NVOUZqVU52RU9jZmQtRi01ZXNTOTNYa01XdmprTUY3MjJhd1B4alZwMFZ4VU51VjNpd3Budm9rQmRIUHlod2VZajZBQlZHZzdkY1JoUDA4OEVnMWpLYWNpbnRSQ0E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWxPQXBaUENQVWRaZ3FySmdOaFlzY2Z6OHIyLWVOUmZBa1VHOWhJWFQzV1hsU3VYdFFRbzBwaEVzV21ZYnk0Y3l0cFZwLTZVckRoUjdQc0NVOUZqVU52RU9jZmQtRi01ZXNTOTNYa01XdmprTUY3MjJhd1B4alZwMFZ4VU51VjNpd3Budm9rQmRIUHlod2VZajZBQlZHZzdkY1JoUDA4OEVnMWpLYWNpbnRSQ0E?oc=5</guid>
+      <description><![CDATA[Further responses as sector unpacks PC report &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Further responses as sector unpacks PC report &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Tue, 24 Mar 2026 00:04:08 GMT</pubDate>
+      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
