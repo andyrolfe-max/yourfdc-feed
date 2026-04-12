@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Sun, 12 Apr 2026 04:40:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 06:20:05 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/nsw-child-safety-reforms-april-2026-ecec</guid>
       <description><![CDATA[NSW child safety reforms to commence 24 April 2026]]></description>
       <content:encoded><![CDATA[NSW child safety reforms to commence 24 April 2026]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 04:40:58 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 06:20:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -26,7 +26,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/national-child-safety-consultation-ecec-2026</guid>
       <description><![CDATA[National child safety consultation survey now open]]></description>
       <content:encoded><![CDATA[National child safety consultation survey now open]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 03:40:58 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 05:20:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -36,7 +36,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/brighter-beginnings-resources-ecec-families-nsw</guid>
       <description><![CDATA[Brighter Beginnings resources support families with trusted early childhood information]]></description>
       <content:encoded><![CDATA[Brighter Beginnings resources support families with trusted early childhood information]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 02:40:58 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 04:20:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -46,7 +46,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/nsw-ecec-scholarship-program-2026-second-intake</guid>
       <description><![CDATA[2026 ECEC Scholarship Program second intake to open in April]]></description>
       <content:encoded><![CDATA[2026 ECEC Scholarship Program second intake to open in April]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 01:40:58 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 03:20:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -56,7 +56,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/nsw-health-development-checks-ecec-grant-funding</guid>
       <description><![CDATA[NSW expands health and development checks in ECEC with new grant funding]]></description>
       <content:encoded><![CDATA[NSW expands health and development checks in ECEC with new grant funding]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 00:40:58 GMT</pubDate>
+      <pubDate>Sun, 12 Apr 2026 02:20:04 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[ACECQA releases new inclusion eLearning module for the ECEC sector]]></title>
+      <link>https://thesector.com.au/article/acecqa-inclusion-elearning-module-ecec</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/acecqa-inclusion-elearning-module-ecec</guid>
+      <description><![CDATA[ACECQA releases new inclusion eLearning module for the ECEC sector]]></description>
+      <content:encoded><![CDATA[ACECQA releases new inclusion eLearning module for the ECEC sector]]></content:encoded>
+      <pubDate>Sat, 11 Apr 2026 18:20:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -68,16 +78,6 @@
       <content:encoded><![CDATA[10 years of the Excellent rating &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sat, 11 Apr 2026 17:34:35 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[ACECQA releases new inclusion eLearning module for the ECEC sector]]></title>
-      <link>https://thesector.com.au/article/acecqa-inclusion-elearning-module-ecec</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/acecqa-inclusion-elearning-module-ecec</guid>
-      <description><![CDATA[ACECQA releases new inclusion eLearning module for the ECEC sector]]></description>
-      <content:encoded><![CDATA[ACECQA releases new inclusion eLearning module for the ECEC sector]]></content:encoded>
-      <pubDate>Sat, 11 Apr 2026 16:40:58 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -117,6 +117,16 @@
       <description><![CDATA[Full list: NSW childcare centres shame file &nbsp;&nbsp; Daily Telegraph Sydney]]></description>
       <content:encoded><![CDATA[Full list: NSW childcare centres shame file &nbsp;&nbsp; Daily Telegraph Sydney]]></content:encoded>
       <pubDate>Wed, 08 Apr 2026 19:04:18 GMT</pubDate>
+      <dc:creator><![CDATA[FDC News]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Educators encouraged to start planning their picnics for National Family Day Care Week - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTROZzFHS19DNl9JbzJaLXBDUW1Gai1iemdWQ0U5TF9zZng1SFJJVEZQUkotTWxYdWVNMGx1SFU0b0swcnpqS1dZTThnWkR4SlVKQ2ctNEtkNFhldWs0Q21Zc0pMaF91M3hsTkVyUEZWNkF6c3NtUWpkVElRSm1tdlJkT0I1dGs2ZVRUaUxWaHV2dDZ1TGMyNzU0OXk5ZmxfMUpYMHhEZlF6M1JWSjRtVS1HUExsVHdQdXZV?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTROZzFHS19DNl9JbzJaLXBDUW1Gai1iemdWQ0U5TF9zZng1SFJJVEZQUkotTWxYdWVNMGx1SFU0b0swcnpqS1dZTThnWkR4SlVKQ2ctNEtkNFhldWs0Q21Zc0pMaF91M3hsTkVyUEZWNkF6c3NtUWpkVElRSm1tdlJkT0I1dGs2ZVRUaUxWaHV2dDZ1TGMyNzU0OXk5ZmxfMUpYMHhEZlF6M1JWSjRtVS1HUExsVHdQdXZV?oc=5</guid>
+      <description><![CDATA[Educators encouraged to start planning their picnics for National Family Day Care Week &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Educators encouraged to start planning their picnics for National Family Day Care Week &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Wed, 08 Apr 2026 15:12:42 GMT</pubDate>
       <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -498,16 +508,6 @@
       <content:encoded><![CDATA[Supporting young children to develop boundaries: why it matters in early childhood education and care &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sun, 22 Mar 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[National Family Day Care week on the way - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEV5TzhCYlBhdnZOb2l4OHI0ZU9tVENlMVhIMEVuSGxxSzZHNGxRUmVqWV9SZjJhZDgwM0hVdmxMWWtnRE1MME1iVzdXWXJST21zVTdJbThuYV9kRjVxWGJUdFl5V2pKdjdhLVc4T0RoaFhaM3JpYnpWRXVVUElKNFdhZmM2OUFRSWNFMktHa1dvalFINUFhQmFMclVHenE5MGdvZTc0aC1JQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEV5TzhCYlBhdnZOb2l4OHI0ZU9tVENlMVhIMEVuSGxxSzZHNGxRUmVqWV9SZjJhZDgwM0hVdmxMWWtnRE1MME1iVzdXWXJST21zVTdJbThuYV9kRjVxWGJUdFl5V2pKdjdhLVc4T0RoaFhaM3JpYnpWRXVVUElKNFdhZmM2OUFRSWNFMktHa1dvalFINUFhQmFMclVHenE5MGdvZTc0aC1JQQ?oc=5</guid>
-      <description><![CDATA[National Family Day Care week on the way &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[National Family Day Care week on the way &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Sat, 21 Mar 2026 18:45:12 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
