@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Mon, 13 Apr 2026 22:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 23:35:39 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/ecec-leadership-pay-gap-award-reforms-australia</guid>
       <description><![CDATA[Pay rises, but at what cost? Why early childhood leaders are still being left behind]]></description>
       <content:encoded><![CDATA[Pay rises, but at what cost? Why early childhood leaders are still being left behind]]></content:encoded>
-      <pubDate>Mon, 13 Apr 2026 22:36:07 GMT</pubDate>
+      <pubDate>Mon, 13 Apr 2026 23:35:39 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -26,7 +26,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/moreton-bay-early-learning-conference-2026</guid>
       <description><![CDATA[Moreton Bay Early Learning Conference returns in 2026, bringing connection, capability and community to the region]]></description>
       <content:encoded><![CDATA[Moreton Bay Early Learning Conference returns in 2026, bringing connection, capability and community to the region]]></content:encoded>
-      <pubDate>Mon, 13 Apr 2026 21:36:07 GMT</pubDate>
+      <pubDate>Mon, 13 Apr 2026 22:35:39 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -36,7 +36,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/child-wellbeing-whole-of-community-ecec-australia</guid>
       <description><![CDATA[Child wellbeing needs whole-of-community action: What can we do to help?]]></description>
       <content:encoded><![CDATA[Child wellbeing needs whole-of-community action: What can we do to help?]]></content:encoded>
-      <pubDate>Mon, 13 Apr 2026 20:36:07 GMT</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:35:39 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[ARC research highlights role of early learning in addressing persistent disadvantage]]></title>
+      <link>https://thesector.com.au/article/arc-research-early-learning-disadvantage-australia</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/arc-research-early-learning-disadvantage-australia</guid>
+      <description><![CDATA[ARC research highlights role of early learning in addressing persistent disadvantage]]></description>
+      <content:encoded><![CDATA[ARC research highlights role of early learning in addressing persistent disadvantage]]></content:encoded>
+      <pubDate>Mon, 13 Apr 2026 20:35:39 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -51,22 +61,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[ARC research highlights role of early learning in addressing persistent disadvantage]]></title>
-      <link>https://thesector.com.au/article/arc-research-early-learning-disadvantage-australia</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/arc-research-early-learning-disadvantage-australia</guid>
-      <description><![CDATA[ARC research highlights role of early learning in addressing persistent disadvantage]]></description>
-      <content:encoded><![CDATA[ARC research highlights role of early learning in addressing persistent disadvantage]]></content:encoded>
-      <pubDate>Mon, 13 Apr 2026 19:36:07 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Is your training system keeping up with your growth?]]></title>
       <link>https://thesector.com.au/article/ecec-training-systems-growth-compliance-consistency</link>
       <guid isPermaLink="true">https://thesector.com.au/article/ecec-training-systems-growth-compliance-consistency</guid>
       <description><![CDATA[Is your training system keeping up with your growth?]]></description>
       <content:encoded><![CDATA[Is your training system keeping up with your growth?]]></content:encoded>
-      <pubDate>Mon, 13 Apr 2026 18:36:07 GMT</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:35:39 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -76,7 +76,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/child-safety-governance-incident-evidence-ecec-australia</guid>
       <description><![CDATA[What 2026 child safety changes mean for incident evidence in childcare]]></description>
       <content:encoded><![CDATA[What 2026 child safety changes mean for incident evidence in childcare]]></content:encoded>
-      <pubDate>Mon, 13 Apr 2026 10:36:07 GMT</pubDate>
+      <pubDate>Mon, 13 Apr 2026 11:35:39 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -168,6 +168,16 @@
       <content:encoded><![CDATA[ACECQA releases report - recommendations to boost child safety &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Fri, 10 Apr 2026 18:08:10 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[61 year old FDC educator charged with historical abuse - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDUyVzgwMzBwOU1FQ0tTNk91b0xrU29MUHh5cmozZ01pTTBiWTZlRE9UQTR6d0Uzcm4xQWxpMGMycXEybkt4cW9zdjUyM2Z6cmtSeDJvWjFfQ3ltWjRhS3daS0lMSE5hSkVfdHBWY3dJZFJlaDV3TktuTmJtb2l1TDc3TXhqWUtYenNETXBLNFpNWlVza182UXY1cnJvdFJCMVBQdmI3RkxSQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDUyVzgwMzBwOU1FQ0tTNk91b0xrU29MUHh5cmozZ01pTTBiWTZlRE9UQTR6d0Uzcm4xQWxpMGMycXEybkt4cW9zdjUyM2Z6cmtSeDJvWjFfQ3ltWjRhS3daS0lMSE5hSkVfdHBWY3dJZFJlaDV3TktuTmJtb2l1TDc3TXhqWUtYenNETXBLNFpNWlVza182UXY1cnJvdFJCMVBQdmI3RkxSQQ?oc=5</guid>
+      <description><![CDATA[61 year old FDC educator charged with historical abuse &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[61 year old FDC educator charged with historical abuse &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Fri, 10 Apr 2026 06:28:09 GMT</pubDate>
+      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -498,16 +508,6 @@
       <content:encoded><![CDATA[Prioritising child safety: ministerial action signals tighter supervision rules for ECEC &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sun, 01 Mar 2026 19:01:09 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[At a crossroads: Child safety, educator burnout and the push to overhaul Australia’s ECEC sector - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmhOZE9MZXlaMmRwVWFQQ0p2ZC16ZGVhajBVaGVfWlZzT1JkZzlidlJFeDJrYkF2N01wdzBka3JUeDFQYXVDOXdpSzkxY0ZiVGJ4WXFpdTAyeUNXeFBHbmhybGxHTmZBYkhKb3JGcmo5cDhNU2pNSnRjX1RRUnA5X1hWQjczdy1uSFdpa21hWmM?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmhOZE9MZXlaMmRwVWFQQ0p2ZC16ZGVhajBVaGVfWlZzT1JkZzlidlJFeDJrYkF2N01wdzBka3JUeDFQYXVDOXdpSzkxY0ZiVGJ4WXFpdTAyeUNXeFBHbmhybGxHTmZBYkhKb3JGcmo5cDhNU2pNSnRjX1RRUnA5X1hWQjczdy1uSFdpa21hWmM?oc=5</guid>
-      <description><![CDATA[At a crossroads: Child safety, educator burnout and the push to overhaul Australia’s ECEC sector &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[At a crossroads: Child safety, educator burnout and the push to overhaul Australia’s ECEC sector &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Thu, 26 Feb 2026 20:57:52 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
