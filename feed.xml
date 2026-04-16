@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Thu, 16 Apr 2026 21:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 22:32:02 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/healthy-harold-online-safety-early-years-life-ed</guid>
       <description><![CDATA[Healthy Harold’s international push for earlier online safety education]]></description>
       <content:encoded><![CDATA[Healthy Harold’s international push for earlier online safety education]]></content:encoded>
-      <pubDate>Thu, 16 Apr 2026 21:35:33 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 22:32:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -26,7 +26,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/child-leaves-oshc-unnoticed-wa-supervision-failures</guid>
       <description><![CDATA[Child leaves OSHC unnoticed: WA provider faces regulatory action after 4-year-old walks home alone]]></description>
       <content:encoded><![CDATA[Child leaves OSHC unnoticed: WA provider faces regulatory action after 4-year-old walks home alone]]></content:encoded>
-      <pubDate>Thu, 16 Apr 2026 20:35:33 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 21:32:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -36,7 +36,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/xplor-clubessential-merger-ecec-impact-australia</guid>
       <description><![CDATA[Xplor merges with Clubessential]]></description>
       <content:encoded><![CDATA[Xplor merges with Clubessential]]></content:encoded>
-      <pubDate>Thu, 16 Apr 2026 19:35:33 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 20:32:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -46,7 +46,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/child-safety-community-of-practice-resources-ecec</guid>
       <description><![CDATA[Community of practice resources released to support national child safety training]]></description>
       <content:encoded><![CDATA[Community of practice resources released to support national child safety training]]></content:encoded>
-      <pubDate>Thu, 16 Apr 2026 18:35:33 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 19:32:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -56,7 +56,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/early-learning-centre-voluntary-administration-regional-victoria</guid>
       <description><![CDATA[Early learning centre enters voluntary administration]]></description>
       <content:encoded><![CDATA[Early learning centre enters voluntary administration]]></content:encoded>
-      <pubDate>Thu, 16 Apr 2026 17:35:33 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 18:32:01 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Emergency action notice issued to Family Day Care operator]]></title>
+      <link>https://thesector.com.au/article/emergency-action-notice-family-day-care-operator-vecra</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/emergency-action-notice-family-day-care-operator-vecra</guid>
+      <description><![CDATA[Emergency action notice issued to Family Day Care operator]]></description>
+      <content:encoded><![CDATA[Emergency action notice issued to Family Day Care operator]]></content:encoded>
+      <pubDate>Thu, 16 Apr 2026 10:32:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -68,16 +78,6 @@
       <content:encoded><![CDATA[Private equity giants circle $1bn UP Education &nbsp;&nbsp; The Australian]]></content:encoded>
       <pubDate>Thu, 16 Apr 2026 10:00:18 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Emergency action notice issued to Family Day Care operator]]></title>
-      <link>https://thesector.com.au/article/emergency-action-notice-family-day-care-operator-vecra</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/emergency-action-notice-family-day-care-operator-vecra</guid>
-      <description><![CDATA[Emergency action notice issued to Family Day Care operator]]></description>
-      <content:encoded><![CDATA[Emergency action notice issued to Family Day Care operator]]></content:encoded>
-      <pubDate>Thu, 16 Apr 2026 09:35:33 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -127,6 +127,16 @@
       <description><![CDATA[Strengthening pedagogical leadership: what ACECQA’s educational leader resource means for ECEC services &nbsp;&nbsp; The Sector]]></description>
       <content:encoded><![CDATA[Strengthening pedagogical leadership: what ACECQA’s educational leader resource means for ECEC services &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Wed, 15 Apr 2026 20:43:21 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Fixating on a ‘magic number’ of childcare hours misses what’s most important for kids’ development - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUNkMXRxSUQyZTlTUGRRMDAwTDd5aGFVc3V2ZGxtWmc1VGNXcDFzSVhxWGwtMHVBdHZ6LVpQVmdJY1hpOGdQWGx5elNxR1Z1QW1CbHJyRHBKbnVZNmFSb1U0Y2Z3OWo1Y05Xd3BiZUxlRHVuWVdBQ3RYUTJlRmZrMkJNQ2V4b3hUU1RkdEszM0o?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUNkMXRxSUQyZTlTUGRRMDAwTDd5aGFVc3V2ZGxtWmc1VGNXcDFzSVhxWGwtMHVBdHZ6LVpQVmdJY1hpOGdQWGx5elNxR1Z1QW1CbHJyRHBKbnVZNmFSb1U0Y2Z3OWo1Y05Xd3BiZUxlRHVuWVdBQ3RYUTJlRmZrMkJNQ2V4b3hUU1RkdEszM0o?oc=5</guid>
+      <description><![CDATA[Fixating on a ‘magic number’ of childcare hours misses what’s most important for kids’ development &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Fixating on a ‘magic number’ of childcare hours misses what’s most important for kids’ development &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Wed, 15 Apr 2026 00:23:40 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -181,13 +191,13 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Unicare Early Childhood Education rebrands - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDlMNjd4Wk53ZE9xU2VRMGxGSENJeFllcl8wRVN3c0YxLWI0RWxfWkhMTDlZd1NYWHMyRDVzNzBjOFg0TDloeWlPbjZzMVMxb1o5Y3ZHQWZGRG9BaXRFd3VsNUVGckZaUXBtd0M4QUpDMVF3bGI2MWx2RTltMUdhV0trLVo3WkVtV0lDLUw3ZHVkSGpDVGlTQlBxdlZyS2RsTU92X0tweGpSRmRqMDZsbg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDlMNjd4Wk53ZE9xU2VRMGxGSENJeFllcl8wRVN3c0YxLWI0RWxfWkhMTDlZd1NYWHMyRDVzNzBjOFg0TDloeWlPbjZzMVMxb1o5Y3ZHQWZGRG9BaXRFd3VsNUVGckZaUXBtd0M4QUpDMVF3bGI2MWx2RTltMUdhV0trLVo3WkVtV0lDLUw3ZHVkSGpDVGlTQlBxdlZyS2RsTU92X0tweGpSRmRqMDZsbg?oc=5</guid>
-      <description><![CDATA[Unicare Early Childhood Education rebrands &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[Unicare Early Childhood Education rebrands &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Mon, 13 Apr 2026 10:04:04 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <title><![CDATA[FDCA makes ECA partnered Learning Hub available to members - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxONkdjRGN3NURQcWdWM255Z25MSEYzZ2pNNl81di1lZnpSTDRrbVBqQzB3THJCUjA2ZHJxWFFsUzRNVTlobFF2S1FKRmJ3VzNLR0YxbDNqY2tGcDVBS2hqeHFObVdEZHdQQVo4eWNwLXZkYV8zMWhHdzZobktxTHYyT29ZNkxlVDcwckZTQVJEQTAtVWpRc1E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxONkdjRGN3NURQcWdWM255Z25MSEYzZ2pNNl81di1lZnpSTDRrbVBqQzB3THJCUjA2ZHJxWFFsUzRNVTlobFF2S1FKRmJ3VzNLR0YxbDNqY2tGcDVBS2hqeHFObVdEZHdQQVo4eWNwLXZkYV8zMWhHdzZobktxTHYyT29ZNkxlVDcwckZTQVJEQTAtVWpRc1E?oc=5</guid>
+      <description><![CDATA[FDCA makes ECA partnered Learning Hub available to members &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[FDCA makes ECA partnered Learning Hub available to members &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Mon, 13 Apr 2026 02:56:58 GMT</pubDate>
+      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -281,16 +291,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[AITSL CEO resigns, search for new CEO commences - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPX0FhUUtHVzdjNnoxNnlRXzc1YzFZTGFsYkNHN0RDOWs3Y2NlRl9pM2ZVdTMwODFXUUpiNTVDQU9KcGItSzZ4akItckl3eTV5Qnl0cVdMQ2RkN0hIV1V2TlIwQmp5QU1Gal8zckQydVE4RHVhZmlZb2J2ekZGaW5yMHYwa3NJdw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxPX0FhUUtHVzdjNnoxNnlRXzc1YzFZTGFsYkNHN0RDOWs3Y2NlRl9pM2ZVdTMwODFXUUpiNTVDQU9KcGItSzZ4akItckl3eTV5Qnl0cVdMQ2RkN0hIV1V2TlIwQmp5QU1Gal8zckQydVE4RHVhZmlZb2J2ekZGaW5yMHYwa3NJdw?oc=5</guid>
-      <description><![CDATA[AITSL CEO resigns, search for new CEO commences &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[AITSL CEO resigns, search for new CEO commences &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Fri, 10 Apr 2026 06:57:13 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[61 year old FDC educator charged with historical abuse - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDUyVzgwMzBwOU1FQ0tTNk91b0xrU29MUHh5cmozZ01pTTBiWTZlRE9UQTR6d0Uzcm4xQWxpMGMycXEybkt4cW9zdjUyM2Z6cmtSeDJvWjFfQ3ltWjRhS3daS0lMSE5hSkVfdHBWY3dJZFJlaDV3TktuTmJtb2l1TDc3TXhqWUtYenNETXBLNFpNWlVza182UXY1cnJvdFJCMVBQdmI3RkxSQQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDUyVzgwMzBwOU1FQ0tTNk91b0xrU29MUHh5cmozZ01pTTBiWTZlRE9UQTR6d0Uzcm4xQWxpMGMycXEybkt4cW9zdjUyM2Z6cmtSeDJvWjFfQ3ltWjRhS3daS0lMSE5hSkVfdHBWY3dJZFJlaDV3TktuTmJtb2l1TDc3TXhqWUtYenNETXBLNFpNWlVza182UXY1cnJvdFJCMVBQdmI3RkxSQQ?oc=5</guid>
@@ -348,16 +348,6 @@
       <content:encoded><![CDATA[FDCA lodges Pre-Budget submission calling for 4 key funding priorities &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Tue, 07 Apr 2026 12:53:45 GMT</pubDate>
       <dc:creator><![CDATA[FDC News]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[New tertiary education commission set to reshape ECEC workforce pathways - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJXZHpwVmNBeXNReElkbUlZc2ItQ09memxhdzUzZUF3ckRZdDVZbmh2TTVuSC0zUktYYVdfUHJiMzZXQ2NFOUZ1MG50a1RrVUtlbDZUSUxIY2FaV1pzc2FSR3daUnAtNDVnem5FZ0hEUTZTQXhyRWcwdWJNcUF0d1dSaFMwdlZaUWExc3IyazlfclMtTHZLX0lpOU1NUkk?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJXZHpwVmNBeXNReElkbUlZc2ItQ09memxhdzUzZUF3ckRZdDVZbmh2TTVuSC0zUktYYVdfUHJiMzZXQ2NFOUZ1MG50a1RrVUtlbDZUSUxIY2FaV1pzc2FSR3daUnAtNDVnem5FZ0hEUTZTQXhyRWcwdWJNcUF0d1dSaFMwdlZaUWExc3IyazlfclMtTHZLX0lpOU1NUkk?oc=5</guid>
-      <description><![CDATA[New tertiary education commission set to reshape ECEC workforce pathways &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[New tertiary education commission set to reshape ECEC workforce pathways &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Mon, 06 Apr 2026 19:06:38 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -431,12 +421,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[AI in Early Childhood: Asking the right questions - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQbi1MckM4eXBSZkwtT0dPdUtSaU9FV3dTSGUyTjZ1eGVuVDFrYVFkTGdKMS1pQnVWd19Pby1ieElZZVBjdzZCRld3eHBXX2tURk90UVl5dkhMTTNHN3NZNlJ5QnJiMTgxUUtid0NSZUVlU3lyWjgxckhXTlc0UUdzUkFlaTRJQnV0b01ITjB0NnJGelN1a2Q2ajUzWkpoVUs4T3hQbkFOT0N5YzdZYnJpUDA5VjkxLU5OdHdBS2JMYw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMivwFBVV95cUxQbi1MckM4eXBSZkwtT0dPdUtSaU9FV3dTSGUyTjZ1eGVuVDFrYVFkTGdKMS1pQnVWd19Pby1ieElZZVBjdzZCRld3eHBXX2tURk90UVl5dkhMTTNHN3NZNlJ5QnJiMTgxUUtid0NSZUVlU3lyWjgxckhXTlc0UUdzUkFlaTRJQnV0b01ITjB0NnJGelN1a2Q2ajUzWkpoVUs4T3hQbkFOT0N5YzdZYnJpUDA5VjkxLU5OdHdBS2JMYw?oc=5</guid>
-      <description><![CDATA[AI in Early Childhood: Asking the right questions &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[AI in Early Childhood: Asking the right questions &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Sun, 29 Mar 2026 16:46:08 GMT</pubDate>
+      <title><![CDATA[Updates to EYLF and MTOP approved by Education Ministers: Key changes explained - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzVLZDVHTnFTdGV4YmQzN0hSdUliSzN5N3plVEx6NVhSLXI1d2JiQ3ZTRUZhSFNwelBJV0tDd1lnT3EtbVJMWmFlU2s5bFdqb2xHZ2J4QXk5WGF6anJNSTBBNGMwbXA0NERHaVdCU0lyUDhuX3AwXzlPUVBoWWtfcWprM08takhseWU5bjBLTFVCa200N1NaM1hCVlF3MHBGcktiWFlMZVp1LWVQMWctMFRrTEI?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzVLZDVHTnFTdGV4YmQzN0hSdUliSzN5N3plVEx6NVhSLXI1d2JiQ3ZTRUZhSFNwelBJV0tDd1lnT3EtbVJMWmFlU2s5bFdqb2xHZ2J4QXk5WGF6anJNSTBBNGMwbXA0NERHaVdCU0lyUDhuX3AwXzlPUVBoWWtfcWprM08takhseWU5bjBLTFVCa200N1NaM1hCVlF3MHBGcktiWFlMZVp1LWVQMWctMFRrTEI?oc=5</guid>
+      <description><![CDATA[Updates to EYLF and MTOP approved by Education Ministers: Key changes explained &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Updates to EYLF and MTOP approved by Education Ministers: Key changes explained &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sun, 29 Mar 2026 07:37:45 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -447,16 +437,6 @@
       <description><![CDATA[WA aligns with National Law in significant step for early childhood regulation &nbsp;&nbsp; The Sector]]></description>
       <content:encoded><![CDATA[WA aligns with National Law in significant step for early childhood regulation &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sun, 29 Mar 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[With a new minister for early childhood education, what can the federal government do to make centres safer? - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQkxBOVFmNmYwRU1ZMnlNR2N6T2ljMWNyN2luZkpkSHVuMTNlWENXdkhvVW5jZ2tYQUVSeG9uMUUtU3R2Ym40OFNCbWdxclliaWQxNXN0dlRFN0g3TDRDRUdURGdEdUt0RGNnSXZ0VVJjX2w5SjZmVEZUTTJzZUF1d0tJTlA4UHhucVVkMUxPZXZvd2FFakNna2ZCcUZGcjlHTjVNbHNmbUJjZE9yeXFxUDdueGlxYzlJVW05VHpiZnZUU0FCUEJLSmM0SEtuVTFHZVJIR0t3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQkxBOVFmNmYwRU1ZMnlNR2N6T2ljMWNyN2luZkpkSHVuMTNlWENXdkhvVW5jZ2tYQUVSeG9uMUUtU3R2Ym40OFNCbWdxclliaWQxNXN0dlRFN0g3TDRDRUdURGdEdUt0RGNnSXZ0VVJjX2w5SjZmVEZUTTJzZUF1d0tJTlA4UHhucVVkMUxPZXZvd2FFakNna2ZCcUZGcjlHTjVNbHNmbUJjZE9yeXFxUDdueGlxYzlJVW05VHpiZnZUU0FCUEJLSmM0SEtuVTFHZVJIR0t3?oc=5</guid>
-      <description><![CDATA[With a new minister for early childhood education, what can the federal government do to make centres safer? &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[With a new minister for early childhood education, what can the federal government do to make centres safer? &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Sat, 28 Mar 2026 18:19:52 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -501,6 +481,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[Pre-Prep roll-out schedule - www.vic.gov.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ybFc0UTdIdE9KODV1eWpHVmhWcHIya21IVGpEVGZyT2czWmxNblNTZDVlQ1JSOGM0MHBoM0hVOWM5bkhqaXVsbXdVekc1ZC14YmFkOXhZSW8yaWFHbWc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ybFc0UTdIdE9KODV1eWpHVmhWcHIya21IVGpEVGZyT2czWmxNblNTZDVlQ1JSOGM0MHBoM0hVOWM5bkhqaXVsbXdVekc1ZC14YmFkOXhZSW8yaWFHbWc?oc=5</guid>
+      <description><![CDATA[Pre-Prep roll-out schedule &nbsp;&nbsp; www.vic.gov.au]]></description>
+      <content:encoded><![CDATA[Pre-Prep roll-out schedule &nbsp;&nbsp; www.vic.gov.au]]></content:encoded>
+      <pubDate>Fri, 27 Mar 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[Child protection and child safety training in early childhood - www.vic.gov.au]]></title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFB5VFdsTEFUem9DR2tmalhRVVgteUt1NnlsbFQ5ZUhuSFJPVjI1LVJ4a2NEbHNsSVI2VXhMUGtzQklacFNFRk9ZZ3NCdGo4TGJiYVBsNnhhODJuVUZSRUsyc21RZDZGUVllLXhjZTNhOEMyVmtSUEIxQlVGbw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTFB5VFdsTEFUem9DR2tmalhRVVgteUt1NnlsbFQ5ZUhuSFJPVjI1LVJ4a2NEbHNsSVI2VXhMUGtzQklacFNFRk9ZZ3NCdGo4TGJiYVBsNnhhODJuVUZSRUsyc21RZDZGUVllLXhjZTNhOEMyVmtSUEIxQlVGbw?oc=5</guid>
@@ -508,6 +498,16 @@
       <content:encoded><![CDATA[Child protection and child safety training in early childhood &nbsp;&nbsp; www.vic.gov.au]]></content:encoded>
       <pubDate>Thu, 26 Mar 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[FDC News]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Teaching kindergarten in Victoria, Australia: A guide for international teachers - www.vic.gov.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVF1SVE2VEZVNlpzaURuMW9rTHNKRWQ2WDd0MFM2a3RORU9Uc1NlcnhITGM4YmNNcU1NQmQzTHRfU21VUTNDWFZUUDhPUVVNTDJwQzBPbnQwbk9IaHlHRFRqNVhMRXFmWUYyS3QxSkhhOGxtYnJsWHBZVFhtRmlQaS1xRWdPNkJ3ejFhTkN3SjBOdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVF1SVE2VEZVNlpzaURuMW9rTHNKRWQ2WDd0MFM2a3RORU9Uc1NlcnhITGM4YmNNcU1NQmQzTHRfU21VUTNDWFZUUDhPUVVNTDJwQzBPbnQwbk9IaHlHRFRqNVhMRXFmWUYyS3QxSkhhOGxtYnJsWHBZVFhtRmlQaS1xRWdPNkJ3ejFhTkN3SjBOdw?oc=5</guid>
+      <description><![CDATA[Teaching kindergarten in Victoria, Australia: A guide for international teachers &nbsp;&nbsp; www.vic.gov.au]]></description>
+      <content:encoded><![CDATA[Teaching kindergarten in Victoria, Australia: A guide for international teachers &nbsp;&nbsp; www.vic.gov.au]]></content:encoded>
+      <pubDate>Thu, 26 Mar 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
