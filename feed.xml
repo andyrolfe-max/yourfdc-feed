@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 22 Apr 2026 22:39:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 23:39:20 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/anzac-day-in-ecec-age-appropriate-remembrance-community-learning</guid>
       <description><![CDATA[Anzac Day in ECEC: age-appropriate ways to explore remembrance and community]]></description>
       <content:encoded><![CDATA[Anzac Day in ECEC: age-appropriate ways to explore remembrance and community]]></content:encoded>
-      <pubDate>Wed, 22 Apr 2026 22:39:54 GMT</pubDate>
+      <pubDate>Wed, 22 Apr 2026 23:39:19 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -26,7 +26,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/queensland-five-new-early-learning-services-funding-boost</guid>
       <description><![CDATA[Queensland to receive five new early learning services under joint funding boost]]></description>
       <content:encoded><![CDATA[Queensland to receive five new early learning services under joint funding boost]]></content:encoded>
-      <pubDate>Wed, 22 Apr 2026 21:39:54 GMT</pubDate>
+      <pubDate>Wed, 22 Apr 2026 22:39:19 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -36,7 +36,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/backing-risky-play-pathway-building-child-strength-resilience</guid>
       <description><![CDATA[Backing risky play: a pathway to building a child’s strength and resilience]]></description>
       <content:encoded><![CDATA[Backing risky play: a pathway to building a child’s strength and resilience]]></content:encoded>
-      <pubDate>Wed, 22 Apr 2026 20:39:54 GMT</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:39:19 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -46,7 +46,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/small-private-providers-early-childhood-quality-australia</guid>
       <description><![CDATA[What small private providers are quietly getting right and why we need to say it out loud]]></description>
       <content:encoded><![CDATA[What small private providers are quietly getting right and why we need to say it out loud]]></content:encoded>
-      <pubDate>Wed, 22 Apr 2026 19:39:54 GMT</pubDate>
+      <pubDate>Wed, 22 Apr 2026 20:39:19 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Early learning in the age of AI: why human skills matter more than ever]]></title>
+      <link>https://thesector.com.au/article/early-learning-age-of-ai-human-skills-matter</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/early-learning-age-of-ai-human-skills-matter</guid>
+      <description><![CDATA[Early learning in the age of AI: why human skills matter more than ever]]></description>
+      <content:encoded><![CDATA[Early learning in the age of AI: why human skills matter more than ever]]></content:encoded>
+      <pubDate>Wed, 22 Apr 2026 19:39:19 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -61,22 +71,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Early learning in the age of AI: why human skills matter more than ever]]></title>
-      <link>https://thesector.com.au/article/early-learning-age-of-ai-human-skills-matter</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/early-learning-age-of-ai-human-skills-matter</guid>
-      <description><![CDATA[Early learning in the age of AI: why human skills matter more than ever]]></description>
-      <content:encoded><![CDATA[Early learning in the age of AI: why human skills matter more than ever]]></content:encoded>
-      <pubDate>Wed, 22 Apr 2026 18:39:54 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Thousands more preschoolers to receive free health and development checks across NSW]]></title>
       <link>https://thesector.com.au/article/thousands-more-preschoolers-free-health-development-checks-nsw</link>
       <guid isPermaLink="true">https://thesector.com.au/article/thousands-more-preschoolers-free-health-development-checks-nsw</guid>
       <description><![CDATA[Thousands more preschoolers to receive free health and development checks across NSW]]></description>
       <content:encoded><![CDATA[Thousands more preschoolers to receive free health and development checks across NSW]]></content:encoded>
-      <pubDate>Wed, 22 Apr 2026 10:39:54 GMT</pubDate>
+      <pubDate>Wed, 22 Apr 2026 11:39:19 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -201,16 +201,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[FDCA makes ECA partnered Learning Hub available to members - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxONkdjRGN3NURQcWdWM255Z25MSEYzZ2pNNl81di1lZnpSTDRrbVBqQzB3THJCUjA2ZHJxWFFsUzRNVTlobFF2S1FKRmJ3VzNLR0YxbDNqY2tGcDVBS2hqeHFObVdEZHdQQVo4eWNwLXZkYV8zMWhHdzZobktxTHYyT29ZNkxlVDcwckZTQVJEQTAtVWpRc1E?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxONkdjRGN3NURQcWdWM255Z25MSEYzZ2pNNl81di1lZnpSTDRrbVBqQzB3THJCUjA2ZHJxWFFsUzRNVTlobFF2S1FKRmJ3VzNLR0YxbDNqY2tGcDVBS2hqeHFObVdEZHdQQVo4eWNwLXZkYV8zMWhHdzZobktxTHYyT29ZNkxlVDcwckZTQVJEQTAtVWpRc1E?oc=5</guid>
-      <description><![CDATA[FDCA makes ECA partnered Learning Hub available to members &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[FDCA makes ECA partnered Learning Hub available to members &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Mon, 13 Apr 2026 02:56:58 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[School-based expansion raises stability concerns for UK early childhood sector, raising questions for Australia - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjRIZng0NjZVYWlCS3lQcEtqRHRoTjlLVG41WnpkU2FBZFI3Tk9WSkwwR2NYcEZZRDh4ejcyQ0NUYlBnZ3ZXUEFjb2JTdmp3RjVTMV9GWEp3VnlVX2Z0Ymh5TGoyeFk1NmVlQkh2eTVYTkM3ZGVRcWkyckJJaUNoeWNHQ1ZnQzBpVFVuMERDLW50TzQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjRIZng0NjZVYWlCS3lQcEtqRHRoTjlLVG41WnpkU2FBZFI3Tk9WSkwwR2NYcEZZRDh4ejcyQ0NUYlBnZ3ZXUEFjb2JTdmp3RjVTMV9GWEp3VnlVX2Z0Ymh5TGoyeFk1NmVlQkh2eTVYTkM3ZGVRcWkyckJJaUNoeWNHQ1ZnQzBpVFVuMERDLW50TzQ?oc=5</guid>
@@ -241,6 +231,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[New LDC license issuance ticked higher in March, FDC continues to contract - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3FGRmtmbDBfNVM3aktKU3NLNFhaLXNzUzlLYy1ERHFBQUY5VmZBNWhWSmpTR3JtNFREaWtlZU1CQWN5WjBhMTcwVTU1SEJ4WEZldXdNZXlaaldVY0lqaElDUjRaektEU0JhS0RXUjlIMjhteFBTMVVEdG5TSjE1dG10RTI4X1V3cnRmdDBPbjhfZlluRnNPYjU4eVVuX1ZkekFxSW1OQVBnUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3FGRmtmbDBfNVM3aktKU3NLNFhaLXNzUzlLYy1ERHFBQUY5VmZBNWhWSmpTR3JtNFREaWtlZU1CQWN5WjBhMTcwVTU1SEJ4WEZldXdNZXlaaldVY0lqaElDUjRaektEU0JhS0RXUjlIMjhteFBTMVVEdG5TSjE1dG10RTI4X1V3cnRmdDBPbjhfZlluRnNPYjU4eVVuX1ZkekFxSW1OQVBnUQ?oc=5</guid>
+      <description><![CDATA[New LDC license issuance ticked higher in March, FDC continues to contract &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[New LDC license issuance ticked higher in March, FDC continues to contract &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sun, 12 Apr 2026 07:23:13 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[Courtney Anderson celebrates 15 years in ECEC - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHk5RGtFcWsyRG0zX0o5dkVjR3pXbHdBTGVZMmdBZkdidmZHem9YNHdGV1BzQnc4TGZGNnk4aEdVZUZXTFc3RE9TTF94ZXJSWTU0QmNYSS1MMnZnYTZudDhHUlczeHFnTEUwZ1RvenI0LTF1c0VEZE1ZTzdvQnU0RUwtOUpCT1pFcTk5VG0xR0xpRjlwVlFhUkpYWWgtVG5QaUJkMTdlOXo?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHk5RGtFcWsyRG0zX0o5dkVjR3pXbHdBTGVZMmdBZkdidmZHem9YNHdGV1BzQnc4TGZGNnk4aEdVZUZXTFc3RE9TTF94ZXJSWTU0QmNYSS1MMnZnYTZudDhHUlczeHFnTEUwZ1RvenI0LTF1c0VEZE1ZTzdvQnU0RUwtOUpCT1pFcTk5VG0xR0xpRjlwVlFhUkpYWWgtVG5QaUJkMTdlOXo?oc=5</guid>
@@ -258,16 +258,6 @@
       <content:encoded><![CDATA[10 years of the Excellent rating &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sat, 11 Apr 2026 17:34:35 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Childcare shame file: Victorian centres smacked with serious sanctions - Herald Sun]]></title>
-      <link>https://news.google.com/rss/articles/CBMioAJBVV95cUxPWU51ZDRCbGx0YXVjOXBCYXM3Ny1WRTVnZEV3NjkxcHE3bHh0OUhsUHFtZXAxVnBNeGczS0VDbXhBV0dGVzlPdEE5dkd3MjIwQWRWdDRUaG5WTkxMSE5INnQ0NDkyTGVtSGtEM2xVaTZabjYyUEdob1VvX0M3anhvSGNlNG5tY2ZVV2hKeUpHYmlRYjZSVVlpOUdfUXdzVTlUdHhNcHk3djlQanRpNGQ5S0NqbHNobU1qM2ZzdVBUQms1M2lyTHd2Z0UzTi14YmRRWE10YVRCRTQwbjJJd0VOUDBjYzFGa3FFZmhqenVFYkVic05UVHMzam5xajhFeFNXN1kxaWFYM3dLcGJtMmNIRUgwV2FhdHNBUkx3OHFpbEbSAaYCQVVfeXFMT1hkcG5lZjl5aHByTVBhN0pYOWpuRWVpc2Y0Szl1ZTBuYTZaclBIaGtyWHd6aXgzaUU1WXZvaWRWZU1HdnVNWXNvS3ltSkNjcUlqdUZTbFl2ZFJfa2Y1TkhPeVFvZFVaemNFYXFUdVZKalVEanNnWGgybFBDdU9rdWhHOTdlWHpXLTVFQ3prTm1lV042NEoxQkw0MDNXM1NSZ3M3ZEQ5LXBnZFFjM0YwNVhoUjRoYzRvd1FHT1RDY3ZLZ2c4bXlobkpGZzhrOW56MGdSeFNLX3RrUG1vZndoNmk3VDRvaUtlV3NaVDJNbmQ4ZE9KVWJCSUU4VFllQ0lSOFp1NVBwN0xYRmhyUjY2UmFFb2JpWThFb1Q4SGhxNHZtd0wtQWN3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAJBVV95cUxPWU51ZDRCbGx0YXVjOXBCYXM3Ny1WRTVnZEV3NjkxcHE3bHh0OUhsUHFtZXAxVnBNeGczS0VDbXhBV0dGVzlPdEE5dkd3MjIwQWRWdDRUaG5WTkxMSE5INnQ0NDkyTGVtSGtEM2xVaTZabjYyUEdob1VvX0M3anhvSGNlNG5tY2ZVV2hKeUpHYmlRYjZSVVlpOUdfUXdzVTlUdHhNcHk3djlQanRpNGQ5S0NqbHNobU1qM2ZzdVBUQms1M2lyTHd2Z0UzTi14YmRRWE10YVRCRTQwbjJJd0VOUDBjYzFGa3FFZmhqenVFYkVic05UVHMzam5xajhFeFNXN1kxaWFYM3dLcGJtMmNIRUgwV2FhdHNBUkx3OHFpbEbSAaYCQVVfeXFMT1hkcG5lZjl5aHByTVBhN0pYOWpuRWVpc2Y0Szl1ZTBuYTZaclBIaGtyWHd6aXgzaUU1WXZvaWRWZU1HdnVNWXNvS3ltSkNjcUlqdUZTbFl2ZFJfa2Y1TkhPeVFvZFVaemNFYXFUdVZKalVEanNnWGgybFBDdU9rdWhHOTdlWHpXLTVFQ3prTm1lV042NEoxQkw0MDNXM1NSZ3M3ZEQ5LXBnZFFjM0YwNVhoUjRoYzRvd1FHT1RDY3ZLZ2c4bXlobkpGZzhrOW56MGdSeFNLX3RrUG1vZndoNmk3VDRvaUtlV3NaVDJNbmQ4ZE9KVWJCSUU4VFllQ0lSOFp1NVBwN0xYRmhyUjY2UmFFb2JpWThFb1Q4SGhxNHZtd0wtQWN3?oc=5</guid>
-      <description><![CDATA[Childcare shame file: Victorian centres smacked with serious sanctions &nbsp;&nbsp; Herald Sun]]></description>
-      <content:encoded><![CDATA[Childcare shame file: Victorian centres smacked with serious sanctions &nbsp;&nbsp; Herald Sun]]></content:encoded>
-      <pubDate>Thu, 09 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -318,6 +308,36 @@
       <content:encoded><![CDATA[Parliament passes Direct Gap Fee legislation: Key changes for FDC and IHC from 1 January 2026 &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Mon, 30 Mar 2026 08:06:55 GMT</pubDate>
       <dc:creator><![CDATA[FDC News]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Bassinets banned from 1 October, ACECQA rules, except in WA - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTlGOFhBTk9vN0JUT2RJcVlGRm52VDl6Z1d6dFphemN4RU90LTNncllGZ3RYekpOSUk1VjF2ei14QkJjNk1IUWE0WW9vSENWY01YQVV4R3FWMW8wTU1nMVd2bkNBckV4TFVzdFVCQ1NyVEJTSmdaUlNEZXVERzVoVXhXdDFMb2YzWVVTdjVkRFUyVVRr?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTlGOFhBTk9vN0JUT2RJcVlGRm52VDl6Z1d6dFphemN4RU90LTNncllGZ3RYekpOSUk1VjF2ei14QkJjNk1IUWE0WW9vSENWY01YQVV4R3FWMW8wTU1nMVd2bkNBckV4TFVzdFVCQ1NyVEJTSmdaUlNEZXVERzVoVXhXdDFMb2YzWVVTdjVkRFUyVVRr?oc=5</guid>
+      <description><![CDATA[Bassinets banned from 1 October, ACECQA rules, except in WA &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Bassinets banned from 1 October, ACECQA rules, except in WA &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Mon, 30 Mar 2026 01:48:24 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Yirrkala Preschool named Australia’s first very remote Excellent service - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTnFqcVl6RTdqaWY5RVRHLUgyTU85VnNkcGItYVQtZWM0Z05HMEotbnhYX1hpV2F6aXdCZ1BIUjNad0ZucFloRTBRVHdDemtwbWxhdkFHcTdHTFY2RGM4azhVRXY2dW0xMC0wQy15WnMtRVJzZ2paWFZYMUt6TXVBc082bWtOaUdpelVVaExfdC0tN3NzcF9yRWhfVVB5V3hITFpMTkRGSlZXbFhTTldSV3BUT0dJWnRiZkhv?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTnFqcVl6RTdqaWY5RVRHLUgyTU85VnNkcGItYVQtZWM0Z05HMEotbnhYX1hpV2F6aXdCZ1BIUjNad0ZucFloRTBRVHdDemtwbWxhdkFHcTdHTFY2RGM4azhVRXY2dW0xMC0wQy15WnMtRVJzZ2paWFZYMUt6TXVBc082bWtOaUdpelVVaExfdC0tN3NzcF9yRWhfVVB5V3hITFpMTkRGSlZXbFhTTldSV3BUT0dJWnRiZkhv?oc=5</guid>
+      <description><![CDATA[Yirrkala Preschool named Australia’s first very remote Excellent service &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Yirrkala Preschool named Australia’s first very remote Excellent service &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sun, 29 Mar 2026 17:13:09 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Updates to EYLF and MTOP approved by Education Ministers: Key changes explained - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzVLZDVHTnFTdGV4YmQzN0hSdUliSzN5N3plVEx6NVhSLXI1d2JiQ3ZTRUZhSFNwelBJV0tDd1lnT3EtbVJMWmFlU2s5bFdqb2xHZ2J4QXk5WGF6anJNSTBBNGMwbXA0NERHaVdCU0lyUDhuX3AwXzlPUVBoWWtfcWprM08takhseWU5bjBLTFVCa200N1NaM1hCVlF3MHBGcktiWFlMZVp1LWVQMWctMFRrTEI?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzVLZDVHTnFTdGV4YmQzN0hSdUliSzN5N3plVEx6NVhSLXI1d2JiQ3ZTRUZhSFNwelBJV0tDd1lnT3EtbVJMWmFlU2s5bFdqb2xHZ2J4QXk5WGF6anJNSTBBNGMwbXA0NERHaVdCU0lyUDhuX3AwXzlPUVBoWWtfcWprM08takhseWU5bjBLTFVCa200N1NaM1hCVlF3MHBGcktiWFlMZVp1LWVQMWctMFRrTEI?oc=5</guid>
+      <description><![CDATA[Updates to EYLF and MTOP approved by Education Ministers: Key changes explained &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Updates to EYLF and MTOP approved by Education Ministers: Key changes explained &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sun, 29 Mar 2026 07:37:45 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -487,26 +507,6 @@
       <description><![CDATA[Have your say: review launched for early childhood educator qualifications &nbsp;&nbsp; The Sector]]></description>
       <content:encoded><![CDATA[Have your say: review launched for early childhood educator qualifications &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Mon, 09 Mar 2026 19:03:01 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Parents make tough choice as childcare shortage bites - The West Australian]]></title>
-      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRzdpdkliYm84ak0wUTBIRUR0WTk3eUoyR0tFakZXVlVPQjFmVUs5ZkZWNHM5d1Zqd0U4M2dWYzN6RHUtT29jRkJBX2doUkI4UXlfUHV1TVRrX1hpSS1vSXJHTkhmYUdTNFowVzJCSks1RnEwN3UtQmRySFFLdzlCQWFEOFRIeEhnTzM5WVdiQVVPc0l4eGhBNWU1SFI3V0JIa3VqWUhvTlpKRzFxN093UllEaXZ1VE9BckdzYlMyOUx0eVg3R0NtQ0VkSHkwR09UUzBPU1BXMlgxSWh6WWc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRzdpdkliYm84ak0wUTBIRUR0WTk3eUoyR0tFakZXVlVPQjFmVUs5ZkZWNHM5d1Zqd0U4M2dWYzN6RHUtT29jRkJBX2doUkI4UXlfUHV1TVRrX1hpSS1vSXJHTkhmYUdTNFowVzJCSks1RnEwN3UtQmRySFFLdzlCQWFEOFRIeEhnTzM5WVdiQVVPc0l4eGhBNWU1SFI3V0JIa3VqWUhvTlpKRzFxN093UllEaXZ1VE9BckdzYlMyOUx0eVg3R0NtQ0VkSHkwR09UUzBPU1BXMlgxSWh6WWc?oc=5</guid>
-      <description><![CDATA[Parents make tough choice as childcare shortage bites &nbsp;&nbsp; The West Australian]]></description>
-      <content:encoded><![CDATA[Parents make tough choice as childcare shortage bites &nbsp;&nbsp; The West Australian]]></content:encoded>
-      <pubDate>Sun, 08 Mar 2026 08:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Why Australia needs an climate strategy for early childhood - thefifthestate.com.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkFzT1dEN0VCSGxZUkNkaFFfSTBfVXZJZTYtbzczaWVfVkhrbGRyR1hYWGhacm94VG1BYUhLZGxwR2lsaFVrREtqa3pCYk5INFZ6YS1vcS1lX0lkRWtybzhiNzh4dzdjV3NsVEFWTXNFNXVEbXlqRjZXRnFlX05pNkJBaWlqYWczaWNlTVdpd2h4V1M2Ymt2M1ZoVHlzNlYyZ0plaFJ4dExLeTQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkFzT1dEN0VCSGxZUkNkaFFfSTBfVXZJZTYtbzczaWVfVkhrbGRyR1hYWGhacm94VG1BYUhLZGxwR2lsaFVrREtqa3pCYk5INFZ6YS1vcS1lX0lkRWtybzhiNzh4dzdjV3NsVEFWTXNFNXVEbXlqRjZXRnFlX05pNkJBaWlqYWczaWNlTVdpd2h4V1M2Ymt2M1ZoVHlzNlYyZ0plaFJ4dExLeTQ?oc=5</guid>
-      <description><![CDATA[Why Australia needs an climate strategy for early childhood &nbsp;&nbsp; thefifthestate.com.au]]></description>
-      <content:encoded><![CDATA[Why Australia needs an climate strategy for early childhood &nbsp;&nbsp; thefifthestate.com.au]]></content:encoded>
-      <pubDate>Thu, 05 Mar 2026 08:00:00 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
