@@ -6,17 +6,27 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Sun, 26 Apr 2026 18:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 19:40:21 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
+    <item>
+      <title><![CDATA[Childcare worker charged in Sydney: what the sector can learn from the Panania incident]]></title>
+      <link>https://thesector.com.au/article/panania-childcare-incident-child-safety-lessons-ecec-sector</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/panania-childcare-incident-child-safety-lessons-ecec-sector</guid>
+      <description><![CDATA[Childcare worker charged in Sydney: what the sector can learn from the Panania incident]]></description>
+      <content:encoded><![CDATA[Childcare worker charged in Sydney: what the sector can learn from the Panania incident]]></content:encoded>
+      <pubDate>Sun, 26 Apr 2026 19:40:20 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
     <item>
       <title><![CDATA[It’s time to stop pretending ownership determines quality in early childhood education]]></title>
       <link>https://thesector.com.au/article/ownership-does-not-determine-quality-early-childhood-education-australia</link>
       <guid isPermaLink="true">https://thesector.com.au/article/ownership-does-not-determine-quality-early-childhood-education-australia</guid>
       <description><![CDATA[It’s time to stop pretending ownership determines quality in early childhood education]]></description>
       <content:encoded><![CDATA[It’s time to stop pretending ownership determines quality in early childhood education]]></content:encoded>
-      <pubDate>Sun, 26 Apr 2026 18:38:56 GMT</pubDate>
+      <pubDate>Sun, 26 Apr 2026 18:40:20 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -26,7 +36,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/team-member-avoids-conflict-early-childhood-leadership</guid>
       <description><![CDATA[Do you have a team member who avoids conflict to keep the peace]]></description>
       <content:encoded><![CDATA[Do you have a team member who avoids conflict to keep the peace]]></content:encoded>
-      <pubDate>Sun, 26 Apr 2026 17:38:56 GMT</pubDate>
+      <pubDate>Sun, 26 Apr 2026 17:40:20 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -36,7 +46,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/fatherhood-rewires-male-brain-body-childcare</guid>
       <description><![CDATA[How fatherhood may reshape the male brain and body – and why it matters for ECEC]]></description>
       <content:encoded><![CDATA[How fatherhood may reshape the male brain and body – and why it matters for ECEC]]></content:encoded>
-      <pubDate>Sun, 26 Apr 2026 16:38:56 GMT</pubDate>
+      <pubDate>Sun, 26 Apr 2026 16:40:20 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -46,17 +56,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/little-zaks-academy-family-pantry-support-families-in-need</guid>
       <description><![CDATA[Little Zak’s Academy launches Family Pantry initiative to support families in need]]></description>
       <content:encoded><![CDATA[Little Zak’s Academy launches Family Pantry initiative to support families in need]]></content:encoded>
-      <pubDate>Sun, 26 Apr 2026 15:38:56 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[The US$70 billion wake-up call: why employer-backed child care is now a business imperative and why Australia should pay attention]]></title>
-      <link>https://thesector.com.au/article/employer-backed-child-care-business-imperative-australia</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/employer-backed-child-care-business-imperative-australia</guid>
-      <description><![CDATA[The US$70 billion wake-up call: why employer-backed child care is now a business imperative and why Australia should pay attention]]></description>
-      <content:encoded><![CDATA[The US$70 billion wake-up call: why employer-backed child care is now a business imperative and why Australia should pay attention]]></content:encoded>
-      <pubDate>Sun, 26 Apr 2026 14:38:56 GMT</pubDate>
+      <pubDate>Sun, 26 Apr 2026 15:40:20 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -66,7 +66,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/backing-risky-play-pathway-building-child-strength-resilience</guid>
       <description><![CDATA[Backing risky play: a pathway to building a child’s strength and resilience]]></description>
       <content:encoded><![CDATA[Backing risky play: a pathway to building a child’s strength and resilience]]></content:encoded>
-      <pubDate>Sun, 26 Apr 2026 06:38:56 GMT</pubDate>
+      <pubDate>Sun, 26 Apr 2026 07:40:20 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -241,16 +241,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[New LDC license issuance ticked higher in March, FDC continues to contract - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3FGRmtmbDBfNVM3aktKU3NLNFhaLXNzUzlLYy1ERHFBQUY5VmZBNWhWSmpTR3JtNFREaWtlZU1CQWN5WjBhMTcwVTU1SEJ4WEZldXdNZXlaaldVY0lqaElDUjRaektEU0JhS0RXUjlIMjhteFBTMVVEdG5TSjE1dG10RTI4X1V3cnRmdDBPbjhfZlluRnNPYjU4eVVuX1ZkekFxSW1OQVBnUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3FGRmtmbDBfNVM3aktKU3NLNFhaLXNzUzlLYy1ERHFBQUY5VmZBNWhWSmpTR3JtNFREaWtlZU1CQWN5WjBhMTcwVTU1SEJ4WEZldXdNZXlaaldVY0lqaElDUjRaektEU0JhS0RXUjlIMjhteFBTMVVEdG5TSjE1dG10RTI4X1V3cnRmdDBPbjhfZlluRnNPYjU4eVVuX1ZkekFxSW1OQVBnUQ?oc=5</guid>
-      <description><![CDATA[New LDC license issuance ticked higher in March, FDC continues to contract &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[New LDC license issuance ticked higher in March, FDC continues to contract &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Sun, 12 Apr 2026 07:23:13 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[School-based expansion raises stability concerns for UK early childhood sector, raising questions for Australia - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjRIZng0NjZVYWlCS3lQcEtqRHRoTjlLVG41WnpkU2FBZFI3Tk9WSkwwR2NYcEZZRDh4ejcyQ0NUYlBnZ3ZXUEFjb2JTdmp3RjVTMV9GWEp3VnlVX2Z0Ymh5TGoyeFk1NmVlQkh2eTVYTkM3ZGVRcWkyckJJaUNoeWNHQ1ZnQzBpVFVuMERDLW50TzQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjRIZng0NjZVYWlCS3lQcEtqRHRoTjlLVG41WnpkU2FBZFI3Tk9WSkwwR2NYcEZZRDh4ejcyQ0NUYlBnZ3ZXUEFjb2JTdmp3RjVTMV9GWEp3VnlVX2Z0Ymh5TGoyeFk1NmVlQkh2eTVYTkM3ZGVRcWkyckJJaUNoeWNHQ1ZnQzBpVFVuMERDLW50TzQ?oc=5</guid>
@@ -301,16 +291,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Childcare shame file: Victorian centres smacked with serious sanctions - Herald Sun]]></title>
-      <link>https://news.google.com/rss/articles/CBMioAJBVV95cUxPWU51ZDRCbGx0YXVjOXBCYXM3Ny1WRTVnZEV3NjkxcHE3bHh0OUhsUHFtZXAxVnBNeGczS0VDbXhBV0dGVzlPdEE5dkd3MjIwQWRWdDRUaG5WTkxMSE5INnQ0NDkyTGVtSGtEM2xVaTZabjYyUEdob1VvX0M3anhvSGNlNG5tY2ZVV2hKeUpHYmlRYjZSVVlpOUdfUXdzVTlUdHhNcHk3djlQanRpNGQ5S0NqbHNobU1qM2ZzdVBUQms1M2lyTHd2Z0UzTi14YmRRWE10YVRCRTQwbjJJd0VOUDBjYzFGa3FFZmhqenVFYkVic05UVHMzam5xajhFeFNXN1kxaWFYM3dLcGJtMmNIRUgwV2FhdHNBUkx3OHFpbEbSAaYCQVVfeXFMT1hkcG5lZjl5aHByTVBhN0pYOWpuRWVpc2Y0Szl1ZTBuYTZaclBIaGtyWHd6aXgzaUU1WXZvaWRWZU1HdnVNWXNvS3ltSkNjcUlqdUZTbFl2ZFJfa2Y1TkhPeVFvZFVaemNFYXFUdVZKalVEanNnWGgybFBDdU9rdWhHOTdlWHpXLTVFQ3prTm1lV042NEoxQkw0MDNXM1NSZ3M3ZEQ5LXBnZFFjM0YwNVhoUjRoYzRvd1FHT1RDY3ZLZ2c4bXlobkpGZzhrOW56MGdSeFNLX3RrUG1vZndoNmk3VDRvaUtlV3NaVDJNbmQ4ZE9KVWJCSUU4VFllQ0lSOFp1NVBwN0xYRmhyUjY2UmFFb2JpWThFb1Q4SGhxNHZtd0wtQWN3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAJBVV95cUxPWU51ZDRCbGx0YXVjOXBCYXM3Ny1WRTVnZEV3NjkxcHE3bHh0OUhsUHFtZXAxVnBNeGczS0VDbXhBV0dGVzlPdEE5dkd3MjIwQWRWdDRUaG5WTkxMSE5INnQ0NDkyTGVtSGtEM2xVaTZabjYyUEdob1VvX0M3anhvSGNlNG5tY2ZVV2hKeUpHYmlRYjZSVVlpOUdfUXdzVTlUdHhNcHk3djlQanRpNGQ5S0NqbHNobU1qM2ZzdVBUQms1M2lyTHd2Z0UzTi14YmRRWE10YVRCRTQwbjJJd0VOUDBjYzFGa3FFZmhqenVFYkVic05UVHMzam5xajhFeFNXN1kxaWFYM3dLcGJtMmNIRUgwV2FhdHNBUkx3OHFpbEbSAaYCQVVfeXFMT1hkcG5lZjl5aHByTVBhN0pYOWpuRWVpc2Y0Szl1ZTBuYTZaclBIaGtyWHd6aXgzaUU1WXZvaWRWZU1HdnVNWXNvS3ltSkNjcUlqdUZTbFl2ZFJfa2Y1TkhPeVFvZFVaemNFYXFUdVZKalVEanNnWGgybFBDdU9rdWhHOTdlWHpXLTVFQ3prTm1lV042NEoxQkw0MDNXM1NSZ3M3ZEQ5LXBnZFFjM0YwNVhoUjRoYzRvd1FHT1RDY3ZLZ2c4bXlobkpGZzhrOW56MGdSeFNLX3RrUG1vZndoNmk3VDRvaUtlV3NaVDJNbmQ4ZE9KVWJCSUU4VFllQ0lSOFp1NVBwN0xYRmhyUjY2UmFFb2JpWThFb1Q4SGhxNHZtd0wtQWN3?oc=5</guid>
-      <description><![CDATA[Childcare shame file: Victorian centres smacked with serious sanctions &nbsp;&nbsp; Herald Sun]]></description>
-      <content:encoded><![CDATA[Childcare shame file: Victorian centres smacked with serious sanctions &nbsp;&nbsp; Herald Sun]]></content:encoded>
-      <pubDate>Thu, 09 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[New tertiary education commission set to reshape ECEC workforce pathways - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJXZHpwVmNBeXNReElkbUlZc2ItQ09memxhdzUzZUF3ckRZdDVZbmh2TTVuSC0zUktYYVdfUHJiMzZXQ2NFOUZ1MG50a1RrVUtlbDZUSUxIY2FaV1pzc2FSR3daUnAtNDVnem5FZ0hEUTZTQXhyRWcwdWJNcUF0d1dSaFMwdlZaUWExc3IyazlfclMtTHZLX0lpOU1NUkk?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJXZHpwVmNBeXNReElkbUlZc2ItQ09memxhdzUzZUF3ckRZdDVZbmh2TTVuSC0zUktYYVdfUHJiMzZXQ2NFOUZ1MG50a1RrVUtlbDZUSUxIY2FaV1pzc2FSR3daUnAtNDVnem5FZ0hEUTZTQXhyRWcwdWJNcUF0d1dSaFMwdlZaUWExc3IyazlfclMtTHZLX0lpOU1NUkk?oc=5</guid>
@@ -327,7 +307,7 @@
       <description><![CDATA[How many hours of childcare is best for kids, and how much is too much? &nbsp;&nbsp; SMH.com.au]]></description>
       <content:encoded><![CDATA[How many hours of childcare is best for kids, and how much is too much? &nbsp;&nbsp; SMH.com.au]]></content:encoded>
       <pubDate>Sun, 05 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -507,6 +487,26 @@
       <description><![CDATA[Using service philosophy to guide effective leadership and governance: ACECQA tips &nbsp;&nbsp; The Sector]]></description>
       <content:encoded><![CDATA[Using service philosophy to guide effective leadership and governance: ACECQA tips &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sat, 14 Mar 2026 15:37:42 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Building the early learning system that Australia’s children need. - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYm1rMlk5cVB4MHZ6NUMxWjNCUjE5QThlbzVzN0NZOHVibTNGd1pwTFVHY3VrQ1d6MHAzcnRYbXl1OU85bEhlWld4d0tKVUlGVzFsSkczbDhpMFhTYlU0LXdiYV8zRlZKOEd5SjgyOV96SFR5UDdPNmJZNmpyZVR0WmRBUTJjd0VTYXlRRGVOTnB4VzF3cG1aY1V1WjZLbFlFYzZGM1BjTm1hLWM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYm1rMlk5cVB4MHZ6NUMxWjNCUjE5QThlbzVzN0NZOHVibTNGd1pwTFVHY3VrQ1d6MHAzcnRYbXl1OU85bEhlWld4d0tKVUlGVzFsSkczbDhpMFhTYlU0LXdiYV8zRlZKOEd5SjgyOV96SFR5UDdPNmJZNmpyZVR0WmRBUTJjd0VTYXlRRGVOTnB4VzF3cG1aY1V1WjZLbFlFYzZGM1BjTm1hLWM?oc=5</guid>
+      <description><![CDATA[Building the early learning system that Australia’s children need. &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Building the early learning system that Australia’s children need. &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Wed, 11 Mar 2026 19:03:09 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[$9.85 million childcare centre sale in Bexley highlights strong investor demand for ECEC assets - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1VuU3NBM1p2VkVqVVh0WXU1VjA5STlRQkNkMGdZOU1Ua0hxUW5BNC10RXVFRm1UekdlNGM2Z25NYnF1TGtOS2ZGTTVRbHFlellmLW5oYWUyQXlJVEFnRlY3ZUV4c2RiQ0JRcG9wc2ZvZmxiUzR0S2o4M0Q5LWwwMGpaWlBLQmRKUDlpSlhqQUdVc00?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1VuU3NBM1p2VkVqVVh0WXU1VjA5STlRQkNkMGdZOU1Ua0hxUW5BNC10RXVFRm1UekdlNGM2Z25NYnF1TGtOS2ZGTTVRbHFlellmLW5oYWUyQXlJVEFnRlY3ZUV4c2RiQ0JRcG9wc2ZvZmxiUzR0S2o4M0Q5LWwwMGpaWlBLQmRKUDlpSlhqQUdVc00?oc=5</guid>
+      <description><![CDATA[$9.85 million childcare centre sale in Bexley highlights strong investor demand for ECEC assets &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[$9.85 million childcare centre sale in Bexley highlights strong investor demand for ECEC assets &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Tue, 10 Mar 2026 19:47:41 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
