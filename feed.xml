@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Tue, 28 Apr 2026 19:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 21:00:10 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/early-adaptive-skills-may-protect-children-from-prenatal-stress</guid>
       <description><![CDATA[Early adaptive skills may protect children from the impacts of prenatal stress, new research finds]]></description>
       <content:encoded><![CDATA[Early adaptive skills may protect children from the impacts of prenatal stress, new research finds]]></content:encoded>
-      <pubDate>Tue, 28 Apr 2026 19:21:15 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 21:00:09 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale]]></title>
+      <link>https://thesector.com.au/article/early-educators-embrace-mandatory-child-safety-training</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/early-educators-embrace-mandatory-child-safety-training</guid>
+      <description><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale]]></description>
+      <content:encoded><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale]]></content:encoded>
+      <pubDate>Tue, 28 Apr 2026 20:00:09 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -41,22 +51,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale]]></title>
-      <link>https://thesector.com.au/article/early-educators-embrace-mandatory-child-safety-training</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/early-educators-embrace-mandatory-child-safety-training</guid>
-      <description><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale]]></description>
-      <content:encoded><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale]]></content:encoded>
-      <pubDate>Tue, 28 Apr 2026 18:21:15 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Nido Education strengthens national footprint with $9.1 million acquisition of four childcare services]]></title>
       <link>https://thesector.com.au/article/nido-education-9-1-million-acquisition-four-childcare-services</link>
       <guid isPermaLink="true">https://thesector.com.au/article/nido-education-9-1-million-acquisition-four-childcare-services</guid>
       <description><![CDATA[Nido Education strengthens national footprint with $9.1 million acquisition of four childcare services]]></description>
       <content:encoded><![CDATA[Nido Education strengthens national footprint with $9.1 million acquisition of four childcare services]]></content:encoded>
-      <pubDate>Tue, 28 Apr 2026 17:21:15 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 19:00:09 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -66,7 +66,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/cultural-safety-daily-practice-early-childhood-education</guid>
       <description><![CDATA[From good intentions to daily practice: what cultural safety really looks like in early childhood]]></description>
       <content:encoded><![CDATA[From good intentions to daily practice: what cultural safety really looks like in early childhood]]></content:encoded>
-      <pubDate>Tue, 28 Apr 2026 16:21:15 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 18:00:09 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -76,7 +76,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/explorers-early-learning-somerville-bush-kinder-lynda-salvo</guid>
       <description><![CDATA[Explorers Early Learning Founder Lynda Salvo on the Launch of Explorers Somerville: A first-of-its-kind bush kinder]]></description>
       <content:encoded><![CDATA[Explorers Early Learning Founder Lynda Salvo on the Launch of Explorers Somerville: A first-of-its-kind bush kinder]]></content:encoded>
-      <pubDate>Tue, 28 Apr 2026 15:21:15 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 17:00:09 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -86,7 +86,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/New subsidies open to strengthen and retain Australia’s early childhood workforce</guid>
       <description><![CDATA[The paramount paradox: rising standards in an under-resourced system]]></description>
       <content:encoded><![CDATA[The paramount paradox: rising standards in an under-resourced system]]></content:encoded>
-      <pubDate>Tue, 28 Apr 2026 09:21:15 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 11:00:09 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -96,7 +96,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/flu-vaccination-remains-a-critical-protective-measure-for-australias-early-childhood-workforce</guid>
       <description><![CDATA[Flu vaccination remains a critical protective measure for Australia’s early childhood workforce]]></description>
       <content:encoded><![CDATA[Flu vaccination remains a critical protective measure for Australia’s early childhood workforce]]></content:encoded>
-      <pubDate>Tue, 28 Apr 2026 08:21:15 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 10:00:09 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -106,7 +106,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/panania-childcare-incident-child-safety-lessons-ecec-sector</guid>
       <description><![CDATA[Childcare worker charged in Sydney: what the sector can learn from the Panania incident]]></description>
       <content:encoded><![CDATA[Childcare worker charged in Sydney: what the sector can learn from the Panania incident]]></content:encoded>
-      <pubDate>Tue, 28 Apr 2026 07:21:15 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 09:00:09 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -158,16 +158,6 @@
       <content:encoded><![CDATA[FDC educator banned from practicing for 12 months, sent to anger management training &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sat, 25 Apr 2026 16:17:22 GMT</pubDate>
       <dc:creator><![CDATA[FDC News]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Budget Based Funding Cut Affecting Rural Australia - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzNqbm1MNnZwVzZsLWdqbEc3dDI0R2RSMFJfR2paTERvd2k3dlc3WndKNUUyWE1EOXFYTnFXeTFmRGFBOFdHVzFIeHNVTHNuZGxSOTRvUG5TSHVQLTdRdzg1bGVCM21laXcxYThZWjZYZ3hnMmQ4UTg4QzJBWDVjU3pUYTJCLWdxd3Q0MGtDNnNUOXJNMWt0bg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzNqbm1MNnZwVzZsLWdqbEc3dDI0R2RSMFJfR2paTERvd2k3dlc3WndKNUUyWE1EOXFYTnFXeTFmRGFBOFdHVzFIeHNVTHNuZGxSOTRvUG5TSHVQLTdRdzg1bGVCM21laXcxYThZWjZYZ3hnMmQ4UTg4QzJBWDVjU3pUYTJCLWdxd3Q0MGtDNnNUOXJNMWt0bg?oc=5</guid>
-      <description><![CDATA[Budget Based Funding Cut Affecting Rural Australia &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[Budget Based Funding Cut Affecting Rural Australia &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Fri, 24 Apr 2026 02:27:52 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -238,16 +228,6 @@
       <content:encoded><![CDATA[Storypark and Xap merge in a significant move for Australia's early childhood education sector &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Should the childcare subsidy be paid to grandparents caring for their grandchildren? - hellocare.com.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWNiRnptRVNMcXJneWlmSWVQaGVTaExtUGdrV1BoZmp6VXJYN0FST0FzWmtaOHRScGd5dWZWZl9fTklUZ1ZiRjJWcm5Db2FSTWhmU1pES0NkM29KbHlWUGpiZjJyY3NYbFhYSTBWeUE2Rm85blVieU81RWs5emZSbWJhWTNzWV9VZXB2VnJobjlUclBtcGxrSWFZSWM4ZmV0aDJzZmxrWmpUaTQ1ZHfSAbYBQVVfeXFMUHVWOXZyZGdUaVJNT2czeGhtM2l6TzdjRi1XYkd2Q1hNWFBac1g5UktzYjNVbURDNS10dkxvMDF1MTlCV1BpTUVQTk5OZGZwbHRXbG1FREJBbHVfQWIySU1ramp3TWhzUktYX2NicGdfZ2JUYWY2U2Exb1pJajJWdTlTekRWRWI0akZ3anhiQTYwN2VEd0lQUzMtVFl3aVRLbUZRODZfemRPOUwyMk80cmphV2pkOGc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWNiRnptRVNMcXJneWlmSWVQaGVTaExtUGdrV1BoZmp6VXJYN0FST0FzWmtaOHRScGd5dWZWZl9fTklUZ1ZiRjJWcm5Db2FSTWhmU1pES0NkM29KbHlWUGpiZjJyY3NYbFhYSTBWeUE2Rm85blVieU81RWs5emZSbWJhWTNzWV9VZXB2VnJobjlUclBtcGxrSWFZSWM4ZmV0aDJzZmxrWmpUaTQ1ZHfSAbYBQVVfeXFMUHVWOXZyZGdUaVJNT2czeGhtM2l6TzdjRi1XYkd2Q1hNWFBac1g5UktzYjNVbURDNS10dkxvMDF1MTlCV1BpTUVQTk5OZGZwbHRXbG1FREJBbHVfQWIySU1ramp3TWhzUktYX2NicGdfZ2JUYWY2U2Exb1pJajJWdTlTekRWRWI0akZ3anhiQTYwN2VEd0lQUzMtVFl3aVRLbUZRODZfemRPOUwyMk80cmphV2pkOGc?oc=5</guid>
-      <description><![CDATA[Should the childcare subsidy be paid to grandparents caring for their grandchildren? &nbsp;&nbsp; hellocare.com.au]]></description>
-      <content:encoded><![CDATA[Should the childcare subsidy be paid to grandparents caring for their grandchildren? &nbsp;&nbsp; hellocare.com.au]]></content:encoded>
-      <pubDate>Tue, 14 Apr 2026 03:27:04 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -381,6 +361,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[Australian-first pilot will set First Nations children up for success in school - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPN000ZjdNaHljTFpDYzVJcC1ZRXd4eE1nTVNITDV5bnRpRkRQVmRlQXlIRmk2TzlrRzdrR3dsWEE2WUlJT0tyZG82X2xEY1BuSUIwbmI4b01mZlllNnMtYkdWWmdCc1M1RURqdHZpLTFiby16QVAzcHlKbTBPVVNEUWZxNWY3aktyd3A4MmZ5ei1pTHl4UEstWDZoa1FjWDFPT2lmYXYxRnV0VUV2eERvQkhn?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisgFBVV95cUxPN000ZjdNaHljTFpDYzVJcC1ZRXd4eE1nTVNITDV5bnRpRkRQVmRlQXlIRmk2TzlrRzdrR3dsWEE2WUlJT0tyZG82X2xEY1BuSUIwbmI4b01mZlllNnMtYkdWWmdCc1M1RURqdHZpLTFiby16QVAzcHlKbTBPVVNEUWZxNWY3aktyd3A4MmZ5ei1pTHl4UEstWDZoa1FjWDFPT2lmYXYxRnV0VUV2eERvQkhn?oc=5</guid>
+      <description><![CDATA[Australian-first pilot will set First Nations children up for success in school &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[Australian-first pilot will set First Nations children up for success in school &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sun, 29 Mar 2026 07:12:56 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[ACECQA brings out new educator-to-child ratio calculator for centre-based services - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNcHdHTGtNaTJpZFpMcXF4dncySjloT1RPV0ZvSjBvcGU0SE4zMWJsT0J6YXZoN3hST1Z5N05tYUlQdkY1eHpseGlIQlpwRkRHdGREZTE1dFByWUwzYTZrRWZvcUw4OXgwZDk1dVFTVG9fVDF1dGM0UzlxSU11Z1lvQmt0RDVwc3djcTIweTQzbUNrUjVfNzB3U1VpWlhZYUtpRVJWdk9zdEVhMzE4WjlLaUdrVnVqUQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxNcHdHTGtNaTJpZFpMcXF4dncySjloT1RPV0ZvSjBvcGU0SE4zMWJsT0J6YXZoN3hST1Z5N05tYUlQdkY1eHpseGlIQlpwRkRHdGREZTE1dFByWUwzYTZrRWZvcUw4OXgwZDk1dVFTVG9fVDF1dGM0UzlxSU11Z1lvQmt0RDVwc3djcTIweTQzbUNrUjVfNzB3U1VpWlhZYUtpRVJWdk9zdEVhMzE4WjlLaUdrVnVqUQ?oc=5</guid>
@@ -507,6 +497,16 @@
       <description><![CDATA[ACECQA shares four tips for clear service roles and responsibilities &nbsp;&nbsp; The Sector]]></description>
       <content:encoded><![CDATA[ACECQA shares four tips for clear service roles and responsibilities &nbsp;&nbsp; The Sector]]></content:encoded>
       <pubDate>Sun, 15 Mar 2026 15:16:35 GMT</pubDate>
+      <dc:creator><![CDATA[FDC News]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[ACECQA issues reminder about ratios for centre based services - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTNZWTFMdEJWVFlIYW9ydlViQTFMS2JERElEVVY4ZmoxcDlQWDRDWUprMkVJM3dVcWNEb1R1TTBHZDZpWlpPbkk2NGZhR3dRYnZsRnRPZGY2QjRjcGhuR0poUE1vb3VZb01oQ0VkMTVWbkdZZng0OWNrcGNocUFQemRXSWVESXg2aGFtOVMzZ1RURFo2M0ZIT213?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTNZWTFMdEJWVFlIYW9ydlViQTFMS2JERElEVVY4ZmoxcDlQWDRDWUprMkVJM3dVcWNEb1R1TTBHZDZpWlpPbkk2NGZhR3dRYnZsRnRPZGY2QjRjcGhuR0poUE1vb3VZb01oQ0VkMTVWbkdZZng0OWNrcGNocUFQemRXSWVESXg2aGFtOVMzZ1RURFo2M0ZIT213?oc=5</guid>
+      <description><![CDATA[ACECQA issues reminder about ratios for centre based services &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[ACECQA issues reminder about ratios for centre based services &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Sat, 14 Mar 2026 23:10:12 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
