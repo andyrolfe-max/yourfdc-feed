@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Thu, 30 Apr 2026 20:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 21:50:02 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/fair-work-finds-dismissal-of-melbourne-early-childhood-teacher-extremely-harsh</guid>
       <description><![CDATA[Fair Work finds dismissal of Melbourne early childhood teacher was “extremely harsh”]]></description>
       <content:encoded><![CDATA[Fair Work finds dismissal of Melbourne early childhood teacher was “extremely harsh”]]></content:encoded>
-      <pubDate>Thu, 30 Apr 2026 20:51:36 GMT</pubDate>
+      <pubDate>Thu, 30 Apr 2026 21:50:01 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[WA invests in workforce stability with $750,000 in grants for early childhood education]]></title>
+      <link>https://thesector.com.au/article/wa-invests-in-workforce-stability-with-750000-in-grants-for-early-childhood-education</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/wa-invests-in-workforce-stability-with-750000-in-grants-for-early-childhood-education</guid>
+      <description><![CDATA[WA invests in workforce stability with $750,000 in grants for early childhood education]]></description>
+      <content:encoded><![CDATA[WA invests in workforce stability with $750,000 in grants for early childhood education]]></content:encoded>
+      <pubDate>Thu, 30 Apr 2026 20:50:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -31,12 +41,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[WA invests in workforce stability with $750,000 in grants for early childhood education]]></title>
-      <link>https://thesector.com.au/article/wa-invests-in-workforce-stability-with-750000-in-grants-for-early-childhood-education</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/wa-invests-in-workforce-stability-with-750000-in-grants-for-early-childhood-education</guid>
-      <description><![CDATA[WA invests in workforce stability with $750,000 in grants for early childhood education]]></description>
-      <content:encoded><![CDATA[WA invests in workforce stability with $750,000 in grants for early childhood education]]></content:encoded>
-      <pubDate>Thu, 30 Apr 2026 19:51:36 GMT</pubDate>
+      <title><![CDATA[ECE Connect Online 2026: what the March recordings reveal about sector priorities for the year ahead]]></title>
+      <link>https://thesector.com.au/article/ece-connect-online-2026-what-the-march-recordings-reveal-about-sector-priorities</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/ece-connect-online-2026-what-the-march-recordings-reveal-about-sector-priorities</guid>
+      <description><![CDATA[ECE Connect Online 2026: what the March recordings reveal about sector priorities for the year ahead]]></description>
+      <content:encoded><![CDATA[ECE Connect Online 2026: what the March recordings reveal about sector priorities for the year ahead]]></content:encoded>
+      <pubDate>Thu, 30 Apr 2026 19:50:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -51,22 +61,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[ECE Connect Online 2026: what the March recordings reveal about sector priorities for the year ahead]]></title>
-      <link>https://thesector.com.au/article/ece-connect-online-2026-what-the-march-recordings-reveal-about-sector-priorities</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/ece-connect-online-2026-what-the-march-recordings-reveal-about-sector-priorities</guid>
-      <description><![CDATA[ECE Connect Online 2026: what the March recordings reveal about sector priorities for the year ahead]]></description>
-      <content:encoded><![CDATA[ECE Connect Online 2026: what the March recordings reveal about sector priorities for the year ahead]]></content:encoded>
-      <pubDate>Thu, 30 Apr 2026 18:51:36 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Changing Children’s Chances: why Australia must act on the social determinants shaping childhood]]></title>
       <link>https://thesector.com.au/article/changing-childrens-chances-why-australia-must-act-on-social-determinants-shaping-childhood</link>
       <guid isPermaLink="true">https://thesector.com.au/article/changing-childrens-chances-why-australia-must-act-on-social-determinants-shaping-childhood</guid>
       <description><![CDATA[Changing Children’s Chances: why Australia must act on the social determinants shaping childhood]]></description>
       <content:encoded><![CDATA[Changing Children’s Chances: why Australia must act on the social determinants shaping childhood]]></content:encoded>
-      <pubDate>Thu, 30 Apr 2026 17:51:36 GMT</pubDate>
+      <pubDate>Thu, 30 Apr 2026 18:50:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -76,7 +76,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/if-ownership-doesnt-determine-quality-what-does</guid>
       <description><![CDATA[If ownership doesn’t determine quality, what does?]]></description>
       <content:encoded><![CDATA[If ownership doesn’t determine quality, what does?]]></content:encoded>
-      <pubDate>Thu, 30 Apr 2026 16:51:36 GMT</pubDate>
+      <pubDate>Thu, 30 Apr 2026 17:50:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -86,7 +86,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/g8-education-occupancy-falls-40-centres-face-suspension</guid>
       <description><![CDATA[G8 Education shareholders endorse board, strategy and remuneration framework]]></description>
       <content:encoded><![CDATA[G8 Education shareholders endorse board, strategy and remuneration framework]]></content:encoded>
-      <pubDate>Thu, 30 Apr 2026 10:51:36 GMT</pubDate>
+      <pubDate>Thu, 30 Apr 2026 11:50:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -96,7 +96,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/building-the-future-sustainable-workforce-planning-panel-ecec-forum</guid>
       <description><![CDATA[Building the future: workforce planning panel to explore one of ECEC’s most critical challenges – sustainable workforce planning]]></description>
       <content:encoded><![CDATA[Building the future: workforce planning panel to explore one of ECEC’s most critical challenges – sustainable workforce planning]]></content:encoded>
-      <pubDate>Thu, 30 Apr 2026 09:51:36 GMT</pubDate>
+      <pubDate>Thu, 30 Apr 2026 10:50:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -106,7 +106,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/early-educators-embrace-mandatory-child-safety-training</guid>
       <description><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale]]></description>
       <content:encoded><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale]]></content:encoded>
-      <pubDate>Thu, 30 Apr 2026 08:51:36 GMT</pubDate>
+      <pubDate>Thu, 30 Apr 2026 09:50:01 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -501,12 +501,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[The rise of nature‑based pedagogy: what services need to know - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1Wd3NNOWt5RXBNN1MzSEZ5cW10cVR4ZUNLQ0hyMGo5MmQwZkhOczk4MUw2b2tNeG91RHdkdVNULUFSaUROTFBDLTE5RU5tUnVscXhaTnRKTER0UnlQREpPZlZpUzdmVzNRRmVyeWd1dkt0VWRQWkprYg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMieEFVX3lxTE1Wd3NNOWt5RXBNN1MzSEZ5cW10cVR4ZUNLQ0hyMGo5MmQwZkhOczk4MUw2b2tNeG91RHdkdVNULUFSaUROTFBDLTE5RU5tUnVscXhaTnRKTER0UnlQREpPZlZpUzdmVzNRRmVyeWd1dkt0VWRQWkprYg?oc=5</guid>
-      <description><![CDATA[The rise of nature‑based pedagogy: what services need to know &nbsp;&nbsp; The Sector]]></description>
-      <content:encoded><![CDATA[The rise of nature‑based pedagogy: what services need to know &nbsp;&nbsp; The Sector]]></content:encoded>
-      <pubDate>Tue, 24 Mar 2026 19:05:49 GMT</pubDate>
+      <title><![CDATA[The role of the Approved Provider in quality improvement: what strong oversight looks like - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQQnNFbHlxWDlFVnZQV1I2SmhfMV9udjdxakgtQTZWTldzaS1wYUpuV1ZfMDZIMFZiWTV0WG1BUC1GLUx1UGtQc29fTWJhYnNQYm81MjExdlFiLTVMMmM5c3dISEphVXRRMGdMSnd5cVlHRnRWY2ZMUUUwRkgwUGVhUzhR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiggFBVV95cUxQQnNFbHlxWDlFVnZQV1I2SmhfMV9udjdxakgtQTZWTldzaS1wYUpuV1ZfMDZIMFZiWTV0WG1BUC1GLUx1UGtQc29fTWJhYnNQYm81MjExdlFiLTVMMmM5c3dISEphVXRRMGdMSnd5cVlHRnRWY2ZMUUUwRkgwUGVhUzhR?oc=5</guid>
+      <description><![CDATA[The role of the Approved Provider in quality improvement: what strong oversight looks like &nbsp;&nbsp; The Sector]]></description>
+      <content:encoded><![CDATA[The role of the Approved Provider in quality improvement: what strong oversight looks like &nbsp;&nbsp; The Sector]]></content:encoded>
+      <pubDate>Wed, 25 Mar 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
