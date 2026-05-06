@@ -6,58 +6,76 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 06 May 2026 01:43:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 02:00:22 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
     <item>
-      <title><![CDATA[Market Failure and the need for Stewardship in Early Childhood Services:  This is more about oversupply, than a loss of public confidence.]]></title>
-      <link>https://thesector.com.au/article/market-failure-stewardship-early-childhood-services</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/market-failure-stewardship-early-childhood-services</guid>
-      <description><![CDATA[The announcement of Australia’s second largest provider of early childhood education services G8 Education will close 40 of its services due to key issues such as low occupancy, shortage of experienced educators and financial sustainability, was no surprise to anyone in the sector.]]></description>
-      <content:encoded><![CDATA[The announcement of Australia’s second largest provider of early childhood education services G8 Education will close 40 of its services due to key issues such as low occupancy, shortage of experienced educators and financial sustainability, was no surprise to anyone in the sector.]]></content:encoded>
-      <pubDate>Wed, 06 May 2026 01:43:34 GMT</pubDate>
+      <title><![CDATA[Why workforce wellbeing can no longer sit on the sidelines in ECEC]]></title>
+      <link>https://thesector.com.au/article/workforce-wellbeing-ecec-reform-connect-2026</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/workforce-wellbeing-ecec-reform-connect-2026</guid>
+      <description><![CDATA[As services continue to navigate workforce shortages, rising complexity and increasing expectations, educator wellbeing remains a central concern for leaders across Australia.]]></description>
+      <content:encoded><![CDATA[As services continue to navigate workforce shortages, rising complexity and increasing expectations, educator wellbeing remains a central concern for leaders across Australia.]]></content:encoded>
+      <pubDate>Wed, 06 May 2026 02:00:12 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/humantix_banner_04608b608d.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/humantix_banner_04608b608d.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Digital readiness is now regulatory: why compliance by design can&#x27;t wait]]></title>
+      <link>https://thesector.com.au/article/digital-readiness-regulatory-compliance-by-design-ecec</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/digital-readiness-regulatory-compliance-by-design-ecec</guid>
+      <description><![CDATA[For years, technology adoption in early childhood education was framed as a matter of competitive advantage. Services who digitised their enrolments, communications, and compliance documentation were ahead of the curve. Those who hadn&#x27;t were slower, but not out of step with the law.]]></description>
+      <content:encoded><![CDATA[For years, technology adoption in early childhood education was framed as a matter of competitive advantage. Services who digitised their enrolments, communications, and compliance documentation were ahead of the curve. Those who hadn&#x27;t were slower, but not out of step with the law.]]></content:encoded>
+      <pubDate>Wed, 06 May 2026 01:00:12 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/image_e92a7a8395.png" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/image_e92a7a8395.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Tasmania’s regulator confirms family day care restrictions are policy choice, not law]]></title>
+      <link>https://thesector.com.au/article/tasmania-family-day-care-restrictions-policy-choice-not-law</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/tasmania-family-day-care-restrictions-policy-choice-not-law</guid>
+      <description><![CDATA[A statement from England’s education regulator has reignited a familiar question for Australia’s early childhood education and care (ECEC) sector: does ownership or setting type predict quality?]]></description>
+      <content:encoded><![CDATA[A statement from England’s education regulator has reignited a familiar question for Australia’s early childhood education and care (ECEC) sector: does ownership or setting type predict quality?]]></content:encoded>
+      <pubDate>Wed, 06 May 2026 00:00:12 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/Screenshot_2026_05_05_at_06_09_04_48d3f15622.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/Screenshot_2026_05_05_at_06_09_04_48d3f15622.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Moving beyond compliance PD: building practical wellbeing capability in ECEC teams]]></title>
+      <link>https://thesector.com.au/article/moving-beyond-compliance-pd-building-wellbeing-capability-ecec-teams</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/moving-beyond-compliance-pd-building-wellbeing-capability-ecec-teams</guid>
+      <description><![CDATA[A director sits down to plan the annual PD calendar. They look at what&#x27;s required, book the food safety refresher, lock in the first aid renewal, schedule the child protection training, and tick the boxes. They care deeply about their team and want them to feel supported, both in feeling and in practice. But by the time the compliance requirements are met, there&#x27;s almost no budget left, and any additional professional development feels more like a chore than an investment.]]></description>
+      <content:encoded><![CDATA[A director sits down to plan the annual PD calendar. They look at what&#x27;s required, book the food safety refresher, lock in the first aid renewal, schedule the child protection training, and tick the boxes. They care deeply about their team and want them to feel supported, both in feeling and in practice. But by the time the compliance requirements are met, there&#x27;s almost no budget left, and any additional professional development feels more like a chore than an investment.]]></content:encoded>
+      <pubDate>Tue, 05 May 2026 23:00:12 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Lady Gowrie Queensland appoints Elizabeth Death as Chief Executive Officer]]></title>
-      <link>https://thesector.com.au/article/lady-gowrie-queensland-appoints-elizabeth-death-as-ceo</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/lady-gowrie-queensland-appoints-elizabeth-death-as-ceo</guid>
-      <description><![CDATA[Lady Gowrie Queensland has announced the appointment of Elizabeth Death as its new Chief Executive Officer, with Ms Death to commence in the role on 18 May 2026.]]></description>
-      <content:encoded><![CDATA[Lady Gowrie Queensland has announced the appointment of Elizabeth Death as its new Chief Executive Officer, with Ms Death to commence in the role on 18 May 2026.]]></content:encoded>
-      <pubDate>Wed, 06 May 2026 00:43:34 GMT</pubDate>
+      <title><![CDATA[The 2026 Queensland childcare centre sale landscape: confidence is returning but discipline is driving decisions]]></title>
+      <link>https://thesector.com.au/article/2026-queensland-childcare-centre-sale-landscape</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/2026-queensland-childcare-centre-sale-landscape</guid>
+      <description><![CDATA[A statement from England’s education regulator has reignited a familiar question for Australia’s early childhood education and care (ECEC) sector: does ownership or setting type predict quality?]]></description>
+      <content:encoded><![CDATA[A statement from England’s education regulator has reignited a familiar question for Australia’s early childhood education and care (ECEC) sector: does ownership or setting type predict quality?]]></content:encoded>
+      <pubDate>Tue, 05 May 2026 22:00:12 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_5_2026_at_05_51_15_AM_1b33115aa2.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_5_2026_at_05_51_15_AM_1b33115aa2.webp"/>
     </item>
     <item>
-      <title><![CDATA[Listening to parents: why helping families recognise quality matters.]]></title>
-      <link>https://thesector.com.au/article/listening-to-parents-helping-families-recognise-quality</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/listening-to-parents-helping-families-recognise-quality</guid>
-      <description><![CDATA[Choosing early learning is one of the most important decisions families make and increasingly, one of the most complex, a new campaign has been launched to help families ask the right questions.]]></description>
-      <content:encoded><![CDATA[Choosing early learning is one of the most important decisions families make and increasingly, one of the most complex, a new campaign has been launched to help families ask the right questions.]]></content:encoded>
-      <pubDate>Tue, 05 May 2026 23:43:34 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Winston Glades Centre Director selected as 2026 Children’s Rights Queensland Ambassador]]></title>
-      <link>https://thesector.com.au/article/winston-glades-director-childrens-rights-queensland-ambassador</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/winston-glades-director-childrens-rights-queensland-ambassador</guid>
-      <description><![CDATA[Queensland Childcare Services’ (QCCS) Winston Glades Early Education Centre Director Lisa Harris has been selected as a 2026 Children’s Rights Queensland Ambassador, recognising her long-standing commitment to child safety, wellbeing, education and inclusion.]]></description>
-      <content:encoded><![CDATA[Queensland Childcare Services’ (QCCS) Winston Glades Early Education Centre Director Lisa Harris has been selected as a 2026 Children’s Rights Queensland Ambassador, recognising her long-standing commitment to child safety, wellbeing, education and inclusion.]]></content:encoded>
-      <pubDate>Tue, 05 May 2026 22:43:34 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Tasmania opens consultation on major overhaul of teacher registration laws]]></title>
-      <link>https://thesector.com.au/article/tasmania-teachers-registration-bill-consultation</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/tasmania-teachers-registration-bill-consultation</guid>
-      <description><![CDATA[The Tasmanian Government has released the draft Teachers Registration Bill 2026 for public consultation, proposing changes to the state’s teacher registration framework designed to strengthen child safety, modernise professional standards and recognise the role of early childhood teachers in early childhood education and care settings.]]></description>
-      <content:encoded><![CDATA[The Tasmanian Government has released the draft Teachers Registration Bill 2026 for public consultation, proposing changes to the state’s teacher registration framework designed to strengthen child safety, modernise professional standards and recognise the role of early childhood teachers in early childhood education and care settings.]]></content:encoded>
-      <pubDate>Tue, 05 May 2026 21:43:34 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <title><![CDATA[Lady Gowrie Queensland appoints Elizabeth Death as Chief Executive Officer - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVZualZXWkdXVkpvYkFtTUxTRkJ3MVpiZXRmR05RZm81NHJxUm5oaUdaTW5kRUxQM2xQUTNMSEdBc296VTFta0tNTkZ2R3kxNE9qbTV2c3dBcGZmSnlvdXRDSzBfMlpvTWdMNGJZVHp2TzFRQktKbGJPd3dzUFJ5ZDBtUWt3bEc2dWJ6SFV3Tnk?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVZualZXWkdXVkpvYkFtTUxTRkJ3MVpiZXRmR05RZm81NHJxUm5oaUdaTW5kRUxQM2xQUTNMSEdBc296VTFta0tNTkZ2R3kxNE9qbTV2c3dBcGZmSnlvdXRDSzBfMlpvTWdMNGJZVHp2TzFRQktKbGJPd3dzUFJ5ZDBtUWt3bEc2dWJ6SFV3Tnk?oc=5</guid>
+      <description><![CDATA[Lady Gowrie Queensland appoints Elizabeth Death as Chief Executive Officer - The Sector]]></description>
+      <content:encoded><![CDATA[Lady Gowrie Queensland appoints Elizabeth Death as Chief Executive Officer - The Sector]]></content:encoded>
+      <pubDate>Tue, 05 May 2026 20:00:30 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -71,23 +89,13 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Moving beyond compliance PD: building practical wellbeing capability in ECEC teams]]></title>
-      <link>https://thesector.com.au/article/moving-beyond-compliance-pd-building-wellbeing-capability-ecec-teams</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/moving-beyond-compliance-pd-building-wellbeing-capability-ecec-teams</guid>
-      <description><![CDATA[A director sits down to plan the annual PD calendar. They look at what&#x27;s required, book the food safety refresher, lock in the first aid renewal, schedule the child protection training, and tick the boxes. They care deeply about their team and want them to feel supported, both in feeling and in practice. But by the time the compliance requirements are met, there&#x27;s almost no budget left, and any additional professional development feels more like a chore than an investment.]]></description>
-      <content:encoded><![CDATA[A director sits down to plan the annual PD calendar. They look at what&#x27;s required, book the food safety refresher, lock in the first aid renewal, schedule the child protection training, and tick the boxes. They care deeply about their team and want them to feel supported, both in feeling and in practice. But by the time the compliance requirements are met, there&#x27;s almost no budget left, and any additional professional development feels more like a chore than an investment.]]></content:encoded>
-      <pubDate>Tue, 05 May 2026 13:43:34 GMT</pubDate>
+      <title><![CDATA[Market Failure and the need for Stewardship in Early Childhood Services:  This is more about oversupply, than a loss of public confidence.]]></title>
+      <link>https://thesector.com.au/article/market-failure-stewardship-early-childhood-services</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/market-failure-stewardship-early-childhood-services</guid>
+      <description><![CDATA[The announcement of Australia’s second largest provider of early childhood education services G8 Education will close 40 of its services due to key issues such as low occupancy, shortage of experienced educators and financial sustainability, was no surprise to anyone in the sector.]]></description>
+      <content:encoded><![CDATA[The announcement of Australia’s second largest provider of early childhood education services G8 Education will close 40 of its services due to key issues such as low occupancy, shortage of experienced educators and financial sustainability, was no surprise to anyone in the sector.]]></content:encoded>
+      <pubDate>Tue, 05 May 2026 15:00:12 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Why workforce wellbeing can no longer sit on the sidelines in ECEC - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9xUzRwbGRpTlBtMmNPWV9CT3ZNYTJWY00teUdzYldBcTRoeDdCZC1rX0NfQlBuWXBwaXl1ZjNVUW9sNFozRVV6MF81dVdRdlNQWXI5LXpEQmlLUVo4YVVBbS1pYlViQkZhQWI5aFBxWlhoUzBfMmUySkdmU0xyeWxzcw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9xUzRwbGRpTlBtMmNPWV9CT3ZNYTJWY00teUdzYldBcTRoeDdCZC1rX0NfQlBuWXBwaXl1ZjNVUW9sNFozRVV6MF81dVdRdlNQWXI5LXpEQmlLUVo4YVVBbS1pYlViQkZhQWI5aFBxWlhoUzBfMmUySkdmU0xyeWxzcw?oc=5</guid>
-      <description><![CDATA[Why workforce wellbeing can no longer sit on the sidelines in ECEC - The Sector]]></description>
-      <content:encoded><![CDATA[Why workforce wellbeing can no longer sit on the sidelines in ECEC - The Sector]]></content:encoded>
-      <pubDate>Tue, 05 May 2026 05:15:26 GMT</pubDate>
-      <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -98,16 +106,6 @@
       <content:encoded><![CDATA[Market Failure and the need for Stewardship in Early Childhood Services: This is more about oversupply, than a loss of public confidence. - The Sector]]></content:encoded>
       <pubDate>Tue, 05 May 2026 01:05:42 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Tasmania’s regulator confirms family day care restrictions are policy choice, not law - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNMklJN1FjOFB6MmRfWWw0SDQ4aVdCSU1NSkhMbEUxS2Q2cVNfSzNhQUFIS3FhMzc0VWFuVzZVbzlaYnk2OEo0NWJNbG50cWxoNTJDMHdmQnhwVXpycFlmQkJUWE9sRHNrcDJmYWpoVXVaWjdiR2lwaEUycHFwWHhxNWpDNXNoTjMxanZRV3UyaU52dllOZ1ZJ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxNMklJN1FjOFB6MmRfWWw0SDQ4aVdCSU1NSkhMbEUxS2Q2cVNfSzNhQUFIS3FhMzc0VWFuVzZVbzlaYnk2OEo0NWJNbG50cWxoNTJDMHdmQnhwVXpycFlmQkJUWE9sRHNrcDJmYWpoVXVaWjdiR2lwaEUycHFwWHhxNWpDNXNoTjMxanZRV3UyaU52dllOZ1ZJ?oc=5</guid>
-      <description><![CDATA[Tasmania’s regulator confirms family day care restrictions are policy choice, not law - The Sector]]></description>
-      <content:encoded><![CDATA[Tasmania’s regulator confirms family day care restrictions are policy choice, not law - The Sector]]></content:encoded>
-      <pubDate>Mon, 04 May 2026 22:33:43 GMT</pubDate>
-      <dc:creator><![CDATA[FDC News]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -208,6 +206,16 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWxxdUJ3YXhfSkk3bDhhOGktUWh5WHoxcnlkMWtKWUszcDdxQmctUTJma0hoXzhEQnB5X25ZbDMzZUJPcDNaTUdTQVNVNGhIb3Q2TXl2dXFialB5Y3NhRU9KeW04ZXhnOGFlbzFYY3Y5aEs4QWpicUNoRmc2b3RXWU1QeTEyR3M?oc=5</guid>
       <description><![CDATA[If ownership doesn’t determine quality, what does? - The Sector]]></description>
       <content:encoded><![CDATA[If ownership doesn’t determine quality, what does? - The Sector]]></content:encoded>
+      <pubDate>Thu, 30 Apr 2026 19:02:41 GMT</pubDate>
+      <dc:creator><![CDATA[ACECQA]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[ECE Connect Online 2026: what the March recordings reveal about sector priorities for the year ahead - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGltQVYxT1Q4QUtyUHVIaHpzd2ViNE5HUW84TVRDbHZ6Y2Y3VXVCU196czdZanFpSHA2VTFzSVJmbFdRUUMxVnlUdU1fY2h3ZHJUX3JDdG8tOE1ieGlhQTdEdkhod2xqUXJGVmtaRkVSUXBaUC03eHVwN3BDMVViNW9GdDY2MUhxb1psM2xFYmNtSDUyVEcwSENweWZ4dVZfTzdlYkFHSk8yMWJzYjhheUhWVQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGltQVYxT1Q4QUtyUHVIaHpzd2ViNE5HUW84TVRDbHZ6Y2Y3VXVCU196czdZanFpSHA2VTFzSVJmbFdRUUMxVnlUdU1fY2h3ZHJUX3JDdG8tOE1ieGlhQTdEdkhod2xqUXJGVmtaRkVSUXBaUC03eHVwN3BDMVViNW9GdDY2MUhxb1psM2xFYmNtSDUyVEcwSENweWZ4dVZfTzdlYkFHSk8yMWJzYjhheUhWVQ?oc=5</guid>
+      <description><![CDATA[ECE Connect Online 2026: what the March recordings reveal about sector priorities for the year ahead - The Sector]]></description>
+      <content:encoded><![CDATA[ECE Connect Online 2026: what the March recordings reveal about sector priorities for the year ahead - The Sector]]></content:encoded>
       <pubDate>Thu, 30 Apr 2026 19:02:41 GMT</pubDate>
       <dc:creator><![CDATA[ACECQA]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
