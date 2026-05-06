@@ -6,17 +6,29 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 06 May 2026 21:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:44:42 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
+    <item>
+      <title><![CDATA[Paid parental leave changes: what families and ECEC employers need to know]]></title>
+      <link>https://thesector.com.au/article/paid-parental-leave-changes-australia-2025-2026-ecec</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/paid-parental-leave-changes-australia-2025-2026-ecec</guid>
+      <description><![CDATA[Australia’s Paid Parental Leave scheme is expanding, with more paid days, superannuation on government-funded payments and greater flexibility for families. For early childhood education and care employers, the changes may also affect workforce planning, rostering, staff retention, enrolment timing and centre profitability.]]></description>
+      <content:encoded><![CDATA[Australia’s Paid Parental Leave scheme is expanding, with more paid days, superannuation on government-funded payments and greater flexibility for families. For early childhood education and care employers, the changes may also affect workforce planning, rostering, staff retention, enrolment timing and centre profitability.]]></content:encoded>
+      <pubDate>Wed, 06 May 2026 22:44:37 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_7_2026_at_06_39_34_AM_436e044cf1.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_7_2026_at_06_39_34_AM_436e044cf1.webp"/>
+    </item>
     <item>
       <title><![CDATA[QFCC scenario guide supports ECEC services to strengthen child safe practice]]></title>
       <link>https://thesector.com.au/article/qfcc-child-safe-standards-scenario-guide-ecec</link>
       <guid isPermaLink="true">https://thesector.com.au/article/qfcc-child-safe-standards-scenario-guide-ecec</guid>
       <description><![CDATA[The Queensland Family and Child Commission has released a scenario discussion guide to help organisations, including early childhood education and care services, embed Queensland’s Child Safe Standards into everyday practice.]]></description>
       <content:encoded><![CDATA[The Queensland Family and Child Commission has released a scenario discussion guide to help organisations, including early childhood education and care services, embed Queensland’s Child Safe Standards into everyday practice.]]></content:encoded>
-      <pubDate>Wed, 06 May 2026 21:03:51 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 21:44:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_7_2026_at_06_19_57_AM_ab27dc1bf1.webp" medium="image"/>
@@ -28,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/rise-shine-kindergarten-mobile-planetarium-stem-learning</guid>
       <description><![CDATA[Three years ago, Rise & Shine Kindergarten introduced a bold and imaginative addition to its early learning program, Australia’s only childcare-operated mobile planetarium. What began as an ambitious extension of its Orbit, Centre of Imagination STEM program has since become one of the organisation’s most celebrated and impactful educational experiences.]]></description>
       <content:encoded><![CDATA[Three years ago, Rise & Shine Kindergarten introduced a bold and imaginative addition to its early learning program, Australia’s only childcare-operated mobile planetarium. What began as an ambitious extension of its Orbit, Centre of Imagination STEM program has since become one of the organisation’s most celebrated and impactful educational experiences.]]></content:encoded>
-      <pubDate>Wed, 06 May 2026 20:03:51 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 20:44:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_7_2026_at_05_55_29_AM_144de10e27.webp" medium="image"/>
@@ -40,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/ecu-speech-pathology-students-y-wa-yappara-house-elc</guid>
       <description><![CDATA[Children at the Y WA’s Yappara House Early Learning Centre (ELC) are benefiting from an innovative partnership with Edith Cowan University School of Medical and Health Sciences (ECU), as speech pathology students have begun placements aimed at strengthening early language development during the most critical years of learning.]]></description>
       <content:encoded><![CDATA[Children at the Y WA’s Yappara House Early Learning Centre (ELC) are benefiting from an innovative partnership with Edith Cowan University School of Medical and Health Sciences (ECU), as speech pathology students have begun placements aimed at strengthening early language development during the most critical years of learning.]]></content:encoded>
-      <pubDate>Wed, 06 May 2026 19:03:51 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 19:44:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/L_R_Kym_Jefferies_ECU_Lola_Vanessa_O_Shea_ECU_04476afe84.webp" medium="image"/>
@@ -52,21 +64,11 @@
       <guid isPermaLink="true">https://thesector.com.au/article/oecd-iels-2025-early-learning-child-wellbeing-study</guid>
       <description><![CDATA[The OECD has just released the Building Strong Foundations for Life - Results from the 2025 Early Learning and Child Well-being Study (IELS), the first internationally comparable study designed to measure how children are developing and learning at the age of five.]]></description>
       <content:encoded><![CDATA[The OECD has just released the Building Strong Foundations for Life - Results from the 2025 Early Learning and Child Well-being Study (IELS), the first internationally comparable study designed to measure how children are developing and learning at the age of five.]]></content:encoded>
-      <pubDate>Wed, 06 May 2026 18:03:51 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 18:44:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_6_2026_at_08_31_45_AM_cd881eaa85.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_6_2026_at_08_31_45_AM_cd881eaa85.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Market Failure and the need for Stewardship in Early Childhood Services:  This is more about oversupply, than a loss of public confidence.]]></title>
-      <link>https://thesector.com.au/article/market-failure-stewardship-early-childhood-services</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/market-failure-stewardship-early-childhood-services</guid>
-      <description><![CDATA[The announcement of Australia’s second largest provider of early childhood education services G8 Education will close 40 of its services due to key issues such as low occupancy, shortage of experienced educators and financial sustainability, was no surprise to anyone in the sector.]]></description>
-      <content:encoded><![CDATA[The announcement of Australia’s second largest provider of early childhood education services G8 Education will close 40 of its services due to key issues such as low occupancy, shortage of experienced educators and financial sustainability, was no surprise to anyone in the sector.]]></content:encoded>
-      <pubDate>Wed, 06 May 2026 17:03:51 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
       <title><![CDATA[Digital readiness is now regulatory: why compliance by design can&#x27;t wait]]></title>
@@ -74,7 +76,17 @@
       <guid isPermaLink="true">https://thesector.com.au/article/lady-gowrie-queensland-appoints-elizabeth-death-as-ceo</guid>
       <description><![CDATA[Lady Gowrie Queensland has announced the appointment of Elizabeth Death as its new Chief Executive Officer, with Ms Death to commence in the role on 18 May 2026.]]></description>
       <content:encoded><![CDATA[Lady Gowrie Queensland has announced the appointment of Elizabeth Death as its new Chief Executive Officer, with Ms Death to commence in the role on 18 May 2026.]]></content:encoded>
-      <pubDate>Wed, 06 May 2026 11:03:51 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 12:44:37 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Market Failure and the need for Stewardship in Early Childhood Services:  This is more about oversupply, than a loss of public confidence.]]></title>
+      <link>https://thesector.com.au/article/market-failure-stewardship-early-childhood-services</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/market-failure-stewardship-early-childhood-services</guid>
+      <description><![CDATA[The announcement of Australia’s second largest provider of early childhood education services G8 Education will close 40 of its services due to key issues such as low occupancy, shortage of experienced educators and financial sustainability, was no surprise to anyone in the sector.]]></description>
+      <content:encoded><![CDATA[The announcement of Australia’s second largest provider of early childhood education services G8 Education will close 40 of its services due to key issues such as low occupancy, shortage of experienced educators and financial sustainability, was no surprise to anyone in the sector.]]></content:encoded>
+      <pubDate>Wed, 06 May 2026 11:44:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -84,7 +96,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/moving-beyond-compliance-pd-building-wellbeing-capability-ecec-teams</guid>
       <description><![CDATA[A director sits down to plan the annual PD calendar. They look at what&#x27;s required, book the food safety refresher, lock in the first aid renewal, schedule the child protection training, and tick the boxes. They care deeply about their team and want them to feel supported, both in feeling and in practice. But by the time the compliance requirements are met, there&#x27;s almost no budget left, and any additional professional development feels more like a chore than an investment.]]></description>
       <content:encoded><![CDATA[A director sits down to plan the annual PD calendar. They look at what&#x27;s required, book the food safety refresher, lock in the first aid renewal, schedule the child protection training, and tick the boxes. They care deeply about their team and want them to feel supported, both in feeling and in practice. But by the time the compliance requirements are met, there&#x27;s almost no budget left, and any additional professional development feels more like a chore than an investment.]]></content:encoded>
-      <pubDate>Wed, 06 May 2026 09:03:51 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 10:44:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -297,13 +309,13 @@
       <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png"/>
     </item>
     <item>
-      <title><![CDATA[SEE THE LIST: Childcare giant to close 12 WA centres - The West Australian]]></title>
-      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVkZTV1g1VjBPeW1ONXU0Q3U5VFRCNFNKYVZlMkpzQWlhR0YxaXFqSUhTRGVRX1ltYkhCY1U4Ty0xZHBxRkxNME54ZVFGZHEwUTNmZEJYaHZiM01faUJaVVAzYVR5SjJ1QWpzVVBja0Qxbjd4aHZZLU5VbW1OWjVpV1EweDBWSDJPU2t4alR1WklvdmZXc1kxLWxfNUZacFdNLTRIeVVReHJvenZ1ZGNHenRZYXVFX1BlZHViaE80VVFuMEFuRHpfZk9FVmx2RHotb3VaZ2ZVRHpod1B2SkZVdXVzZk5NcWVCMl9Zeg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVkZTV1g1VjBPeW1ONXU0Q3U5VFRCNFNKYVZlMkpzQWlhR0YxaXFqSUhTRGVRX1ltYkhCY1U4Ty0xZHBxRkxNME54ZVFGZHEwUTNmZEJYaHZiM01faUJaVVAzYVR5SjJ1QWpzVVBja0Qxbjd4aHZZLU5VbW1OWjVpV1EweDBWSDJPU2t4alR1WklvdmZXc1kxLWxfNUZacFdNLTRIeVVReHJvenZ1ZGNHenRZYXVFX1BlZHViaE80VVFuMEFuRHpfZk9FVmx2RHotb3VaZ2ZVRHpod1B2SkZVdXVzZk5NcWVCMl9Zeg?oc=5</guid>
-      <description><![CDATA[SEE THE LIST: Childcare giant to close 12 WA centres - The West Australian]]></description>
-      <content:encoded><![CDATA[SEE THE LIST: Childcare giant to close 12 WA centres - The West Australian]]></content:encoded>
-      <pubDate>Tue, 28 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[The West Australian]]></dc:creator>
+      <title><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOY195UnMyLTJhMWJkd1BvWUJDb0JiaV8tQ3JFN2VxU1g3b21VdXdKaVVXcmlBeXZiay02NFo1V2RVV3dpOHBBQWtGcE1oSFJua3FfLWtQQTNQb0NJVDZvUFNMSHJBYXRlM2xqZWwxdXVyeU1RWFpLQWtDX3JFVW9hRDI5V1hjdDhJTDJqMjBkRG1yUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxOY195UnMyLTJhMWJkd1BvWUJDb0JiaV8tQ3JFN2VxU1g3b21VdXdKaVVXcmlBeXZiay02NFo1V2RVV3dpOHBBQWtGcE1oSFJua3FfLWtQQTNQb0NJVDZvUFNMSHJBYXRlM2xqZWwxdXVyeU1RWFpLQWtDX3JFVW9hRDI5V1hjdDhJTDJqMjBkRG1yUQ?oc=5</guid>
+      <description><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale - The Sector]]></description>
+      <content:encoded><![CDATA[Early educators embrace new mandatory child safety training as sector lifts capability at scale - The Sector]]></content:encoded>
+      <pubDate>Tue, 28 Apr 2026 19:01:41 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -445,6 +457,26 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[Storypark and Xap merge in a significant move for Australia's early childhood education sector - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjR6M25MYXZJYXJYZTlFNTR2NWFQNFJEN3Q1TkJINjNGSkdEcmxVaWpCeC01bm96UVBfd3d2TE50T0RRaWlCdmhHbkFHYUJqb3E0SEs1NkdBNzdoRzU5cmhqVkNXRFhpOHVtYVU2ZjhLeENEYlg2Tlg4RWJCNnUybFgzejNTdHVTenVTbUxkSk9BempKbi1Ndk9tRVdJd3A2b18wRVp6SjRMMkRrT1lFTQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjR6M25MYXZJYXJYZTlFNTR2NWFQNFJEN3Q1TkJINjNGSkdEcmxVaWpCeC01bm96UVBfd3d2TE50T0RRaWlCdmhHbkFHYUJqb3E0SEs1NkdBNzdoRzU5cmhqVkNXRFhpOHVtYVU2ZjhLeENEYlg2Tlg4RWJCNnUybFgzejNTdHVTenVTbUxkSk9BempKbi1Ndk9tRVdJd3A2b18wRVp6SjRMMkRrT1lFTQ?oc=5</guid>
+      <description><![CDATA[Storypark and Xap merge in a significant move for Australia's early childhood education sector - The Sector]]></description>
+      <content:encoded><![CDATA[Storypark and Xap merge in a significant move for Australia's early childhood education sector - The Sector]]></content:encoded>
+      <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Should the childcare subsidy be paid to grandparents caring for their grandchildren? - hellocare.com.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWNiRnptRVNMcXJneWlmSWVQaGVTaExtUGdrV1BoZmp6VXJYN0FST0FzWmtaOHRScGd5dWZWZl9fTklUZ1ZiRjJWcm5Db2FSTWhmU1pES0NkM29KbHlWUGpiZjJyY3NYbFhYSTBWeUE2Rm85blVieU81RWs5emZSbWJhWTNzWV9VZXB2VnJobjlUclBtcGxrSWFZSWM4ZmV0aDJzZmxrWmpUaTQ1ZHfSAbYBQVVfeXFMUHVWOXZyZGdUaVJNT2czeGhtM2l6TzdjRi1XYkd2Q1hNWFBac1g5UktzYjNVbURDNS10dkxvMDF1MTlCV1BpTUVQTk5OZGZwbHRXbG1FREJBbHVfQWIySU1ramp3TWhzUktYX2NicGdfZ2JUYWY2U2Exb1pJajJWdTlTekRWRWI0akZ3anhiQTYwN2VEd0lQUzMtVFl3aVRLbUZRODZfemRPOUwyMk80cmphV2pkOGc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWNiRnptRVNMcXJneWlmSWVQaGVTaExtUGdrV1BoZmp6VXJYN0FST0FzWmtaOHRScGd5dWZWZl9fTklUZ1ZiRjJWcm5Db2FSTWhmU1pES0NkM29KbHlWUGpiZjJyY3NYbFhYSTBWeUE2Rm85blVieU81RWs5emZSbWJhWTNzWV9VZXB2VnJobjlUclBtcGxrSWFZSWM4ZmV0aDJzZmxrWmpUaTQ1ZHfSAbYBQVVfeXFMUHVWOXZyZGdUaVJNT2czeGhtM2l6TzdjRi1XYkd2Q1hNWFBac1g5UktzYjNVbURDNS10dkxvMDF1MTlCV1BpTUVQTk5OZGZwbHRXbG1FREJBbHVfQWIySU1ramp3TWhzUktYX2NicGdfZ2JUYWY2U2Exb1pJajJWdTlTekRWRWI0akZ3anhiQTYwN2VEd0lQUzMtVFl3aVRLbUZRODZfemRPOUwyMk80cmphV2pkOGc?oc=5</guid>
+      <description><![CDATA[Should the childcare subsidy be paid to grandparents caring for their grandchildren? - hellocare.com.au]]></description>
+      <content:encoded><![CDATA[Should the childcare subsidy be paid to grandparents caring for their grandchildren? - hellocare.com.au]]></content:encoded>
+      <pubDate>Tue, 14 Apr 2026 03:27:04 GMT</pubDate>
+      <dc:creator><![CDATA[hellocare.com.au]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[Starting Better Guarantee gains momentum as early childhood reform agenda progresses - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmZIMElXaUVHVUZUODRrWjBldENTb2g5aE9Jc0x3REpTek9qWGJnRmw3YVJ0dGowVjlIME5sc084dnhaUmFvbUxlS2QtUUVYc1U0cklvTzhRczYyaF8yRXlhVWhsWUExLVZSLUN3S3ZwYXJtNUo0RzFTNUU0MnR0TzQ1RUloQ3MyVW4tNWdpeWZGM0sxOEE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmZIMElXaUVHVUZUODRrWjBldENTb2g5aE9Jc0x3REpTek9qWGJnRmw3YVJ0dGowVjlIME5sc084dnhaUmFvbUxlS2QtUUVYc1U0cklvTzhRczYyaF8yRXlhVWhsWUExLVZSLUN3S3ZwYXJtNUo0RzFTNUU0MnR0TzQ1RUloQ3MyVW4tNWdpeWZGM0sxOEE?oc=5</guid>
@@ -497,42 +529,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Childcare shame file: Victorian centres smacked with serious sanctions - Herald Sun]]></title>
-      <link>https://news.google.com/rss/articles/CBMioAJBVV95cUxPWU51ZDRCbGx0YXVjOXBCYXM3Ny1WRTVnZEV3NjkxcHE3bHh0OUhsUHFtZXAxVnBNeGczS0VDbXhBV0dGVzlPdEE5dkd3MjIwQWRWdDRUaG5WTkxMSE5INnQ0NDkyTGVtSGtEM2xVaTZabjYyUEdob1VvX0M3anhvSGNlNG5tY2ZVV2hKeUpHYmlRYjZSVVlpOUdfUXdzVTlUdHhNcHk3djlQanRpNGQ5S0NqbHNobU1qM2ZzdVBUQms1M2lyTHd2Z0UzTi14YmRRWE10YVRCRTQwbjJJd0VOUDBjYzFGa3FFZmhqenVFYkVic05UVHMzam5xajhFeFNXN1kxaWFYM3dLcGJtMmNIRUgwV2FhdHNBUkx3OHFpbEbSAaYCQVVfeXFMT1hkcG5lZjl5aHByTVBhN0pYOWpuRWVpc2Y0Szl1ZTBuYTZaclBIaGtyWHd6aXgzaUU1WXZvaWRWZU1HdnVNWXNvS3ltSkNjcUlqdUZTbFl2ZFJfa2Y1TkhPeVFvZFVaemNFYXFUdVZKalVEanNnWGgybFBDdU9rdWhHOTdlWHpXLTVFQ3prTm1lV042NEoxQkw0MDNXM1NSZ3M3ZEQ5LXBnZFFjM0YwNVhoUjRoYzRvd1FHT1RDY3ZLZ2c4bXlobkpGZzhrOW56MGdSeFNLX3RrUG1vZndoNmk3VDRvaUtlV3NaVDJNbmQ4ZE9KVWJCSUU4VFllQ0lSOFp1NVBwN0xYRmhyUjY2UmFFb2JpWThFb1Q4SGhxNHZtd0wtQWN3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAJBVV95cUxPWU51ZDRCbGx0YXVjOXBCYXM3Ny1WRTVnZEV3NjkxcHE3bHh0OUhsUHFtZXAxVnBNeGczS0VDbXhBV0dGVzlPdEE5dkd3MjIwQWRWdDRUaG5WTkxMSE5INnQ0NDkyTGVtSGtEM2xVaTZabjYyUEdob1VvX0M3anhvSGNlNG5tY2ZVV2hKeUpHYmlRYjZSVVlpOUdfUXdzVTlUdHhNcHk3djlQanRpNGQ5S0NqbHNobU1qM2ZzdVBUQms1M2lyTHd2Z0UzTi14YmRRWE10YVRCRTQwbjJJd0VOUDBjYzFGa3FFZmhqenVFYkVic05UVHMzam5xajhFeFNXN1kxaWFYM3dLcGJtMmNIRUgwV2FhdHNBUkx3OHFpbEbSAaYCQVVfeXFMT1hkcG5lZjl5aHByTVBhN0pYOWpuRWVpc2Y0Szl1ZTBuYTZaclBIaGtyWHd6aXgzaUU1WXZvaWRWZU1HdnVNWXNvS3ltSkNjcUlqdUZTbFl2ZFJfa2Y1TkhPeVFvZFVaemNFYXFUdVZKalVEanNnWGgybFBDdU9rdWhHOTdlWHpXLTVFQ3prTm1lV042NEoxQkw0MDNXM1NSZ3M3ZEQ5LXBnZFFjM0YwNVhoUjRoYzRvd1FHT1RDY3ZLZ2c4bXlobkpGZzhrOW56MGdSeFNLX3RrUG1vZndoNmk3VDRvaUtlV3NaVDJNbmQ4ZE9KVWJCSUU4VFllQ0lSOFp1NVBwN0xYRmhyUjY2UmFFb2JpWThFb1Q4SGhxNHZtd0wtQWN3?oc=5</guid>
-      <description><![CDATA[Childcare shame file: Victorian centres smacked with serious sanctions - Herald Sun]]></description>
-      <content:encoded><![CDATA[Childcare shame file: Victorian centres smacked with serious sanctions - Herald Sun]]></content:encoded>
-      <pubDate>Thu, 09 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[Herald Sun]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[ACECQA releases new inclusion eLearning module for the ECEC sector - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFAta2RZM2dBa3AxQXplTDNuMm91OFV0c2JNS2x1U1I1U25hbHNtYk9hZlJlSnNFWFhidlBlWDFLakg3QnExdG1iZWFnX0RRcHJEOFRTNFd4MFFob0tfZmJHZ2htYW5ONnZkakY3ZC1MaU1rN2pfcVZtcmE0aw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTFAta2RZM2dBa3AxQXplTDNuMm91OFV0c2JNS2x1U1I1U25hbHNtYk9hZlJlSnNFWFhidlBlWDFLakg3QnExdG1iZWFnX0RRcHJEOFRTNFd4MFFob0tfZmJHZ2htYW5ONnZkakY3ZC1MaU1rN2pfcVZtcmE0aw?oc=5</guid>
       <description><![CDATA[ACECQA releases new inclusion eLearning module for the ECEC sector - The Sector]]></description>
       <content:encoded><![CDATA[ACECQA releases new inclusion eLearning module for the ECEC sector - The Sector]]></content:encoded>
       <pubDate>Tue, 07 Apr 2026 21:04:02 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Protecting children’s digital rights: understanding Australia’s new children’s online privacy code - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkZGSWFIT2tWcy1aczV1dmFmZFdYS3h6MXpXUzVOVEtIZDNUWnU5aE9FR1JQMl9FeXV6ZlRTanllRWRFRDNQNk9aZ0Vjd0tqYk5wV3hiX0hXa0FBbUJlOC1lMklJNDMwNTE3XzdFY1FrU09NRFVRX25qcFZHZnN3LTJxbkthVE5nZDFfTVhJUjZCQlFVdlp3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkZGSWFIT2tWcy1aczV1dmFmZFdYS3h6MXpXUzVOVEtIZDNUWnU5aE9FR1JQMl9FeXV6ZlRTanllRWRFRDNQNk9aZ0Vjd0tqYk5wV3hiX0hXa0FBbUJlOC1lMklJNDMwNTE3XzdFY1FrU09NRFVRX25qcFZHZnN3LTJxbkthVE5nZDFfTVhJUjZCQlFVdlp3?oc=5</guid>
-      <description><![CDATA[Protecting children’s digital rights: understanding Australia’s new children’s online privacy code - The Sector]]></description>
-      <content:encoded><![CDATA[Protecting children’s digital rights: understanding Australia’s new children’s online privacy code - The Sector]]></content:encoded>
-      <pubDate>Tue, 07 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[New tertiary education commission set to reshape ECEC workforce pathways - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJXZHpwVmNBeXNReElkbUlZc2ItQ09memxhdzUzZUF3ckRZdDVZbmh2TTVuSC0zUktYYVdfUHJiMzZXQ2NFOUZ1MG50a1RrVUtlbDZUSUxIY2FaV1pzc2FSR3daUnAtNDVnem5FZ0hEUTZTQXhyRWcwdWJNcUF0d1dSaFMwdlZaUWExc3IyazlfclMtTHZLX0lpOU1NUkk?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJXZHpwVmNBeXNReElkbUlZc2ItQ09memxhdzUzZUF3ckRZdDVZbmh2TTVuSC0zUktYYVdfUHJiMzZXQ2NFOUZ1MG50a1RrVUtlbDZUSUxIY2FaV1pzc2FSR3daUnAtNDVnem5FZ0hEUTZTQXhyRWcwdWJNcUF0d1dSaFMwdlZaUWExc3IyazlfclMtTHZLX0lpOU1NUkk?oc=5</guid>
-      <description><![CDATA[New tertiary education commission set to reshape ECEC workforce pathways - The Sector]]></description>
-      <content:encoded><![CDATA[New tertiary education commission set to reshape ECEC workforce pathways - The Sector]]></content:encoded>
-      <pubDate>Mon, 06 Apr 2026 19:06:38 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
