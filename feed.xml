@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Tue, 12 May 2026 22:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 23:52:19 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/2026-27-federal-budget-what-it-means-for-early-childhood-education-and-care</guid>
       <description><![CDATA[The 2026–27 Federal Budget has been framed by Treasurer Jim Chalmers as one of the most important and ambitious budgets in decades, shaped by global uncertainty, cost-of-living pressure and the Government’s broader agenda of “resilience and reform”.]]></description>
       <content:encoded><![CDATA[The 2026–27 Federal Budget has been framed by Treasurer Jim Chalmers as one of the most important and ambitious budgets in decades, shaped by global uncertainty, cost-of-living pressure and the Government’s broader agenda of “resilience and reform”.]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 22:05:02 GMT</pubDate>
+      <pubDate>Tue, 12 May 2026 23:52:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2274433102_e9ec77cf4e.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/medium-small-provider-data-collection-ecec-pricing-project</guid>
       <description><![CDATA[Data collection has commenced for medium and small early childhood education and care (ECEC) providers as part of the Australian Government’s Early Education Service Delivery Prices project.]]></description>
       <content:encoded><![CDATA[Data collection has commenced for medium and small early childhood education and care (ECEC) providers as part of the Australian Government’s Early Education Service Delivery Prices project.]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 21:05:02 GMT</pubDate>
+      <pubDate>Tue, 12 May 2026 22:52:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_459905157_c221f2e91e.webp" medium="image"/>
@@ -40,11 +40,35 @@
       <guid isPermaLink="true">https://thesector.com.au/article/nsw-child-safety-resources-transparency-focus-ecec-services</guid>
       <description><![CDATA[Families in New South Wales now have direct access to plain-language information about child safety in early childhood education and care (ECEC), with the NSW Early Learning Commission publishing resources that explain what a child safe service looks like, how concerns can be raised, and what parents and carers can expect from providers.]]></description>
       <content:encoded><![CDATA[Families in New South Wales now have direct access to plain-language information about child safety in early childhood education and care (ECEC), with the NSW Early Learning Commission publishing resources that explain what a child safe service looks like, how concerns can be raised, and what parents and carers can expect from providers.]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 20:05:02 GMT</pubDate>
+      <pubDate>Tue, 12 May 2026 21:52:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2223482232_290dcbfd1a.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2223482232_290dcbfd1a.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[National tool helps chart career pathways in early childhood education]]></title>
+      <link>https://thesector.com.au/article/national-tool-career-pathways-early-childhood-education</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/national-tool-career-pathways-early-childhood-education</guid>
+      <description><![CDATA[Jobs and Skills Australia has launched an online tool designed to help Australians better understand how vocational education and training qualifications connect to employment opportunities, including within the early childhood education and care (ECEC) sector.]]></description>
+      <content:encoded><![CDATA[Jobs and Skills Australia has launched an online tool designed to help Australians better understand how vocational education and training qualifications connect to employment opportunities, including within the early childhood education and care (ECEC) sector.]]></content:encoded>
+      <pubDate>Tue, 12 May 2026 20:52:14 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2252786195_e779b1d267.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2252786195_e779b1d267.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Rabobank and George the Farmer celebrate five years of connecting children to agriculture through books]]></title>
+      <link>https://thesector.com.au/article/rabobank-and-george-the-farmer-mark-five-years-of-book-week-partnership</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/rabobank-and-george-the-farmer-mark-five-years-of-book-week-partnership</guid>
+      <description><![CDATA[Rabobank’s Rabo Community Fund has teamed up with the ‘edu-tainment’ brand ‘George the Farmer’, for its fifth year, to celebrate Children’s Book Week. Their collaboration is designed to teach children about where their food and fibre comes from in a fun and engaging way during Book Week, which this year takes place from August 22 to 28.]]></description>
+      <content:encoded><![CDATA[Rabobank’s Rabo Community Fund has teamed up with the ‘edu-tainment’ brand ‘George the Farmer’, for its fifth year, to celebrate Children’s Book Week. Their collaboration is designed to teach children about where their food and fibre comes from in a fun and engaging way during Book Week, which this year takes place from August 22 to 28.]]></content:encoded>
+      <pubDate>Tue, 12 May 2026 19:52:14 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/ad88f3df_5da3_4eb8_842d_8e21635ca924_a55dfb59ee.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/ad88f3df_5da3_4eb8_842d_8e21635ca924_a55dfb59ee.webp"/>
     </item>
     <item>
       <title><![CDATA[2026–27 Federal Budget: what it means for early childhood education and care - The Sector]]></title>
@@ -57,28 +81,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[National tool helps chart career pathways in early childhood education]]></title>
-      <link>https://thesector.com.au/article/national-tool-career-pathways-early-childhood-education</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/national-tool-career-pathways-early-childhood-education</guid>
-      <description><![CDATA[Jobs and Skills Australia has launched an online tool designed to help Australians better understand how vocational education and training qualifications connect to employment opportunities, including within the early childhood education and care (ECEC) sector.]]></description>
-      <content:encoded><![CDATA[Jobs and Skills Australia has launched an online tool designed to help Australians better understand how vocational education and training qualifications connect to employment opportunities, including within the early childhood education and care (ECEC) sector.]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 19:05:02 GMT</pubDate>
+      <title><![CDATA[Kidi Kingdom fined $12,000 after child leaves service unnoticed for more than an hour]]></title>
+      <link>https://thesector.com.au/article/kidi-kingdom-fined-child-left-service-unnoticed</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/kidi-kingdom-fined-child-left-service-unnoticed</guid>
+      <description><![CDATA[The NSW Early Learning Commission and the Victorian Early Childhood Regulatory Authority (VECRA) have joined forces in a nation-leading compliance operation focused on child safety across the early childhood education and care sector.]]></description>
+      <content:encoded><![CDATA[The NSW Early Learning Commission and the Victorian Early Childhood Regulatory Authority (VECRA) have joined forces in a nation-leading compliance operation focused on child safety across the early childhood education and care sector.]]></content:encoded>
+      <pubDate>Tue, 12 May 2026 11:52:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2252786195_e779b1d267.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2252786195_e779b1d267.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Rabobank and George the Farmer celebrate five years of connecting children to agriculture through books]]></title>
-      <link>https://thesector.com.au/article/rabobank-and-george-the-farmer-mark-five-years-of-book-week-partnership</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/rabobank-and-george-the-farmer-mark-five-years-of-book-week-partnership</guid>
-      <description><![CDATA[Rabobank’s Rabo Community Fund has teamed up with the ‘edu-tainment’ brand ‘George the Farmer’, for its fifth year, to celebrate Children’s Book Week. Their collaboration is designed to teach children about where their food and fibre comes from in a fun and engaging way during Book Week, which this year takes place from August 22 to 28.]]></description>
-      <content:encoded><![CDATA[Rabobank’s Rabo Community Fund has teamed up with the ‘edu-tainment’ brand ‘George the Farmer’, for its fifth year, to celebrate Children’s Book Week. Their collaboration is designed to teach children about where their food and fibre comes from in a fun and engaging way during Book Week, which this year takes place from August 22 to 28.]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 18:05:02 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/ad88f3df_5da3_4eb8_842d_8e21635ca924_a55dfb59ee.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/ad88f3df_5da3_4eb8_842d_8e21635ca924_a55dfb59ee.webp"/>
+      <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_11_2026_at_06_25_06_PM_8fb24f4716.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_11_2026_at_06_25_06_PM_8fb24f4716.webp"/>
     </item>
     <item>
       <title><![CDATA[Budget Falls Short for Aboriginal Children Despite Community-Led Solutions on the Table]]></title>
@@ -111,18 +123,6 @@
       <pubDate>Tue, 12 May 2026 10:29:17 GMT</pubDate>
       <dc:creator><![CDATA[Savings.com.au]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Kidi Kingdom fined $12,000 after child leaves service unnoticed for more than an hour]]></title>
-      <link>https://thesector.com.au/article/kidi-kingdom-fined-child-left-service-unnoticed</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/kidi-kingdom-fined-child-left-service-unnoticed</guid>
-      <description><![CDATA[The NSW Early Learning Commission and the Victorian Early Childhood Regulatory Authority (VECRA) have joined forces in a nation-leading compliance operation focused on child safety across the early childhood education and care sector.]]></description>
-      <content:encoded><![CDATA[The NSW Early Learning Commission and the Victorian Early Childhood Regulatory Authority (VECRA) have joined forces in a nation-leading compliance operation focused on child safety across the early childhood education and care sector.]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 10:05:02 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_11_2026_at_06_25_06_PM_8fb24f4716.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/Chat_GPT_Image_May_11_2026_at_06_25_06_PM_8fb24f4716.webp"/>
     </item>
     <item>
       <title><![CDATA[Sector Peak Urges NT Government to Scrap Legislative Changes and Partner on Child Protection]]></title>
@@ -163,6 +163,16 @@
       <description><![CDATA[ACECQA launches new mapping tool showing real-time open/closed status of ECEC services - The Sector]]></description>
       <content:encoded><![CDATA[ACECQA launches new mapping tool showing real-time open/closed status of ECEC services - The Sector]]></content:encoded>
       <pubDate>Sun, 10 May 2026 20:46:15 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Digital Child Annual Report 2025 highlights growing focus on children’s digital lives - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnZJWDd4cDhfZ3pEWDBOSUcwcXdMQ2ZBVFlhUzVzalJpYWxsck53N2QtMi1JSko0UzFkM2FKMVlta29vWEdCeGNLNzlrdVNxOTltWDN5cURhSGNPTVJyWjRIcUVPNjNiNXFKVjYtNzlyTkhXdEh2enljMWpoOFBjeC1nZEZzbHh0Ym5qUXV6c0dBNVVFbGFoVGExblR4eTdhLXc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnZJWDd4cDhfZ3pEWDBOSUcwcXdMQ2ZBVFlhUzVzalJpYWxsck53N2QtMi1JSko0UzFkM2FKMVlta29vWEdCeGNLNzlrdVNxOTltWDN5cURhSGNPTVJyWjRIcUVPNjNiNXFKVjYtNzlyTkhXdEh2enljMWpoOFBjeC1nZEZzbHh0Ym5qUXV6c0dBNVVFbGFoVGExblR4eTdhLXc?oc=5</guid>
+      <description><![CDATA[Digital Child Annual Report 2025 highlights growing focus on children’s digital lives - The Sector]]></description>
+      <content:encoded><![CDATA[Digital Child Annual Report 2025 highlights growing focus on children’s digital lives - The Sector]]></content:encoded>
+      <pubDate>Sun, 10 May 2026 19:54:25 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -427,6 +437,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[Cleaner accused of sexually abusing little girl at day care centre - Herald Sun]]></title>
+      <link>https://news.google.com/rss/articles/CBMinAJBVV95cUxPcDhveFNxUXJaMERRMU51NjZMeTg1bVpIelJJZnpTMTJjZ3RwVWNocmRwTDF5OEZLd3I1MmtkOVF5NlhUWkNDclZpcmNZRVBBQ2hXdjMtTUJ5WU5NTlJvZ2FJd2ZOdktsSWlTYTlzOUVLSXJWMWp2VVFDVnBRYUMxMmtYOC1yQUw4WHZGUk5oaGtoYXBNdk9acE02dTdJdjNVeC05ZWI5OS0wNGJnSE1xaEltRFFmZS05S1RwVjdWR1dSM2dNdzA3Rmk2SUpVMjBQTno0WlZ2VTI5Wk4zeGdOWlZONmhjWHNhdG94S01GZjhHMXlocjBLaDktNzAxZHRNcHZYUklzWTQ2TmwwbC12dGhRbWg4RlpSUk1ZR9IBogJBVV95cUxOdERTQU9Fd2pWaTJiZGZKQTRpTnNIYVZHXzEzb2RSTUhZcnFVdUgxTi1Kc0VxdGY2QU5pY3hzd2hiaVZSWE9ESWVwR2NGS0hUU29GVGszSjBpdHlJWUZQTnhQcjdrZURlWTBua3hlTDhPTC1ubURqWUV1YUdfR0Y3eHkwaUJ3NTlORlA5V3BUR0lGSkVqaGxscjZQeGVLeEhzbWRDU0g2V1JaQVZ6SDhXRzR5bnhHenBKYU1jSi1OaHpzYllQLTY0SGlrSVpQT0F5RW44Qzd0Yk12VHN6eU82UTlReV9HNDNNeWtzLWFVY0VLOGlUTE1jaElON2JSWkszQWlFaTQxcnVxa1hReWJiVFJrQWlqSk8yclU4RU1PRjdsZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinAJBVV95cUxPcDhveFNxUXJaMERRMU51NjZMeTg1bVpIelJJZnpTMTJjZ3RwVWNocmRwTDF5OEZLd3I1MmtkOVF5NlhUWkNDclZpcmNZRVBBQ2hXdjMtTUJ5WU5NTlJvZ2FJd2ZOdktsSWlTYTlzOUVLSXJWMWp2VVFDVnBRYUMxMmtYOC1yQUw4WHZGUk5oaGtoYXBNdk9acE02dTdJdjNVeC05ZWI5OS0wNGJnSE1xaEltRFFmZS05S1RwVjdWR1dSM2dNdzA3Rmk2SUpVMjBQTno0WlZ2VTI5Wk4zeGdOWlZONmhjWHNhdG94S01GZjhHMXlocjBLaDktNzAxZHRNcHZYUklzWTQ2TmwwbC12dGhRbWg4RlpSUk1ZR9IBogJBVV95cUxOdERTQU9Fd2pWaTJiZGZKQTRpTnNIYVZHXzEzb2RSTUhZcnFVdUgxTi1Kc0VxdGY2QU5pY3hzd2hiaVZSWE9ESWVwR2NGS0hUU29GVGszSjBpdHlJWUZQTnhQcjdrZURlWTBua3hlTDhPTC1ubURqWUV1YUdfR0Y3eHkwaUJ3NTlORlA5V3BUR0lGSkVqaGxscjZQeGVLeEhzbWRDU0g2V1JaQVZ6SDhXRzR5bnhHenBKYU1jSi1OaHpzYllQLTY0SGlrSVpQT0F5RW44Qzd0Yk12VHN6eU82UTlReV9HNDNNeWtzLWFVY0VLOGlUTE1jaElON2JSWkszQWlFaTQxcnVxa1hReWJiVFJrQWlqSk8yclU4RU1PRjdsZw?oc=5</guid>
+      <description><![CDATA[Cleaner accused of sexually abusing little girl at day care centre - Herald Sun]]></description>
+      <content:encoded><![CDATA[Cleaner accused of sexually abusing little girl at day care centre - Herald Sun]]></content:encoded>
+      <pubDate>Tue, 28 Apr 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[Herald Sun]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[New subsidies open to strengthen and retain Australia’s early childhood workforce - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3Uwenk0NHdPTEttVkZ2YTI2M2pRWEJDVkp4eDk4RnlXdnVVeDZrT3VsTDBCeTR0eDlmMHNZOEphRS1oWVdieHpTbkN5RFd3M3c0cDRxNkxUeEs2SzhNbVMzTkNRT3M0UUFScWtQQ184OVQ0Uko4V3ZpT2xGcmtlWVJDanRBcm5EbzhfSjNsZ1NJb3RzREppTDFqbVJDMnNLY1lNeDk2LXg0SWo4ZTI4S0VHUQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3Uwenk0NHdPTEttVkZ2YTI2M2pRWEJDVkp4eDk4RnlXdnVVeDZrT3VsTDBCeTR0eDlmMHNZOEphRS1oWVdieHpTbkN5RFd3M3c0cDRxNkxUeEs2SzhNbVMzTkNRT3M0UUFScWtQQ184OVQ0Uko4V3ZpT2xGcmtlWVJDanRBcm5EbzhfSjNsZ1NJb3RzREppTDFqbVJDMnNLY1lNeDk2LXg0SWo4ZTI4S0VHUQ?oc=5</guid>
@@ -443,16 +463,6 @@
       <description><![CDATA[Flu vaccination remains a critical protective measure for Australia’s early childhood workforce - The Sector]]></description>
       <content:encoded><![CDATA[Flu vaccination remains a critical protective measure for Australia’s early childhood workforce - The Sector]]></content:encoded>
       <pubDate>Mon, 27 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[FDC educator banned from practicing for 12 months, sent to anger management training - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmlZcGw4TkQtSTJmQkt5T29UMl9KcjNaQWZkdjJVcWFPUUZZZTFKOHZWdmxlSVpZYVpvU3RfVHdqaHljYmZva3FmOVhsVXA1TnpEcUUzMnY1ZGZYZ3BwSVFNWjBQeDh2OTFuemZfZ0JPdFV3SDBjRmp1WmlRMzZKMnNYVF9IVEE2NXhVblI4UExUSHlUNmxLQmFWSk9xb2N0Qk4wdmJENzZuMkttbFYtcGxBbzV1UG8?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmlZcGw4TkQtSTJmQkt5T29UMl9KcjNaQWZkdjJVcWFPUUZZZTFKOHZWdmxlSVpZYVpvU3RfVHdqaHljYmZva3FmOVhsVXA1TnpEcUUzMnY1ZGZYZ3BwSVFNWjBQeDh2OTFuemZfZ0JPdFV3SDBjRmp1WmlRMzZKMnNYVF9IVEE2NXhVblI4UExUSHlUNmxLQmFWSk9xb2N0Qk4wdmJENzZuMkttbFYtcGxBbzV1UG8?oc=5</guid>
-      <description><![CDATA[FDC educator banned from practicing for 12 months, sent to anger management training - The Sector]]></description>
-      <content:encoded><![CDATA[FDC educator banned from practicing for 12 months, sent to anger management training - The Sector]]></content:encoded>
-      <pubDate>Sat, 25 Apr 2026 16:17:22 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -509,16 +519,6 @@
       <description><![CDATA[What small private providers are quietly getting right and why we need to say it out loud - The Sector]]></description>
       <content:encoded><![CDATA[What small private providers are quietly getting right and why we need to say it out loud - The Sector]]></content:encoded>
       <pubDate>Wed, 22 Apr 2026 19:05:50 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[22% of Australian children start school without strong foundations - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEtRUWZ6R0xOcWhYM1kzRGRjaFpqdlkxQTVLN0ZkVzhjWGJTRTBpRnRQMkVjUkhhTk1MT2JqTDdybGlWM2VjT1ZKSFljS1BOREZrV203TUtEc1lLU2tsWHYxbVhQTElVQmhWVmxyUmZiUm1ZM0E3QWJQcVZfMjZHU1NXdFB0elRKWXNkay1HOU9OZVdfcWwySkZ5bVE4WjVuTW5Eb0tlZG1IMGcybzZGczRqRHk3UQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEtRUWZ6R0xOcWhYM1kzRGRjaFpqdlkxQTVLN0ZkVzhjWGJTRTBpRnRQMkVjUkhhTk1MT2JqTDdybGlWM2VjT1ZKSFljS1BOREZrV203TUtEc1lLU2tsWHYxbVhQTElVQmhWVmxyUmZiUm1ZM0E3QWJQcVZfMjZHU1NXdFB0elRKWXNkay1HOU9OZVdfcWwySkZ5bVE4WjVuTW5Eb0tlZG1IMGcybzZGczRqRHk3UQ?oc=5</guid>
-      <description><![CDATA[22% of Australian children start school without strong foundations - The Sector]]></description>
-      <content:encoded><![CDATA[22% of Australian children start school without strong foundations - The Sector]]></content:encoded>
-      <pubDate>Tue, 21 Apr 2026 16:03:53 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
