@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 13 May 2026 19:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 21:19:06 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/building-sustainable-leadership-pathways-ecec</guid>
       <description><![CDATA[The early childhood education and care (ECEC) sector has spent years discussing workforce shortages, attraction strategies and educator retention.]]></description>
       <content:encoded><![CDATA[The early childhood education and care (ECEC) sector has spent years discussing workforce shortages, attraction strategies and educator retention.]]></content:encoded>
-      <pubDate>Wed, 13 May 2026 19:41:51 GMT</pubDate>
+      <pubDate>Wed, 13 May 2026 21:19:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2224209199_db455f8b8a.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/positive-behaviour-guidance-child-safe-practice-video-series</guid>
       <description><![CDATA[A new series of regulatory priority videos has been released to support early childhood education and care (ECEC) professionals to strengthen everyday interactions with children.ons, family engagement and curriculum design.]]></description>
       <content:encoded><![CDATA[A new series of regulatory priority videos has been released to support early childhood education and care (ECEC) professionals to strengthen everyday interactions with children.ons, family engagement and curriculum design.]]></content:encoded>
-      <pubDate>Wed, 13 May 2026 18:41:51 GMT</pubDate>
+      <pubDate>Wed, 13 May 2026 20:19:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_507377088_752e2b3b02.webp" medium="image"/>
@@ -40,11 +40,35 @@
       <guid isPermaLink="true">https://thesector.com.au/article/who-supports-the-educators-supporting-children-ecec</guid>
       <description><![CDATA[Every day across Australia, early childhood educators support children with a wide range of developmental, emotional and behavioural needs.]]></description>
       <content:encoded><![CDATA[Every day across Australia, early childhood educators support children with a wide range of developmental, emotional and behavioural needs.]]></content:encoded>
-      <pubDate>Wed, 13 May 2026 17:41:51 GMT</pubDate>
+      <pubDate>Wed, 13 May 2026 19:19:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1307354987_a1033be9c2.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1307354987_a1033be9c2.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[ECEC may be turning a corner, but the hard work is just beginning]]></title>
+      <link>https://thesector.com.au/article/ecec-turning-corner-reform-workforce-viability</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/ecec-turning-corner-reform-workforce-viability</guid>
+      <description><![CDATA[For years, early childhood education and care (ECEC) has felt like a sector operating under constant pressure.]]></description>
+      <content:encoded><![CDATA[For years, early childhood education and care (ECEC) has felt like a sector operating under constant pressure.]]></content:encoded>
+      <pubDate>Wed, 13 May 2026 18:19:03 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1485184937_2_c276963bf4.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1485184937_2_c276963bf4.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[NSW Early Learning Commission launches new website]]></title>
+      <link>https://thesector.com.au/article/nsw-early-learning-commission-launches-new-website</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/nsw-early-learning-commission-launches-new-website</guid>
+      <description><![CDATA[The NSW Early Learning Commission has launched a new landing page within the NSW Government website, marking the beginning of a staged transition to a new digital home for early childhood education and care regulatory information in NSW.]]></description>
+      <content:encoded><![CDATA[The NSW Early Learning Commission has launched a new landing page within the NSW Government website, marking the beginning of a staged transition to a new digital home for early childhood education and care regulatory information in NSW.]]></content:encoded>
+      <pubDate>Wed, 13 May 2026 17:19:03 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1302296237_e49d963f47.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1302296237_e49d963f47.webp"/>
     </item>
     <item>
       <title><![CDATA[Princess Kate tours Italy in first overseas visit since cancer recovery - Australian Broadcasting Corporation]]></title>
@@ -57,36 +81,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[ECEC may be turning a corner, but the hard work is just beginning]]></title>
-      <link>https://thesector.com.au/article/ecec-turning-corner-reform-workforce-viability</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/ecec-turning-corner-reform-workforce-viability</guid>
-      <description><![CDATA[For years, early childhood education and care (ECEC) has felt like a sector operating under constant pressure.]]></description>
-      <content:encoded><![CDATA[For years, early childhood education and care (ECEC) has felt like a sector operating under constant pressure.]]></content:encoded>
-      <pubDate>Wed, 13 May 2026 16:41:51 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1485184937_2_c276963bf4.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1485184937_2_c276963bf4.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[NSW Early Learning Commission launches new website]]></title>
-      <link>https://thesector.com.au/article/nsw-early-learning-commission-launches-new-website</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/nsw-early-learning-commission-launches-new-website</guid>
-      <description><![CDATA[The NSW Early Learning Commission has launched a new landing page within the NSW Government website, marking the beginning of a staged transition to a new digital home for early childhood education and care regulatory information in NSW.]]></description>
-      <content:encoded><![CDATA[The NSW Early Learning Commission has launched a new landing page within the NSW Government website, marking the beginning of a staged transition to a new digital home for early childhood education and care regulatory information in NSW.]]></content:encoded>
-      <pubDate>Wed, 13 May 2026 15:41:51 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1302296237_e49d963f47.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1302296237_e49d963f47.webp"/>
-    </item>
-    <item>
       <title><![CDATA[Celebrating care, culture and commitment at Goodstart]]></title>
       <link>https://thesector.com.au/article/goodstarter-of-the-year-feny-belinda-heart-goodstart-melbourne</link>
       <guid isPermaLink="true">https://thesector.com.au/article/goodstarter-of-the-year-feny-belinda-heart-goodstart-melbourne</guid>
       <description><![CDATA[A national Goodies Award in 2025, recognising extraordinary community impact. Every Goodstart centre has people who make a difference. But once in a while, there’s someone whose impact is felt in every hello at the door, every carefully prepared meal, and every child who feels seen and valued.]]></description>
       <content:encoded><![CDATA[A national Goodies Award in 2025, recognising extraordinary community impact. Every Goodstart centre has people who make a difference. But once in a while, there’s someone whose impact is felt in every hello at the door, every carefully prepared meal, and every child who feels seen and valued.]]></content:encoded>
-      <pubDate>Wed, 13 May 2026 08:41:51 GMT</pubDate>
+      <pubDate>Wed, 13 May 2026 10:19:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/2025_National_Goodies_37_Feny_6dcdda0f83.webp" medium="image"/>
@@ -341,22 +341,22 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[UK watchdog rejects claims school-based settings are favoured: lessons for Australia’s ownership debate - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbk1EdlhFQ0IxazluQmJIODFoY28zSXNXYll4ZHp3QUhJUE5sXzJuVzVlN0dWcExKZXR4d2tLYjVOa2hwMjR3UkF5V1NCRUdnNUs5VFQ1dHBsWU9qT1hmOG0tS0N0c2hoYzFXRjRiNmxIQW1CRGhOUERLREN6OTZnS0hlNk9zSTVwUVZNQ2RmeU9mY002UEtwaU9XU3VmZy15c0NVMDlHRjFBUHhPY1Rla1NkZ2FLalJL?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbk1EdlhFQ0IxazluQmJIODFoY28zSXNXYll4ZHp3QUhJUE5sXzJuVzVlN0dWcExKZXR4d2tLYjVOa2hwMjR3UkF5V1NCRUdnNUs5VFQ1dHBsWU9qT1hmOG0tS0N0c2hoYzFXRjRiNmxIQW1CRGhOUERLREN6OTZnS0hlNk9zSTVwUVZNQ2RmeU9mY002UEtwaU9XU3VmZy15c0NVMDlHRjFBUHhPY1Rla1NkZ2FLalJL?oc=5</guid>
+      <description><![CDATA[UK watchdog rejects claims school-based settings are favoured: lessons for Australia’s ownership debate - The Sector]]></description>
+      <content:encoded><![CDATA[UK watchdog rejects claims school-based settings are favoured: lessons for Australia’s ownership debate - The Sector]]></content:encoded>
+      <pubDate>Sun, 03 May 2026 19:01:59 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[WA Regulator clarifies Regulation 124 with particular emphasis on FDC - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzc5Mm5vU05BZTZpQlV6NTZMeFJoS2pqTmxDTlYtbW8yZnQyX3ZzRlB5S0hYdkhEU1lLelVyVnhCbE5RM0cwNml4UFVjTXJoOWFqeDlIRG4wN0dLcWtLOXNGSTliN2V0ZEV1d2szQ25EZHVra2pjcHE2Q2JlTzVtUURLX2hwWEMwN2VacGNub0xyWnVlSGVPSnNQNWVNUDJvOVo0cw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzc5Mm5vU05BZTZpQlV6NTZMeFJoS2pqTmxDTlYtbW8yZnQyX3ZzRlB5S0hYdkhEU1lLelVyVnhCbE5RM0cwNml4UFVjTXJoOWFqeDlIRG4wN0dLcWtLOXNGSTliN2V0ZEV1d2szQ25EZHVra2pjcHE2Q2JlTzVtUURLX2hwWEMwN2VacGNub0xyWnVlSGVPSnNQNWVNUDJvOVo0cw?oc=5</guid>
       <description><![CDATA[WA Regulator clarifies Regulation 124 with particular emphasis on FDC - The Sector]]></description>
       <content:encoded><![CDATA[WA Regulator clarifies Regulation 124 with particular emphasis on FDC - The Sector]]></content:encoded>
       <pubDate>Sun, 03 May 2026 16:52:33 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[UK watchdog rejects claims school-based settings are favoured: lessons for Australia’s ownership debate - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbk1EdlhFQ0IxazluQmJIODFoY28zSXNXYll4ZHp3QUhJUE5sXzJuVzVlN0dWcExKZXR4d2tLYjVOa2hwMjR3UkF5V1NCRUdnNUs5VFQ1dHBsWU9qT1hmOG0tS0N0c2hoYzFXRjRiNmxIQW1CRGhOUERLREN6OTZnS0hlNk9zSTVwUVZNQ2RmeU9mY002UEtwaU9XU3VmZy15c0NVMDlHRjFBUHhPY1Rla1NkZ2FLalJL?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbk1EdlhFQ0IxazluQmJIODFoY28zSXNXYll4ZHp3QUhJUE5sXzJuVzVlN0dWcExKZXR4d2tLYjVOa2hwMjR3UkF5V1NCRUdnNUs5VFQ1dHBsWU9qT1hmOG0tS0N0c2hoYzFXRjRiNmxIQW1CRGhOUERLREN6OTZnS0hlNk9zSTVwUVZNQ2RmeU9mY002UEtwaU9XU3VmZy15c0NVMDlHRjFBUHhPY1Rla1NkZ2FLalJL?oc=5</guid>
-      <description><![CDATA[UK watchdog rejects claims school-based settings are favoured: lessons for Australia’s ownership debate - The Sector]]></description>
-      <content:encoded><![CDATA[UK watchdog rejects claims school-based settings are favoured: lessons for Australia’s ownership debate - The Sector]]></content:encoded>
-      <pubDate>Sun, 03 May 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -432,26 +432,6 @@
       <content:encoded><![CDATA[Education Council appoints new ACECQA board members - The Sector]]></content:encoded>
       <pubDate>Wed, 29 Apr 2026 08:41:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Australia’s largest private childcare operator slashes 40 centres - SMH.com.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmhoTHg4SThfY1BaQlJIakJqRGVtZFZLdEFqVFJGZVFTLVdwV1NqRDhQZW51VVl4Xzh5QzNzMTloWnZqOEkxd0JtREJjNktCRnBnLVFNMFdyTXI5TWcxQnZRY3dINTB5RHE0cE9xeElNU3RmUVlkeWxROVhSaTA1MF9za29EMVp6V0dwRGgtcjB0WW5WMS1PakZ3cDYwcEZyUV9mN1pBMkM3LXN2S3VoNmRxLWJxUkdXQUV6VGVFTGthOVhyTjNYQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmhoTHg4SThfY1BaQlJIakJqRGVtZFZLdEFqVFJGZVFTLVdwV1NqRDhQZW51VVl4Xzh5QzNzMTloWnZqOEkxd0JtREJjNktCRnBnLVFNMFdyTXI5TWcxQnZRY3dINTB5RHE0cE9xeElNU3RmUVlkeWxROVhSaTA1MF9za29EMVp6V0dwRGgtcjB0WW5WMS1PakZ3cDYwcEZyUV9mN1pBMkM3LXN2S3VoNmRxLWJxUkdXQUV6VGVFTGthOVhyTjNYQQ?oc=5</guid>
-      <description><![CDATA[Australia’s largest private childcare operator slashes 40 centres - SMH.com.au]]></description>
-      <content:encoded><![CDATA[Australia’s largest private childcare operator slashes 40 centres - SMH.com.au]]></content:encoded>
-      <pubDate>Wed, 29 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[SMH.com.au]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Childcare fail file: Victorian centres letting down families listed - Herald Sun]]></title>
-      <link>https://news.google.com/rss/articles/CBMitgJBVV95cUxQU2xZdTg1LTZzbnFSdzFZbXNMclpzRXdQdzQ1VmEtMTc0Q0lIZk9obEFoMk8tNGpCSE5LaVZSYU1OM3M1U0Rkel9iLTNGSE1XQ1d0VS1aUENGcG51Yy14b1NnNVk1WHh3UVoxb1EwZl9FbldrZWo0dVNZVjIyRWpVamZJbkUzQWJrVklLd2VLUjNRRldOTmM0RDF4a3NCd1U4bC1UbVgtRVc3OFFMZWkzajJJQmp1RUlCR2hSYkZwUXJBTi1mNmRYV2FiODM2dFNvSEhkNWNrektlNlZ6ZmJjcGJyalhKWWZyVnhWVkpsWTNXZkxrWDV4NVNTSk1ZZm9JMUt3WjhTVjFpRXd0WnJxYkk4MHZrLXlpcnIwS1hVTzh4VVR0SjRoMDNoM0V0bjNfRTNoejJR0gG7AkFVX3lxTFBUakFka2JjSlIwMWNDVndRWXpPYjc0bFFhdlJQaDhCRE56bXplNUQ2NEpqRGoxMndaS3JhWGZzRTVRTEVYNDMtUzhxZERMTHdfbV9waV9tTlludVNuOV9QVXA5WFdZMTdRdjl0WUVDMTJMd0VrcklRQnNxSHRmV0g2T2lxcmlqdHo2a0h0VlVtVUt5UmZhekI1d0tiYjQ0aFlrV202OVZIeEVRVFVkS0NqTTdHMDU1SUQxX3NNWW1LczluU1FPS1hXdnRhM3lEV1hNUjBrVHVWcjAxQXR0VlZVbzFuNTBOTF9pbHBOTHRvVjREX2l0T3NiT0trQnFOMVdidnBHMkxrcm4zTVZyTnFyQUZXX01tVzVQd2czSjZzcmszdW12ZzNpYXFtM3VSU3hKN2RyV3JaWnpRbw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgJBVV95cUxQU2xZdTg1LTZzbnFSdzFZbXNMclpzRXdQdzQ1VmEtMTc0Q0lIZk9obEFoMk8tNGpCSE5LaVZSYU1OM3M1U0Rkel9iLTNGSE1XQ1d0VS1aUENGcG51Yy14b1NnNVk1WHh3UVoxb1EwZl9FbldrZWo0dVNZVjIyRWpVamZJbkUzQWJrVklLd2VLUjNRRldOTmM0RDF4a3NCd1U4bC1UbVgtRVc3OFFMZWkzajJJQmp1RUlCR2hSYkZwUXJBTi1mNmRYV2FiODM2dFNvSEhkNWNrektlNlZ6ZmJjcGJyalhKWWZyVnhWVkpsWTNXZkxrWDV4NVNTSk1ZZm9JMUt3WjhTVjFpRXd0WnJxYkk4MHZrLXlpcnIwS1hVTzh4VVR0SjRoMDNoM0V0bjNfRTNoejJR0gG7AkFVX3lxTFBUakFka2JjSlIwMWNDVndRWXpPYjc0bFFhdlJQaDhCRE56bXplNUQ2NEpqRGoxMndaS3JhWGZzRTVRTEVYNDMtUzhxZERMTHdfbV9waV9tTlludVNuOV9QVXA5WFdZMTdRdjl0WUVDMTJMd0VrcklRQnNxSHRmV0g2T2lxcmlqdHo2a0h0VlVtVUt5UmZhekI1d0tiYjQ0aFlrV202OVZIeEVRVFVkS0NqTTdHMDU1SUQxX3NNWW1LczluU1FPS1hXdnRhM3lEV1hNUjBrVHVWcjAxQXR0VlZVbzFuNTBOTF9pbHBOTHRvVjREX2l0T3NiT0trQnFOMVdidnBHMkxrcm4zTVZyTnFyQUZXX01tVzVQd2czSjZzcmszdW12ZzNpYXFtM3VSU3hKN2RyV3JaWnpRbw?oc=5</guid>
-      <description><![CDATA[Childcare fail file: Victorian centres letting down families listed - Herald Sun]]></description>
-      <content:encoded><![CDATA[Childcare fail file: Victorian centres letting down families listed - Herald Sun]]></content:encoded>
-      <pubDate>Wed, 29 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[Herald Sun]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -537,6 +517,28 @@
       <description><![CDATA[It’s time to stop pretending ownership determines quality in early childhood education - The Sector]]></description>
       <content:encoded><![CDATA[It’s time to stop pretending ownership determines quality in early childhood education - The Sector]]></content:encoded>
       <pubDate>Thu, 23 Apr 2026 20:13:50 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Supporting Aboriginal and Torres Strait Islander children means supporting the community-controlled sector]]></title>
+      <link>https://www.snaicc.org.au/supporting-aboriginal-and-torres-strait-islander-children-means-supporting-the-community-controlled-sector/</link>
+      <guid isPermaLink="true">https://www.snaicc.org.au/supporting-aboriginal-and-torres-strait-islander-children-means-supporting-the-community-controlled-sector/</guid>
+      <description><![CDATA[Op-Ed on supporting Aboriginal and Torres Strait Islander children means supporting the community-controlled sector]]></description>
+      <content:encoded><![CDATA[Op-Ed on supporting Aboriginal and Torres Strait Islander children means supporting the community-controlled sector]]></content:encoded>
+      <pubDate>Wed, 22 Apr 2026 23:10:03 +0000</pubDate>
+      <dc:creator><![CDATA[SNAICC]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png" medium="image"/>
+      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png"/>
+    </item>
+    <item>
+      <title><![CDATA[What small private providers are quietly getting right and why we need to say it out loud - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHQxbllxSldrY0ppS2NqTnlib3FHaDI4c1U2QXJzbXNlbzRJaWliaHowc2NLY0F3Ym8wZ29BLWdVZzVjSVR1YkRXR2w3c0pBZVJReHR5NEhPUGZkdkJfMDczUFBhSlFIUmR1TzFBYXBkVEhpdUVlRlFKWTJlc3BaSzNBTWdHcjVhNVNzcXBjc3Y4RDV4?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHQxbllxSldrY0ppS2NqTnlib3FHaDI4c1U2QXJzbXNlbzRJaWliaHowc2NLY0F3Ym8wZ29BLWdVZzVjSVR1YkRXR2w3c0pBZVJReHR5NEhPUGZkdkJfMDczUFBhSlFIUmR1TzFBYXBkVEhpdUVlRlFKWTJlc3BaSzNBTWdHcjVhNVNzcXBjc3Y4RDV4?oc=5</guid>
+      <description><![CDATA[What small private providers are quietly getting right and why we need to say it out loud - The Sector]]></description>
+      <content:encoded><![CDATA[What small private providers are quietly getting right and why we need to say it out loud - The Sector]]></content:encoded>
+      <pubDate>Wed, 22 Apr 2026 19:05:50 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
