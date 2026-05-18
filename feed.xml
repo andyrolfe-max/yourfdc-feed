@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Mon, 18 May 2026 22:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 23:57:36 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/professional-educator-workshop-diploma-traineeship-ecec</guid>
       <description><![CDATA[As Australia’s early childhood education and care (ECEC) sector continues to evolve, the need for strong professional identity, clear career pathways and high-quality training has never been more important.]]></description>
       <content:encoded><![CDATA[As Australia’s early childhood education and care (ECEC) sector continues to evolve, the need for strong professional identity, clear career pathways and high-quality training has never been more important.]]></content:encoded>
-      <pubDate>Mon, 18 May 2026 22:51:05 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 23:57:33 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Centre_of_Excellence_3_2e4daddc31.jpg" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/play-school-learning-environments-pre-service-teachers</guid>
       <description><![CDATA[Recently, a group of first and second-year pre-service early childhood teachers from Australian Catholic University visited the Play School: Come and Play! exhibition at the Australian Centre for the Moving Image (ACMI) as part of their studies exploring environments for learning in the early years.]]></description>
       <content:encoded><![CDATA[Recently, a group of first and second-year pre-service early childhood teachers from Australian Catholic University visited the Play School: Come and Play! exhibition at the Australian Centre for the Moving Image (ACMI) as part of their studies exploring environments for learning in the early years.]]></content:encoded>
-      <pubDate>Mon, 18 May 2026 21:51:05 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 22:57:33 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Screenshot_2026_05_18_at_16_29_38_41030b441c.webp" medium="image"/>
@@ -40,11 +40,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/project-thrive-ecec-educator-wellbeing-rct</guid>
       <description><![CDATA[Anyone working in or alongside early childhood education and care knows the workforce is under strain. Educators are leaving. Centres are struggling to maintain stable teams. The children and families who depend on consistent, trusting relationships with the adults in their care are absorbing the consequences of a workforce that is stretched too thin and not adequately supported.]]></description>
       <content:encoded><![CDATA[Anyone working in or alongside early childhood education and care knows the workforce is under strain. Educators are leaving. Centres are struggling to maintain stable teams. The children and families who depend on consistent, trusting relationships with the adults in their care are absorbing the consequences of a workforce that is stretched too thin and not adequately supported.]]></content:encoded>
-      <pubDate>Mon, 18 May 2026 20:51:05 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 21:57:33 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1338729700_b6cb8fd0d7.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1338729700_b6cb8fd0d7.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[A coach, not a co-author: Storypark Assist helps educators deliver high quality learning documentation through considered AI]]></title>
+      <link>https://thesector.com.au/article/storypark-assist-ai-learning-documentation-early-childhood-education</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/storypark-assist-ai-learning-documentation-early-childhood-education</guid>
+      <description><![CDATA[How 300 educators and leaders came together with the Storypark team, to help Early Childhood Education and Care (ECEC) services shape and strengthen high quality learning stories through a considered approach to AI.]]></description>
+      <content:encoded><![CDATA[How 300 educators and leaders came together with the Storypark team, to help Early Childhood Education and Care (ECEC) services shape and strengthen high quality learning stories through a considered approach to AI.]]></content:encoded>
+      <pubDate>Mon, 18 May 2026 20:57:33 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/image_3ba79937a1.png" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/image_3ba79937a1.png"/>
     </item>
     <item>
       <title><![CDATA[To improve children’s mental health, start by supporting their parents]]></title>
@@ -59,24 +71,12 @@
       <media:thumbnail url="https://images.theconversation.com/files/731258/original/file-20260421-57-4bcs48.jpg?ixlib=rb-4.1.0&amp;rect=0%2C384%2C4608%2C2304&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
     </item>
     <item>
-      <title><![CDATA[A coach, not a co-author: Storypark Assist helps educators deliver high quality learning documentation through considered AI]]></title>
-      <link>https://thesector.com.au/article/storypark-assist-ai-learning-documentation-early-childhood-education</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/storypark-assist-ai-learning-documentation-early-childhood-education</guid>
-      <description><![CDATA[How 300 educators and leaders came together with the Storypark team, to help Early Childhood Education and Care (ECEC) services shape and strengthen high quality learning stories through a considered approach to AI.]]></description>
-      <content:encoded><![CDATA[How 300 educators and leaders came together with the Storypark team, to help Early Childhood Education and Care (ECEC) services shape and strengthen high quality learning stories through a considered approach to AI.]]></content:encoded>
-      <pubDate>Mon, 18 May 2026 19:51:05 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/image_3ba79937a1.png" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/image_3ba79937a1.png"/>
-    </item>
-    <item>
       <title><![CDATA[Free Kinder Shapes Young Lives: Victoria launches major new campaign celebrating the power of early childhood education]]></title>
       <link>https://thesector.com.au/article/free-kinder-shapes-young-lives-victoria-campaign-early-childhood-education</link>
       <guid isPermaLink="true">https://thesector.com.au/article/free-kinder-shapes-young-lives-victoria-campaign-early-childhood-education</guid>
       <description><![CDATA[Victoria has unveiled Free Kinder Shapes Young Lives, a bold new campaign marking the next milestone of the state’s Best Start, Best Life reforms. It promotes the benefits of kinder for families, reinforcing the transformative role early childhood education plays in shaping children’s futures.]]></description>
       <content:encoded><![CDATA[Victoria has unveiled Free Kinder Shapes Young Lives, a bold new campaign marking the next milestone of the state’s Best Start, Best Life reforms. It promotes the benefits of kinder for families, reinforcing the transformative role early childhood education plays in shaping children’s futures.]]></content:encoded>
-      <pubDate>Mon, 18 May 2026 18:51:05 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 19:57:33 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/DETS_2819_DE_FKSYL_Component_1_B_2026_FPL_Web_Banner_1920x1080px_FK_3_e6a09d21a7.webp" medium="image"/>
@@ -88,7 +88,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/victoria-teacher-kindergarten-pay-rise-2026</guid>
       <description><![CDATA[Victoria is set to become one of the highest-paying jurisdictions in Australia for teachers, principals and education support staff, following a significant pay offer from the Allan Government.]]></description>
       <content:encoded><![CDATA[Victoria is set to become one of the highest-paying jurisdictions in Australia for teachers, principals and education support staff, following a significant pay offer from the Allan Government.]]></content:encoded>
-      <pubDate>Mon, 18 May 2026 11:51:05 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 12:57:33 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1158971430_7b82321891.webp" medium="image"/>
@@ -100,7 +100,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/turning-corner-not-enough-ecec-needs-system-conditions</guid>
       <description><![CDATA[For years, early childhood education and care (ECEC) has been defined by pressure: workforce shortages, rising costs, reform fatigue and operational instability.]]></description>
       <content:encoded><![CDATA[For years, early childhood education and care (ECEC) has been defined by pressure: workforce shortages, rising costs, reform fatigue and operational instability.]]></content:encoded>
-      <pubDate>Mon, 18 May 2026 10:51:05 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:57:33 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1369813047_516443bead.webp" medium="image"/>
@@ -237,16 +237,6 @@
       <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2026/05/SNAICC-Newsletter-header-340-x-228-px.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Princess Kate tours Italy in first overseas visit since cancer recovery - Australian Broadcasting Corporation]]></title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOcUFKemZ2ZnUwYTFnTTBmbnk4Q0FWTFJTSGoycU5wS3R4bnVQRWlCU21XdWpYSm1rZThyYjZGYUpUUGlBdlc2dlN1U0Q5SzByOEIxTnRjQXB4VU15SlhhNlJsNXEwSnUxOGlsaGotUTM4dHQ1VjhXdzBNVFdWVk5MTUd2RUZmTWVMMF9LN1RXUWY0SVdEQ2VZUw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxOcUFKemZ2ZnUwYTFnTTBmbnk4Q0FWTFJTSGoycU5wS3R4bnVQRWlCU21XdWpYSm1rZThyYjZGYUpUUGlBdlc2dlN1U0Q5SzByOEIxTnRjQXB4VU15SlhhNlJsNXEwSnUxOGlsaGotUTM4dHQ1VjhXdzBNVFdWVk5MTUd2RUZmTWVMMF9LN1RXUWY0SVdEQ2VZUw?oc=5</guid>
-      <description><![CDATA[Princess Kate tours Italy in first overseas visit since cancer recovery - Australian Broadcasting Corporation]]></description>
-      <content:encoded><![CDATA[Princess Kate tours Italy in first overseas visit since cancer recovery - Australian Broadcasting Corporation]]></content:encoded>
-      <pubDate>Wed, 13 May 2026 16:49:39 GMT</pubDate>
-      <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[2026–27 Federal Budget: what it means for early childhood education and care - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWxNWFczTXhrMnJQQnBqeTJMbjdqRHkxSngzeU9RV19wRnlWZnViT3cwUU1ic3NJSXV0bTk3Ry1kUUtEYzVfcWpSQS1paDBJSlowWllUUFNLSEJTVGhoamZ4STZyX2p1SWctQmt3VUN2cWFTaVd4WVFUZEU4V0hwMm9PMjFUa2RkZmxsSWQ1ZHpnOFk1ZkllWDBCMUUtSlU5REdEX2dyV0daQThM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWxNWFczTXhrMnJQQnBqeTJMbjdqRHkxSngzeU9RV19wRnlWZnViT3cwUU1ic3NJSXV0bTk3Ry1kUUtEYzVfcWpSQS1paDBJSlowWllUUFNLSEJTVGhoamZ4STZyX2p1SWctQmt3VUN2cWFTaVd4WVFUZEU4V0hwMm9PMjFUa2RkZmxsSWQ1ZHpnOFk1ZkllWDBCMUUtSlU5REdEX2dyV0daQThM?oc=5</guid>
@@ -351,16 +341,6 @@
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://www.snaicc.org.au/wp-content/uploads/2024/11/SNAICC-Socials-8-scaled.jpg" medium="image"/>
       <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2024/11/SNAICC-Socials-8-scaled.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Storypark and Xap merge in a significant move for Australia's early childhood education sector - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjR6M25MYXZJYXJYZTlFNTR2NWFQNFJEN3Q1TkJINjNGSkdEcmxVaWpCeC01bm96UVBfd3d2TE50T0RRaWlCdmhHbkFHYUJqb3E0SEs1NkdBNzdoRzU5cmhqVkNXRFhpOHVtYVU2ZjhLeENEYlg2Tlg4RWJCNnUybFgzejNTdHVTenVTbUxkSk9BempKbi1Ndk9tRVdJd3A2b18wRVp6SjRMMkRrT1lFTQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjR6M25MYXZJYXJYZTlFNTR2NWFQNFJEN3Q1TkJINjNGSkdEcmxVaWpCeC01bm96UVBfd3d2TE50T0RRaWlCdmhHbkFHYUJqb3E0SEs1NkdBNzdoRzU5cmhqVkNXRFhpOHVtYVU2ZjhLeENEYlg2Tlg4RWJCNnUybFgzejNTdHVTenVTbUxkSk9BempKbi1Ndk9tRVdJd3A2b18wRVp6SjRMMkRrT1lFTQ?oc=5</guid>
-      <description><![CDATA[Storypark and Xap merge in a significant move for Australia's early childhood education sector - The Sector]]></description>
-      <content:encoded><![CDATA[Storypark and Xap merge in a significant move for Australia's early childhood education sector - The Sector]]></content:encoded>
-      <pubDate>Fri, 08 May 2026 05:05:02 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
       <title><![CDATA[Winners of National Family Day Care Award to be announced this weekend - The Sector]]></title>
@@ -469,16 +449,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Childcare fail file: Victorian centres letting down families listed - Herald Sun]]></title>
-      <link>https://news.google.com/rss/articles/CBMitgJBVV95cUxQU2xZdTg1LTZzbnFSdzFZbXNMclpzRXdQdzQ1VmEtMTc0Q0lIZk9obEFoMk8tNGpCSE5LaVZSYU1OM3M1U0Rkel9iLTNGSE1XQ1d0VS1aUENGcG51Yy14b1NnNVk1WHh3UVoxb1EwZl9FbldrZWo0dVNZVjIyRWpVamZJbkUzQWJrVklLd2VLUjNRRldOTmM0RDF4a3NCd1U4bC1UbVgtRVc3OFFMZWkzajJJQmp1RUlCR2hSYkZwUXJBTi1mNmRYV2FiODM2dFNvSEhkNWNrektlNlZ6ZmJjcGJyalhKWWZyVnhWVkpsWTNXZkxrWDV4NVNTSk1ZZm9JMUt3WjhTVjFpRXd0WnJxYkk4MHZrLXlpcnIwS1hVTzh4VVR0SjRoMDNoM0V0bjNfRTNoejJR0gG7AkFVX3lxTFBUakFka2JjSlIwMWNDVndRWXpPYjc0bFFhdlJQaDhCRE56bXplNUQ2NEpqRGoxMndaS3JhWGZzRTVRTEVYNDMtUzhxZERMTHdfbV9waV9tTlludVNuOV9QVXA5WFdZMTdRdjl0WUVDMTJMd0VrcklRQnNxSHRmV0g2T2lxcmlqdHo2a0h0VlVtVUt5UmZhekI1d0tiYjQ0aFlrV202OVZIeEVRVFVkS0NqTTdHMDU1SUQxX3NNWW1LczluU1FPS1hXdnRhM3lEV1hNUjBrVHVWcjAxQXR0VlZVbzFuNTBOTF9pbHBOTHRvVjREX2l0T3NiT0trQnFOMVdidnBHMkxrcm4zTVZyTnFyQUZXX01tVzVQd2czSjZzcmszdW12ZzNpYXFtM3VSU3hKN2RyV3JaWnpRbw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgJBVV95cUxQU2xZdTg1LTZzbnFSdzFZbXNMclpzRXdQdzQ1VmEtMTc0Q0lIZk9obEFoMk8tNGpCSE5LaVZSYU1OM3M1U0Rkel9iLTNGSE1XQ1d0VS1aUENGcG51Yy14b1NnNVk1WHh3UVoxb1EwZl9FbldrZWo0dVNZVjIyRWpVamZJbkUzQWJrVklLd2VLUjNRRldOTmM0RDF4a3NCd1U4bC1UbVgtRVc3OFFMZWkzajJJQmp1RUlCR2hSYkZwUXJBTi1mNmRYV2FiODM2dFNvSEhkNWNrektlNlZ6ZmJjcGJyalhKWWZyVnhWVkpsWTNXZkxrWDV4NVNTSk1ZZm9JMUt3WjhTVjFpRXd0WnJxYkk4MHZrLXlpcnIwS1hVTzh4VVR0SjRoMDNoM0V0bjNfRTNoejJR0gG7AkFVX3lxTFBUakFka2JjSlIwMWNDVndRWXpPYjc0bFFhdlJQaDhCRE56bXplNUQ2NEpqRGoxMndaS3JhWGZzRTVRTEVYNDMtUzhxZERMTHdfbV9waV9tTlludVNuOV9QVXA5WFdZMTdRdjl0WUVDMTJMd0VrcklRQnNxSHRmV0g2T2lxcmlqdHo2a0h0VlVtVUt5UmZhekI1d0tiYjQ0aFlrV202OVZIeEVRVFVkS0NqTTdHMDU1SUQxX3NNWW1LczluU1FPS1hXdnRhM3lEV1hNUjBrVHVWcjAxQXR0VlZVbzFuNTBOTF9pbHBOTHRvVjREX2l0T3NiT0trQnFOMVdidnBHMkxrcm4zTVZyTnFyQUZXX01tVzVQd2czSjZzcmszdW12ZzNpYXFtM3VSU3hKN2RyV3JaWnpRbw?oc=5</guid>
-      <description><![CDATA[Childcare fail file: Victorian centres letting down families listed - Herald Sun]]></description>
-      <content:encoded><![CDATA[Childcare fail file: Victorian centres letting down families listed - Herald Sun]]></content:encoded>
-      <pubDate>Wed, 29 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[Herald Sun]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[National Child and Family Investment Strategy sets clear direction, now governments must deliver]]></title>
       <link>https://www.snaicc.org.au/national-child-and-family-investment-strategy-sets-clear-direction-now-governments-must-deliver/</link>
       <guid isPermaLink="true">https://www.snaicc.org.au/national-child-and-family-investment-strategy-sets-clear-direction-now-governments-must-deliver/</guid>
@@ -550,6 +520,36 @@
       <content:encoded><![CDATA[High praise and safety for Council-run childcare centres - Northern Beaches Council]]></content:encoded>
       <pubDate>Thu, 16 Apr 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[Northern Beaches Council]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[NSW’s best and worst-rated childcare centres revealed - Daily Telegraph Sydney]]></title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMTBUQUJpOTY5Q25fOHhkdmpITGloV1NFLVJvYnlGSFJ1dXFOMVJpLVl3NUdJQTE5bG9ZczJKYy1SYmxaLWpob0tKc1FTNmxzZ3BZSmVWbEp0WTNrZUw3c3AtaE5MbFE3cGJXWU5fM2dIdlc4d0VjcXFvaVpYemRTOGhxNGtSZ09sWTJxRVFfX1UtNElScUh6M1N2SU0wYjVrMDNEamJSVi1xdmNvaThEY1hHU2c5Zk9DcTBpckZmRU1JTTJTdnhFWHJSS0xIWnNmY3fSAdcBQVVfeXFMTmJZR25naVNoakFPWEhFLTFWRkhEbzdCWU43UjRoTjFTYkx6cFNUdmpzMFBvLUhvazJ0bHQxbEdPOWlFbzNQMHJtMno1MEFjeTdJbFhMWXhsSVNjR0RXVzhDcGJGWFVvWjRnQ3RRQldYZUFTVkdCUnVqejlPS2NoWTZVX0hNdE9vUTlYeEVneElQTUoxdlB4MGFUV1lvQzdlbjB2a2oyb19WWHhNckdSZk16WFhxOUpBTU01WUtTX1otOGlyeGl1di1DT05jeUxzODdHX0JRazg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMTBUQUJpOTY5Q25fOHhkdmpITGloV1NFLVJvYnlGSFJ1dXFOMVJpLVl3NUdJQTE5bG9ZczJKYy1SYmxaLWpob0tKc1FTNmxzZ3BZSmVWbEp0WTNrZUw3c3AtaE5MbFE3cGJXWU5fM2dIdlc4d0VjcXFvaVpYemRTOGhxNGtSZ09sWTJxRVFfX1UtNElScUh6M1N2SU0wYjVrMDNEamJSVi1xdmNvaThEY1hHU2c5Zk9DcTBpckZmRU1JTTJTdnhFWHJSS0xIWnNmY3fSAdcBQVVfeXFMTmJZR25naVNoakFPWEhFLTFWRkhEbzdCWU43UjRoTjFTYkx6cFNUdmpzMFBvLUhvazJ0bHQxbEdPOWlFbzNQMHJtMno1MEFjeTdJbFhMWXhsSVNjR0RXVzhDcGJGWFVvWjRnQ3RRQldYZUFTVkdCUnVqejlPS2NoWTZVX0hNdE9vUTlYeEVneElQTUoxdlB4MGFUV1lvQzdlbjB2a2oyb19WWHhNckdSZk16WFhxOUpBTU01WUtTX1otOGlyeGl1di1DT05jeUxzODdHX0JRazg?oc=5</guid>
+      <description><![CDATA[NSW’s best and worst-rated childcare centres revealed - Daily Telegraph Sydney]]></description>
+      <content:encoded><![CDATA[NSW’s best and worst-rated childcare centres revealed - Daily Telegraph Sydney]]></content:encoded>
+      <pubDate>Thu, 16 Apr 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[Daily Telegraph Sydney]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Rat poison, dog poo and bleach within children’s reach at day care - SMH.com.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNS2Rpdjg2Si11NXgyMkxGYVpDOXBJaV9FNUtJWDR0czk4VjM4eEYtdVhYblNrcGw1UHlEZTM3NmpQVXJUWng3SWFuUUd0aXZCNGVkZ21FMDdHc1pzMk1GOEtOLWVIdmZadUVlTXpLTUt5SGhvaDJ2NjVRNjJ6ZU90b09ZNm55b25TY0g2NkNycTQ3a0VuOXdwSkZLT2M3YXYtWElveGJGSmZ0aEVMd29Ec244WGhmaXhPMGNDbF9nR2RIWHkwamc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMixgFBVV95cUxNS2Rpdjg2Si11NXgyMkxGYVpDOXBJaV9FNUtJWDR0czk4VjM4eEYtdVhYblNrcGw1UHlEZTM3NmpQVXJUWng3SWFuUUd0aXZCNGVkZ21FMDdHc1pzMk1GOEtOLWVIdmZadUVlTXpLTUt5SGhvaDJ2NjVRNjJ6ZU90b09ZNm55b25TY0g2NkNycTQ3a0VuOXdwSkZLT2M3YXYtWElveGJGSmZ0aEVMd29Ec244WGhmaXhPMGNDbF9nR2RIWHkwamc?oc=5</guid>
+      <description><![CDATA[Rat poison, dog poo and bleach within children’s reach at day care - SMH.com.au]]></description>
+      <content:encoded><![CDATA[Rat poison, dog poo and bleach within children’s reach at day care - SMH.com.au]]></content:encoded>
+      <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[SMH.com.au]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[WA ECLD Sector Awards 2026 celebrate leadership, inclusion and quality in early learning l The Sector - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2E4anNqSFZqbTJQaEYtdndxZ0FCRmV3Z0tQZ1h2T0JPNWE3NGtvb0JhWTBZMVl6Wjd6RGdON2s3UHcwWnRIMWFDS09tb21RbXltNjhkNWVpQ3NZLUV3S1VRRndfd1h5bUh0ZVhDV3MtZUdxd0JtT0FyUzhJNFAtd1pLQUdmQjF5LUhpOEV5MjJZaWQ0ejNUWFdZeThTdUV4eDV4TmJn?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2E4anNqSFZqbTJQaEYtdndxZ0FCRmV3Z0tQZ1h2T0JPNWE3NGtvb0JhWTBZMVl6Wjd6RGdON2s3UHcwWnRIMWFDS09tb21RbXltNjhkNWVpQ3NZLUV3S1VRRndfd1h5bUh0ZVhDV3MtZUdxd0JtT0FyUzhJNFAtd1pLQUdmQjF5LUhpOEV5MjJZaWQ0ejNUWFdZeThTdUV4eDV4TmJn?oc=5</guid>
+      <description><![CDATA[WA ECLD Sector Awards 2026 celebrate leadership, inclusion and quality in early learning l The Sector - The Sector]]></description>
+      <content:encoded><![CDATA[WA ECLD Sector Awards 2026 celebrate leadership, inclusion and quality in early learning l The Sector - The Sector]]></content:encoded>
+      <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
