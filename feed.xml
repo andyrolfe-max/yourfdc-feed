@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 20 May 2026 02:33:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:41:38 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/investigation-child-leaves-busy-bees-cameron-park-unsupervised</guid>
       <description><![CDATA[An investigation is reportedly underway after a child was able to leave Busy Bees Cameron Park unsupervised, renewing sector focus on supervision systems, risk management and regulatory compliance across early childhood education and care (ECEC) services.]]></description>
       <content:encoded><![CDATA[An investigation is reportedly underway after a child was able to leave Busy Bees Cameron Park unsupervised, renewing sector focus on supervision systems, risk management and regulatory compliance across early childhood education and care (ECEC) services.]]></content:encoded>
-      <pubDate>Wed, 20 May 2026 02:33:12 GMT</pubDate>
+      <pubDate>Wed, 20 May 2026 06:41:32 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1305604666_6ca9214dd5.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/teamkids-dairy-farmers-big-skip-screen-time-activity</guid>
       <description><![CDATA[The Australian Government has released a dedicated support page for G8 Education Limited workers and their families, following the provider’s decision to suspend a number of early childhood education and care (ECEC) services across Australia.]]></description>
       <content:encoded><![CDATA[The Australian Government has released a dedicated support page for G8 Education Limited workers and their families, following the provider’s decision to suspend a number of early childhood education and care (ECEC) services across Australia.]]></content:encoded>
-      <pubDate>Wed, 20 May 2026 01:33:12 GMT</pubDate>
+      <pubDate>Wed, 20 May 2026 05:41:32 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Team_Kids_010426_138_bc0879a861.jpg" medium="image"/>
@@ -40,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/south-australia-integrated-hubs-children-families</guid>
       <description><![CDATA[South Australia will open three new integrated child and family hubs, giving families easier access to early education, health and wellbeing services in one location.]]></description>
       <content:encoded><![CDATA[South Australia will open three new integrated child and family hubs, giving families easier access to early education, health and wellbeing services in one location.]]></content:encoded>
-      <pubDate>Wed, 20 May 2026 00:33:12 GMT</pubDate>
+      <pubDate>Wed, 20 May 2026 04:41:32 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_936386002_cb792eec1e.webp" medium="image"/>
@@ -52,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/global-summit-economic-stakes-early-childhood-education</guid>
       <description><![CDATA[A national summit in the United States has placed early childhood education at the centre of economic debate, reinforcing the argument that investment in the early years is not only a social policy priority, but a driver of workforce participation, productivity and long-term economic stability.]]></description>
       <content:encoded><![CDATA[A national summit in the United States has placed early childhood education at the centre of economic debate, reinforcing the argument that investment in the early years is not only a social policy priority, but a driver of workforce participation, productivity and long-term economic stability.]]></content:encoded>
-      <pubDate>Tue, 19 May 2026 23:33:12 GMT</pubDate>
+      <pubDate>Wed, 20 May 2026 03:41:32 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1457728209_df8cecb4a7.webp" medium="image"/>
@@ -64,11 +64,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/nt-education-care-awards-2026-nominations-open</guid>
       <description><![CDATA[The Northern Territory Education and Care Awards have opened for 2026, recognising educators, leaders, services and programs making a positive difference for children and families across the Territory.]]></description>
       <content:encoded><![CDATA[The Northern Territory Education and Care Awards have opened for 2026, recognising educators, leaders, services and programs making a positive difference for children and families across the Territory.]]></content:encoded>
-      <pubDate>Tue, 19 May 2026 22:33:12 GMT</pubDate>
+      <pubDate>Wed, 20 May 2026 02:41:32 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2253499640_6b1f34164e.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2253499640_6b1f34164e.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Victoria sets new benchmark with major pay rise for teachers and early childhood educators]]></title>
+      <link>https://thesector.com.au/article/victoria-teacher-kindergarten-pay-rise-2026</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/victoria-teacher-kindergarten-pay-rise-2026</guid>
+      <description><![CDATA[Victoria is set to become one of the highest-paying jurisdictions in Australia for teachers, principals and education support staff, following a significant pay offer from the Allan Government.]]></description>
+      <content:encoded><![CDATA[Victoria is set to become one of the highest-paying jurisdictions in Australia for teachers, principals and education support staff, following a significant pay offer from the Allan Government.]]></content:encoded>
+      <pubDate>Tue, 19 May 2026 19:41:32 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1158971430_7b82321891.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1158971430_7b82321891.webp"/>
     </item>
     <item>
       <title><![CDATA[What the new Australian Tertiary Education Commission means for the ECEC workforce - The Sector]]></title>
@@ -79,18 +91,6 @@
       <pubDate>Tue, 19 May 2026 19:04:45 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Victoria sets new benchmark with major pay rise for teachers and early childhood educators]]></title>
-      <link>https://thesector.com.au/article/victoria-teacher-kindergarten-pay-rise-2026</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/victoria-teacher-kindergarten-pay-rise-2026</guid>
-      <description><![CDATA[Victoria is set to become one of the highest-paying jurisdictions in Australia for teachers, principals and education support staff, following a significant pay offer from the Allan Government.]]></description>
-      <content:encoded><![CDATA[Victoria is set to become one of the highest-paying jurisdictions in Australia for teachers, principals and education support staff, following a significant pay offer from the Allan Government.]]></content:encoded>
-      <pubDate>Tue, 19 May 2026 15:33:12 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1158971430_7b82321891.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1158971430_7b82321891.webp"/>
     </item>
     <item>
       <title><![CDATA[Federal Government Signals Major Overhaul of Australia’s Early Learning System - businessnews.com.au]]></title>
@@ -157,11 +157,11 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Government outlines support for G8 Education workers and families following centre suspensions - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBFR3RDbG1sQ0cyYjl2b3RvVWlhTFlkc2VtdjZEcFRiRjBXYVNOckVQWDl0bmp6YnFxUUw5cmM4T2RqeTNPLUJCUFZvR0FDV2EwNDVYYk9TLXJ3WHBzdkFyNlZDaVZxRW9BZU9IWE5BZG5ZenN3bXpKQjVB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTFBFR3RDbG1sQ0cyYjl2b3RvVWlhTFlkc2VtdjZEcFRiRjBXYVNOckVQWDl0bmp6YnFxUUw5cmM4T2RqeTNPLUJCUFZvR0FDV2EwNDVYYk9TLXJ3WHBzdkFyNlZDaVZxRW9BZU9IWE5BZG5ZenN3bXpKQjVB?oc=5</guid>
-      <description><![CDATA[Government outlines support for G8 Education workers and families following centre suspensions - The Sector]]></description>
-      <content:encoded><![CDATA[Government outlines support for G8 Education workers and families following centre suspensions - The Sector]]></content:encoded>
+      <title><![CDATA[Australian Childcare Alliance calls for long-term certainty for wages funding for the early learning sector - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPSThiQXBuODc2TzFxWURrX2Nadi1vdklaZk9XYy1SdmNBVFl5UGU5Q0ZqS1BOMTM4NDFDcEtoZDB0d3ZHbUVGN01HamtqRU5kZDZpUkt5RG1yWGZpYWFfbjVKRHlYRHl3alRZYi1YNE1vbVJMdEdBMjEtcGdwV1IyOGgzcV9pRDVSdTN1ZzRlLUhOLVNVa1E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxPSThiQXBuODc2TzFxWURrX2Nadi1vdklaZk9XYy1SdmNBVFl5UGU5Q0ZqS1BOMTM4NDFDcEtoZDB0d3ZHbUVGN01HamtqRU5kZDZpUkt5RG1yWGZpYWFfbjVKRHlYRHl3alRZYi1YNE1vbVJMdEdBMjEtcGdwV1IyOGgzcV9pRDVSdTN1ZzRlLUhOLVNVa1E?oc=5</guid>
+      <description><![CDATA[Australian Childcare Alliance calls for long-term certainty for wages funding for the early learning sector - The Sector]]></description>
+      <content:encoded><![CDATA[Australian Childcare Alliance calls for long-term certainty for wages funding for the early learning sector - The Sector]]></content:encoded>
       <pubDate>Sun, 17 May 2026 19:07:13 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
@@ -250,16 +250,6 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHNTZnpyNG5WMmpNaDRlZ1BDcmxBMklQelM5T2pqMWoxRF8wYmZQYVBGZm9XQ1ljbzVyVURTVGVwY3pPa050WnhDc2tEZF9ic2JKLV9hdmM3NzV2QWtORE5yaUpnWnJTbUlmRTBxSzFqdjNXYzJsNW5HX2JyRHhnX3F0NE9faG90bU5vc004TmI1QQ?oc=5</guid>
       <description><![CDATA[National tool helps chart career pathways in early childhood education - The Sector]]></description>
       <content:encoded><![CDATA[National tool helps chart career pathways in early childhood education - The Sector]]></content:encoded>
-      <pubDate>Tue, 12 May 2026 19:05:48 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Medium and small provider data collection begins for national ECEC pricing project - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDA4c0tjbEc0dFVjTlp0WmtpelRXVG55TEd2UXhLT0pOZWNweHd5Z0dod1dNeEI1UlJ6Y3hjaGF1VXhYMUxaYVRUWXNrUlhrbGw3ckZDZUh6cE9KeHdvWkl4bzBoZ3dkdE5NUFpaRW4yMG1nZ2Q5TVA1d2VUWk05N2RFVHVnWjkxMDZkcFdSNnNfV2Q4akE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDA4c0tjbEc0dFVjTlp0WmtpelRXVG55TEd2UXhLT0pOZWNweHd5Z0dod1dNeEI1UlJ6Y3hjaGF1VXhYMUxaYVRUWXNrUlhrbGw3ckZDZUh6cE9KeHdvWkl4bzBoZ3dkdE5NUFpaRW4yMG1nZ2Q5TVA1d2VUWk05N2RFVHVnWjkxMDZkcFdSNnNfV2Q4akE?oc=5</guid>
-      <description><![CDATA[Medium and small provider data collection begins for national ECEC pricing project - The Sector]]></description>
-      <content:encoded><![CDATA[Medium and small provider data collection begins for national ECEC pricing project - The Sector]]></content:encoded>
       <pubDate>Tue, 12 May 2026 19:05:48 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
@@ -403,6 +393,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[A year after scandal, childcare giant faces financial peril and mass closures - SMH.com.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXUxcDlaQ29tcFkzSWgtSXJVaFNJNUdQYUhpQWRienEwMzBHUGk5SktQdXBMTmpBc3NFaWlYQjNkQUdDcHprLWc0eW56SktPSWt6YTVMQ3VXX2tGbGJPSW1hWDlEWkFydVcwem5EQ29lY2dCWUk0MmVOVGlrRThXZEZFYlY0Y3pPN2hIYU9ORW5NU2tSblBnbHU5VldydzF6Y3ZycXJzSk9UTVVuVk5rUkhLQV9FZUE5Yzdxa25KcnBteHJrb2RVOGF6R2lTV1lkX3FUY213?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXUxcDlaQ29tcFkzSWgtSXJVaFNJNUdQYUhpQWRienEwMzBHUGk5SktQdXBMTmpBc3NFaWlYQjNkQUdDcHprLWc0eW56SktPSWt6YTVMQ3VXX2tGbGJPSW1hWDlEWkFydVcwem5EQ29lY2dCWUk0MmVOVGlrRThXZEZFYlY0Y3pPN2hIYU9ORW5NU2tSblBnbHU5VldydzF6Y3ZycXJzSk9UTVVuVk5rUkhLQV9FZUE5Yzdxa25KcnBteHJrb2RVOGF6R2lTV1lkX3FUY213?oc=5</guid>
+      <description><![CDATA[A year after scandal, childcare giant faces financial peril and mass closures - SMH.com.au]]></description>
+      <content:encoded><![CDATA[A year after scandal, childcare giant faces financial peril and mass closures - SMH.com.au]]></content:encoded>
+      <pubDate>Sun, 03 May 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[SMH.com.au]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[SNAICC in the News | 1 May 2026]]></title>
       <link>https://www.snaicc.org.au/snaicc-in-the-news-1-may-2026/</link>
       <guid isPermaLink="true">https://www.snaicc.org.au/snaicc-in-the-news-1-may-2026/</guid>
@@ -481,13 +481,13 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[What small private providers are quietly getting right and why we need to say it out loud - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHQxbllxSldrY0ppS2NqTnlib3FHaDI4c1U2QXJzbXNlbzRJaWliaHowc2NLY0F3Ym8wZ29BLWdVZzVjSVR1YkRXR2w3c0pBZVJReHR5NEhPUGZkdkJfMDczUFBhSlFIUmR1TzFBYXBkVEhpdUVlRlFKWTJlc3BaSzNBTWdHcjVhNVNzcXBjc3Y4RDV4?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHQxbllxSldrY0ppS2NqTnlib3FHaDI4c1U2QXJzbXNlbzRJaWliaHowc2NLY0F3Ym8wZ29BLWdVZzVjSVR1YkRXR2w3c0pBZVJReHR5NEhPUGZkdkJfMDczUFBhSlFIUmR1TzFBYXBkVEhpdUVlRlFKWTJlc3BaSzNBTWdHcjVhNVNzcXBjc3Y4RDV4?oc=5</guid>
-      <description><![CDATA[What small private providers are quietly getting right and why we need to say it out loud - The Sector]]></description>
-      <content:encoded><![CDATA[What small private providers are quietly getting right and why we need to say it out loud - The Sector]]></content:encoded>
-      <pubDate>Wed, 22 Apr 2026 19:05:50 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <title><![CDATA[Childcare company CEO denies problems at centres a symptom of growing pains - Australian Broadcasting Corporation]]></title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxORTlOdm80YXFPRHZXZ2tBTzRhZnR1OVlBc3dxT25tUVMyeHZJcWMxUHYxSWotZThEUFRGZFJSa0xuTmdNMk10RVR4b1g1dklIUWM3OUVEZlhLMmtzTGItckNRc1NrRUNRQm9OTVliY1FIQml6Z3d3VUpRRFJod3lHQmladHFGTC1VelFtQVZGbE9qTGxyUzBPc01GS2RLVTl4?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxORTlOdm80YXFPRHZXZ2tBTzRhZnR1OVlBc3dxT25tUVMyeHZJcWMxUHYxSWotZThEUFRGZFJSa0xuTmdNMk10RVR4b1g1dklIUWM3OUVEZlhLMmtzTGItckNRc1NrRUNRQm9OTVliY1FIQml6Z3d3VUpRRFJod3lHQmladHFGTC1VelFtQVZGbE9qTGxyUzBPc01GS2RLVTl4?oc=5</guid>
+      <description><![CDATA[Childcare company CEO denies problems at centres a symptom of growing pains - Australian Broadcasting Corporation]]></description>
+      <content:encoded><![CDATA[Childcare company CEO denies problems at centres a symptom of growing pains - Australian Broadcasting Corporation]]></content:encoded>
+      <pubDate>Wed, 22 Apr 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -521,6 +521,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[Strengthening pedagogical leadership: what ACECQA’s educational leader resource means for ECEC services - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVNLUTlkMlRreWhNLWxWQ3JtbC02TkNJVDBDcnV4TExjeU1tY2NFWWl0dDg3TmxKaE02QlF5UlJHTUZ5d2xEejBxeEYxMjgyN2JzR1o5MkpmejZrMUwxeFpKSEtDamZhM2o2V1lhOFJrSWpjQXAxblZaVlhrRVVKcHo4QWFqT21iNVpFQldUcmlSanNkdVpJSWFqZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVNLUTlkMlRreWhNLWxWQ3JtbC02TkNJVDBDcnV4TExjeU1tY2NFWWl0dDg3TmxKaE02QlF5UlJHTUZ5d2xEejBxeEYxMjgyN2JzR1o5MkpmejZrMUwxeFpKSEtDamZhM2o2V1lhOFJrSWpjQXAxblZaVlhrRVVKcHo4QWFqT21iNVpFQldUcmlSanNkdVpJSWFqZw?oc=5</guid>
+      <description><![CDATA[Strengthening pedagogical leadership: what ACECQA’s educational leader resource means for ECEC services - The Sector]]></description>
+      <content:encoded><![CDATA[Strengthening pedagogical leadership: what ACECQA’s educational leader resource means for ECEC services - The Sector]]></content:encoded>
+      <pubDate>Wed, 15 Apr 2026 19:03:53 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[Rat poison, dog poo and bleach within children’s reach at day care - SMH.com.au]]></title>
       <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNS2Rpdjg2Si11NXgyMkxGYVpDOXBJaV9FNUtJWDR0czk4VjM4eEYtdVhYblNrcGw1UHlEZTM3NmpQVXJUWng3SWFuUUd0aXZCNGVkZ21FMDdHc1pzMk1GOEtOLWVIdmZadUVlTXpLTUt5SGhvaDJ2NjVRNjJ6ZU90b09ZNm55b25TY0g2NkNycTQ3a0VuOXdwSkZLT2M3YXYtWElveGJGSmZ0aEVMd29Ec244WGhmaXhPMGNDbF9nR2RIWHkwamc?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMixgFBVV95cUxNS2Rpdjg2Si11NXgyMkxGYVpDOXBJaV9FNUtJWDR0czk4VjM4eEYtdVhYblNrcGw1UHlEZTM3NmpQVXJUWng3SWFuUUd0aXZCNGVkZ21FMDdHc1pzMk1GOEtOLWVIdmZadUVlTXpLTUt5SGhvaDJ2NjVRNjJ6ZU90b09ZNm55b25TY0g2NkNycTQ3a0VuOXdwSkZLT2M3YXYtWElveGJGSmZ0aEVMd29Ec244WGhmaXhPMGNDbF9nR2RIWHkwamc?oc=5</guid>
@@ -528,16 +538,6 @@
       <content:encoded><![CDATA[Rat poison, dog poo and bleach within children’s reach at day care - SMH.com.au]]></content:encoded>
       <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[SMH.com.au]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Strengthening pedagogical leadership: what ACECQA’s educational leader resource means for ECEC services - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVNLUTlkMlRreWhNLWxWQ3JtbC02TkNJVDBDcnV4TExjeU1tY2NFWWl0dDg3TmxKaE02QlF5UlJHTUZ5d2xEejBxeEYxMjgyN2JzR1o5MkpmejZrMUwxeFpKSEtDamZhM2o2V1lhOFJrSWpjQXAxblZaVlhrRVVKcHo4QWFqT21iNVpFQldUcmlSanNkdVpJSWFqZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVNLUTlkMlRreWhNLWxWQ3JtbC02TkNJVDBDcnV4TExjeU1tY2NFWWl0dDg3TmxKaE02QlF5UlJHTUZ5d2xEejBxeEYxMjgyN2JzR1o5MkpmejZrMUwxeFpKSEtDamZhM2o2V1lhOFJrSWpjQXAxblZaVlhrRVVKcHo4QWFqT21iNVpFQldUcmlSanNkdVpJSWFqZw?oc=5</guid>
-      <description><![CDATA[Strengthening pedagogical leadership: what ACECQA’s educational leader resource means for ECEC services - The Sector]]></description>
-      <content:encoded><![CDATA[Strengthening pedagogical leadership: what ACECQA’s educational leader resource means for ECEC services - The Sector]]></content:encoded>
-      <pubDate>Wed, 15 Apr 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
