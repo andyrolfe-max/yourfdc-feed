@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Tue, 09 Jun 2026 02:57:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 06:45:10 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/queensland-approved-provider-fined-15000-after-toddler-leaves-bush-excursion-unnoticed</guid>
       <description><![CDATA[A Queensland approved provider has been fined $15,000 after a 23-month-old child left a bush excursion unnoticed and remained unsupervised for up to 23 minutes, in an incident that has reinforced the importance of supervision and robust risk assessment practices in early childhood education and care.]]></description>
       <content:encoded><![CDATA[A Queensland approved provider has been fined $15,000 after a 23-month-old child left a bush excursion unnoticed and remained unsupervised for up to 23 minutes, in an incident that has reinforced the importance of supervision and robust risk assessment practices in early childhood education and care.]]></content:encoded>
-      <pubDate>Tue, 09 Jun 2026 02:57:15 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 06:45:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2243870729_99ecd40894.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/more-services-meeting-national-quality-standard-as-regulatory-oversight-increases</guid>
       <description><![CDATA[More early childhood education and care services are meeting or exceeding Australia&#x27;s National Quality Standard at the same time as regulators are conducting record numbers of inspections and compliance checks, according to the latest government data.]]></description>
       <content:encoded><![CDATA[More early childhood education and care services are meeting or exceeding Australia&#x27;s National Quality Standard at the same time as regulators are conducting record numbers of inspections and compliance checks, according to the latest government data.]]></content:encoded>
-      <pubDate>Tue, 09 Jun 2026 01:57:15 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:45:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1415871691_c209139b31.webp" medium="image"/>
@@ -40,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/south-australia-budget-expands-oshc-support-families</guid>
       <description><![CDATA[The South Australian Government has announced a suite of cost-of-living measures aimed at supporting families while providing greater certainty for businesses, including a $45.5 million investment to create around 2,300 new Out of School Hours Care (OSHC) places across the state.]]></description>
       <content:encoded><![CDATA[The South Australian Government has announced a suite of cost-of-living measures aimed at supporting families while providing greater certainty for businesses, including a $45.5 million investment to create around 2,300 new Out of School Hours Care (OSHC) places across the state.]]></content:encoded>
-      <pubDate>Tue, 09 Jun 2026 00:57:15 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 04:45:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1003861026_f6fffb370c.webp" medium="image"/>
@@ -52,11 +52,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/world-play-day-camp-australia-national-play-moment</guid>
       <description><![CDATA[Picture this. The school bell rings. Bags drop. And instead of screens or free play or a worksheet to finish, thousands of children across Australia sit down at tables covered in LEGO® bricks and build.]]></description>
       <content:encoded><![CDATA[Picture this. The school bell rings. Bags drop. And instead of screens or free play or a worksheet to finish, thousands of children across Australia sit down at tables covered in LEGO® bricks and build.]]></content:encoded>
-      <pubDate>Mon, 08 Jun 2026 23:57:15 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 03:45:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_967190908_878cfc0879.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_967190908_878cfc0879.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Report shows how young people want to use their voice for change]]></title>
+      <link>https://www.snaicc.org.au/report-shows-how-young-people-want-to-use-their-voice-for-change/</link>
+      <guid isPermaLink="true">https://www.snaicc.org.au/report-shows-how-young-people-want-to-use-their-voice-for-change/</guid>
+      <description><![CDATA[Young Aboriginal and Torres Strait Islander people want authentic representation, decision-making power and community-led structures that deliver real outcomes, according to a landmark national report released today.]]></description>
+      <content:encoded><![CDATA[Young Aboriginal and Torres Strait Islander people want authentic representation, decision-making power and community-led structures that deliver real outcomes, according to a landmark national report released today.]]></content:encoded>
+      <pubDate>Tue, 09 Jun 2026 03:05:09 +0000</pubDate>
+      <dc:creator><![CDATA[SNAICC]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png" medium="image"/>
+      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png"/>
     </item>
     <item>
       <title><![CDATA[Safety, quality and the relationships in between]]></title>
@@ -64,7 +76,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/child-safety-quality-and-professional-autonomy-in-ecec</guid>
       <description><![CDATA[After more than forty years in early childhood education and care, I’ve seen and experienced many waves of reform move through our sector. I’ve seen accreditation introduced, the implementation of the National Quality Framework and Assessment & Rating against the National Quality Standard, curriculum frameworks evolve and become legislated, and expectations of educators’ increase over time.]]></description>
       <content:encoded><![CDATA[After more than forty years in early childhood education and care, I’ve seen and experienced many waves of reform move through our sector. I’ve seen accreditation introduced, the implementation of the National Quality Framework and Assessment & Rating against the National Quality Standard, curriculum frameworks evolve and become legislated, and expectations of educators’ increase over time.]]></content:encoded>
-      <pubDate>Mon, 08 Jun 2026 22:57:15 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 02:45:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_507111170_2_4df2cd2ae6.webp" medium="image"/>
@@ -96,7 +108,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/childcare-costs-rise-9-per-cent-inflation-pressures-providers</guid>
       <description><![CDATA[Childcare costs increased by 9.0 per cent in the year to April 2026, according to the latest Australian Bureau of Statistics (ABS) data, placing continued pressure on early childhood education and care (ECEC) providers as operating expenses outpace broader inflation.]]></description>
       <content:encoded><![CDATA[Childcare costs increased by 9.0 per cent in the year to April 2026, according to the latest Australian Bureau of Statistics (ABS) data, placing continued pressure on early childhood education and care (ECEC) providers as operating expenses outpace broader inflation.]]></content:encoded>
-      <pubDate>Mon, 08 Jun 2026 14:57:15 GMT</pubDate>
+      <pubDate>Mon, 08 Jun 2026 18:45:04 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2270933129_d6873c59eb.webp" medium="image"/>
@@ -197,16 +209,6 @@
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png" medium="image"/>
       <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png"/>
-    </item>
-    <item>
-      <title><![CDATA[South Australia fast-tracks three-year-old preschool rollout - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWU4WWhBRzJFeGhkbFhNaG1QT29yT093VmRfejNjOU02NVVwblVpdVVtQUYxeHA1cTBsZ194MXhYbWlnTldUblk3UnU4OC1aYUpCeDh3R3k4WTFHLTFWMVMwSlNONW8zdWFGcjdaZ1ppRWNSMVNPeGo4VjB1WmdzbmpqOEhEYk5pMk9WTWhCcThJS0hDRnFTRg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWU4WWhBRzJFeGhkbFhNaG1QT29yT093VmRfejNjOU02NVVwblVpdVVtQUYxeHA1cTBsZ194MXhYbWlnTldUblk3UnU4OC1aYUpCeDh3R3k4WTFHLTFWMVMwSlNONW8zdWFGcjdaZ1ppRWNSMVNPeGo4VjB1WmdzbmpqOEhEYk5pMk9WTWhCcThJS0hDRnFTRg?oc=5</guid>
-      <description><![CDATA[South Australia fast-tracks three-year-old preschool rollout - The Sector]]></description>
-      <content:encoded><![CDATA[South Australia fast-tracks three-year-old preschool rollout - The Sector]]></content:encoded>
-      <pubDate>Wed, 03 Jun 2026 19:49:02 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
       <title><![CDATA[Grant funding boost to strengthen In Home Care early learning sector - The Sector]]></title>
@@ -519,18 +521,6 @@
       <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2024/11/SNAICC-Socials-8-scaled.jpg"/>
     </item>
     <item>
-      <title><![CDATA[SNAICC Newsletter – April 2026]]></title>
-      <link>https://www.snaicc.org.au/snaicc-newsletter-april-2026/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/snaicc-newsletter-april-2026/</guid>
-      <description><![CDATA[The post SNAICC Newsletter – April 2026 appeared first on SNAICC – National Voice for our Children .]]></description>
-      <content:encoded><![CDATA[The post SNAICC Newsletter – April 2026 appeared first on SNAICC – National Voice for our Children .]]></content:encoded>
-      <pubDate>Thu, 14 May 2026 02:30:39 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2026/05/SNAICC-Newsletter-header-340-x-228-px.jpg" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2026/05/SNAICC-Newsletter-header-340-x-228-px.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[2026–27 Federal Budget: what it means for early childhood education and care - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWxNWFczTXhrMnJQQnBqeTJMbjdqRHkxSngzeU9RV19wRnlWZnViT3cwUU1ic3NJSXV0bTk3Ry1kUUtEYzVfcWpSQS1paDBJSlowWllUUFNLSEJTVGhoamZ4STZyX2p1SWctQmt3VUN2cWFTaVd4WVFUZEU4V0hwMm9PMjFUa2RkZmxsSWQ1ZHpnOFk1ZkllWDBCMUUtSlU5REdEX2dyV0daQThM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWxNWFczTXhrMnJQQnBqeTJMbjdqRHkxSngzeU9RV19wRnlWZnViT3cwUU1ic3NJSXV0bTk3Ry1kUUtEYzVfcWpSQS1paDBJSlowWllUUFNLSEJTVGhoamZ4STZyX2p1SWctQmt3VUN2cWFTaVd4WVFUZEU4V0hwMm9PMjFUa2RkZmxsSWQ1ZHpnOFk1ZkllWDBCMUUtSlU5REdEX2dyV0daQThM?oc=5</guid>
@@ -547,6 +537,16 @@
       <description><![CDATA[Medium and small provider data collection begins for national ECEC pricing project - The Sector]]></description>
       <content:encoded><![CDATA[Medium and small provider data collection begins for national ECEC pricing project - The Sector]]></content:encoded>
       <pubDate>Tue, 12 May 2026 19:05:48 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[National tool helps chart career pathways in early childhood education - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHNTZnpyNG5WMmpNaDRlZ1BDcmxBMklQelM5T2pqMWoxRF8wYmZQYVBGZm9XQ1ljbzVyVURTVGVwY3pPa050WnhDc2tEZF9ic2JKLV9hdmM3NzV2QWtORE5yaUpnWnJTbUlmRTBxSzFqdjNXYzJsNW5HX2JyRHhnX3F0NE9faG90bU5vc004TmI1QQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHNTZnpyNG5WMmpNaDRlZ1BDcmxBMklQelM5T2pqMWoxRF8wYmZQYVBGZm9XQ1ljbzVyVURTVGVwY3pPa050WnhDc2tEZF9ic2JKLV9hdmM3NzV2QWtORE5yaUpnWnJTbUlmRTBxSzFqdjNXYzJsNW5HX2JyRHhnX3F0NE9faG90bU5vc004TmI1QQ?oc=5</guid>
+      <description><![CDATA[National tool helps chart career pathways in early childhood education - The Sector]]></description>
+      <content:encoded><![CDATA[National tool helps chart career pathways in early childhood education - The Sector]]></content:encoded>
+      <pubDate>Tue, 12 May 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
