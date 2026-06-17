@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 17 Jun 2026 14:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:46:07 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/vecra-emergency-action-notice-rooftop-safety-risks-multi-storey-service</guid>
       <description><![CDATA[The Victorian Early Childhood Regulatory Authority (VECRA) has issued an Emergency Action Notice (EAN) to the approved provider of Woodlands St Kilda Road after identifying serious risks to children&#x27;s safety associated with a rooftop outdoor play area and emergency evacuation planning.]]></description>
       <content:encoded><![CDATA[The Victorian Early Childhood Regulatory Authority (VECRA) has issued an Emergency Action Notice (EAN) to the approved provider of Woodlands St Kilda Road after identifying serious risks to children&#x27;s safety associated with a rooftop outdoor play area and emergency evacuation planning.]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 14:53:25 GMT</pubDate>
+      <pubDate>Wed, 17 Jun 2026 17:46:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1440540572_886dd608db.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/queensland-health-updates-time-out-resources-for-contagious-conditions</guid>
       <description><![CDATA[Queensland Health has updated its Time Out resources, providing refreshed guidance on exclusion periods for children and staff with contagious conditions in early childhood education and care services and schools.]]></description>
       <content:encoded><![CDATA[Queensland Health has updated its Time Out resources, providing refreshed guidance on exclusion periods for children and staff with contagious conditions in early childhood education and care services and schools.]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 13:53:25 GMT</pubDate>
+      <pubDate>Wed, 17 Jun 2026 16:46:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_157602447_84797d4b1d.webp" medium="image"/>
@@ -40,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/childrens-week-grants-open-across-australia-for-2026</guid>
       <description><![CDATA[Children’s Week 2026 will see organisations across Australia deliver events celebrating children’s rights, culture, identity and participation, supported by grant programs operating in Queensland, Victoria, South Australia, Western Australia and the Australian Capital Territory.]]></description>
       <content:encoded><![CDATA[Children’s Week 2026 will see organisations across Australia deliver events celebrating children’s rights, culture, identity and participation, supported by grant programs operating in Queensland, Victoria, South Australia, Western Australia and the Australian Capital Territory.]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 12:53:25 GMT</pubDate>
+      <pubDate>Wed, 17 Jun 2026 15:46:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_503366126_640532e04e.webp" medium="image"/>
@@ -52,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/ecu-childrens-learner-engagement-monitor-school-engagement-tool</guid>
       <description><![CDATA[Researchers from Edith Cowan University’s (ECU’s) School of Education have developed a practical guide to understanding and monitoring young children’s learner engagement.]]></description>
       <content:encoded><![CDATA[Researchers from Edith Cowan University’s (ECU’s) School of Education have developed a practical guide to understanding and monitoring young children’s learner engagement.]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 11:53:25 GMT</pubDate>
+      <pubDate>Wed, 17 Jun 2026 14:46:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_671575134_c977fbca82.webp" medium="image"/>
@@ -64,7 +64,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/us-childcare-closures-australia-ecec-sector</guid>
       <description><![CDATA[The quiet closure of around 90 childcare centres by a major US provider Bright Horizons over the past three years has prompted fresh discussion about the sustainability of early learning markets globally.]]></description>
       <content:encoded><![CDATA[The quiet closure of around 90 childcare centres by a major US provider Bright Horizons over the past three years has prompted fresh discussion about the sustainability of early learning markets globally.]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 10:53:25 GMT</pubDate>
+      <pubDate>Wed, 17 Jun 2026 13:46:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_649026604_4d39346174.webp" medium="image"/>
@@ -81,6 +81,30 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[Keeping children&#x27;s data safe: How Xplor education is raising the bar on technology security]]></title>
+      <link>https://thesector.com.au/article/xplor-education-child-data-security-early-childhood</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/xplor-education-child-data-security-early-childhood</guid>
+      <description><![CDATA[As cyber threats to the education sector grow more sophisticated, Xplor‘s Chief Security Officer Kevin Kanji explains why we consider robust technology safety as a fundamental obligation to families and educators alike.]]></description>
+      <content:encoded><![CDATA[As cyber threats to the education sector grow more sophisticated, Xplor‘s Chief Security Officer Kevin Kanji explains why we consider robust technology safety as a fundamental obligation to families and educators alike.]]></content:encoded>
+      <pubDate>Wed, 17 Jun 2026 06:46:03 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/Keeping_Children_s_Data_Safe_01_b3096f0357.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/Keeping_Children_s_Data_Safe_01_b3096f0357.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support]]></title>
+      <link>https://thesector.com.au/article/government-commits-3-6-billion-to-permanently-extend-early-childhood-educator-wage-support</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/government-commits-3-6-billion-to-permanently-extend-early-childhood-educator-wage-support</guid>
+      <description><![CDATA[The Australian Government has committed $3.6 billion to permanently extend the Worker Retention Payment, securing the landmark 15 per cent wage increase for early childhood education and care (ECEC) educators beyond its original funding period.]]></description>
+      <content:encoded><![CDATA[The Australian Government has committed $3.6 billion to permanently extend the Worker Retention Payment, securing the landmark 15 per cent wage increase for early childhood education and care (ECEC) educators beyond its original funding period.]]></content:encoded>
+      <pubDate>Wed, 17 Jun 2026 05:46:03 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1129688787_a89bf02bc9.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1129688787_a89bf02bc9.webp"/>
+    </item>
+    <item>
       <title><![CDATA[Childcare workers have been guaranteed a  pay bump. What’s the fine print?]]></title>
       <link>https://theconversation.com/childcare-workers-have-been-guaranteed-a-pay-bump-whats-the-fine-print-285474</link>
       <guid isPermaLink="true">https://theconversation.com/childcare-workers-have-been-guaranteed-a-pay-bump-whats-the-fine-print-285474</guid>
@@ -93,16 +117,16 @@
       <media:thumbnail url="https://images.theconversation.com/files/742330/original/file-20260617-57-iek7z1.jpg?ixlib=rb-4.1.0&amp;rect=1175%2C183%2C4016%2C2008&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
     </item>
     <item>
-      <title><![CDATA[Keeping children&#x27;s data safe: How Xplor education is raising the bar on technology security]]></title>
-      <link>https://thesector.com.au/article/xplor-education-child-data-security-early-childhood</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/xplor-education-child-data-security-early-childhood</guid>
-      <description><![CDATA[As cyber threats to the education sector grow more sophisticated, Xplor‘s Chief Security Officer Kevin Kanji explains why we consider robust technology safety as a fundamental obligation to families and educators alike.]]></description>
-      <content:encoded><![CDATA[As cyber threats to the education sector grow more sophisticated, Xplor‘s Chief Security Officer Kevin Kanji explains why we consider robust technology safety as a fundamental obligation to families and educators alike.]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 03:53:25 GMT</pubDate>
+      <title><![CDATA[Elevating child safety &amp; educator well being]]></title>
+      <link>https://thesector.com.au/article/elevating-child-safety-and-educator-wellbeing</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/elevating-child-safety-and-educator-wellbeing</guid>
+      <description><![CDATA[The early childhood education sector is trusted with the care of young children every day, making child safety, compliance and educator wellbeing essential.]]></description>
+      <content:encoded><![CDATA[The early childhood education sector is trusted with the care of young children every day, making child safety, compliance and educator wellbeing essential.]]></content:encoded>
+      <pubDate>Wed, 17 Jun 2026 04:46:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/Keeping_Children_s_Data_Safe_01_b3096f0357.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/Keeping_Children_s_Data_Safe_01_b3096f0357.webp"/>
+      <media:content url="https://api.thesector.com.au/uploads/IMG_9580_41835f20c6.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/IMG_9580_41835f20c6.webp"/>
     </item>
     <item>
       <title><![CDATA[Investing in educators means investing in children]]></title>
@@ -115,30 +139,6 @@
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png" medium="image"/>
       <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support]]></title>
-      <link>https://thesector.com.au/article/government-commits-3-6-billion-to-permanently-extend-early-childhood-educator-wage-support</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/government-commits-3-6-billion-to-permanently-extend-early-childhood-educator-wage-support</guid>
-      <description><![CDATA[The Australian Government has committed $3.6 billion to permanently extend the Worker Retention Payment, securing the landmark 15 per cent wage increase for early childhood education and care (ECEC) educators beyond its original funding period.]]></description>
-      <content:encoded><![CDATA[The Australian Government has committed $3.6 billion to permanently extend the Worker Retention Payment, securing the landmark 15 per cent wage increase for early childhood education and care (ECEC) educators beyond its original funding period.]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 02:53:25 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1129688787_a89bf02bc9.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1129688787_a89bf02bc9.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Elevating child safety &amp; educator well being]]></title>
-      <link>https://thesector.com.au/article/elevating-child-safety-and-educator-wellbeing</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/elevating-child-safety-and-educator-wellbeing</guid>
-      <description><![CDATA[The early childhood education sector is trusted with the care of young children every day, making child safety, compliance and educator wellbeing essential.]]></description>
-      <content:encoded><![CDATA[The early childhood education sector is trusted with the care of young children every day, making child safety, compliance and educator wellbeing essential.]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 01:53:25 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/IMG_9580_41835f20c6.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/IMG_9580_41835f20c6.webp"/>
     </item>
     <item>
       <title><![CDATA[Extension of early childhood worker retention payment welcome amid ongoing reform efforts - thepoint.com.au]]></title>
@@ -349,6 +349,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[Childcare costs rise 9 per cent as inflation pressures continue to challenge providers - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjhIOUszRUVTUFhSY1lPQnp6bG5JRV9FR2d2enVNRlppN3Y3RllOQnVMOXlwaV9vbHBtUmVQUUNHLXI5b29jMjZnaFZzSUVlQkg4WUhsaElHY0V5Ul9YaXBPTldEeWg4NXo3ZDB3UmdRRVppd2dhcVJiLTktSS1zSjdncEhQTDE1Mk1yMHZGcXpHVDB3b2Z1TnZR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjhIOUszRUVTUFhSY1lPQnp6bG5JRV9FR2d2enVNRlppN3Y3RllOQnVMOXlwaV9vbHBtUmVQUUNHLXI5b29jMjZnaFZzSUVlQkg4WUhsaElHY0V5Ul9YaXBPTldEeWg4NXo3ZDB3UmdRRVppd2dhcVJiLTktSS1zSjdncEhQTDE1Mk1yMHZGcXpHVDB3b2Z1TnZR?oc=5</guid>
+      <description><![CDATA[Childcare costs rise 9 per cent as inflation pressures continue to challenge providers - The Sector]]></description>
+      <content:encoded><![CDATA[Childcare costs rise 9 per cent as inflation pressures continue to challenge providers - The Sector]]></content:encoded>
+      <pubDate>Sun, 07 Jun 2026 19:02:24 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[ACECQA strengthens process for new provider and service approval applications - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFEyNHkxTDIwbnd5LVpndkRwbUZ0Nmh3R3ljc2JMMkVZeDFLUWJOVVF1OUxfNUJzWl9nNWN2aDJVbGZnNXlJMjg2N3M4bGJDZ29DVDExNzJnSkpBZ09FZjI3TUlKNUVuWGd3VTJoM2hjZ1RrNWdqNjM0Vk1Ma0xxb1hmSXRaUUVOci0zZzEzM2RwLU1WOTBOWldFS0dadG9MdkNPM3hmREhBT0FlQUFZ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFEyNHkxTDIwbnd5LVpndkRwbUZ0Nmh3R3ljc2JMMkVZeDFLUWJOVVF1OUxfNUJzWl9nNWN2aDJVbGZnNXlJMjg2N3M4bGJDZ29DVDExNzJnSkpBZ09FZjI3TUlKNUVuWGd3VTJoM2hjZ1RrNWdqNjM0Vk1Ma0xxb1hmSXRaUUVOci0zZzEzM2RwLU1WOTBOWldFS0dadG9MdkNPM3hmREhBT0FlQUFZ?oc=5</guid>
@@ -410,7 +420,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWU4WWhBRzJFeGhkbFhNaG1QT29yT093VmRfejNjOU02NVVwblVpdVVtQUYxeHA1cTBsZ194MXhYbWlnTldUblk3UnU4OC1aYUpCeDh3R3k4WTFHLTFWMVMwSlNONW8zdWFGcjdaZ1ppRWNSMVNPeGo4VjB1WmdzbmpqOEhEYk5pMk9WTWhCcThJS0hDRnFTRg?oc=5</guid>
       <description><![CDATA[South Australia fast-tracks three-year-old preschool rollout - The Sector]]></description>
       <content:encoded><![CDATA[South Australia fast-tracks three-year-old preschool rollout - The Sector]]></content:encoded>
-      <pubDate>Wed, 03 Jun 2026 19:04:03 GMT</pubDate>
+      <pubDate>Wed, 03 Jun 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -543,16 +553,6 @@
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://www.snaicc.org.au/wp-content/uploads/2024/11/SNAICC-Socials-8-scaled.jpg" medium="image"/>
       <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2024/11/SNAICC-Socials-8-scaled.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Early childhood educators plan national walk-off amid ongoing funding uncertainty - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQdE9aMTJlekRSTU51Z1dFRWJxYXkzRWNCbkhncWVSeHNRZ3NVcWNFS1ZsZUNjRUZwOVFmZE9SS1BvdFlxaFFydXNKbm1OSWRGUGwxbWl6eDBKYnNrNVJKVjRfY2NWM2pkOUFYVlRZOEs2WDB1RUtsT3hfTUUxcUlxU0RaNDZtN1ZFX253WHdEVkZwTmM?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikwFBVV95cUxQdE9aMTJlekRSTU51Z1dFRWJxYXkzRWNCbkhncWVSeHNRZ3NVcWNFS1ZsZUNjRUZwOVFmZE9SS1BvdFlxaFFydXNKbm1OSWRGUGwxbWl6eDBKYnNrNVJKVjRfY2NWM2pkOUFYVlRZOEs2WDB1RUtsT3hfTUUxcUlxU0RaNDZtN1ZFX253WHdEVkZwTmM?oc=5</guid>
-      <description><![CDATA[Early childhood educators plan national walk-off amid ongoing funding uncertainty - The Sector]]></description>
-      <content:encoded><![CDATA[Early childhood educators plan national walk-off amid ongoing funding uncertainty - The Sector]]></content:encoded>
-      <pubDate>Thu, 21 May 2026 20:16:05 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
 </rss>
