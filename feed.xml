@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Tue, 23 Jun 2026 23:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 00:02:58 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/first-steps-learning-company-faces-charges-liverpool-centre</guid>
       <description><![CDATA[The operator of a Liverpool early learning service is facing prosecution over alleged breaches of child supervision and safety obligations under the Education and Care Services National Law.]]></description>
       <content:encoded><![CDATA[The operator of a Liverpool early learning service is facing prosecution over alleged breaches of child supervision and safety obligations under the Education and Care Services National Law.]]></content:encoded>
-      <pubDate>Tue, 23 Jun 2026 23:00:33 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:02:54 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2215461275_2_f0af0bdfa7.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/record-nominations-finalists-revealed-2026-excellence-early-childhood-education-awards</guid>
       <description><![CDATA[Australia&#x27;s early childhood education and care sector is celebrating a significant milestone, with organisers of the 2026 Excellence in Early Childhood Education (EECE) Awards announcing record participation levels and unveiling this year&#x27;s finalists.]]></description>
       <content:encoded><![CDATA[Australia&#x27;s early childhood education and care sector is celebrating a significant milestone, with organisers of the 2026 Excellence in Early Childhood Education (EECE) Awards announcing record participation levels and unveiling this year&#x27;s finalists.]]></content:encoded>
-      <pubDate>Tue, 23 Jun 2026 22:00:33 GMT</pubDate>
+      <pubDate>Tue, 23 Jun 2026 23:02:54 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2226101856_717f5f9929.webp" medium="image"/>
@@ -40,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/early-childhood-educators-day-2026-recognition-matters-more-than-ever</guid>
       <description><![CDATA[Early Childhood Educators’ Day will be celebrated on Wednesday 2 September 2026, recognising the essential role educators play in children’s wellbeing, learning and development.]]></description>
       <content:encoded><![CDATA[Early Childhood Educators’ Day will be celebrated on Wednesday 2 September 2026, recognising the essential role educators play in children’s wellbeing, learning and development.]]></content:encoded>
-      <pubDate>Tue, 23 Jun 2026 21:00:33 GMT</pubDate>
+      <pubDate>Tue, 23 Jun 2026 22:02:54 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/ECE_Day_2026_Socials_2_78bdfeda12.webp" medium="image"/>
@@ -52,11 +52,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/generation-y-reshaping-early-childhood-education</guid>
       <description><![CDATA[As digital-native educators enter the workforce, Generation Z is bringing new expectations around flexibility, wellbeing, technology and career progression. Their arrival has prompted widespread discussion about how workplaces must evolve to attract and retain the next generation of professionals.]]></description>
       <content:encoded><![CDATA[As digital-native educators enter the workforce, Generation Z is bringing new expectations around flexibility, wellbeing, technology and career progression. Their arrival has prompted widespread discussion about how workplaces must evolve to attract and retain the next generation of professionals.]]></content:encoded>
-      <pubDate>Tue, 23 Jun 2026 20:00:33 GMT</pubDate>
+      <pubDate>Tue, 23 Jun 2026 21:02:54 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1159859763_acf3ff5ba2.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1159859763_acf3ff5ba2.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Nature play and child wellbeing: an ancient solution for a modern problem]]></title>
+      <link>https://thesector.com.au/article/nature-play-child-wellbeing-ancient-solution-modern-problem</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/nature-play-child-wellbeing-ancient-solution-modern-problem</guid>
+      <description><![CDATA[In a time when education, and childhood itself, is increasingly measured, assessed, and documented, it may seem counterintuitive to argue that one of the most important things we can offer children is less instruction.]]></description>
+      <content:encoded><![CDATA[In a time when education, and childhood itself, is increasingly measured, assessed, and documented, it may seem counterintuitive to argue that one of the most important things we can offer children is less instruction.]]></content:encoded>
+      <pubDate>Tue, 23 Jun 2026 20:02:54 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/IMG_0057_1_c994b7b4a1.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/IMG_0057_1_c994b7b4a1.webp"/>
     </item>
     <item>
       <title><![CDATA[Sanctuary Maudsland reaffirms Exceeding Rating under the National Quality Standard - The Sector]]></title>
@@ -67,18 +79,6 @@
       <pubDate>Tue, 23 Jun 2026 19:01:41 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Nature play and child wellbeing: an ancient solution for a modern problem]]></title>
-      <link>https://thesector.com.au/article/nature-play-child-wellbeing-ancient-solution-modern-problem</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/nature-play-child-wellbeing-ancient-solution-modern-problem</guid>
-      <description><![CDATA[In a time when education, and childhood itself, is increasingly measured, assessed, and documented, it may seem counterintuitive to argue that one of the most important things we can offer children is less instruction.]]></description>
-      <content:encoded><![CDATA[In a time when education, and childhood itself, is increasingly measured, assessed, and documented, it may seem counterintuitive to argue that one of the most important things we can offer children is less instruction.]]></content:encoded>
-      <pubDate>Tue, 23 Jun 2026 19:00:33 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/IMG_0057_1_c994b7b4a1.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/IMG_0057_1_c994b7b4a1.webp"/>
     </item>
     <item>
       <title><![CDATA[Everyone experiences loss and grief – but that doesn’t make it any easier to talk with kids about it]]></title>
@@ -93,16 +93,16 @@
       <media:thumbnail url="https://images.theconversation.com/files/743380/original/file-20260622-57-vk6q82.jpg?ixlib=rb-4.1.0&amp;rect=0%2C659%2C6500%2C3250&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
     </item>
     <item>
-      <title><![CDATA[Provider fined $37,000 after child supervision and safety breaches in WA]]></title>
-      <link>https://thesector.com.au/article/provider-fined-37000-child-supervision-safety-breaches-wa</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/provider-fined-37000-child-supervision-safety-breaches-wa</guid>
-      <description><![CDATA[SN Chemello Pty Ltd, trading as Little Legends Yokine, has been ordered to pay $37,000 in penalties and legal costs after the State Administrative Tribunal found the approved provider failed to meet key child supervision and safety obligations.]]></description>
-      <content:encoded><![CDATA[SN Chemello Pty Ltd, trading as Little Legends Yokine, has been ordered to pay $37,000 in penalties and legal costs after the State Administrative Tribunal found the approved provider failed to meet key child supervision and safety obligations.]]></content:encoded>
-      <pubDate>Tue, 23 Jun 2026 11:00:33 GMT</pubDate>
+      <title><![CDATA[What Australia can learn from the UK&#x27;s overhaul of early years teacher training]]></title>
+      <link>https://thesector.com.au/article/what-australia-can-learn-from-uk-early-years-teacher-training-reforms</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/what-australia-can-learn-from-uk-early-years-teacher-training-reforms</guid>
+      <description><![CDATA[The United Kingdom Government&#x27;s decision to overhaul early years teacher training has sparked renewed discussion about what it takes to build a highly qualified, sustainable early childhood workforce.]]></description>
+      <content:encoded><![CDATA[The United Kingdom Government&#x27;s decision to overhaul early years teacher training has sparked renewed discussion about what it takes to build a highly qualified, sustainable early childhood workforce.]]></content:encoded>
+      <pubDate>Tue, 23 Jun 2026 12:02:54 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_469691888_917161d96c.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_469691888_917161d96c.webp"/>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_544353774_3996774252.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_544353774_3996774252.webp"/>
     </item>
     <item>
       <title><![CDATA[Marlee Silva – National Aboriginal and Torres Strait Islander Children’s Day 2026 Ambassador]]></title>
