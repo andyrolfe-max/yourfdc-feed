@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 01 Jul 2026 04:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:16:56 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/childcare-safety-reforms-jason-clare-funding-warning</guid>
       <description><![CDATA[Australia&#x27;s early childhood education and care sector has entered a new phase of regulatory enforcement, with Minister for Education Jason Clare signalling that services which fail to meet child safety standards should expect to lose Commonwealth funding.]]></description>
       <content:encoded><![CDATA[Australia&#x27;s early childhood education and care sector has entered a new phase of regulatory enforcement, with Minister for Education Jason Clare signalling that services which fail to meet child safety standards should expect to lose Commonwealth funding.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 04:00:32 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 08:16:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_855793506_9049d3754f.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/eofy-review-child-safety-reform-ecec-sector-2025-26</guid>
       <description><![CDATA[The end of the financial year is traditionally a time for reflection across Australia&#x27;s early childhood education and care (ECEC) sector. It provides an opportunity for providers, educators and policy makers to review the year that was, assess progress and prepare for the challenges and opportunities ahead.]]></description>
       <content:encoded><![CDATA[The end of the financial year is traditionally a time for reflection across Australia&#x27;s early childhood education and care (ECEC) sector. It provides an opportunity for providers, educators and policy makers to review the year that was, assess progress and prepare for the challenges and opportunities ahead.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 03:00:32 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 07:16:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1485184937_2_788e3730ef.webp" medium="image"/>
@@ -40,11 +40,35 @@
       <guid isPermaLink="true">https://thesector.com.au/article/oosh-educators-day-2026-celebrates-school-age-care-professionals</guid>
       <description><![CDATA[Every day, outside school hours (OOSH) educators create safe, engaging and inclusive environments where children can play, learn and build meaningful relationships. OOSH Educators Day 2026 is an opportunity to recognise the professionalism, dedication and lasting impact of the workforce supporting children before school, after school and during vacation care.]]></description>
       <content:encoded><![CDATA[Every day, outside school hours (OOSH) educators create safe, engaging and inclusive environments where children can play, learn and build meaningful relationships. OOSH Educators Day 2026 is an opportunity to recognise the professionalism, dedication and lasting impact of the workforce supporting children before school, after school and during vacation care.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 02:00:32 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 06:16:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2209701907_9ef1f99f89.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2209701907_9ef1f99f89.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Why energetic play is essential for holistic child development]]></title>
+      <link>https://thesector.com.au/article/why-energetic-play-is-essential-for-holistic-child-development</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/why-energetic-play-is-essential-for-holistic-child-development</guid>
+      <description><![CDATA[Research shows that nine in 10 young children are not meeting the recommended levels of daily physical activity, despite strong evidence that movement is fundamental to children&#x27;s learning, health and wellbeing. For early childhood education and care (ECEC) services, creating opportunities for energetic play is not simply good practice, it is an important part of delivering high-quality education and care.]]></description>
+      <content:encoded><![CDATA[Research shows that nine in 10 young children are not meeting the recommended levels of daily physical activity, despite strong evidence that movement is fundamental to children&#x27;s learning, health and wellbeing. For early childhood education and care (ECEC) services, creating opportunities for energetic play is not simply good practice, it is an important part of delivering high-quality education and care.]]></content:encoded>
+      <pubDate>Wed, 01 Jul 2026 05:16:52 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1367828290_04ba1242cf.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1367828290_04ba1242cf.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Disability Standards for education changes: what ECEC providers need to know before 1 August]]></title>
+      <link>https://thesector.com.au/article/disability-standards-for-education-changes-ecec-providers-2026</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/disability-standards-for-education-changes-ecec-providers-2026</guid>
+      <description><![CDATA[Major amendments to the Disability Standards for Education 2005 (the Standards) will take effect on 1 August 2026, extending the Standards to most early childhood education and care (ECEC) services for the first time.]]></description>
+      <content:encoded><![CDATA[Major amendments to the Disability Standards for Education 2005 (the Standards) will take effect on 1 August 2026, extending the Standards to most early childhood education and care (ECEC) services for the first time.]]></content:encoded>
+      <pubDate>Wed, 01 Jul 2026 04:16:52 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1429642795_0462b8f4fa.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1429642795_0462b8f4fa.webp"/>
     </item>
     <item>
       <title><![CDATA[Melbourne childcare provider stripped of funding labels decision 'devastating' - Australian Broadcasting Corporation]]></title>
@@ -57,36 +81,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Why energetic play is essential for holistic child development]]></title>
-      <link>https://thesector.com.au/article/why-energetic-play-is-essential-for-holistic-child-development</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/why-energetic-play-is-essential-for-holistic-child-development</guid>
-      <description><![CDATA[Research shows that nine in 10 young children are not meeting the recommended levels of daily physical activity, despite strong evidence that movement is fundamental to children&#x27;s learning, health and wellbeing. For early childhood education and care (ECEC) services, creating opportunities for energetic play is not simply good practice, it is an important part of delivering high-quality education and care.]]></description>
-      <content:encoded><![CDATA[Research shows that nine in 10 young children are not meeting the recommended levels of daily physical activity, despite strong evidence that movement is fundamental to children&#x27;s learning, health and wellbeing. For early childhood education and care (ECEC) services, creating opportunities for energetic play is not simply good practice, it is an important part of delivering high-quality education and care.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 01:00:32 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1367828290_04ba1242cf.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1367828290_04ba1242cf.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Disability Standards for education changes: what ECEC providers need to know before 1 August]]></title>
-      <link>https://thesector.com.au/article/disability-standards-for-education-changes-ecec-providers-2026</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/disability-standards-for-education-changes-ecec-providers-2026</guid>
-      <description><![CDATA[Major amendments to the Disability Standards for Education 2005 (the Standards) will take effect on 1 August 2026, extending the Standards to most early childhood education and care (ECEC) services for the first time.]]></description>
-      <content:encoded><![CDATA[Major amendments to the Disability Standards for Education 2005 (the Standards) will take effect on 1 August 2026, extending the Standards to most early childhood education and care (ECEC) services for the first time.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 00:00:32 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1429642795_0462b8f4fa.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1429642795_0462b8f4fa.webp"/>
-    </item>
-    <item>
       <title><![CDATA[Renewal of the wage subsidy great news for educators, children, families and gender equity]]></title>
       <link>https://thesector.com.au/article/goodstart-welcomes-renewal-of-15-per-cent-early-learning-wage-subsidy</link>
       <guid isPermaLink="true">https://thesector.com.au/article/goodstart-welcomes-renewal-of-15-per-cent-early-learning-wage-subsidy</guid>
       <description><![CDATA[The renewal of the Australian Government’s 15% early learning wage subsidy marks a significant step forward for the sector, recognising the essential role educators play in supporting children’s learning and development.]]></description>
       <content:encoded><![CDATA[The renewal of the Australian Government’s 15% early learning wage subsidy marks a significant step forward for the sector, recognising the essential role educators play in supporting children’s learning and development.]]></content:encoded>
-      <pubDate>Tue, 30 Jun 2026 17:00:32 GMT</pubDate>
+      <pubDate>Tue, 30 Jun 2026 21:16:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/RB_and_PM_1_844_x_488px_f5c62218bc.webp" medium="image"/>
@@ -98,7 +98,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/accs-child-wellbeing-language-update-reduces-stigma-supports-families</guid>
       <description><![CDATA[The Australian Government has updated the language used to describe children who may be eligible for Additional Child Care Subsidy (ACCS) child wellbeing, with the changes taking effect from 1 July 2026.]]></description>
       <content:encoded><![CDATA[The Australian Government has updated the language used to describe children who may be eligible for Additional Child Care Subsidy (ACCS) child wellbeing, with the changes taking effect from 1 July 2026.]]></content:encoded>
-      <pubDate>Tue, 30 Jun 2026 16:00:32 GMT</pubDate>
+      <pubDate>Tue, 30 Jun 2026 20:16:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_514422712_1d1a5c6690.webp" medium="image"/>
@@ -142,6 +142,16 @@
       <content:encoded><![CDATA[Sydney daycare worker who allegedly abused 120 children launches secrecy bid - SMH.com.au]]></content:encoded>
       <pubDate>Tue, 30 Jun 2026 04:09:12 GMT</pubDate>
       <dc:creator><![CDATA[SMH.com.au]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Minns Government announces $1.8 billion investment to reshape early learning in NSW - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVVyaVJRUHhSa2FYcEtjSGRPTFVSRmx4WHViMnprM0k5THZNdFZtMkpyc3BocHQyVHpJMXNhUm9rdDhYM3M3dk8zaG1LTFNBV2JKS29UaE52SHVkOXhTVk9ELVpoWGF2NHRDOUVvbktvYzZwTlhYdWN3cWY2Z3FlY3EzVm5tS3U3eXB1R2FYYw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVVyaVJRUHhSa2FYcEtjSGRPTFVSRmx4WHViMnprM0k5THZNdFZtMkpyc3BocHQyVHpJMXNhUm9rdDhYM3M3dk8zaG1LTFNBV2JKS29UaE52SHVkOXhTVk9ELVpoWGF2NHRDOUVvbktvYzZwTlhYdWN3cWY2Z3FlY3EzVm5tS3U3eXB1R2FYYw?oc=5</guid>
+      <description><![CDATA[Minns Government announces $1.8 billion investment to reshape early learning in NSW - The Sector]]></description>
+      <content:encoded><![CDATA[Minns Government announces $1.8 billion investment to reshape early learning in NSW - The Sector]]></content:encoded>
+      <pubDate>Sun, 28 Jun 2026 19:04:06 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -287,16 +297,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Extension of early childhood worker retention payment welcome amid ongoing reform efforts - thepoint.com.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPVENfbkZXWEExWlJUcEIzUnpKTWFaMVBLN18xdnFOQmpUS0xHSkVjS3p1dzNVZWZMYWgzeFZ4NGNuY1pVS2xUeVozR2JtRmotTWx5a2twb29SREpNM04yTU55MEpyRmJfV0kxb2ZUQkxjcFZkV3ZpbmhidXloWWxUQjZvUTBTTzF1RlVOS3Z3dW9kYVZOQlJLSE5WanR1YVNlSDZqdDViQmQ0VWlpLTB4ZWd1aWNvXzRqNjduYUVtMkpNZWFQZzY3UUdB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiygFBVV95cUxPVENfbkZXWEExWlJUcEIzUnpKTWFaMVBLN18xdnFOQmpUS0xHSkVjS3p1dzNVZWZMYWgzeFZ4NGNuY1pVS2xUeVozR2JtRmotTWx5a2twb29SREpNM04yTU55MEpyRmJfV0kxb2ZUQkxjcFZkV3ZpbmhidXloWWxUQjZvUTBTTzF1RlVOS3Z3dW9kYVZOQlJLSE5WanR1YVNlSDZqdDViQmQ0VWlpLTB4ZWd1aWNvXzRqNjduYUVtMkpNZWFQZzY3UUdB?oc=5</guid>
-      <description><![CDATA[Extension of early childhood worker retention payment welcome amid ongoing reform efforts - thepoint.com.au]]></description>
-      <content:encoded><![CDATA[Extension of early childhood worker retention payment welcome amid ongoing reform efforts - thepoint.com.au]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[thepoint.com.au]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Childcare workers have been guaranteed a  pay bump. What’s the fine print?]]></title>
       <link>https://theconversation.com/childcare-workers-have-been-guaranteed-a-pay-bump-whats-the-fine-print-285474</link>
       <guid isPermaLink="true">https://theconversation.com/childcare-workers-have-been-guaranteed-a-pay-bump-whats-the-fine-print-285474</guid>
@@ -343,21 +343,21 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBoS0EwQk1CWnVfU1VINWdMVUdkaERtMHJmVWlvNjFXVFJMOEdiRVpxM3kxTWtVWmRtMVhnbG9USjBXNU5DN3FEWEctVzY4RloxbjFMRDNwY0lPNTAzR1JObURna21iR0JRc0RaZlZPSFRYd1g2aXEyMmlyaE1WSWFCUXBYOUpvbG55YTZVakdLc0NvLVZZcTlMMjV6c2Q2aUVqNWNDVWJjWVFDZFBMMXF2eUJyUzlGWFd2a1FxU1k?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBoS0EwQk1CWnVfU1VINWdMVUdkaERtMHJmVWlvNjFXVFJMOEdiRVpxM3kxTWtVWmRtMVhnbG9USjBXNU5DN3FEWEctVzY4RloxbjFMRDNwY0lPNTAzR1JObURna21iR0JRc0RaZlZPSFRYd1g2aXEyMmlyaE1WSWFCUXBYOUpvbG55YTZVakdLc0NvLVZZcTlMMjV6c2Q2aUVqNWNDVWJjWVFDZFBMMXF2eUJyUzlGWFd2a1FxU1k?oc=5</guid>
-      <description><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></description>
-      <content:encoded><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></content:encoded>
-      <pubDate>Tue, 16 Jun 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[What US childcare centre closures could mean for Australia's ECEC sector l The Sector - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQRUN3MElsRUlXQnBPU0xpRGptak4zRjBsZktLSkpCcG92YzBVMkdIZHpFalUyR0oyTjZWX01SVDBub01EQldMbloxaml4RjI0RVlXZWlaRmV6TXdOcXBhUmFYTFlzS015OVZkQ1hZb0EyenAybVItXzBmMVk0cjFMdnBB?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiggFBVV95cUxQRUN3MElsRUlXQnBPU0xpRGptak4zRjBsZktLSkpCcG92YzBVMkdIZHpFalUyR0oyTjZWX01SVDBub01EQldMbloxaml4RjI0RVlXZWlaRmV6TXdOcXBhUmFYTFlzS015OVZkQ1hZb0EyenAybVItXzBmMVk0cjFMdnBB?oc=5</guid>
       <description><![CDATA[What US childcare centre closures could mean for Australia's ECEC sector l The Sector - The Sector]]></description>
       <content:encoded><![CDATA[What US childcare centre closures could mean for Australia's ECEC sector l The Sector - The Sector]]></content:encoded>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBoS0EwQk1CWnVfU1VINWdMVUdkaERtMHJmVWlvNjFXVFJMOEdiRVpxM3kxTWtVWmRtMVhnbG9USjBXNU5DN3FEWEctVzY4RloxbjFMRDNwY0lPNTAzR1JObURna21iR0JRc0RaZlZPSFRYd1g2aXEyMmlyaE1WSWFCUXBYOUpvbG55YTZVakdLc0NvLVZZcTlMMjV6c2Q2aUVqNWNDVWJjWVFDZFBMMXF2eUJyUzlGWFd2a1FxU1k?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBoS0EwQk1CWnVfU1VINWdMVUdkaERtMHJmVWlvNjFXVFJMOEdiRVpxM3kxTWtVWmRtMVhnbG9USjBXNU5DN3FEWEctVzY4RloxbjFMRDNwY0lPNTAzR1JObURna21iR0JRc0RaZlZPSFRYd1g2aXEyMmlyaE1WSWFCUXBYOUpvbG55YTZVakdLc0NvLVZZcTlMMjV6c2Q2aUVqNWNDVWJjWVFDZFBMMXF2eUJyUzlGWFd2a1FxU1k?oc=5</guid>
+      <description><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></description>
+      <content:encoded><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></content:encoded>
       <pubDate>Tue, 16 Jun 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
