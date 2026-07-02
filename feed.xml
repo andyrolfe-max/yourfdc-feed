@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 01 Jul 2026 23:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:28:30 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/acecqa-quality-support-program-registration-open-for-ecec-services</guid>
       <description><![CDATA[Eligible early childhood education and care (ECEC) services are being encouraged to register their interest in participating in the Australian Children&#x27;s Education and Care Quality Authority&#x27;s (ACECQA) Quality Support Program (QSP), a tailored initiative designed to help services strengthen quality practice, build leadership capability and support continuous improvement under the National Quality Framework (NQF).]]></description>
       <content:encoded><![CDATA[Eligible early childhood education and care (ECEC) services are being encouraged to register their interest in participating in the Australian Children&#x27;s Education and Care Quality Authority&#x27;s (ACECQA) Quality Support Program (QSP), a tailored initiative designed to help services strengthen quality practice, build leadership capability and support continuous improvement under the National Quality Framework (NQF).]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 23:03:51 GMT</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:28:24 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1457739435_ce68981ec6.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/new-paid-pathway-opens-door-to-teaching-careers-in-tasmania</guid>
       <description><![CDATA[A new paid employment-based pathway launched by the University of Tasmania is set to make teaching careers more accessible, offering career changers and university graduates the opportunity to earn an income while completing their teaching qualification.]]></description>
       <content:encoded><![CDATA[A new paid employment-based pathway launched by the University of Tasmania is set to make teaching careers more accessible, offering career changers and university graduates the opportunity to earn an income while completing their teaching qualification.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 22:03:51 GMT</pubDate>
+      <pubDate>Thu, 02 Jul 2026 01:28:24 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2201654195_fd2673b889.webp" medium="image"/>
@@ -40,11 +40,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/national-aboriginal-torres-strait-islander-childrens-day-2026-living-our-truth</guid>
       <description><![CDATA[Early childhood education and care (ECEC) services across Australia are being encouraged to begin planning their celebrations for National Aboriginal and Torres Strait Islander Children&#x27;s Day, with SNAICC – National Voice for our Children announcing the 2026 theme, Living Our Truth.]]></description>
       <content:encoded><![CDATA[Early childhood education and care (ECEC) services across Australia are being encouraged to begin planning their celebrations for National Aboriginal and Torres Strait Islander Children&#x27;s Day, with SNAICC – National Voice for our Children announcing the 2026 theme, Living Our Truth.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 21:03:51 GMT</pubDate>
+      <pubDate>Thu, 02 Jul 2026 00:28:24 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/10ea787b_f0c6_4fdb_b96c_d23d09311679_f1b6aa1985.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/10ea787b_f0c6_4fdb_b96c_d23d09311679_f1b6aa1985.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[AI is reshaping the future of work but childcare may remain one of the most human professions]]></title>
+      <link>https://thesector.com.au/article/ai-reshaping-future-work-childcare-human-profession</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/ai-reshaping-future-work-childcare-human-profession</guid>
+      <description><![CDATA[Artificial intelligence (AI) is transforming workplaces around the world, with a recent World Economic Forum (WEF) analysis warning that many entry-level roles are set to change dramatically as automation accelerates. While industries built around routine administrative tasks face significant disruption, early childhood education and care (ECEC) may be better positioned than many others because it relies on skills that technology cannot easily replicate.]]></description>
+      <content:encoded><![CDATA[Artificial intelligence (AI) is transforming workplaces around the world, with a recent World Economic Forum (WEF) analysis warning that many entry-level roles are set to change dramatically as automation accelerates. While industries built around routine administrative tasks face significant disruption, early childhood education and care (ECEC) may be better positioned than many others because it relies on skills that technology cannot easily replicate.]]></content:encoded>
+      <pubDate>Wed, 01 Jul 2026 23:28:24 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1124996439_7c74a8d1d9.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1124996439_7c74a8d1d9.webp"/>
     </item>
     <item>
       <title><![CDATA[Beyond visibility: Why effective supervision is about more than keeping children in sight]]></title>
@@ -52,35 +64,21 @@
       <guid isPermaLink="true">https://thesector.com.au/article/beyond-visibility-effective-supervision-more-than-keeping-children-in-sight</guid>
       <description><![CDATA[Supervision is often discussed in terms of ratios, visibility and compliance. While these remain essential components of safe practice, ACECQA is encouraging educators to rethink supervision as something much broader, a reflective, relationship-based practice built on professional judgement, deep knowledge of children and intentional engagement.]]></description>
       <content:encoded><![CDATA[Supervision is often discussed in terms of ratios, visibility and compliance. While these remain essential components of safe practice, ACECQA is encouraging educators to rethink supervision as something much broader, a reflective, relationship-based practice built on professional judgement, deep knowledge of children and intentional engagement.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 20:03:51 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 22:28:24 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2211102520_514c94ac88.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2211102520_514c94ac88.webp"/>
     </item>
     <item>
-      <title><![CDATA[ACECQA updates child safety resources as national reforms continue across the ECEC sector]]></title>
-      <link>https://thesector.com.au/article/acecqa-updates-child-safety-resources-national-reforms-ecec</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/acecqa-updates-child-safety-resources-national-reforms-ecec</guid>
-      <description><![CDATA[As child safety reforms continue to roll out across Australia&#x27;s early childhood education and care (ECEC) sector, the Australian Children&#x27;s Education and Care Quality Authority (ACECQA) has updated its guidance and resources to help approved providers and services strengthen child-safe practices, governance and regulatory compliance.]]></description>
-      <content:encoded><![CDATA[As child safety reforms continue to roll out across Australia&#x27;s early childhood education and care (ECEC) sector, the Australian Children&#x27;s Education and Care Quality Authority (ACECQA) has updated its guidance and resources to help approved providers and services strengthen child-safe practices, governance and regulatory compliance.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 19:03:51 GMT</pubDate>
+      <title><![CDATA[ACECQA updates child safety resources as national reforms continue across the ECEC sector - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVhLVXB6V25rdklieTlQV0VEZ2VxbG5sOEVxT3h3WTFVTldCRGFTZ0FqTDFaZE9mNU9jbkw4MFQxS2VMLVlWM3JNSldRUzVqY2pQUlRIckZTa3JsTkxPaWE3Rk5tdVZDMkJJWDRpNUR4RWt6eE9MUWd6a0Z0LWp2WWFSZjhCVE9kajQtX1hXTWJTdnhZYm80?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVhLVXB6V25rdklieTlQV0VEZ2VxbG5sOEVxT3h3WTFVTldCRGFTZ0FqTDFaZE9mNU9jbkw4MFQxS2VMLVlWM3JNSldRUzVqY2pQUlRIckZTa3JsTkxPaWE3Rk5tdVZDMkJJWDRpNUR4RWt6eE9MUWd6a0Z0LWp2WWFSZjhCVE9kajQtX1hXTWJTdnhZYm80?oc=5</guid>
+      <description><![CDATA[ACECQA updates child safety resources as national reforms continue across the ECEC sector - The Sector]]></description>
+      <content:encoded><![CDATA[ACECQA updates child safety resources as national reforms continue across the ECEC sector - The Sector]]></content:encoded>
+      <pubDate>Wed, 01 Jul 2026 19:01:54 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1480984942_94a6b95490.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1480984942_94a6b95490.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[EOFY review: A landmark year for child safety reform in Australia&#x27;s ECEC sector]]></title>
-      <link>https://thesector.com.au/article/oosh-educators-day-2026-celebrates-school-age-care-professionals</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/oosh-educators-day-2026-celebrates-school-age-care-professionals</guid>
-      <description><![CDATA[Every day, outside school hours (OOSH) educators create safe, engaging and inclusive environments where children can play, learn and build meaningful relationships. OOSH Educators Day 2026 is an opportunity to recognise the professionalism, dedication and lasting impact of the workforce supporting children before school, after school and during vacation care.]]></description>
-      <content:encoded><![CDATA[Every day, outside school hours (OOSH) educators create safe, engaging and inclusive environments where children can play, learn and build meaningful relationships. OOSH Educators Day 2026 is an opportunity to recognise the professionalism, dedication and lasting impact of the workforce supporting children before school, after school and during vacation care.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 13:03:51 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2209701907_9ef1f99f89.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2209701907_9ef1f99f89.webp"/>
     </item>
     <item>
       <title><![CDATA[Renewal of the wage subsidy great news for educators, children, families and gender equity]]></title>
@@ -88,23 +86,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/goodstart-welcomes-renewal-of-15-per-cent-early-learning-wage-subsidy</guid>
       <description><![CDATA[The renewal of the Australian Government’s 15% early learning wage subsidy marks a significant step forward for the sector, recognising the essential role educators play in supporting children’s learning and development.]]></description>
       <content:encoded><![CDATA[The renewal of the Australian Government’s 15% early learning wage subsidy marks a significant step forward for the sector, recognising the essential role educators play in supporting children’s learning and development.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 12:03:51 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 15:28:24 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/RB_and_PM_1_844_x_488px_f5c62218bc.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/RB_and_PM_1_844_x_488px_f5c62218bc.webp"/>
     </item>
     <item>
-      <title><![CDATA[ACCS child wellbeing language update aims to reduce stigma and support better family conversations]]></title>
-      <link>https://thesector.com.au/article/accs-child-wellbeing-language-update-reduces-stigma-supports-families</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/accs-child-wellbeing-language-update-reduces-stigma-supports-families</guid>
-      <description><![CDATA[The Australian Government has updated the language used to describe children who may be eligible for Additional Child Care Subsidy (ACCS) child wellbeing, with the changes taking effect from 1 July 2026.]]></description>
-      <content:encoded><![CDATA[The Australian Government has updated the language used to describe children who may be eligible for Additional Child Care Subsidy (ACCS) child wellbeing, with the changes taking effect from 1 July 2026.]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 11:03:51 GMT</pubDate>
+      <title><![CDATA[Learning in perfect harmony: QCCS helps children thrive with music]]></title>
+      <link>https://thesector.com.au/article/qccs-highlights-benefits-of-musical-learning-in-early-childhood</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/qccs-highlights-benefits-of-musical-learning-in-early-childhood</guid>
+      <description><![CDATA[Queensland Childcare Services (QCCS) has turned up the volume and hit the right notes on the importance of musical education in early childhood, focusing on cognitive and fine motor skills development.]]></description>
+      <content:encoded><![CDATA[Queensland Childcare Services (QCCS) has turned up the volume and hit the right notes on the importance of musical education in early childhood, focusing on cognitive and fine motor skills development.]]></content:encoded>
+      <pubDate>Wed, 01 Jul 2026 14:28:24 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_514422712_1d1a5c6690.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_514422712_1d1a5c6690.webp"/>
+      <media:content url="https://api.thesector.com.au/uploads/a9e8e7cb_73b0_4080_bb8d_f9bdd6938d59_02537a4db8.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/a9e8e7cb_73b0_4080_bb8d_f9bdd6938d59_02537a4db8.webp"/>
     </item>
     <item>
       <title><![CDATA[Childcare service cops historic penalty over rat poison, blames govt ‘witch hunt’ - Herald Sun]]></title>
@@ -132,7 +130,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1VCZjRxeV9yYjltQWlUemo4VkIwaUJsdmVvMHZMWjJlaHZ2aW82dWhBaHlvaXRNd0hKMy1pNEhVUnZXbi05aExhQUdfZjgwT1RkUVVnRWx4OTdpWjBHWDJHajdSbnE2RHhlcnYxbWZoR0R4M2ZKRFo4RDVURGlzVndBXzF6c3Q4aFc2MWZ0YjRWWW0xV2VRcURaTi1KVDVWTTh3Vg?oc=5</guid>
       <description><![CDATA[Melbourne childcare provider stripped of funding labels decision 'devastating' - Australian Broadcasting Corporation]]></description>
       <content:encoded><![CDATA[Melbourne childcare provider stripped of funding labels decision 'devastating' - Australian Broadcasting Corporation]]></content:encoded>
-      <pubDate>Wed, 01 Jul 2026 01:08:03 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 01:05:14 GMT</pubDate>
       <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -203,16 +201,6 @@
       <description><![CDATA[HELP debt reduction now available for very remote early childhood teachers - The Sector]]></description>
       <content:encoded><![CDATA[HELP debt reduction now available for very remote early childhood teachers - The Sector]]></content:encoded>
       <pubDate>Mon, 29 Jun 2026 19:05:31 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Why record ECEC funding has not yet settled investor nerves - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeXhuOUNRLXk4cjdDZEFidnZkbGZxLV8yalYyN3dkMlZWU2dhVy12VW9FdWxRVExmX29mTHNNcGlfMUJGbko4QmsyRTlEdTZES2luV1VsVDNmYzBKTjM2S0ZYSEhPMmoxTzBrM2VFZlFpZkw0NGNESldBSDFmQWpfQlM2R3Z0V2hpczlR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeXhuOUNRLXk4cjdDZEFidnZkbGZxLV8yalYyN3dkMlZWU2dhVy12VW9FdWxRVExmX29mTHNNcGlfMUJGbko4QmsyRTlEdTZES2luV1VsVDNmYzBKTjM2S0ZYSEhPMmoxTzBrM2VFZlFpZkw0NGNESldBSDFmQWpfQlM2R3Z0V2hpczlR?oc=5</guid>
-      <description><![CDATA[Why record ECEC funding has not yet settled investor nerves - The Sector]]></description>
-      <content:encoded><![CDATA[Why record ECEC funding has not yet settled investor nerves - The Sector]]></content:encoded>
-      <pubDate>Mon, 29 Jun 2026 19:05:28 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -525,6 +513,16 @@
       <description><![CDATA[CCS hourly rate caps and income thresholds set to rise from 6 July 2026 - The Sector]]></description>
       <content:encoded><![CDATA[CCS hourly rate caps and income thresholds set to rise from 6 July 2026 - The Sector]]></content:encoded>
       <pubDate>Thu, 11 Jun 2026 19:04:54 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Western Sydney's Airlie Preschool recognised among top 1% with rare second 'Excellent' rating - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnZ3QTNRNmZkbG1TYWNUX3RZbV9jbGdxWEpXN1dKYndQV3VXZ3Z1NWJyb3dUYldBc3BGRGdyZkd4XzJSRWlfWG5VSlVpUlZvbnVCSlAwQnVSMGtXS0Z6MWhCS1Vra0IyQ1NUcy1MdWMwY1JYbkREMTV2dnR0NGg5YkN6TkRTSjlDZHp1b29hNndOZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnZ3QTNRNmZkbG1TYWNUX3RZbV9jbGdxWEpXN1dKYndQV3VXZ3Z1NWJyb3dUYldBc3BGRGdyZkd4XzJSRWlfWG5VSlVpUlZvbnVCSlAwQnVSMGtXS0Z6MWhCS1Vra0IyQ1NUcy1MdWMwY1JYbkREMTV2dnR0NGg5YkN6TkRTSjlDZHp1b29hNndOZw?oc=5</guid>
+      <description><![CDATA[Western Sydney's Airlie Preschool recognised among top 1% with rare second 'Excellent' rating - The Sector]]></description>
+      <content:encoded><![CDATA[Western Sydney's Airlie Preschool recognised among top 1% with rare second 'Excellent' rating - The Sector]]></content:encoded>
+      <pubDate>Wed, 10 Jun 2026 20:18:50 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
