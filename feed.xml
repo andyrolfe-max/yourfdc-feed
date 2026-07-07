@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Tue, 07 Jul 2026 20:45:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 22:05:42 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/early-childhood-educators-national-sector-survey-2026</guid>
       <description><![CDATA[The Fraser Foundation launches Voice of the Educator Survey 2026 to capture the realities, pressures and priorities of Australia’s early learning workforce]]></description>
       <content:encoded><![CDATA[The Fraser Foundation launches Voice of the Educator Survey 2026 to capture the realities, pressures and priorities of Australia’s early learning workforce]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 20:45:27 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 22:05:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_827373580_05bb037f77.webp" medium="image"/>
@@ -28,11 +28,35 @@
       <guid isPermaLink="true">https://thesector.com.au/article/trust-early-years-family-plans-ecec-sector</guid>
       <description><![CDATA[As Australia’s fertility rate reaches record lows, new research suggests decisions about having children are influenced by more than cost-of-living pressures. Trust in the systems that support families, including early childhood education and care, plays an important role in how young Australians view their future.]]></description>
       <content:encoded><![CDATA[As Australia’s fertility rate reaches record lows, new research suggests decisions about having children are influenced by more than cost-of-living pressures. Trust in the systems that support families, including early childhood education and care, plays an important role in how young Australians view their future.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 19:45:27 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 21:05:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_483671747_07a00dda67.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_483671747_07a00dda67.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[More childcare places coming to Scottsdale as Tasmania expands early learning access]]></title>
+      <link>https://thesector.com.au/article/more-childcare-places-coming-to-scottsdale-as-tasmania-expands-early-learning-access</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/more-childcare-places-coming-to-scottsdale-as-tasmania-expands-early-learning-access</guid>
+      <description><![CDATA[Families in Scottsdale are set to benefit from improved access to early childhood education and care (ECEC), with the Tasmanian Government announcing additional childcare places for the regional community.]]></description>
+      <content:encoded><![CDATA[Families in Scottsdale are set to benefit from improved access to early childhood education and care (ECEC), with the Tasmanian Government announcing additional childcare places for the regional community.]]></content:encoded>
+      <pubDate>Tue, 07 Jul 2026 20:05:37 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2217901800_4880ebc085.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2217901800_4880ebc085.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Nominations now open for 2026 WA Education Awards recognising excellence in early childhood education]]></title>
+      <link>https://thesector.com.au/article/wa-education-awards-2026-early-childhood-nominations-open</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/wa-education-awards-2026-early-childhood-nominations-open</guid>
+      <description><![CDATA[Western Australia’s outstanding educators, leaders and school communities are being recognised, with nominations now open for the 2026 WA Education Awards, including a dedicated category celebrating excellence in early childhood education.]]></description>
+      <content:encoded><![CDATA[Western Australia’s outstanding educators, leaders and school communities are being recognised, with nominations now open for the 2026 WA Education Awards, including a dedicated category celebrating excellence in early childhood education.]]></content:encoded>
+      <pubDate>Tue, 07 Jul 2026 19:05:37 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1148192195_14594b0058.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1148192195_14594b0058.webp"/>
     </item>
     <item>
       <title><![CDATA[Brewarrina voices carry language into classrooms across Australia - The Sector]]></title>
@@ -55,36 +79,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[More childcare places coming to Scottsdale as Tasmania expands early learning access]]></title>
-      <link>https://thesector.com.au/article/more-childcare-places-coming-to-scottsdale-as-tasmania-expands-early-learning-access</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/more-childcare-places-coming-to-scottsdale-as-tasmania-expands-early-learning-access</guid>
-      <description><![CDATA[Families in Scottsdale are set to benefit from improved access to early childhood education and care (ECEC), with the Tasmanian Government announcing additional childcare places for the regional community.]]></description>
-      <content:encoded><![CDATA[Families in Scottsdale are set to benefit from improved access to early childhood education and care (ECEC), with the Tasmanian Government announcing additional childcare places for the regional community.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 18:45:27 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2217901800_4880ebc085.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2217901800_4880ebc085.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Nominations now open for 2026 WA Education Awards recognising excellence in early childhood education]]></title>
-      <link>https://thesector.com.au/article/wa-education-awards-2026-early-childhood-nominations-open</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/wa-education-awards-2026-early-childhood-nominations-open</guid>
-      <description><![CDATA[Western Australia’s outstanding educators, leaders and school communities are being recognised, with nominations now open for the 2026 WA Education Awards, including a dedicated category celebrating excellence in early childhood education.]]></description>
-      <content:encoded><![CDATA[Western Australia’s outstanding educators, leaders and school communities are being recognised, with nominations now open for the 2026 WA Education Awards, including a dedicated category celebrating excellence in early childhood education.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 17:45:27 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1148192195_14594b0058.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1148192195_14594b0058.webp"/>
-    </item>
-    <item>
       <title><![CDATA[Embark Early Education share price movement highlights investor focus on changing ECEC operating conditions]]></title>
       <link>https://thesector.com.au/article/embark-early-education-share-price-ecec-sector-conditions</link>
       <guid isPermaLink="true">https://thesector.com.au/article/embark-early-education-share-price-ecec-sector-conditions</guid>
       <description><![CDATA[Embark Early Education (ASX:EVO) has attracted investor attention following recent movement in its share price, highlighting the broader market conditions influencing Australia’s listed early childhood education and care (ECEC) providers.]]></description>
       <content:encoded><![CDATA[Embark Early Education (ASX:EVO) has attracted investor attention following recent movement in its share price, highlighting the broader market conditions influencing Australia’s listed early childhood education and care (ECEC) providers.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 16:45:27 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 18:05:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_484423596_7cd95972d5.webp" medium="image"/>
@@ -96,7 +96,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/z-staffing-child-safe-recruitment-transparency-compliance</guid>
       <description><![CDATA[For many approved providers, engaging a recruitment agency is not the first choice, it is often a necessity.]]></description>
       <content:encoded><![CDATA[For many approved providers, engaging a recruitment agency is not the first choice, it is often a necessity.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 09:45:27 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 11:05:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_Jul_5_2026_at_10_38_02_AM_052934d9cc.png" medium="image"/>
@@ -108,7 +108,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/uk-bright-horizons-regulatory-action-australia-ecec-compliance</guid>
       <description><![CDATA[The United Kingdom’s early years regulator has taken regulatory action against Bright Horizons following serious safeguarding concerns and subsequent regulatory activity across the provider’s nursery network.]]></description>
       <content:encoded><![CDATA[The United Kingdom’s early years regulator has taken regulatory action against Bright Horizons following serious safeguarding concerns and subsequent regulatory activity across the provider’s nursery network.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 07:45:27 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 09:05:37 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2199745368_dbc4438e3f.webp" medium="image"/>
