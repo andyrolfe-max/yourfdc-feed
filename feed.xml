@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 08 Jul 2026 20:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:02:48 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/goodstart-payneham-investigation-child-exits-centre</guid>
       <description><![CDATA[Goodstart Early Learning has confirmed an internal investigation is underway after a child followed a grandparent out of its Payneham centre last month.]]></description>
       <content:encoded><![CDATA[Goodstart Early Learning has confirmed an internal investigation is underway after a child followed a grandparent out of its Payneham centre last month.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 20:57:51 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 22:02:45 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1129702433_19c1ab6b8a.webp" medium="image"/>
@@ -28,11 +28,35 @@
       <guid isPermaLink="true">https://thesector.com.au/article/child-voice-agency-research-ethics-ecec</guid>
       <description><![CDATA[A global child research ethics initiative led by Abu Dhabi’s Early Childhood Authority is placing renewed focus on children’s rights, safety, voice and participation. For early childhood education and care (ECEC), the project reinforces a broader conversation about recognising children as capable individuals whose views, experiences and wellbeing must remain central to decisions that affect them.]]></description>
       <content:encoded><![CDATA[A global child research ethics initiative led by Abu Dhabi’s Early Childhood Authority is placing renewed focus on children’s rights, safety, voice and participation. For early childhood education and care (ECEC), the project reinforces a broader conversation about recognising children as capable individuals whose views, experiences and wellbeing must remain central to decisions that affect them.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 19:57:51 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 21:02:45 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_466849277_1b93f6f527.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_466849277_1b93f6f527.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Australia’s STEM education plan highlights a critical truth: STEM starts in early childhood]]></title>
+      <link>https://thesector.com.au/article/australias-new-stem-education-plan-highlights-why-stem-starts-in-early-childhood</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/australias-new-stem-education-plan-highlights-why-stem-starts-in-early-childhood</guid>
+      <description><![CDATA[Australia’s future workforce will depend on strong STEM capability, but according to new research from Flinders University, the nation is not yet on track to meet the demand. Their latest analysis calls for a nationally coordinated STEM education plan, emphasising the need for stronger pathways, better teacher preparation, and earlier engagement with science, technology, engineering and mathematics.]]></description>
+      <content:encoded><![CDATA[Australia’s future workforce will depend on strong STEM capability, but according to new research from Flinders University, the nation is not yet on track to meet the demand. Their latest analysis calls for a nationally coordinated STEM education plan, emphasising the need for stronger pathways, better teacher preparation, and earlier engagement with science, technology, engineering and mathematics.]]></content:encoded>
+      <pubDate>Wed, 08 Jul 2026 20:02:45 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_813895790_2b498607f5.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_813895790_2b498607f5.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Giving babies a voice: what UK investment in infant wellbeing means for Australian early childhood practice]]></title>
+      <link>https://thesector.com.au/article/giving-babies-a-voice-infant-wellbeing-ecec-practice</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/giving-babies-a-voice-infant-wellbeing-ecec-practice</guid>
+      <description><![CDATA[A major early childhood initiative in the UK is highlighting a message that strongly aligns with Australian early childhood education and care (ECEC) practice, babies are capable communicators from birth, and adults play a critical role in recognising, understanding and responding to their cues.]]></description>
+      <content:encoded><![CDATA[A major early childhood initiative in the UK is highlighting a message that strongly aligns with Australian early childhood education and care (ECEC) practice, babies are capable communicators from birth, and adults play a critical role in recognising, understanding and responding to their cues.]]></content:encoded>
+      <pubDate>Wed, 08 Jul 2026 19:02:45 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2189424061_f004649977.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2189424061_f004649977.webp"/>
     </item>
     <item>
       <title><![CDATA[Early Learning Matters: Why Australia needs to stand up for the first five years - The Sector]]></title>
@@ -45,36 +69,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Australia’s STEM education plan highlights a critical truth: STEM starts in early childhood]]></title>
-      <link>https://thesector.com.au/article/australias-new-stem-education-plan-highlights-why-stem-starts-in-early-childhood</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/australias-new-stem-education-plan-highlights-why-stem-starts-in-early-childhood</guid>
-      <description><![CDATA[Australia’s future workforce will depend on strong STEM capability, but according to new research from Flinders University, the nation is not yet on track to meet the demand. Their latest analysis calls for a nationally coordinated STEM education plan, emphasising the need for stronger pathways, better teacher preparation, and earlier engagement with science, technology, engineering and mathematics.]]></description>
-      <content:encoded><![CDATA[Australia’s future workforce will depend on strong STEM capability, but according to new research from Flinders University, the nation is not yet on track to meet the demand. Their latest analysis calls for a nationally coordinated STEM education plan, emphasising the need for stronger pathways, better teacher preparation, and earlier engagement with science, technology, engineering and mathematics.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 18:57:51 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_813895790_2b498607f5.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_813895790_2b498607f5.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Giving babies a voice: what UK investment in infant wellbeing means for Australian early childhood practice]]></title>
-      <link>https://thesector.com.au/article/giving-babies-a-voice-infant-wellbeing-ecec-practice</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/giving-babies-a-voice-infant-wellbeing-ecec-practice</guid>
-      <description><![CDATA[A major early childhood initiative in the UK is highlighting a message that strongly aligns with Australian early childhood education and care (ECEC) practice, babies are capable communicators from birth, and adults play a critical role in recognising, understanding and responding to their cues.]]></description>
-      <content:encoded><![CDATA[A major early childhood initiative in the UK is highlighting a message that strongly aligns with Australian early childhood education and care (ECEC) practice, babies are capable communicators from birth, and adults play a critical role in recognising, understanding and responding to their cues.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 17:57:51 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2189424061_f004649977.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2189424061_f004649977.webp"/>
-    </item>
-    <item>
       <title><![CDATA[Healthy families start with strong connections: What Be You’s guidance means for ECEC services]]></title>
       <link>https://thesector.com.au/article/healthy-families-ecec-relationships-beyou</link>
       <guid isPermaLink="true">https://thesector.com.au/article/healthy-families-ecec-relationships-beyou</guid>
       <description><![CDATA[Children’s wellbeing is shaped by the relationships and environments that surround them. Be You’s Healthy Families resource highlights the importance of connection, communication and support, reinforcing the role early childhood education and care services play in building trusted partnerships with families.]]></description>
       <content:encoded><![CDATA[Children’s wellbeing is shaped by the relationships and environments that surround them. Be You’s Healthy Families resource highlights the importance of connection, communication and support, reinforcing the role early childhood education and care services play in building trusted partnerships with families.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 16:57:51 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 18:02:45 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1325578537_4eba53ed88.webp" medium="image"/>
@@ -86,7 +86,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/z-staffing-child-safe-recruitment-transparency-compliance</guid>
       <description><![CDATA[For many approved providers, engaging a recruitment agency is not the first choice, it is often a necessity.]]></description>
       <content:encoded><![CDATA[For many approved providers, engaging a recruitment agency is not the first choice, it is often a necessity.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 09:57:51 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 11:02:45 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_Jul_5_2026_at_10_38_02_AM_052934d9cc.png" medium="image"/>
@@ -98,7 +98,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/embark-early-education-share-price-ecec-sector-conditions</guid>
       <description><![CDATA[Embark Early Education (ASX:EVO) has attracted investor attention following recent movement in its share price, highlighting the broader market conditions influencing Australia’s listed early childhood education and care (ECEC) providers.]]></description>
       <content:encoded><![CDATA[Embark Early Education (ASX:EVO) has attracted investor attention following recent movement in its share price, highlighting the broader market conditions influencing Australia’s listed early childhood education and care (ECEC) providers.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 08:57:51 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 10:02:45 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_484423596_7cd95972d5.webp" medium="image"/>
