@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 08 Jul 2026 01:50:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 05:12:47 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/frogtastic-educational-kindergarten-childcare-service-approval-cancelled</guid>
       <description><![CDATA[The service approval for Frogtastic Educational Kindergarten and Childcare in Bundaberg has been cancelled following regulatory action under the Education and Care Services National Law.]]></description>
       <content:encoded><![CDATA[The service approval for Frogtastic Educational Kindergarten and Childcare in Bundaberg has been cancelled following regulatory action under the Education and Care Services National Law.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 01:50:47 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 05:12:44 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2277326511_952810e117.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/tambourine-incident-busy-bees-lara-ecec-supervision-safety</guid>
       <description><![CDATA[A child at Busy Bees Lara required assistance from emergency services after a tambourine became stuck during play, highlighting the importance of active supervision, thoughtful resource selection and effective incident response procedures in early childhood education and care (ECEC) environments.]]></description>
       <content:encoded><![CDATA[A child at Busy Bees Lara required assistance from emergency services after a tambourine became stuck during play, highlighting the importance of active supervision, thoughtful resource selection and effective incident response procedures in early childhood education and care (ECEC) environments.]]></content:encoded>
-      <pubDate>Wed, 08 Jul 2026 00:50:47 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 04:12:44 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1154950900_be1501c8bc.webp" medium="image"/>
@@ -40,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/early-childhood-educators-national-sector-survey-2026</guid>
       <description><![CDATA[The Fraser Foundation launches Voice of the Educator Survey 2026 to capture the realities, pressures and priorities of Australia’s early learning workforce]]></description>
       <content:encoded><![CDATA[The Fraser Foundation launches Voice of the Educator Survey 2026 to capture the realities, pressures and priorities of Australia’s early learning workforce]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 23:50:47 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 03:12:44 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_827373580_05bb037f77.webp" medium="image"/>
@@ -52,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/trust-early-years-family-plans-ecec-sector</guid>
       <description><![CDATA[As Australia’s fertility rate reaches record lows, new research suggests decisions about having children are influenced by more than cost-of-living pressures. Trust in the systems that support families, including early childhood education and care, plays an important role in how young Australians view their future.]]></description>
       <content:encoded><![CDATA[As Australia’s fertility rate reaches record lows, new research suggests decisions about having children are influenced by more than cost-of-living pressures. Trust in the systems that support families, including early childhood education and care, plays an important role in how young Australians view their future.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 22:50:47 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 02:12:44 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_483671747_07a00dda67.webp" medium="image"/>
@@ -64,7 +64,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/more-childcare-places-coming-to-scottsdale-as-tasmania-expands-early-learning-access</guid>
       <description><![CDATA[Families in Scottsdale are set to benefit from improved access to early childhood education and care (ECEC), with the Tasmanian Government announcing additional childcare places for the regional community.]]></description>
       <content:encoded><![CDATA[Families in Scottsdale are set to benefit from improved access to early childhood education and care (ECEC), with the Tasmanian Government announcing additional childcare places for the regional community.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 21:50:47 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 01:12:44 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2217901800_4880ebc085.webp" medium="image"/>
@@ -79,6 +79,18 @@
       <pubDate>Tue, 07 Jul 2026 21:04:26 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Brewarrina voices carry language into classrooms across Australia]]></title>
+      <link>https://thesector.com.au/article/embark-early-education-share-price-ecec-sector-conditions</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/embark-early-education-share-price-ecec-sector-conditions</guid>
+      <description><![CDATA[Embark Early Education (ASX:EVO) has attracted investor attention following recent movement in its share price, highlighting the broader market conditions influencing Australia’s listed early childhood education and care (ECEC) providers.]]></description>
+      <content:encoded><![CDATA[Embark Early Education (ASX:EVO) has attracted investor attention following recent movement in its share price, highlighting the broader market conditions influencing Australia’s listed early childhood education and care (ECEC) providers.]]></content:encoded>
+      <pubDate>Tue, 07 Jul 2026 19:12:44 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_484423596_7cd95972d5.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_484423596_7cd95972d5.webp"/>
     </item>
     <item>
       <title><![CDATA[Nominations now open for 2026 WA Education Awards recognising excellence in early childhood education - The Sector]]></title>
@@ -101,24 +113,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Brewarrina voices carry language into classrooms across Australia]]></title>
-      <link>https://thesector.com.au/article/embark-early-education-share-price-ecec-sector-conditions</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/embark-early-education-share-price-ecec-sector-conditions</guid>
-      <description><![CDATA[Embark Early Education (ASX:EVO) has attracted investor attention following recent movement in its share price, highlighting the broader market conditions influencing Australia’s listed early childhood education and care (ECEC) providers.]]></description>
-      <content:encoded><![CDATA[Embark Early Education (ASX:EVO) has attracted investor attention following recent movement in its share price, highlighting the broader market conditions influencing Australia’s listed early childhood education and care (ECEC) providers.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 15:50:47 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_484423596_7cd95972d5.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_484423596_7cd95972d5.webp"/>
-    </item>
-    <item>
       <title><![CDATA[How Z Staffing is building trust through transparency, compliance and child-safe recruitment]]></title>
       <link>https://thesector.com.au/article/z-staffing-child-safe-recruitment-transparency-compliance</link>
       <guid isPermaLink="true">https://thesector.com.au/article/z-staffing-child-safe-recruitment-transparency-compliance</guid>
       <description><![CDATA[For many approved providers, engaging a recruitment agency is not the first choice, it is often a necessity.]]></description>
       <content:encoded><![CDATA[For many approved providers, engaging a recruitment agency is not the first choice, it is often a necessity.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 14:50:47 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 18:12:44 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Chat_GPT_Image_Jul_5_2026_at_10_38_02_AM_052934d9cc.png" medium="image"/>
@@ -130,7 +130,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/uk-bright-horizons-regulatory-action-australia-ecec-compliance</guid>
       <description><![CDATA[The United Kingdom’s early years regulator has taken regulatory action against Bright Horizons following serious safeguarding concerns and subsequent regulatory activity across the provider’s nursery network.]]></description>
       <content:encoded><![CDATA[The United Kingdom’s early years regulator has taken regulatory action against Bright Horizons following serious safeguarding concerns and subsequent regulatory activity across the provider’s nursery network.]]></content:encoded>
-      <pubDate>Tue, 07 Jul 2026 12:50:47 GMT</pubDate>
+      <pubDate>Tue, 07 Jul 2026 16:12:44 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2199745368_dbc4438e3f.webp" medium="image"/>
@@ -167,16 +167,14 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[SNAICC in the News | 3 July 2026]]></title>
-      <link>https://www.snaicc.org.au/snaicc-in-the-news-3-july-2026/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/snaicc-in-the-news-3-july-2026/</guid>
-      <description><![CDATA[In this week’s SNAICC in the News, legislation for the National Commissioner comes into effect, continued coverage of child protection reforms in the NT, working with ACCOs necessary for Thriving Kids to be successful and 2026 Children’s Day is just a month away]]></description>
-      <content:encoded><![CDATA[In this week’s SNAICC in the News, legislation for the National Commissioner comes into effect, continued coverage of child protection reforms in the NT, working with ACCOs necessary for Thriving Kids to be successful and 2026 Children’s Day is just a month away]]></content:encoded>
-      <pubDate>Fri, 03 Jul 2026 06:48:13 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
+      <title><![CDATA[For 60 years, Play School has never broken this rule - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEswYk1iaDJVUHQwc1J4MjVqVHdmbTQydmRQZWJaVnF3di03ckk5ak9xVVJEbEhCb0JlazJGYjZZdENBUndGVjBDcnN1ZHd4dnF4Ri1aYll6eTYzUmxlNGplc1ViVURWNVY1aGpCbHRuRFp1ZGdhQjY0eWkwdmNLU0RSLTZ4M25UQzBPcEJRUTVsOXlWV2ZvQ0haREZsemI3Mm0wU2FSN0dwVExVbTdZ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEswYk1iaDJVUHQwc1J4MjVqVHdmbTQydmRQZWJaVnF3di03ckk5ak9xVVJEbEhCb0JlazJGYjZZdENBUndGVjBDcnN1ZHd4dnF4Ri1aYll6eTYzUmxlNGplc1ViVURWNVY1aGpCbHRuRFp1ZGdhQjY0eWkwdmNLU0RSLTZ4M25UQzBPcEJRUTVsOXlWV2ZvQ0haREZsemI3Mm0wU2FSN0dwVExVbTdZ?oc=5</guid>
+      <description><![CDATA[For 60 years, Play School has never broken this rule - ABC News & Headlines – Australian Broadcasting Corporation]]></description>
+      <content:encoded><![CDATA[For 60 years, Play School has never broken this rule - ABC News & Headlines – Australian Broadcasting Corporation]]></content:encoded>
+      <pubDate>Sat, 04 Jul 2026 18:42:34 GMT</pubDate>
+      <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2026/06/SNAICC_Family-Matters_Digital-Resolution_287-scaled.jpg" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2026/06/SNAICC_Family-Matters_Digital-Resolution_287-scaled.jpg"/>
     </item>
     <item>
       <title><![CDATA[Childcare safety loophole for educators breaching regulations - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
@@ -249,28 +247,14 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[SNAICC in the News | 26 June 2026]]></title>
-      <link>https://www.snaicc.org.au/snaicc-in-the-news-26-june-2026/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/snaicc-in-the-news-26-june-2026/</guid>
-      <description><![CDATA[In this week’s SNAICC in the News, National Commissioner legislation comes into effect, continued coverage of child protection reforms in the NT, coverage of SNAICC&#039;s position on Thriving Kids, and continued coverage of Children’s Day 2026 ambassador Marlee Silva.]]></description>
-      <content:encoded><![CDATA[In this week’s SNAICC in the News, National Commissioner legislation comes into effect, continued coverage of child protection reforms in the NT, coverage of SNAICC&#039;s position on Thriving Kids, and continued coverage of Children’s Day 2026 ambassador Marlee Silva.]]></content:encoded>
-      <pubDate>Fri, 26 Jun 2026 07:00:37 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
+      <title><![CDATA[What the rating doesn’t tell parents: the gap between the NQS and a confident childcare decision - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBDY1hOTDNxSXVSd2dibXowZFVleW9uSERLeWJUTXo2eGlta1FNZGVCWVRrUy1Ud3lZSGxJQTlpaEM2WWpseDU2enI5Ynl4cnU3d05MSlJZeU9DV0VtelBvZ2U0Rl9iVkdsdkt3ZHkxVGJkbFVtXy0w?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFBDY1hOTDNxSXVSd2dibXowZFVleW9uSERLeWJUTXo2eGlta1FNZGVCWVRrUy1Ud3lZSGxJQTlpaEM2WWpseDU2enI5Ynl4cnU3d05MSlJZeU9DV0VtelBvZ2U0Rl9iVkdsdkt3ZHkxVGJkbFVtXy0w?oc=5</guid>
+      <description><![CDATA[What the rating doesn’t tell parents: the gap between the NQS and a confident childcare decision - The Sector]]></description>
+      <content:encoded><![CDATA[What the rating doesn’t tell parents: the gap between the NQS and a confident childcare decision - The Sector]]></content:encoded>
+      <pubDate>Thu, 25 Jun 2026 08:38:16 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2026/06/SNAICC_Family-Matters_Digital-Resolution_299-scaled.jpg" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2026/06/SNAICC_Family-Matters_Digital-Resolution_299-scaled.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Thriving Kids must be built with Aboriginal communities to succeed]]></title>
-      <link>https://www.snaicc.org.au/thriving-kids-must-be-built-with-aboriginal-communities-to-succeed/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/thriving-kids-must-be-built-with-aboriginal-communities-to-succeed/</guid>
-      <description><![CDATA[SNAICC - National Voice for our Children has released a new policy paper calling on governments to design and deliver the Thriving Kids initiative in genuine partnership with Aboriginal Community-Controlled Organisations (ACCOs).]]></description>
-      <content:encoded><![CDATA[SNAICC - National Voice for our Children has released a new policy paper calling on governments to design and deliver the Thriving Kids initiative in genuine partnership with Aboriginal Community-Controlled Organisations (ACCOs).]]></content:encoded>
-      <pubDate>Thu, 25 Jun 2026 01:42:17 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png"/>
     </item>
     <item>
       <title><![CDATA[Everyone experiences loss and grief – but that doesn’t make it any easier to talk with kids about it]]></title>
@@ -295,18 +279,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Marlee Silva – National Aboriginal and Torres Strait Islander Children’s Day 2026 Ambassador]]></title>
-      <link>https://www.snaicc.org.au/marlee-silva-national-aboriginal-and-torres-strait-islander-childrens-day-2026-ambassador/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/marlee-silva-national-aboriginal-and-torres-strait-islander-childrens-day-2026-ambassador/</guid>
-      <description><![CDATA[Marlee Silva is the National Aboriginal and Torres Strait Islander Children’s Day 2026 Ambassador! Find out more in the Ambassador Video!]]></description>
-      <content:encoded><![CDATA[Marlee Silva is the National Aboriginal and Torres Strait Islander Children’s Day 2026 Ambassador! Find out more in the Ambassador Video!]]></content:encoded>
-      <pubDate>Tue, 23 Jun 2026 02:53:22 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2026/06/MS-CD-AMB-1200x815.png" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2026/06/MS-CD-AMB-1200x815.png"/>
-    </item>
-    <item>
       <title><![CDATA[Families look for childcare alternatives as cost and scandal drive unease - SMH.com.au]]></title>
       <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3JBRDlqNlN2ZEVaWUlRa3kyRlR4WmhILXltNlR2WkZEVW84V3p0V2xKUjRWSlJwUXFaUURuRnN6SkExNlBNUGUza0lKOFFWYk96U25ZWFdzMVhRTm1yeGl3cS1IbnlvdldSUHozZ1JseE15TW5zTmxnM1FRUzJhM1k0NmpKS2g1XzhuUTlxdHRiZHBSX2VhSExlTDNfc0hLT016TE9CaFVTX1JVVlQ4V1VodUlpZXk1ME15cTlEVUdUVnBRMXlqM2paRHVQQ3hi?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3JBRDlqNlN2ZEVaWUlRa3kyRlR4WmhILXltNlR2WkZEVW84V3p0V2xKUjRWSlJwUXFaUURuRnN6SkExNlBNUGUza0lKOFFWYk96U25ZWFdzMVhRTm1yeGl3cS1IbnlvdldSUHozZ1JseE15TW5zTmxnM1FRUzJhM1k0NmpKS2g1XzhuUTlxdHRiZHBSX2VhSExlTDNfc0hLT016TE9CaFVTX1JVVlQ4V1VodUlpZXk1ME15cTlEVUdUVnBRMXlqM2paRHVQQ3hi?oc=5</guid>
@@ -329,18 +301,6 @@
       <media:thumbnail url="https://images.theconversation.com/files/743014/original/file-20260619-71-1mnlj.jpg?ixlib=rb-4.1.0&amp;rect=71%2C91%2C4198%2C2099&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
     </item>
     <item>
-      <title><![CDATA[SNAICC in the News | 19 June 2026]]></title>
-      <link>https://www.snaicc.org.au/snaicc-in-the-news-19-june-2026/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/snaicc-in-the-news-19-june-2026/</guid>
-      <description><![CDATA[SNAICC responds to Worker Retention Payment extension, NT and Queensland child protection scrutiny, Aboriginal Family-Led Decision Making and Children’s Day.]]></description>
-      <content:encoded><![CDATA[SNAICC responds to Worker Retention Payment extension, NT and Queensland child protection scrutiny, Aboriginal Family-Led Decision Making and Children’s Day.]]></content:encoded>
-      <pubDate>Fri, 19 Jun 2026 05:34:38 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2026/06/75e64689-fe9b-47e5-ae99-0f24d5d9596f.jpg" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2026/06/75e64689-fe9b-47e5-ae99-0f24d5d9596f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[FDC Construction closes in on $950m-plus ASX float - The Australian]]></title>
       <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLXZHWDdkYWhCV1RIUlRRckg3bDh3SGpNMm5lMUZ6ME1Xd19jdURLc2p3VWhBbmJ1aTJXQ2dTV2pvaFVqZ2ZuT28xZWYwa2hjMlRPMG1zT1dmRUdFbW1LRDlVOXRiMGN5OHdkX3JDNEZ2QjRheExFOU1EOTY3dnlQbXFGNmJsQTVOX1FENjZ3eFEya3M0QXc5WWhwSlJiaGZhUFhubURsbDdDX1BaWFUtbkdKQnZRNDFYdTE4dHdPdHRsUnY3cGhxV2pkZkxKbWdUSWUyNUFFeFRmT3fSAeABQVVfeXFMTW1CSlhuUnJGQ1NRMnVOUjRCV3hxb1lQYzNiZS1uaF9oaFVKV0VkSHZiMW9Kb0IzNnVmVE1QMjFSTVVXQjlweUttWXZVSlhrSHJlV2NlWnZWck1odXJYbS1vWWJNRVEzOFZPQVVYWjZ6ZkYycmlBeUZvTFpaVG5oTW1hc2o0UHdjWkxxa0pRWUgyWDY5ZzF3YzVhMkhJbndDMlYzT0doQTNraFBLLUNJT1ZaTmdKdF84S2E4WUduLXRvcWV0VURmdDVWelQzNWxGT3FCNS1RVlVoeDl2eXU4Z1U?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLXZHWDdkYWhCV1RIUlRRckg3bDh3SGpNMm5lMUZ6ME1Xd19jdURLc2p3VWhBbmJ1aTJXQ2dTV2pvaFVqZ2ZuT28xZWYwa2hjMlRPMG1zT1dmRUdFbW1LRDlVOXRiMGN5OHdkX3JDNEZ2QjRheExFOU1EOTY3dnlQbXFGNmJsQTVOX1FENjZ3eFEya3M0QXc5WWhwSlJiaGZhUFhubURsbDdDX1BaWFUtbkdKQnZRNDFYdTE4dHdPdHRsUnY3cGhxV2pkZkxKbWdUSWUyNUFFeFRmT3fSAeABQVVfeXFMTW1CSlhuUnJGQ1NRMnVOUjRCV3hxb1lQYzNiZS1uaF9oaFVKV0VkSHZiMW9Kb0IzNnVmVE1QMjFSTVVXQjlweUttWXZVSlhrSHJlV2NlWnZWck1odXJYbS1vWWJNRVEzOFZPQVVYWjZ6ZkYycmlBeUZvTFpaVG5oTW1hc2o0UHdjWkxxa0pRWUgyWDY5ZzF3YzVhMkhJbndDMlYzT0doQTNraFBLLUNJT1ZaTmdKdF84S2E4WUduLXRvcWV0VURmdDVWelQzNWxGT3FCNS1RVlVoeDl2eXU4Z1U?oc=5</guid>
@@ -361,13 +321,13 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Major pay rise for one group of Aussies - News.com.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSXloLV9HY3hSalRId1B1RGFYMkp6Y3o5OFBuZUtlc3BEVXVWMlBXWm1MejdSQ1R4VS1fUFlwMzhrV3htZURHdjFhem5NY0xIMHVYczc3OTJiWmI1MEF5Y2JndUJvWGo2bWZtSVlyMlRvaVFyRzdVekJNVFRKT0o4VkFVNXJlU0E4bGRSOHFIUERILU9Ga0d2SnJUNl9VOGZOc1B5S2ExZnRyUEJnNlFGaHc0aUZXckhTa0RxNWNSY0gxdUZKdy1mWmpUNFA0aXJsWlloRy1xWUpCWmN1Q0dvckZ3T2FPc3hqOGtQSnd1Vlc0WFHSAfgBQVVfeXFMT1RfYkNpYWhZTkdyeV9mQXQya0tHb2hQaFRyaXVpMW5uSkJUdzRXQW02N1FLblVGTmJPd21nRlVicF9rQnFnc2dydzVlQl9adTZST1FQa19ycHFsWmVGUWZnYjhCaFBKZFMxdVJXS01HWWJWRm5WblY5NkxvdVFKeHZpaVZYdjRlUldseFFyVDlWOWJBVUpzOXcyeUVZODlsN1dWeDJtdkdMZEV0YldFeGNnR2x0ZW4xcF9DTVdER2xxc1h0MVBVTHU3NmVRMTIyY0RxbzVrNjVPX2gwNk9Pb2E1UThvTGZSNmhwQzlTSWU5X1hDbHBYMTA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSXloLV9HY3hSalRId1B1RGFYMkp6Y3o5OFBuZUtlc3BEVXVWMlBXWm1MejdSQ1R4VS1fUFlwMzhrV3htZURHdjFhem5NY0xIMHVYczc3OTJiWmI1MEF5Y2JndUJvWGo2bWZtSVlyMlRvaVFyRzdVekJNVFRKT0o4VkFVNXJlU0E4bGRSOHFIUERILU9Ga0d2SnJUNl9VOGZOc1B5S2ExZnRyUEJnNlFGaHc0aUZXckhTa0RxNWNSY0gxdUZKdy1mWmpUNFA0aXJsWlloRy1xWUpCWmN1Q0dvckZ3T2FPc3hqOGtQSnd1Vlc0WFHSAfgBQVVfeXFMT1RfYkNpYWhZTkdyeV9mQXQya0tHb2hQaFRyaXVpMW5uSkJUdzRXQW02N1FLblVGTmJPd21nRlVicF9rQnFnc2dydzVlQl9adTZST1FQa19ycHFsWmVGUWZnYjhCaFBKZFMxdVJXS01HWWJWRm5WblY5NkxvdVFKeHZpaVZYdjRlUldseFFyVDlWOWJBVUpzOXcyeUVZODlsN1dWeDJtdkdMZEV0YldFeGNnR2x0ZW4xcF9DTVdER2xxc1h0MVBVTHU3NmVRMTIyY0RxbzVrNjVPX2gwNk9Pb2E1UThvTGZSNmhwQzlTSWU5X1hDbHBYMTA?oc=5</guid>
-      <description><![CDATA[Major pay rise for one group of Aussies - News.com.au]]></description>
-      <content:encoded><![CDATA[Major pay rise for one group of Aussies - News.com.au]]></content:encoded>
+      <title><![CDATA[Extension of early childhood worker retention payment welcome amid ongoing reform efforts - thepoint.com.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPVENfbkZXWEExWlJUcEIzUnpKTWFaMVBLN18xdnFOQmpUS0xHSkVjS3p1dzNVZWZMYWgzeFZ4NGNuY1pVS2xUeVozR2JtRmotTWx5a2twb29SREpNM04yTU55MEpyRmJfV0kxb2ZUQkxjcFZkV3ZpbmhidXloWWxUQjZvUTBTTzF1RlVOS3Z3dW9kYVZOQlJLSE5WanR1YVNlSDZqdDViQmQ0VWlpLTB4ZWd1aWNvXzRqNjduYUVtMkpNZWFQZzY3UUdB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiygFBVV95cUxPVENfbkZXWEExWlJUcEIzUnpKTWFaMVBLN18xdnFOQmpUS0xHSkVjS3p1dzNVZWZMYWgzeFZ4NGNuY1pVS2xUeVozR2JtRmotTWx5a2twb29SREpNM04yTU55MEpyRmJfV0kxb2ZUQkxjcFZkV3ZpbmhidXloWWxUQjZvUTBTTzF1RlVOS3Z3dW9kYVZOQlJLSE5WanR1YVNlSDZqdDViQmQ0VWlpLTB4ZWd1aWNvXzRqNjduYUVtMkpNZWFQZzY3UUdB?oc=5</guid>
+      <description><![CDATA[Extension of early childhood worker retention payment welcome amid ongoing reform efforts - thepoint.com.au]]></description>
+      <content:encoded><![CDATA[Extension of early childhood worker retention payment welcome amid ongoing reform efforts - thepoint.com.au]]></content:encoded>
       <pubDate>Wed, 17 Jun 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[News.com.au]]></dc:creator>
+      <dc:creator><![CDATA[thepoint.com.au]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -381,30 +341,6 @@
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://images.theconversation.com/files/742330/original/file-20260617-57-iek7z1.jpg?ixlib=rb-4.1.0&amp;rect=1175%2C183%2C4016%2C2008&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop" medium="image"/>
       <media:thumbnail url="https://images.theconversation.com/files/742330/original/file-20260617-57-iek7z1.jpg?ixlib=rb-4.1.0&amp;rect=1175%2C183%2C4016%2C2008&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
-    </item>
-    <item>
-      <title><![CDATA[Investing in educators means investing in children]]></title>
-      <link>https://www.snaicc.org.au/investing-in-educators-means-investing-in-children/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/investing-in-educators-means-investing-in-children/</guid>
-      <description><![CDATA[SNAICC commends the Federal Government backing hardworking early education and care (ECEC) workers by extending the Worker Retention Payment. Catherine Liddle, CEO of SNAICC said the extension of the 15% wage increase is a welcome and necessary investment in the ECEC workforce.]]></description>
-      <content:encoded><![CDATA[SNAICC commends the Federal Government backing hardworking early education and care (ECEC) workers by extending the Worker Retention Payment. Catherine Liddle, CEO of SNAICC said the extension of the 15% wage increase is a welcome and necessary investment in the ECEC workforce.]]></content:encoded>
-      <pubDate>Wed, 17 Jun 2026 03:39:07 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png"/>
-    </item>
-    <item>
-      <title><![CDATA[SNAICC Newsletter – May 2026]]></title>
-      <link>https://www.snaicc.org.au/snaicc-newsletter-may-2026/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/snaicc-newsletter-may-2026/</guid>
-      <description><![CDATA[The post SNAICC Newsletter – May 2026 appeared first on SNAICC – National Voice for our Children .]]></description>
-      <content:encoded><![CDATA[The post SNAICC Newsletter – May 2026 appeared first on SNAICC – National Voice for our Children .]]></content:encoded>
-      <pubDate>Tue, 16 Jun 2026 23:00:34 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2026/05/SNAICC-Newsletter-header-3.png" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2026/05/SNAICC-Newsletter-header-3.png"/>
     </item>
     <item>
       <title><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></title>
@@ -479,18 +415,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[SNAICC in the News | 12 June 2026]]></title>
-      <link>https://www.snaicc.org.au/snaicc-in-the-news-12-june-2026/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/snaicc-in-the-news-12-june-2026/</guid>
-      <description><![CDATA[SNAICC responds to NT and Queensland child protection reforms, national coverage of the Child Placement Principle, the Youth Voice Engagement Report and AbSec’s NSW call.]]></description>
-      <content:encoded><![CDATA[SNAICC responds to NT and Queensland child protection reforms, national coverage of the Child Placement Principle, the Youth Voice Engagement Report and AbSec’s NSW call.]]></content:encoded>
-      <pubDate>Fri, 12 Jun 2026 07:10:23 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2026/06/SNAICC_Family-Matters_Digital-Resolution_292-scaled.jpg" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2026/06/SNAICC_Family-Matters_Digital-Resolution_292-scaled.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Inclusion Support Program: Inclusion Agencies confirmed from July 2026 - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGpyaHRGa19BR2ZWNWZpLThsbV9McllkTDhqdklIbW9HaGVZZnpZN3BXWDl5UG1EV3ZxdnFoc0hlSWFya0Z1REt3Q0JpeWlWX0ZFQzBwS25tdVdad3REZDdMU180SENhM1FqbmtFanRwblNZR2NXNDJpN2hnTGszX0JLNjVvUVpLdmVhdUxtUUxDTjg1WWtyT3Q4UFF2cFRRSG1pVg?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGpyaHRGa19BR2ZWNWZpLThsbV9McllkTDhqdklIbW9HaGVZZnpZN3BXWDl5UG1EV3ZxdnFoc0hlSWFya0Z1REt3Q0JpeWlWX0ZFQzBwS25tdVdad3REZDdMU180SENhM1FqbmtFanRwblNZR2NXNDJpN2hnTGszX0JLNjVvUVpLdmVhdUxtUUxDTjg1WWtyT3Q4UFF2cFRRSG1pVg?oc=5</guid>
@@ -531,24 +455,82 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Report shows how young people want to use their voice for change]]></title>
-      <link>https://www.snaicc.org.au/report-shows-how-young-people-want-to-use-their-voice-for-change/</link>
-      <guid isPermaLink="true">https://www.snaicc.org.au/report-shows-how-young-people-want-to-use-their-voice-for-change/</guid>
-      <description><![CDATA[Young Aboriginal and Torres Strait Islander people want authentic representation, decision-making power and community-led structures that deliver real outcomes, according to a landmark national report released today.]]></description>
-      <content:encoded><![CDATA[Young Aboriginal and Torres Strait Islander people want authentic representation, decision-making power and community-led structures that deliver real outcomes, according to a landmark national report released today.]]></content:encoded>
-      <pubDate>Tue, 09 Jun 2026 03:05:09 +0000</pubDate>
-      <dc:creator><![CDATA[SNAICC]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png" medium="image"/>
-      <media:thumbnail url="https://www.snaicc.org.au/wp-content/uploads/2023/10/News-And-Media-01-1200x816.png"/>
-    </item>
-    <item>
       <title><![CDATA[Safety, quality and the relationships in between - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3BJd2tXZ1FKZGpmb2FmeDFfa2tmM29uSENhMFVqcndGZG1Nb0pFemwyUUxlZkxvTUNtTHhuX0VXLXZsVjMwajlhUHRPVmJyV3dKNEh0a0owTmtUTFdwTDNtMlU0Mkd1WHF1Y3ZsLXMtcGl3UkxOampDVklJZWRvY3FBVkdGSjFFLVlNVUR3VzU?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3BJd2tXZ1FKZGpmb2FmeDFfa2tmM29uSENhMFVqcndGZG1Nb0pFemwyUUxlZkxvTUNtTHhuX0VXLXZsVjMwajlhUHRPVmJyV3dKNEh0a0owTmtUTFdwTDNtMlU0Mkd1WHF1Y3ZsLXMtcGl3UkxOampDVklJZWRvY3FBVkdGSjFFLVlNVUR3VzU?oc=5</guid>
       <description><![CDATA[Safety, quality and the relationships in between - The Sector]]></description>
       <content:encoded><![CDATA[Safety, quality and the relationships in between - The Sector]]></content:encoded>
       <pubDate>Mon, 08 Jun 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Childcare costs rise 9 per cent as inflation pressures continue to challenge providers - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjhIOUszRUVTUFhSY1lPQnp6bG5JRV9FR2d2enVNRlppN3Y3RllOQnVMOXlwaV9vbHBtUmVQUUNHLXI5b29jMjZnaFZzSUVlQkg4WUhsaElHY0V5Ul9YaXBPTldEeWg4NXo3ZDB3UmdRRVppd2dhcVJiLTktSS1zSjdncEhQTDE1Mk1yMHZGcXpHVDB3b2Z1TnZR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjhIOUszRUVTUFhSY1lPQnp6bG5JRV9FR2d2enVNRlppN3Y3RllOQnVMOXlwaV9vbHBtUmVQUUNHLXI5b29jMjZnaFZzSUVlQkg4WUhsaElHY0V5Ul9YaXBPTldEeWg4NXo3ZDB3UmdRRVppd2dhcVJiLTktSS1zSjdncEhQTDE1Mk1yMHZGcXpHVDB3b2Z1TnZR?oc=5</guid>
+      <description><![CDATA[Childcare costs rise 9 per cent as inflation pressures continue to challenge providers - The Sector]]></description>
+      <content:encoded><![CDATA[Childcare costs rise 9 per cent as inflation pressures continue to challenge providers - The Sector]]></content:encoded>
+      <pubDate>Sun, 07 Jun 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Same framework, different conditions: why quality in OSHC needs its own language - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBWU3BRS25uNGliUnVIT3BBZlhmUERCMTQ0MDgwcUVVazJDaWx0UWJJY3locWdPWWhyMjFxRmFZWTdLcDY3cEhqUkJRS3VVdF84RUlwN0VCOWVkSVI0T2RXd0xBZkNrYVNoM0M5Q2NtSGNsLWIxUXhOSFUtZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTFBWU3BRS25uNGliUnVIT3BBZlhmUERCMTQ0MDgwcUVVazJDaWx0UWJJY3locWdPWWhyMjFxRmFZWTdLcDY3cEhqUkJRS3VVdF84RUlwN0VCOWVkSVI0T2RXd0xBZkNrYVNoM0M5Q2NtSGNsLWIxUXhOSFUtZw?oc=5</guid>
+      <description><![CDATA[Same framework, different conditions: why quality in OSHC needs its own language - The Sector]]></description>
+      <content:encoded><![CDATA[Same framework, different conditions: why quality in OSHC needs its own language - The Sector]]></content:encoded>
+      <pubDate>Sun, 07 Jun 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Cost-of-living pressures continue to shape childcare choices as affordability remains a key concern for families - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUlOSW90QVcxUGRQX1p5bUI4VF9kU2tvdXQ3T2FUQ0g0MDYtMEM1enNrdWZ2VDY1Z1NIODFaV0JWVExYc1JuQjFGUTFET2ZiNHB5U3lLRWMyc2xmYTdpa3ZQMHhqMnZNcy16SDRvSHdpblgtS2N1c2laRnpRMjVUTEg2bVdDMUlfNXJlUlRxbHZFQ09peXc2Qnp3NllUalBTQ1dBeUJHZi1RWFA1cHJXR3BTYXZCVUxX?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUlOSW90QVcxUGRQX1p5bUI4VF9kU2tvdXQ3T2FUQ0g0MDYtMEM1enNrdWZ2VDY1Z1NIODFaV0JWVExYc1JuQjFGUTFET2ZiNHB5U3lLRWMyc2xmYTdpa3ZQMHhqMnZNcy16SDRvSHdpblgtS2N1c2laRnpRMjVUTEg2bVdDMUlfNXJlUlRxbHZFQ09peXc2Qnp3NllUalBTQ1dBeUJHZi1RWFA1cHJXR3BTYXZCVUxX?oc=5</guid>
+      <description><![CDATA[Cost-of-living pressures continue to shape childcare choices as affordability remains a key concern for families - The Sector]]></description>
+      <content:encoded><![CDATA[Cost-of-living pressures continue to shape childcare choices as affordability remains a key concern for families - The Sector]]></content:encoded>
+      <pubDate>Thu, 04 Jun 2026 21:34:25 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[South Australia fast-tracks three-year-old preschool rollout - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWU4WWhBRzJFeGhkbFhNaG1QT29yT093VmRfejNjOU02NVVwblVpdVVtQUYxeHA1cTBsZ194MXhYbWlnTldUblk3UnU4OC1aYUpCeDh3R3k4WTFHLTFWMVMwSlNONW8zdWFGcjdaZ1ppRWNSMVNPeGo4VjB1WmdzbmpqOEhEYk5pMk9WTWhCcThJS0hDRnFTRg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWU4WWhBRzJFeGhkbFhNaG1QT29yT093VmRfejNjOU02NVVwblVpdVVtQUYxeHA1cTBsZ194MXhYbWlnTldUblk3UnU4OC1aYUpCeDh3R3k4WTFHLTFWMVMwSlNONW8zdWFGcjdaZ1ppRWNSMVNPeGo4VjB1WmdzbmpqOEhEYk5pMk9WTWhCcThJS0hDRnFTRg?oc=5</guid>
+      <description><![CDATA[South Australia fast-tracks three-year-old preschool rollout - The Sector]]></description>
+      <content:encoded><![CDATA[South Australia fast-tracks three-year-old preschool rollout - The Sector]]></content:encoded>
+      <pubDate>Wed, 03 Jun 2026 19:04:03 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[FDC’s $1bn ASX float slated to land within weeks - The Australian]]></title>
+      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxQak9qSk9WU0VmLXFLOW1Ta2VNZ1NMb0FvMTRaOXFvSE5icG5FdDQxaVEzM2x3eVBmTnZkNWJFWlVsM2NRdkhHajJlTlVJNzRfVk1xcHlDUnZydl9QbWRtOUtKUTVNUHJXZWpDY3Y4YUtESE4wUnMxRnZGSGZsQ3I2M191dTkwLXdzTTNDbFMyRXBTQWFDTTc3dkpiSG5DM09xZWczS2pNZ09WNEw5b3JXRkYyMk5IVVZwQll0MklEQ244UWwzNFZOQThHdDlyQmgtVUxfWlMwdTlhSU85TDhwZW9XRGhrR3ZRcFQ40gHwAUFVX3lxTE5SWVpGdnNiQ3BVaDg0cUs2WTFIdUxSREJtbVRjNWlKcEdxYXQ1ZXdmLVhwLXN3cGFzSXlqVUlLbldJTjZXbFlHYmpSeThMRGp6bHFiNGVrNmU1clJocUdxSkpSWm1qYXZzbDhFbjRQdGxlOS1BLWI5enNKT0k4b0dGdlhPZzZQRVE5S3ptX1R6QWs1S2taUDlWY0NSMGRpcTgybDU5dEd4bDYyM1JVdU1LYmJLZnBqekZWZ3k4TTREUnRpNFhydUM5X0tZN0ViZ3o3WTBEUlZiRkJDZ1lDQXF5c195b25POW9rR0dwNm1Vcg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi6wFBVV95cUxQak9qSk9WU0VmLXFLOW1Ta2VNZ1NMb0FvMTRaOXFvSE5icG5FdDQxaVEzM2x3eVBmTnZkNWJFWlVsM2NRdkhHajJlTlVJNzRfVk1xcHlDUnZydl9QbWRtOUtKUTVNUHJXZWpDY3Y4YUtESE4wUnMxRnZGSGZsQ3I2M191dTkwLXdzTTNDbFMyRXBTQWFDTTc3dkpiSG5DM09xZWczS2pNZ09WNEw5b3JXRkYyMk5IVVZwQll0MklEQ244UWwzNFZOQThHdDlyQmgtVUxfWlMwdTlhSU85TDhwZW9XRGhrR3ZRcFQ40gHwAUFVX3lxTE5SWVpGdnNiQ3BVaDg0cUs2WTFIdUxSREJtbVRjNWlKcEdxYXQ1ZXdmLVhwLXN3cGFzSXlqVUlLbldJTjZXbFlHYmpSeThMRGp6bHFiNGVrNmU1clJocUdxSkpSWm1qYXZzbDhFbjRQdGxlOS1BLWI5enNKT0k4b0dGdlhPZzZQRVE5S3ptX1R6QWs1S2taUDlWY0NSMGRpcTgybDU5dEd4bDYyM1JVdU1LYmJLZnBqekZWZ3k4TTREUnRpNFhydUM5X0tZN0ViZ3o3WTBEUlZiRkJDZ1lDQXF5c195b25POW9rR0dwNm1Vcg?oc=5</guid>
+      <description><![CDATA[FDC’s $1bn ASX float slated to land within weeks - The Australian]]></description>
+      <content:encoded><![CDATA[FDC’s $1bn ASX float slated to land within weeks - The Australian]]></content:encoded>
+      <pubDate>Tue, 02 Jun 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Australian]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Childcare affordability remains under pressure as fertility rates fall - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXBwUmpSSFhhXy1ZdkhJQkVrUlEyZWZJRmpUd3Y2aVNaWDE1b1p5SEdlR0JDc0RzVTlvTFN2aGZrZ19JZ19lNmNnbVpGdzJFM3VjOElFSkhlc1duZ3dwX25ycEYwR1VKcmcySzlraDc0TG1GZUoxa0hQcW9PWVBycEI0dzdMTEZOMDcxZ2JDWmdvdjlCS0FJZEwweHZHaWVpOXhmcWdR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXBwUmpSSFhhXy1ZdkhJQkVrUlEyZWZJRmpUd3Y2aVNaWDE1b1p5SEdlR0JDc0RzVTlvTFN2aGZrZ19JZ19lNmNnbVpGdzJFM3VjOElFSkhlc1duZ3dwX25ycEYwR1VKcmcySzlraDc0TG1GZUoxa0hQcW9PWVBycEI0dzdMTEZOMDcxZ2JDWmdvdjlCS0FJZEwweHZHaWVpOXhmcWdR?oc=5</guid>
+      <description><![CDATA[Childcare affordability remains under pressure as fertility rates fall - The Sector]]></description>
+      <content:encoded><![CDATA[Childcare affordability remains under pressure as fertility rates fall - The Sector]]></content:encoded>
+      <pubDate>Mon, 01 Jun 2026 19:03:24 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Allied health in ECEC: why collaboration, capacity building and outreach matter - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDEwS0ozejRSdVN6Si1NZVlFNmc3RFhqTVVHNEhBc2JpdThWWE1nZEI4NTlvNmtDeVdGaTNVSVBlM3FJMHpQaDFiZldDLUlob1ZERGs1NnlEeFloam1IcXY5SC1xLUJkNlFEQ3dQVW92b01KaHk5M2dycFh0VFdRZk81dF9LVkFvcGdMMFFHeGhsXzBKS2xfVndqd1BQdklW?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDEwS0ozejRSdVN6Si1NZVlFNmc3RFhqTVVHNEhBc2JpdThWWE1nZEI4NTlvNmtDeVdGaTNVSVBlM3FJMHpQaDFiZldDLUlob1ZERGs1NnlEeFloam1IcXY5SC1xLUJkNlFEQ3dQVW92b01KaHk5M2dycFh0VFdRZk81dF9LVkFvcGdMMFFHeGhsXzBKS2xfVndqd1BQdklW?oc=5</guid>
+      <description><![CDATA[Allied health in ECEC: why collaboration, capacity building and outreach matter - The Sector]]></description>
+      <content:encoded><![CDATA[Allied health in ECEC: why collaboration, capacity building and outreach matter - The Sector]]></content:encoded>
+      <pubDate>Thu, 28 May 2026 19:05:34 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
