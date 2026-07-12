@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Sun, 12 Jul 2026 20:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:40:52 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,11 +16,35 @@
       <guid isPermaLink="true">https://thesector.com.au/article/gabow-family-day-care-suspended-after-serious-compliance-failures</guid>
       <description><![CDATA[The Victorian Early Childhood Regulatory Authority (VECRA) has immediately suspended the service approval of Gabow Family Day Care Pty Ltd for 90 days after identifying extensive compliance failures that posed an immediate risk to children’s safety.]]></description>
       <content:encoded><![CDATA[The Victorian Early Childhood Regulatory Authority (VECRA) has immediately suspended the service approval of Gabow Family Day Care Pty Ltd for 90 days after identifying extensive compliance failures that posed an immediate risk to children’s safety.]]></content:encoded>
-      <pubDate>Sun, 12 Jul 2026 20:02:20 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 21:40:48 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1500909203_9624572d85.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1500909203_9624572d85.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[NSW Annual Preschool Census: what services need to know for 2026]]></title>
+      <link>https://thesector.com.au/article/nsw-annual-preschool-census-2026-services</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/nsw-annual-preschool-census-2026-services</guid>
+      <description><![CDATA[Community and mobile preschools across New South Wales are encouraged to prepare for the 2026 Annual Preschool Census, with the data collection continuing to inform funding, planning and policy decisions across the early childhood education sector.]]></description>
+      <content:encoded><![CDATA[Community and mobile preschools across New South Wales are encouraged to prepare for the 2026 Annual Preschool Census, with the data collection continuing to inform funding, planning and policy decisions across the early childhood education sector.]]></content:encoded>
+      <pubDate>Sun, 12 Jul 2026 20:40:48 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2273485529_d01ed439e5.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2273485529_d01ed439e5.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Queensland shares teaching and learning resources to support early childhood educators]]></title>
+      <link>https://thesector.com.au/article/queensland-teaching-learning-resources-early-childhood-educators</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/queensland-teaching-learning-resources-early-childhood-educators</guid>
+      <description><![CDATA[Early childhood educators and service leaders can access a range of teaching and learning resources designed to support curriculum planning, reflective practice and quality improvement.]]></description>
+      <content:encoded><![CDATA[Early childhood educators and service leaders can access a range of teaching and learning resources designed to support curriculum planning, reflective practice and quality improvement.]]></content:encoded>
+      <pubDate>Sun, 12 Jul 2026 19:40:48 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2273107178_a5ce9c28b5.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2273107178_a5ce9c28b5.webp"/>
     </item>
     <item>
       <title><![CDATA[G8 Education extends debt facility as funding profile strengthened - The Sector]]></title>
@@ -33,36 +57,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[NSW Annual Preschool Census: what services need to know for 2026]]></title>
-      <link>https://thesector.com.au/article/nsw-annual-preschool-census-2026-services</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/nsw-annual-preschool-census-2026-services</guid>
-      <description><![CDATA[Community and mobile preschools across New South Wales are encouraged to prepare for the 2026 Annual Preschool Census, with the data collection continuing to inform funding, planning and policy decisions across the early childhood education sector.]]></description>
-      <content:encoded><![CDATA[Community and mobile preschools across New South Wales are encouraged to prepare for the 2026 Annual Preschool Census, with the data collection continuing to inform funding, planning and policy decisions across the early childhood education sector.]]></content:encoded>
-      <pubDate>Sun, 12 Jul 2026 19:02:20 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2273485529_d01ed439e5.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2273485529_d01ed439e5.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Queensland shares teaching and learning resources to support early childhood educators]]></title>
-      <link>https://thesector.com.au/article/queensland-teaching-learning-resources-early-childhood-educators</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/queensland-teaching-learning-resources-early-childhood-educators</guid>
-      <description><![CDATA[Early childhood educators and service leaders can access a range of teaching and learning resources designed to support curriculum planning, reflective practice and quality improvement.]]></description>
-      <content:encoded><![CDATA[Early childhood educators and service leaders can access a range of teaching and learning resources designed to support curriculum planning, reflective practice and quality improvement.]]></content:encoded>
-      <pubDate>Sun, 12 Jul 2026 18:02:20 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2273107178_a5ce9c28b5.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2273107178_a5ce9c28b5.webp"/>
-    </item>
-    <item>
       <title><![CDATA[Embedding child safety into staff onboarding and induction]]></title>
       <link>https://thesector.com.au/article/embedding-child-safety-staff-onboarding-induction</link>
       <guid isPermaLink="true">https://thesector.com.au/article/embedding-child-safety-staff-onboarding-induction</guid>
       <description><![CDATA[A strong child safe culture begins before a new educator enters an early childhood education and care (ECEC) service, with recruitment, onboarding and induction playing a critical role in setting expectations and supporting safe practice from the first day of employment.]]></description>
       <content:encoded><![CDATA[A strong child safe culture begins before a new educator enters an early childhood education and care (ECEC) service, with recruitment, onboarding and induction playing a critical role in setting expectations and supporting safe practice from the first day of employment.]]></content:encoded>
-      <pubDate>Sun, 12 Jul 2026 17:02:20 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 18:40:48 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1458679910_d07d50d698.webp" medium="image"/>
@@ -74,23 +74,11 @@
       <guid isPermaLink="true">https://thesector.com.au/article/nsw-immunisation-requirements-ecec-enrolment</guid>
       <description><![CDATA[Approved providers and early childhood education and care (ECEC) services are reminded of their responsibilities when enrolling children under New South Wales immunisation requirements.]]></description>
       <content:encoded><![CDATA[Approved providers and early childhood education and care (ECEC) services are reminded of their responsibilities when enrolling children under New South Wales immunisation requirements.]]></content:encoded>
-      <pubDate>Sun, 12 Jul 2026 16:02:20 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:40:48 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1369620254_f2699cafab.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1369620254_f2699cafab.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Australia reaches six-month paid parental leave: what it means for the early childhood sector]]></title>
-      <link>https://thesector.com.au/article/extend-oshc-penalty-supervision-breach-perth-zoo-excursion</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/extend-oshc-penalty-supervision-breach-perth-zoo-excursion</guid>
-      <description><![CDATA[The State Administrative Tribunal of Western Australia has ordered Extend (Australia) Pty Ltd, trading as Marmion Primary School OSHC-Extend, to pay a $37,500 penalty after finding the provider breached supervision and child safety requirements under the Education and Care Services National Law (WA).]]></description>
-      <content:encoded><![CDATA[The State Administrative Tribunal of Western Australia has ordered Extend (Australia) Pty Ltd, trading as Marmion Primary School OSHC-Extend, to pay a $37,500 penalty after finding the provider breached supervision and child safety requirements under the Education and Care Services National Law (WA).]]></content:encoded>
-      <pubDate>Sun, 12 Jul 2026 10:02:20 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_96879023_5167957cef.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_96879023_5167957cef.webp"/>
     </item>
     <item>
       <title><![CDATA[G8 Education faces Federal Court action over more than $2 million in alleged underpayments]]></title>
@@ -98,23 +86,11 @@
       <guid isPermaLink="true">https://thesector.com.au/article/g8-education-federal-court-action-alleged-underpayments</guid>
       <description><![CDATA[Australia’s largest for-profit early learning operator, G8 Education Limited, is facing Federal Court proceedings after the Fair Work Ombudsman alleged underpayments and compensation claims totalling more than $2 million for more than 1,400 workers.]]></description>
       <content:encoded><![CDATA[Australia’s largest for-profit early learning operator, G8 Education Limited, is facing Federal Court proceedings after the Fair Work Ombudsman alleged underpayments and compensation claims totalling more than $2 million for more than 1,400 workers.]]></content:encoded>
-      <pubDate>Sun, 12 Jul 2026 09:02:20 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 09:40:48 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_875161580_c6268573e0.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_875161580_c6268573e0.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[From the GFC to the cost-of-living crisis: what history teaches us about protecting ECEC occupancy]]></title>
-      <link>https://thesector.com.au/article/gfc-lessons-childcare-occupancy-cost-of-living-2026</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/gfc-lessons-childcare-occupancy-cost-of-living-2026</guid>
-      <description><![CDATA[The early childhood education and care sector has navigated economic uncertainty before. During the Global Financial Crisis, providers learnt that occupancy is influenced by more than enrolment numbers, it is shaped by family confidence, workforce participation, affordability and trust. As cost-of-living pressures continue in 2026, those lessons remain highly relevant.]]></description>
-      <content:encoded><![CDATA[The early childhood education and care sector has navigated economic uncertainty before. During the Global Financial Crisis, providers learnt that occupancy is influenced by more than enrolment numbers, it is shaped by family confidence, workforce participation, affordability and trust. As cost-of-living pressures continue in 2026, those lessons remain highly relevant.]]></content:encoded>
-      <pubDate>Sun, 12 Jul 2026 08:02:20 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2176290026_a671c25e8d.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2176290026_a671c25e8d.webp"/>
     </item>
     <item>
       <title><![CDATA[Childcare centres struggling with costs, falling demand - aapnews.aap.com.au]]></title>
@@ -144,16 +120,6 @@
       <content:encoded><![CDATA[South Australia’s Flying Start Early Childhood Awards celebrate excellence across the sector - The Sector]]></content:encoded>
       <pubDate>Thu, 09 Jul 2026 19:05:15 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[FDC’s solid debut fails to convince sceptical IPO market - The Australian]]></title>
-      <link>https://news.google.com/rss/articles/CBMigwJBVV95cUxNNDAweXBTRk9FZjItWDNlNm9SbUxTdXE0S09HMl9aZ2R4eVMtLWNITXVOVDdPRGZDY3d4cElWemNGSlBzV3RhQVRtT1VTa0hOVk51Y19ZcWs4ZFo0YW5NUEt4dHU0S3BGdGZ5cTdZSTViSTVwdEZwNWg5dXhCQnJkR0dHSGVab3g0dl9UbHBBZEc5dUVtMVZxZXVISHgyeWUwUjF1VU9UMDlKZzZtSzNqS21UV3lsQzhFelc4REFNR3ZEUVU0NkxvdXZwU2RkUGlKMU1jUVBiNFB3MHJwcENpMGdCSGg2TGpLcmRzQnJTeG93NFBNSkthcEtUNWlOcUVkbURv0gGIAkFVX3lxTE1WeGJ4aFNEUG0xbFluVm1OYzFtTUtIYVNUSXAwRlVwVVlhRm0tVHlNUUlQNkloOVNSNnk5bXgyMzJ3VWhZcnMwTXZiWW5NTXRqQ2Z1YXNYS0tvZWJuRkNDZFcxY1dSdXl1OVNNek0ySjVEcEMyYzdiZkk1TjFZbGxWMm5jR1VqM0FGRTdKRUZfN2dnV3B4NS1Wb2FsNWpzSUFsbEE5Rll1cWFxdFIzZFU1MFN0ZTJxSXctMktTOFdsU0VpaUdCN29YY1MtSlkxb3VtYzdPdVdMQV9YakMzazJRcDdtZW1WZ1kwY0stVWpHd3RSbExqalQyQnMzY241LXo5SGlRQW0tZA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwJBVV95cUxNNDAweXBTRk9FZjItWDNlNm9SbUxTdXE0S09HMl9aZ2R4eVMtLWNITXVOVDdPRGZDY3d4cElWemNGSlBzV3RhQVRtT1VTa0hOVk51Y19ZcWs4ZFo0YW5NUEt4dHU0S3BGdGZ5cTdZSTViSTVwdEZwNWg5dXhCQnJkR0dHSGVab3g0dl9UbHBBZEc5dUVtMVZxZXVISHgyeWUwUjF1VU9UMDlKZzZtSzNqS21UV3lsQzhFelc4REFNR3ZEUVU0NkxvdXZwU2RkUGlKMU1jUVBiNFB3MHJwcENpMGdCSGg2TGpLcmRzQnJTeG93NFBNSkthcEtUNWlOcUVkbURv0gGIAkFVX3lxTE1WeGJ4aFNEUG0xbFluVm1OYzFtTUtIYVNUSXAwRlVwVVlhRm0tVHlNUUlQNkloOVNSNnk5bXgyMzJ3VWhZcnMwTXZiWW5NTXRqQ2Z1YXNYS0tvZWJuRkNDZFcxY1dSdXl1OVNNek0ySjVEcEMyYzdiZkk1TjFZbGxWMm5jR1VqM0FGRTdKRUZfN2dnV3B4NS1Wb2FsNWpzSUFsbEE5Rll1cWFxdFIzZFU1MFN0ZTJxSXctMktTOFdsU0VpaUdCN29YY1MtSlkxb3VtYzdPdVdMQV9YakMzazJRcDdtZW1WZ1kwY0stVWpHd3RSbExqalQyQnMzY241LXo5SGlRQW0tZA?oc=5</guid>
-      <description><![CDATA[FDC’s solid debut fails to convince sceptical IPO market - The Australian]]></description>
-      <content:encoded><![CDATA[FDC’s solid debut fails to convince sceptical IPO market - The Australian]]></content:encoded>
-      <pubDate>Thu, 09 Jul 2026 09:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[The Australian]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -247,6 +213,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[Childcare centre that exposed kids to rat poison stripped of funding - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNaG1oclhfNEcyS19feURmQnV5dzZ6NjhyRGNFZERFdTE0enJOZGt0bVRTeFk2ZWZSMzBhbU9XcU9abHNjRGVpclJmM25MVFJuV053RTVpU0FUNDdtTVlIN2x1SzVNcnp3d2RWT1VCanBWQ1FMalVQNlYxdjdmc2E4WlYya2hMclFHTTlwVXRfNmd2N19BYnVxYzhfbGM2d19k?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxNaG1oclhfNEcyS19feURmQnV5dzZ6NjhyRGNFZERFdTE0enJOZGt0bVRTeFk2ZWZSMzBhbU9XcU9abHNjRGVpclJmM25MVFJuV053RTVpU0FUNDdtTVlIN2x1SzVNcnp3d2RWT1VCanBWQ1FMalVQNlYxdjdmc2E4WlYya2hMclFHTTlwVXRfNmd2N19BYnVxYzhfbGM2d19k?oc=5</guid>
+      <description><![CDATA[Childcare centre that exposed kids to rat poison stripped of funding - ABC News & Headlines – Australian Broadcasting Corporation]]></description>
+      <content:encoded><![CDATA[Childcare centre that exposed kids to rat poison stripped of funding - ABC News & Headlines – Australian Broadcasting Corporation]]></content:encoded>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[Renewal of the wage subsidy great news for educators, children, families and gender equity - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXBubktWWWpRcndJU01JdVp3aV9OeTN3Q0RFMGdDbXZJY3daR21PY0pCQ0IxS3Q3NUVxZUV3QWJxNU9iMzkxTzFKUHNBdzBXa2J2SkRCNTdKY1Y5RXRJNE1WZFdOUFp1V2hCMzVsczJzMG1ScDk0YW1IVkk3cWhseVRSZEY4RFdGVXRJeFdZLVFScWwtSnAyeVVTamwzSVktTW1xVA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXBubktWWWpRcndJU01JdVp3aV9OeTN3Q0RFMGdDbXZJY3daR21PY0pCQ0IxS3Q3NUVxZUV3QWJxNU9iMzkxTzFKUHNBdzBXa2J2SkRCNTdKY1Y5RXRJNE1WZFdOUFp1V2hCMzVsczJzMG1ScDk0YW1IVkk3cWhseVRSZEY4RFdGVXRJeFdZLVFScWwtSnAyeVVTamwzSVktTW1xVA?oc=5</guid>
@@ -254,6 +230,16 @@
       <content:encoded><![CDATA[Renewal of the wage subsidy great news for educators, children, families and gender equity - The Sector]]></content:encoded>
       <pubDate>Mon, 29 Jun 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[FDC bucks IPO gloom with near-$1bn ASX listing - The Australian]]></title>
+      <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVFdBZ3lTbjh6ZXhQSXJDWnNkVExDYVJSVnRIWndkUDZ4UU5ZX2NLMkNMM3hzdkZHZmtyV0JLX3VaSkxQM3VDUjFmc3IySFVOQmQwdFlsVGExVU94c0VmQXJXcWlJem1SckttbzVaWlczUjhYRXdVcUZFMnBzb1Z0dG9MbTExc0pIa2VFbUo4MEw1X1ZfdGI3RDhTT19pSGVXNTVQZGlrODMwYWpPdG5RSHZmQVpmV0NaeG5Ea21vYTR3WlZsc3d2dFZKNXJrRFdhaWpzdmwwZG9YWlVOdjNmdl9Hd3M4bGRQY0ZlR2lmR1JxaER30gH6AUFVX3lxTE5rQ0ZhQVF6U1ZuQ0RsWU9Ndm11ZUwzcmRLeGlQZkY4SUU1bFVWeUNBbmtXWEl0T1Z2b0s4bzgwcWtWbS1SczVQQ2RBdnN3TkU4bFVzaGc5dkhPeFFYcVhuZ0ljcnBEUG1lTEgwczdoYmN0VDB4ckQxYl94SnF4VHk4c1Q1LTZaVUkyeTNDYjZXWTVndGgyWnRnMlhKZWxfX0Z5T29kbU4xMFItWkNuSGNIaFY0aTBkcUJXOHRmTzFrN1dBek5lT2NEUU9IcHY4VHBYMGxPNUQzQjhFWXRZbER6Tk9sZTc4SU9odXVlV0ZGSWZ5RURrckNTZGc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVFdBZ3lTbjh6ZXhQSXJDWnNkVExDYVJSVnRIWndkUDZ4UU5ZX2NLMkNMM3hzdkZHZmtyV0JLX3VaSkxQM3VDUjFmc3IySFVOQmQwdFlsVGExVU94c0VmQXJXcWlJem1SckttbzVaWlczUjhYRXdVcUZFMnBzb1Z0dG9MbTExc0pIa2VFbUo4MEw1X1ZfdGI3RDhTT19pSGVXNTVQZGlrODMwYWpPdG5RSHZmQVpmV0NaeG5Ea21vYTR3WlZsc3d2dFZKNXJrRFdhaWpzdmwwZG9YWlVOdjNmdl9Hd3M4bGRQY0ZlR2lmR1JxaER30gH6AUFVX3lxTE5rQ0ZhQVF6U1ZuQ0RsWU9Ndm11ZUwzcmRLeGlQZkY4SUU1bFVWeUNBbmtXWEl0T1Z2b0s4bzgwcWtWbS1SczVQQ2RBdnN3TkU4bFVzaGc5dkhPeFFYcVhuZ0ljcnBEUG1lTEgwczdoYmN0VDB4ckQxYl94SnF4VHk4c1Q1LTZaVUkyeTNDYjZXWTVndGgyWnRnMlhKZWxfX0Z5T29kbU4xMFItWkNuSGNIaFY0aTBkcUJXOHRmTzFrN1dBek5lT2NEUU9IcHY4VHBYMGxPNUQzQjhFWXRZbER6Tk9sZTc4SU9odXVlV0ZGSWZ5RURrckNTZGc?oc=5</guid>
+      <description><![CDATA[FDC bucks IPO gloom with near-$1bn ASX listing - The Australian]]></description>
+      <content:encoded><![CDATA[FDC bucks IPO gloom with near-$1bn ASX listing - The Australian]]></content:encoded>
+      <pubDate>Sun, 28 Jun 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Australian]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -532,6 +518,16 @@
       <content:encoded><![CDATA[FDC’s $1bn ASX float slated to land within weeks - The Australian]]></content:encoded>
       <pubDate>Tue, 02 Jun 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Australian]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Childcare affordability remains under pressure as fertility rates fall - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXBwUmpSSFhhXy1ZdkhJQkVrUlEyZWZJRmpUd3Y2aVNaWDE1b1p5SEdlR0JDc0RzVTlvTFN2aGZrZ19JZ19lNmNnbVpGdzJFM3VjOElFSkhlc1duZ3dwX25ycEYwR1VKcmcySzlraDc0TG1GZUoxa0hQcW9PWVBycEI0dzdMTEZOMDcxZ2JDWmdvdjlCS0FJZEwweHZHaWVpOXhmcWdR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXBwUmpSSFhhXy1ZdkhJQkVrUlEyZWZJRmpUd3Y2aVNaWDE1b1p5SEdlR0JDc0RzVTlvTFN2aGZrZ19JZ19lNmNnbVpGdzJFM3VjOElFSkhlc1duZ3dwX25ycEYwR1VKcmcySzlraDc0TG1GZUoxa0hQcW9PWVBycEI0dzdMTEZOMDcxZ2JDWmdvdjlCS0FJZEwweHZHaWVpOXhmcWdR?oc=5</guid>
+      <description><![CDATA[Childcare affordability remains under pressure as fertility rates fall - The Sector]]></description>
+      <content:encoded><![CDATA[Childcare affordability remains under pressure as fertility rates fall - The Sector]]></content:encoded>
+      <pubDate>Mon, 01 Jun 2026 19:03:24 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
