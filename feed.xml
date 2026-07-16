@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:38:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:22:38 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/australian-childhood-foundation-to-deliver-national-child-sexual-abuse-support-service</guid>
       <description><![CDATA[Australian Childhood Foundation (The Foundation) today welcomed the announcement by the Albanese Government that it has been appointed to deliver a new national information and referral service for victims and survivors of child sexual abuse.]]></description>
       <content:encoded><![CDATA[Australian Childhood Foundation (The Foundation) today welcomed the announcement by the Albanese Government that it has been appointed to deliver a new national information and referral service for victims and survivors of child sexual abuse.]]></content:encoded>
-      <pubDate>Thu, 16 Jul 2026 11:38:49 GMT</pubDate>
+      <pubDate>Thu, 16 Jul 2026 13:22:34 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1157398435_32114ad67b.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/story-house-early-learning-hadfield-childcare-investment-melbourne</guid>
       <description><![CDATA[A rare childcare investment opportunity has been launched to market at 69 North Street, Hadfield, in Melbourne&#x27;s north, offering investors a brand-new, purpose-built early learning centre leased to Story House Early Learning and co-located with both a Catholic primary school and its adjoining parish church.]]></description>
       <content:encoded><![CDATA[A rare childcare investment opportunity has been launched to market at 69 North Street, Hadfield, in Melbourne&#x27;s north, offering investors a brand-new, purpose-built early learning centre leased to Story House Early Learning and co-located with both a Catholic primary school and its adjoining parish church.]]></content:encoded>
-      <pubDate>Thu, 16 Jul 2026 10:38:49 GMT</pubDate>
+      <pubDate>Thu, 16 Jul 2026 12:22:34 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Story_House_af2686deee.webp" medium="image"/>
@@ -40,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/aboriginal-children-early-learning-participation-development-gap</guid>
       <description><![CDATA[With more Aboriginal and Torres Strait Islander children attending early childhood education than ever before Australia&#x27;s peak body for Aboriginal and Torres Strait Islander children says governments must now focus on turning increased participation into better developmental outcomes.]]></description>
       <content:encoded><![CDATA[With more Aboriginal and Torres Strait Islander children attending early childhood education than ever before Australia&#x27;s peak body for Aboriginal and Torres Strait Islander children says governments must now focus on turning increased participation into better developmental outcomes.]]></content:encoded>
-      <pubDate>Thu, 16 Jul 2026 09:38:49 GMT</pubDate>
+      <pubDate>Thu, 16 Jul 2026 11:22:34 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2154994473_7fa3800cb9.webp" medium="image"/>
@@ -52,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/eca-guide-how-to-talk-about-early-childhood-education-and-care</guid>
       <description><![CDATA[How Australia talks about early childhood education and care (ECEC) influences how the profession is understood, valued and supported.]]></description>
       <content:encoded><![CDATA[How Australia talks about early childhood education and care (ECEC) influences how the profession is understood, valued and supported.]]></content:encoded>
-      <pubDate>Thu, 16 Jul 2026 08:38:49 GMT</pubDate>
+      <pubDate>Thu, 16 Jul 2026 10:22:34 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1073643956_2_8c2e078222.webp" medium="image"/>
@@ -64,7 +64,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/queensland-positive-transitions-early-childhood-school</guid>
       <description><![CDATA[Queensland is reinforcing its commitment to ensuring every child experiences a positive, confident and well-supported transition throughout their learning journey, with the release of a new Transitions Position Statement and a renewed statewide commitment to strengthening partnerships across the early childhood and school sectors.]]></description>
       <content:encoded><![CDATA[Queensland is reinforcing its commitment to ensuring every child experiences a positive, confident and well-supported transition throughout their learning journey, with the release of a new Transitions Position Statement and a renewed statewide commitment to strengthening partnerships across the early childhood and school sectors.]]></content:encoded>
-      <pubDate>Thu, 16 Jul 2026 07:38:49 GMT</pubDate>
+      <pubDate>Thu, 16 Jul 2026 09:22:34 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2268572274_10c61520d3.webp" medium="image"/>
@@ -76,9 +76,21 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHhLYVhqS3F5TVFuQWdiazY3X1FNWUNETnA2Ui1ZYlpMSDk0aDl6MTdsd0Q4RzZfLThiVTRpNl95bkZvdWJoVW1IbVV4bEU5b0ZXM1QycDdINkRoZWRjUnZsejNSVmFzN0NJTnQ1bVZvNmY2UWVvNi1IUGNDOVdxMUxTRUVoT016VWRmVXQwMzFmc2xQQ0QwSEZxeFlVTVdzSzJFU1VlZHNzdw?oc=5</guid>
       <description><![CDATA[SA victims of alleged childcare centre abuser identified, AFP says - ABC News & Headlines – Australian Broadcasting Corporation]]></description>
       <content:encoded><![CDATA[SA victims of alleged childcare centre abuser identified, AFP says - ABC News & Headlines – Australian Broadcasting Corporation]]></content:encoded>
-      <pubDate>Thu, 16 Jul 2026 05:09:47 GMT</pubDate>
+      <pubDate>Thu, 16 Jul 2026 05:14:48 GMT</pubDate>
       <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[A trainee&#x27;s perspective: who is supporting the people we are asking to stay?]]></title>
+      <link>https://thesector.com.au/article/ecec-trainee-perspective-leadership-mentoring-workforce-retention</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/ecec-trainee-perspective-leadership-mentoring-workforce-retention</guid>
+      <description><![CDATA[When we talk about workforce shortages in early childhood education and care, we often discuss recruitment, qualifications and retention. But from a trainee&#x27;s perspective, there is another conversation we need to have.]]></description>
+      <content:encoded><![CDATA[When we talk about workforce shortages in early childhood education and care, we often discuss recruitment, qualifications and retention. But from a trainee&#x27;s perspective, there is another conversation we need to have.]]></content:encoded>
+      <pubDate>Thu, 16 Jul 2026 02:22:34 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1473750158_21566460fa.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1473750158_21566460fa.webp"/>
     </item>
     <item>
       <title><![CDATA[Tipalea boosts Howrah Childcare with new $9m centre - buildaustralia.com.au]]></title>
@@ -89,18 +101,6 @@
       <pubDate>Thu, 16 Jul 2026 01:58:37 GMT</pubDate>
       <dc:creator><![CDATA[buildaustralia.com.au]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[A trainee&#x27;s perspective: who is supporting the people we are asking to stay?]]></title>
-      <link>https://thesector.com.au/article/ecec-trainee-perspective-leadership-mentoring-workforce-retention</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/ecec-trainee-perspective-leadership-mentoring-workforce-retention</guid>
-      <description><![CDATA[When we talk about workforce shortages in early childhood education and care, we often discuss recruitment, qualifications and retention. But from a trainee&#x27;s perspective, there is another conversation we need to have.]]></description>
-      <content:encoded><![CDATA[When we talk about workforce shortages in early childhood education and care, we often discuss recruitment, qualifications and retention. But from a trainee&#x27;s perspective, there is another conversation we need to have.]]></content:encoded>
-      <pubDate>Thu, 16 Jul 2026 00:38:49 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1473750158_21566460fa.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1473750158_21566460fa.webp"/>
     </item>
     <item>
       <title><![CDATA[Building respectful, inclusive learning communities: introducing the Social cohesion education hub - The Sector]]></title>
@@ -208,7 +208,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikwFBVV95cUxPclgwSXlueXF2aGI4WDBFd25SNkp1TzI5UmJnZ2c2OW1BdDM1SndOYjFGWmg2MXZZQnNnNkQ1SVAtSy1WZWRxWEs5OFRWRWNkaFZyT1U1X2pxSEZqRVNSXy0zNXpCS1RZaGFRVEVFSE5VeHlQdzAzZkIxeE94MHVPOHpfamRpaHFRNUtKTnJneDJvT3M?oc=5</guid>
       <description><![CDATA[South Australia’s Flying Start Early Childhood Awards celebrate excellence across the sector - The Sector]]></description>
       <content:encoded><![CDATA[South Australia’s Flying Start Early Childhood Awards celebrate excellence across the sector - The Sector]]></content:encoded>
-      <pubDate>Thu, 09 Jul 2026 19:04:23 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 19:05:15 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
