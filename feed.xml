@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 22 Jul 2026 23:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 01:55:38 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/why-playful-educators-matter-ecec</guid>
       <description><![CDATA[As Australia&#x27;s early childhood education and care (ECEC) sector navigates unprecedented reform, it can be easy for conversations to become dominated by compliance, governance, child safety and regulatory change.]]></description>
       <content:encoded><![CDATA[As Australia&#x27;s early childhood education and care (ECEC) sector navigates unprecedented reform, it can be easy for conversations to become dominated by compliance, governance, child safety and regulatory change.]]></content:encoded>
-      <pubDate>Wed, 22 Jul 2026 23:00:48 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 01:55:35 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_656752206_a290eae88c.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/climate-related-hazards-cost-children-800000-days-early-learning</guid>
       <description><![CDATA[Australian children lost an estimated 800,000 days of early learning in 2025 due to climate-related closures of early childhood education and care (ECEC) services, according to a new national report released by the Australian Research Alliance for Children and Youth (ARACY) and UNICEF Australia in partnership with Minderoo Foundation.]]></description>
       <content:encoded><![CDATA[Australian children lost an estimated 800,000 days of early learning in 2025 due to climate-related closures of early childhood education and care (ECEC) services, according to a new national report released by the Australian Research Alliance for Children and Youth (ARACY) and UNICEF Australia in partnership with Minderoo Foundation.]]></content:encoded>
-      <pubDate>Wed, 22 Jul 2026 22:00:48 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 00:55:35 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_160134555_6e8ef4195a.webp" medium="image"/>
@@ -40,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/childcare-tours-changing-family-expectations-ecec</guid>
       <description><![CDATA[For many families, a childcare tour is the first opportunity to experience a service beyond its website or social media presence. It is a chance to observe the environment, meet educators and determine whether the service feels like the right fit for their child.]]></description>
       <content:encoded><![CDATA[For many families, a childcare tour is the first opportunity to experience a service beyond its website or social media presence. It is a chance to observe the environment, meet educators and determine whether the service feels like the right fit for their child.]]></content:encoded>
-      <pubDate>Wed, 22 Jul 2026 21:00:48 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:55:35 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1818415174_4140ae5d54.webp" medium="image"/>
@@ -52,11 +52,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/changing-family-planning-trends-ecec-sector</guid>
       <description><![CDATA[Australia is experiencing changing family planning patterns, with new research suggesting that cost-of-living pressures, housing affordability and long-term financial security are influencing some families&#x27; decisions about whether to have more children.]]></description>
       <content:encoded><![CDATA[Australia is experiencing changing family planning patterns, with new research suggesting that cost-of-living pressures, housing affordability and long-term financial security are influencing some families&#x27; decisions about whether to have more children.]]></content:encoded>
-      <pubDate>Wed, 22 Jul 2026 20:00:48 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 22:55:35 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2245145413_27d8928cbb.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2245145413_27d8928cbb.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Understanding long service leave across Australia: A guide for ECEC providers]]></title>
+      <link>https://thesector.com.au/article/understanding-long-service-leave-australia-ecec-providers</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/understanding-long-service-leave-australia-ecec-providers</guid>
+      <description><![CDATA[Long service leave (LSL) is one of Australia&#x27;s oldest employment entitlements, yet it remains one of the most misunderstood, particularly within the early childhood education and care (ECEC) sector.]]></description>
+      <content:encoded><![CDATA[Long service leave (LSL) is one of Australia&#x27;s oldest employment entitlements, yet it remains one of the most misunderstood, particularly within the early childhood education and care (ECEC) sector.]]></content:encoded>
+      <pubDate>Wed, 22 Jul 2026 21:55:35 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2209704668_18ea58b21c.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2209704668_18ea58b21c.webp"/>
     </item>
     <item>
       <title><![CDATA[New report reveals climate-related hazards cost our young children 800,000 days of early learning in 2025. - The Sector]]></title>
@@ -79,24 +91,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Understanding long service leave across Australia: A guide for ECEC providers]]></title>
-      <link>https://thesector.com.au/article/understanding-long-service-leave-australia-ecec-providers</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/understanding-long-service-leave-australia-ecec-providers</guid>
-      <description><![CDATA[Long service leave (LSL) is one of Australia&#x27;s oldest employment entitlements, yet it remains one of the most misunderstood, particularly within the early childhood education and care (ECEC) sector.]]></description>
-      <content:encoded><![CDATA[Long service leave (LSL) is one of Australia&#x27;s oldest employment entitlements, yet it remains one of the most misunderstood, particularly within the early childhood education and care (ECEC) sector.]]></content:encoded>
-      <pubDate>Wed, 22 Jul 2026 19:00:48 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2209704668_18ea58b21c.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2209704668_18ea58b21c.webp"/>
-    </item>
-    <item>
       <title><![CDATA[When growth outpaces your systems: how Aspire Early Education found confidence to change]]></title>
       <link>https://thesector.com.au/article/aspire-early-education-storypark-xap-growth-compliance</link>
       <guid isPermaLink="true">https://thesector.com.au/article/aspire-early-education-storypark-xap-growth-compliance</guid>
       <description><![CDATA[For a growing early childhood education and care (ECEC) provider, growth can outpace the systems meant to support it. More centres mean more families to welcome, more compliance to manage, and more decisions to make quickly and with confidence.]]></description>
       <content:encoded><![CDATA[For a growing early childhood education and care (ECEC) provider, growth can outpace the systems meant to support it. More centres mean more families to welcome, more compliance to manage, and more decisions to make quickly and with confidence.]]></content:encoded>
-      <pubDate>Wed, 22 Jul 2026 12:00:48 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:55:35 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Mount_Cook_Preschool_297_44101a0e54.jpg" medium="image"/>
@@ -108,7 +108,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/full-time-kindergarten-pilot-expands-five-wa-schools-2027</guid>
       <description><![CDATA[Western Australia’s free, optional full-time kindergarten pilot will expand to five additional public schools in 2027, taking the program to 10 sites across metropolitan, regional and remote communities.]]></description>
       <content:encoded><![CDATA[Western Australia’s free, optional full-time kindergarten pilot will expand to five additional public schools in 2027, taking the program to 10 sites across metropolitan, regional and remote communities.]]></content:encoded>
-      <pubDate>Wed, 22 Jul 2026 11:00:48 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 13:55:35 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2157545861_0c4209e0d2.webp" medium="image"/>
@@ -167,32 +167,12 @@
       <media:thumbnail url="https://images.theconversation.com/files/748078/original/file-20260715-69-qq36hk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C728%2C4507%2C2253&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
     </item>
     <item>
-      <title><![CDATA[Education Ministers back national ECEC Commission as next phase of child safety reforms takes shape - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTVZcTkzSm5hbmZCNzhoRFYtX1l2T0h2WmYzNXgzY3dGcndpRHFaZ3d4UG1VY3FMbmlCOTZTWGR5TVNjVWsyZV9YNC1OSkVLcHJ6ZXNMZUlNNzNyUTg1dHJXclY5eHhCOTBCbmt2R0o5V2w3R3JuU0NZekprUTBhOWR2OHNqOGFsWEhIRS1KZHlvUm1ORWNlQUpBUmRoajlxZUJrVG13?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTVZcTkzSm5hbmZCNzhoRFYtX1l2T0h2WmYzNXgzY3dGcndpRHFaZ3d4UG1VY3FMbmlCOTZTWGR5TVNjVWsyZV9YNC1OSkVLcHJ6ZXNMZUlNNzNyUTg1dHJXclY5eHhCOTBCbmt2R0o5V2w3R3JuU0NZekprUTBhOWR2OHNqOGFsWEhIRS1KZHlvUm1ORWNlQUpBUmRoajlxZUJrVG13?oc=5</guid>
-      <description><![CDATA[Education Ministers back national ECEC Commission as next phase of child safety reforms takes shape - The Sector]]></description>
-      <content:encoded><![CDATA[Education Ministers back national ECEC Commission as next phase of child safety reforms takes shape - The Sector]]></content:encoded>
-      <pubDate>Mon, 20 Jul 2026 19:05:17 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[ACT climate listening report confirms urgent need to include the early years - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1I4RFdDTy1PWEhjWnJJX05LaGNhZ0dVSGxiUlhRMVBBUXFlWmw1ckRSeTRuWlZ5STBFNDlSUS1fN3Z3X0Vid1NHU283U1JBb2J5MDVFeTZ1VllQM0t0Z0pYV25QNHVKZ3BnNHVTZDMtYVprM2w2d2FpNmViWkkzSXVKZGtrSlIzR0hN?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1I4RFdDTy1PWEhjWnJJX05LaGNhZ0dVSGxiUlhRMVBBUXFlWmw1ckRSeTRuWlZ5STBFNDlSUS1fN3Z3X0Vid1NHU283U1JBb2J5MDVFeTZ1VllQM0t0Z0pYV25QNHVKZ3BnNHVTZDMtYVprM2w2d2FpNmViWkkzSXVKZGtrSlIzR0hN?oc=5</guid>
       <description><![CDATA[ACT climate listening report confirms urgent need to include the early years - The Sector]]></description>
       <content:encoded><![CDATA[ACT climate listening report confirms urgent need to include the early years - The Sector]]></content:encoded>
       <pubDate>Mon, 20 Jul 2026 19:05:17 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Countdown begins for OOSH Educators' Day 2026: valuing OOSH educators every day - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmh1TWxIY2lSUFQ0eHA1QmlQbkV2blV1bmFFNVZQVlRScVRyWFE3MzdKM1Z1MG5QR1N2SXlqc3AzdGJBbDFXWVdGRjJpYzl1Y2JCcU15c09PejdRZGN4WFJaWFdzaGVsNVVQZ1ZveUxkNnh6aTFFaE5YUl9jTmlXOGRCTlNqSW1PM1dPLWxURmdtcUZEMUpCNEpCOW5XelZkX2FHZHIybmg1dw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmh1TWxIY2lSUFQ0eHA1QmlQbkV2blV1bmFFNVZQVlRScVRyWFE3MzdKM1Z1MG5QR1N2SXlqc3AzdGJBbDFXWVdGRjJpYzl1Y2JCcU15c09PejdRZGN4WFJaWFdzaGVsNVVQZ1ZveUxkNnh6aTFFaE5YUl9jTmlXOGRCTlNqSW1PM1dPLWxURmdtcUZEMUpCNEpCOW5XelZkX2FHZHIybmg1dw?oc=5</guid>
-      <description><![CDATA[Countdown begins for OOSH Educators' Day 2026: valuing OOSH educators every day - The Sector]]></description>
-      <content:encoded><![CDATA[Countdown begins for OOSH Educators' Day 2026: valuing OOSH educators every day - The Sector]]></content:encoded>
-      <pubDate>Sun, 19 Jul 2026 19:37:49 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -531,6 +511,26 @@
       <description><![CDATA[Inclusion Support Program: Inclusion Agencies confirmed from July 2026 - The Sector]]></description>
       <content:encoded><![CDATA[Inclusion Support Program: Inclusion Agencies confirmed from July 2026 - The Sector]]></content:encoded>
       <pubDate>Thu, 11 Jun 2026 19:05:10 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[CCS hourly rate caps and income thresholds set to rise from 6 July 2026 - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnpWRW5fbHF0Q195bEZHSDFoMzJBOVRLdVk5ZXR1MU1YMzR6SExKaDdGODdUbXlEeTBETmlxckJqN3RUYkRzb3BNQUs5aVVPdXdQWkk0Nl96aVpnVjdtZ2ZLSDdBUHRma05PR0x3WDhkWDJBUTc1YlM4cDVtQlRjVHRDN3d1ZDdOMUZkQ0hzNlhTQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnpWRW5fbHF0Q195bEZHSDFoMzJBOVRLdVk5ZXR1MU1YMzR6SExKaDdGODdUbXlEeTBETmlxckJqN3RUYkRzb3BNQUs5aVVPdXdQWkk0Nl96aVpnVjdtZ2ZLSDdBUHRma05PR0x3WDhkWDJBUTc1YlM4cDVtQlRjVHRDN3d1ZDdOMUZkQ0hzNlhTQQ?oc=5</guid>
+      <description><![CDATA[CCS hourly rate caps and income thresholds set to rise from 6 July 2026 - The Sector]]></description>
+      <content:encoded><![CDATA[CCS hourly rate caps and income thresholds set to rise from 6 July 2026 - The Sector]]></content:encoded>
+      <pubDate>Thu, 11 Jun 2026 19:04:54 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Western Sydney's Airlie Preschool recognised among top 1% with rare second 'Excellent' rating - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnZ3QTNRNmZkbG1TYWNUX3RZbV9jbGdxWEpXN1dKYndQV3VXZ3Z1NWJyb3dUYldBc3BGRGdyZkd4XzJSRWlfWG5VSlVpUlZvbnVCSlAwQnVSMGtXS0Z6MWhCS1Vra0IyQ1NUcy1MdWMwY1JYbkREMTV2dnR0NGg5YkN6TkRTSjlDZHp1b29hNndOZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnZ3QTNRNmZkbG1TYWNUX3RZbV9jbGdxWEpXN1dKYndQV3VXZ3Z1NWJyb3dUYldBc3BGRGdyZkd4XzJSRWlfWG5VSlVpUlZvbnVCSlAwQnVSMGtXS0Z6MWhCS1Vra0IyQ1NUcy1MdWMwY1JYbkREMTV2dnR0NGg5YkN6TkRTSjlDZHp1b29hNndOZw?oc=5</guid>
+      <description><![CDATA[Western Sydney's Airlie Preschool recognised among top 1% with rare second 'Excellent' rating - The Sector]]></description>
+      <content:encoded><![CDATA[Western Sydney's Airlie Preschool recognised among top 1% with rare second 'Excellent' rating - The Sector]]></content:encoded>
+      <pubDate>Wed, 10 Jun 2026 20:18:50 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
