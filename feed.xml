@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Tue, 11 Aug 2026 06:50:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:04:18 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,11 +16,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/ldc-service-approval-growth-lowest-in-10-years</guid>
       <description><![CDATA[The percentage growth in new long day care service approvals fell to 2.5 per cent in the three months ended June 2026, the lowest growth rate in ten years ACECQA’s latest Snapshot confirms.]]></description>
       <content:encoded><![CDATA[The percentage growth in new long day care service approvals fell to 2.5 per cent in the three months ended June 2026, the lowest growth rate in ten years ACECQA’s latest Snapshot confirms.]]></content:encoded>
-      <pubDate>Tue, 11 Aug 2026 06:50:54 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 08:04:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Image_ffb57bb0d3.jpeg" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/Image_ffb57bb0d3.jpeg"/>
+    </item>
+    <item>
+      <title><![CDATA[Prevention is better than cure: how to truly safeguard your Service from compliance risk]]></title>
+      <link>https://thesector.com.au/article/preventing-compliance-risk-ecec-services</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/preventing-compliance-risk-ecec-services</guid>
+      <description><![CDATA[As expectations around governance, child safety and organisational accountability continue to evolve, early childhood education and care (ECEC) providers are increasingly recognising that the strongest organisations are those that identify and respond to risk long before incidents occur.]]></description>
+      <content:encoded><![CDATA[As expectations around governance, child safety and organisational accountability continue to evolve, early childhood education and care (ECEC) providers are increasingly recognising that the strongest organisations are those that identify and respond to risk long before incidents occur.]]></content:encoded>
+      <pubDate>Tue, 11 Aug 2026 07:04:14 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/The_Sector_Connect_ECEC_Risk_and_Compliance_Humantix_Banner_5_d4ea5bbeea.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/The_Sector_Connect_ECEC_Risk_and_Compliance_Humantix_Banner_5_d4ea5bbeea.webp"/>
     </item>
     <item>
       <title><![CDATA[Early childhood education among professions expected to see strong demand over next decade - The Sector]]></title>
@@ -33,24 +45,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Prevention is better than cure: how to truly safeguard your Service from compliance risk]]></title>
-      <link>https://thesector.com.au/article/preventing-compliance-risk-ecec-services</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/preventing-compliance-risk-ecec-services</guid>
-      <description><![CDATA[As expectations around governance, child safety and organisational accountability continue to evolve, early childhood education and care (ECEC) providers are increasingly recognising that the strongest organisations are those that identify and respond to risk long before incidents occur.]]></description>
-      <content:encoded><![CDATA[As expectations around governance, child safety and organisational accountability continue to evolve, early childhood education and care (ECEC) providers are increasingly recognising that the strongest organisations are those that identify and respond to risk long before incidents occur.]]></content:encoded>
-      <pubDate>Tue, 11 Aug 2026 05:50:54 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/The_Sector_Connect_ECEC_Risk_and_Compliance_Humantix_Banner_5_d4ea5bbeea.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/The_Sector_Connect_ECEC_Risk_and_Compliance_Humantix_Banner_5_d4ea5bbeea.webp"/>
-    </item>
-    <item>
       <title><![CDATA[Help is on the Way]]></title>
       <link>https://thesector.com.au/article/early-years-climate-strategy-children-nature</link>
       <guid isPermaLink="true">https://thesector.com.au/article/early-years-climate-strategy-children-nature</guid>
       <description><![CDATA[How learning alongside children became a possible implementation pathway for Australia&#x27;s climate future]]></description>
       <content:encoded><![CDATA[How learning alongside children became a possible implementation pathway for Australia&#x27;s climate future]]></content:encoded>
-      <pubDate>Tue, 11 Aug 2026 04:50:54 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 06:04:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/IMG_1032_40f2d5ebfe.webp" medium="image"/>
@@ -62,7 +62,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/early-childhood-sector-instability-provider-workforce-churn</guid>
       <description><![CDATA[Australia&#x27;s rapid expansion of early childhood education and care (ECEC) has significantly increased the number of available childcare places, but new research warns that growth has also been accompanied by high levels of provider turnover, workforce churn and growing risks across the system.]]></description>
       <content:encoded><![CDATA[Australia&#x27;s rapid expansion of early childhood education and care (ECEC) has significantly increased the number of available childcare places, but new research warns that growth has also been accompanied by high levels of provider turnover, workforce churn and growing risks across the system.]]></content:encoded>
-      <pubDate>Tue, 11 Aug 2026 03:50:54 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 05:04:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2200760700_b053eca69c.webp" medium="image"/>
@@ -74,7 +74,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/sa-aboriginal-early-childhood-strategy-35-million</guid>
       <description><![CDATA[South Australia has become the first state to launch a dedicated Aboriginal Early Childhood Strategy, backed by a $35 million investment over four years to strengthen outcomes for Aboriginal children and families.]]></description>
       <content:encoded><![CDATA[South Australia has become the first state to launch a dedicated Aboriginal Early Childhood Strategy, backed by a $35 million investment over four years to strengthen outcomes for Aboriginal children and families.]]></content:encoded>
-      <pubDate>Tue, 11 Aug 2026 02:50:54 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 04:04:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1339599600_3e8d16db5d.webp" medium="image"/>
@@ -101,6 +101,18 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[G8 Education confirms lapse of 364,123 performance rights]]></title>
+      <link>https://thesector.com.au/article/g8-education-performance-rights-lapse-2026</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/g8-education-performance-rights-lapse-2026</guid>
+      <description><![CDATA[G8 Education has confirmed the lapse of 364,123 unquoted performance rights, after advising the ASX that the conditions attached to the securities had not been met or had become incapable of being satisfied.]]></description>
+      <content:encoded><![CDATA[G8 Education has confirmed the lapse of 364,123 unquoted performance rights, after advising the ASX that the conditions attached to the securities had not been met or had become incapable of being satisfied.]]></content:encoded>
+      <pubDate>Mon, 10 Aug 2026 20:04:14 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/f1d28d5e_080c_4983_a16a_816f03ae333e_a873d971cd.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/f1d28d5e_080c_4983_a16a_816f03ae333e_a873d971cd.webp"/>
+    </item>
+    <item>
       <title><![CDATA[Investors turn to childcare centres as tax changes reshape property investment - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5EU1ZjOFdsSEdybTVvdGRnRUhKT01Jcm55ZUc2VVBoRzRHSXBQczc3R3lGbEE1RGNtckRIS1h4dlhMdEhkakgySFZzVHBma0xMcmF3MFdMaG0yR0VNdE92QVlyaUpCdkFBN0ZOYkljN2RGOVVFSWhCRFh4SUJGeVk?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE5EU1ZjOFdsSEdybTVvdGRnRUhKT01Jcm55ZUc2VVBoRzRHSXBQczc3R3lGbEE1RGNtckRIS1h4dlhMdEhkakgySFZzVHBma0xMcmF3MFdMaG0yR0VNdE92QVlyaUpCdkFBN0ZOYkljN2RGOVVFSWhCRFh4SUJGeVk?oc=5</guid>
@@ -109,18 +121,6 @@
       <pubDate>Mon, 10 Aug 2026 19:02:44 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[G8 Education confirms lapse of 364,123 performance rights]]></title>
-      <link>https://thesector.com.au/article/g8-education-performance-rights-lapse-2026</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/g8-education-performance-rights-lapse-2026</guid>
-      <description><![CDATA[G8 Education has confirmed the lapse of 364,123 unquoted performance rights, after advising the ASX that the conditions attached to the securities had not been met or had become incapable of being satisfied.]]></description>
-      <content:encoded><![CDATA[G8 Education has confirmed the lapse of 364,123 unquoted performance rights, after advising the ASX that the conditions attached to the securities had not been met or had become incapable of being satisfied.]]></content:encoded>
-      <pubDate>Mon, 10 Aug 2026 18:50:54 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/f1d28d5e_080c_4983_a16a_816f03ae333e_a873d971cd.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/f1d28d5e_080c_4983_a16a_816f03ae333e_a873d971cd.webp"/>
     </item>
     <item>
       <title><![CDATA[More Illawarra educators supported to start family day care businesses, ease pressure on childcare access - psnews.com.au]]></title>
@@ -302,6 +302,16 @@
       <content:encoded><![CDATA[Childcare abuse horror: 329 charges, 136 alleged victims, 59 centres linked - adelaidenow.com.au]]></content:encoded>
       <pubDate>Tue, 14 Jul 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[adelaidenow.com.au]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Former Sydney childcare worker Hamish Tait charged with hundreds of abuse offences as police release full list of centres - 7news.com.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNHJuRWZabG9lT3JYRDR1N2NYc25LYWJhS3cxeHB6aGRGa3RKd3F0V183QWNrQ2RHRlVKRDRUOHdXa2ptQmpvaWU3QWxPZ2NacXg0d1RydW5haGNzbG9SblpzMThoMjNRYmN4OXZJdFZIb2VwNXNwMW1NMVExT1JzSFBxRHVRdURaTFVBd05WOWY4TE16TGU2d3dTcVAtQkhDRXRMWmx2WVJUMDl3bTNiWlhLYVBIZzhKRGF3UDVPVmVJNGVzM1RPN3FLdjgwT2hRWmR6eDBRaWFodVdlekY5YVZBZUc3SktnbTZiRkZFTdIB9AFBVV95cUxPbTNvbXdKX3FwSU56WDJ2LXhwZ3A2eUdyck9KaWwyNGtnOEVSSkhzZnJpbE4xcE9VRGxIYUFXa2Mza1ljWU94dFZNNm8zOUVGQUVXYkNSUWhfNVdlTEdad1JETjdFSldSV2RNUjFUUmgtd1Y0cnk0dlRpTzREZURqSjRscDZwMWNYSU9Ea2x3WE1McXhtN2pYZ3NLTVgyX2ROVnExbjg5ZUxzR2Z5V1kzSmlpdGxFZzN0THhobGk3N3kwMkRkMHgxNEtKRVdoenkzOF9vOE5zam5vc1FIb0hQa2p5NWh0aGZuNWhtTFd3cUJyU1BL?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNHJuRWZabG9lT3JYRDR1N2NYc25LYWJhS3cxeHB6aGRGa3RKd3F0V183QWNrQ2RHRlVKRDRUOHdXa2ptQmpvaWU3QWxPZ2NacXg0d1RydW5haGNzbG9SblpzMThoMjNRYmN4OXZJdFZIb2VwNXNwMW1NMVExT1JzSFBxRHVRdURaTFVBd05WOWY4TE16TGU2d3dTcVAtQkhDRXRMWmx2WVJUMDl3bTNiWlhLYVBIZzhKRGF3UDVPVmVJNGVzM1RPN3FLdjgwT2hRWmR6eDBRaWFodVdlekY5YVZBZUc3SktnbTZiRkZFTdIB9AFBVV95cUxPbTNvbXdKX3FwSU56WDJ2LXhwZ3A2eUdyck9KaWwyNGtnOEVSSkhzZnJpbE4xcE9VRGxIYUFXa2Mza1ljWU94dFZNNm8zOUVGQUVXYkNSUWhfNVdlTEdad1JETjdFSldSV2RNUjFUUmgtd1Y0cnk0dlRpTzREZURqSjRscDZwMWNYSU9Ea2x3WE1McXhtN2pYZ3NLTVgyX2ROVnExbjg5ZUxzR2Z5V1kzSmlpdGxFZzN0THhobGk3N3kwMkRkMHgxNEtKRVdoenkzOF9vOE5zam5vc1FIb0hQa2p5NWh0aGZuNWhtTFd3cUJyU1BL?oc=5</guid>
+      <description><![CDATA[Former Sydney childcare worker Hamish Tait charged with hundreds of abuse offences as police release full list of centres - 7news.com.au]]></description>
+      <content:encoded><![CDATA[Former Sydney childcare worker Hamish Tait charged with hundreds of abuse offences as police release full list of centres - 7news.com.au]]></content:encoded>
+      <pubDate>Mon, 13 Jul 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[7news.com.au]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -519,16 +529,6 @@
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://images.theconversation.com/files/742330/original/file-20260617-57-iek7z1.jpg?ixlib=rb-4.1.1&amp;rect=1175%2C183%2C4016%2C2008&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop" medium="image"/>
       <media:thumbnail url="https://images.theconversation.com/files/742330/original/file-20260617-57-iek7z1.jpg?ixlib=rb-4.1.1&amp;rect=1175%2C183%2C4016%2C2008&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
-    </item>
-    <item>
-      <title><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBoS0EwQk1CWnVfU1VINWdMVUdkaERtMHJmVWlvNjFXVFJMOEdiRVpxM3kxTWtVWmRtMVhnbG9USjBXNU5DN3FEWEctVzY4RloxbjFMRDNwY0lPNTAzR1JObURna21iR0JRc0RaZlZPSFRYd1g2aXEyMmlyaE1WSWFCUXBYOUpvbG55YTZVakdLc0NvLVZZcTlMMjV6c2Q2aUVqNWNDVWJjWVFDZFBMMXF2eUJyUzlGWFd2a1FxU1k?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBoS0EwQk1CWnVfU1VINWdMVUdkaERtMHJmVWlvNjFXVFJMOEdiRVpxM3kxTWtVWmRtMVhnbG9USjBXNU5DN3FEWEctVzY4RloxbjFMRDNwY0lPNTAzR1JObURna21iR0JRc0RaZlZPSFRYd1g2aXEyMmlyaE1WSWFCUXBYOUpvbG55YTZVakdLc0NvLVZZcTlMMjV6c2Q2aUVqNWNDVWJjWVFDZFBMMXF2eUJyUzlGWFd2a1FxU1k?oc=5</guid>
-      <description><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></description>
-      <content:encoded><![CDATA[Government commits $3.6 billion to permanently extend early childhood educator wage support - The Sector]]></content:encoded>
-      <pubDate>Tue, 16 Jun 2026 19:32:18 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
 </rss>
