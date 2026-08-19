@@ -6,29 +6,17 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 19 Aug 2026 09:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:19:20 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
-    <item>
-      <title><![CDATA[Almost 400 ECEC services to share $106.9 million funding boost]]></title>
-      <link>https://thesector.com.au/article/400-ecec-services-share-106-9-million-funding-boost</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/400-ecec-services-share-106-9-million-funding-boost</guid>
-      <description><![CDATA[Almost 400 early childhood education and care (ECEC) services across Australia will share in $106.9 million in Federal Government funding, with around two-thirds of successful services located in regional, rural and remote communities.]]></description>
-      <content:encoded><![CDATA[Almost 400 early childhood education and care (ECEC) services across Australia will share in $106.9 million in Federal Government funding, with around two-thirds of successful services located in regional, rural and remote communities.]]></content:encoded>
-      <pubDate>Wed, 19 Aug 2026 09:24:15 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1867279347_00d2de076b.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1867279347_00d2de076b.webp"/>
-    </item>
     <item>
       <title><![CDATA[What do parents want when it comes to childcare safety? More information for a start]]></title>
       <link>https://thesector.com.au/article/what-parents-want-childcare-safety-information</link>
       <guid isPermaLink="true">https://thesector.com.au/article/what-parents-want-childcare-safety-information</guid>
       <description><![CDATA[In recent weeks we’ve seen more reports of alleged child sexual abuse involving a Sydney childcare worker. There have also been reports of children leaving a Melbourne kindergarten unnoticed and getting onto a busy street.]]></description>
       <content:encoded><![CDATA[In recent weeks we’ve seen more reports of alleged child sexual abuse involving a Sydney childcare worker. There have also been reports of children leaving a Melbourne kindergarten unnoticed and getting onto a busy street.]]></content:encoded>
-      <pubDate>Wed, 19 Aug 2026 08:24:15 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 10:19:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1016743162_299b65e4a5.webp" medium="image"/>
@@ -40,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/sharing-joy-queensland-early-childhood-workforce-campaign</guid>
       <description><![CDATA[The everyday moments that early childhood educators create for children and families are being celebrated through a Queensland Government initiative designed to recognise the early childhood workforce and highlight the impact of positive interactions.]]></description>
       <content:encoded><![CDATA[The everyday moments that early childhood educators create for children and families are being celebrated through a Queensland Government initiative designed to recognise the early childhood workforce and highlight the impact of positive interactions.]]></content:encoded>
-      <pubDate>Wed, 19 Aug 2026 07:24:15 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:19:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1284866039_33d840db1b.webp" medium="image"/>
@@ -52,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/exceeding-nqs-2026-acecqa-latest-data-quality-practice</guid>
       <description><![CDATA[What separates a service that is Meeting the National Quality Standard (NQS) from one that is Exceeding?]]></description>
       <content:encoded><![CDATA[What separates a service that is Meeting the National Quality Standard (NQS) from one that is Exceeding?]]></content:encoded>
-      <pubDate>Wed, 19 Aug 2026 06:24:15 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 08:19:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1067319358_3658d6a850.webp" medium="image"/>
@@ -64,11 +52,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/healthy-starts-report-child-family-health-system-australia</guid>
       <description><![CDATA[Australian families are falling through gaps in a fragmented child and family health system, with where families live, what they can afford and whether they know support exists, influencing their ability to access critical services during the first five years of a child&#x27;s life.]]></description>
       <content:encoded><![CDATA[Australian families are falling through gaps in a fragmented child and family health system, with where families live, what they can afford and whether they know support exists, influencing their ability to access critical services during the first five years of a child&#x27;s life.]]></content:encoded>
-      <pubDate>Wed, 19 Aug 2026 05:24:15 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 07:19:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1388254153_0fd54a647c.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1388254153_0fd54a647c.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Queensland&#x27;s latest regulatory data: What ECEC providers need to know in 2026]]></title>
+      <link>https://thesector.com.au/article/queensland-ecec-regulatory-data-what-providers-need-to-know-2026</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/queensland-ecec-regulatory-data-what-providers-need-to-know-2026</guid>
+      <description><![CDATA[Queensland&#x27;s latest early childhood education and care (ECEC) regulatory data provides approved providers and service leaders with more than a snapshot of regulatory activity, it offers an opportunity to understand where non-compliance is occurring and where services may need to strengthen their own systems and practices.]]></description>
+      <content:encoded><![CDATA[Queensland&#x27;s latest early childhood education and care (ECEC) regulatory data provides approved providers and service leaders with more than a snapshot of regulatory activity, it offers an opportunity to understand where non-compliance is occurring and where services may need to strengthen their own systems and practices.]]></content:encoded>
+      <pubDate>Wed, 19 Aug 2026 06:19:14 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2186729096_ffa5c4cece.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2186729096_ffa5c4cece.webp"/>
     </item>
     <item>
       <title><![CDATA[Exclusive “Fireside Chat” with Australia’s leading ECEC advocacy voice set to round off upcoming ECEC Compliance and Risk Forum]]></title>
@@ -76,7 +76,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/john-cherry-goodstart-fireside-chat-ecec-compliance-risk-forum</guid>
       <description><![CDATA[As anticipation builds for The Sector’s inaugural ECEC Compliance and Risk Forum 2026 it is with great excitement that the team confirms an exclusive, intimate conversation as the final session of the day with John Cherry, Goodstart Early Learning’s foundational Head of Advocacy and one of Australia’s leading early learning voices.]]></description>
       <content:encoded><![CDATA[As anticipation builds for The Sector’s inaugural ECEC Compliance and Risk Forum 2026 it is with great excitement that the team confirms an exclusive, intimate conversation as the final session of the day with John Cherry, Goodstart Early Learning’s foundational Head of Advocacy and one of Australia’s leading early learning voices.]]></content:encoded>
-      <pubDate>Tue, 18 Aug 2026 22:24:15 GMT</pubDate>
+      <pubDate>Tue, 18 Aug 2026 23:19:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/The_Sector_Connect_ECEC_Risk_and_Compliance_Humantix_Banner_5_74205cde40_8d71d5da62_a7c829db8e.jpeg" medium="image"/>
@@ -88,7 +88,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/montessori-academy-child-safety-leadership-conference-nsw</guid>
       <description><![CDATA[More than 100 early childhood leaders, government representatives, regulators, child protection experts and advocates have come together at NSW Parliament House to strengthen the sector&#x27;s approach to child safety with a shared message: protecting children is not a compliance exercise, it is a leadership responsibility.]]></description>
       <content:encoded><![CDATA[More than 100 early childhood leaders, government representatives, regulators, child protection experts and advocates have come together at NSW Parliament House to strengthen the sector&#x27;s approach to child safety with a shared message: protecting children is not a compliance exercise, it is a leadership responsibility.]]></content:encoded>
-      <pubDate>Tue, 18 Aug 2026 21:24:15 GMT</pubDate>
+      <pubDate>Tue, 18 Aug 2026 22:19:14 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Montessori_Leadership_and_Safety_Conference_15_679a65d12a.webp" medium="image"/>
