@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:38:56 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,7 +16,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/acecqa-sleep-safety-supervision-resources-ecec</guid>
       <description><![CDATA[Two national resources from ACECQA are placing a renewed focus on how early childhood education and care (ECEC) services identify and manage risks associated with sleep and rest, supervision and the physical design of service environments.]]></description>
       <content:encoded><![CDATA[Two national resources from ACECQA are placing a renewed focus on how early childhood education and care (ECEC) services identify and manage risks associated with sleep and rest, supervision and the physical design of service environments.]]></content:encoded>
-      <pubDate>Thu, 20 Aug 2026 12:28:12 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 13:38:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1222732527_7973335e66.webp" medium="image"/>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/fair-work-commission-ai-enterprise-agreement-checks-ecec</guid>
       <description><![CDATA[Early childhood education and care (ECEC) providers lodging enterprise agreement approval applications will need to meet new digital document requirements as the Fair Work Commission prepares to introduce an AI-assisted tool into its pre-approval checking process.]]></description>
       <content:encoded><![CDATA[Early childhood education and care (ECEC) providers lodging enterprise agreement approval applications will need to meet new digital document requirements as the Fair Work Commission prepares to introduce an AI-assisted tool into its pre-approval checking process.]]></content:encoded>
-      <pubDate>Thu, 20 Aug 2026 11:28:12 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 12:38:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2229992320_e474e25e17.webp" medium="image"/>
@@ -40,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/premium-sydney-childcare-portfolio-market-cbre</guid>
       <description><![CDATA[A portfolio of seven childcare investments across Sydney and Newcastle has been brought to market offering investors a rare opportunity to acquire high-quality early education assets in some of New South Wales&#x27; most tightly held catchments.]]></description>
       <content:encoded><![CDATA[A portfolio of seven childcare investments across Sydney and Newcastle has been brought to market offering investors a rare opportunity to acquire high-quality early education assets in some of New South Wales&#x27; most tightly held catchments.]]></content:encoded>
-      <pubDate>Thu, 20 Aug 2026 10:28:12 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 11:38:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Westmead_69c310bd26.webp" medium="image"/>
@@ -52,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/screen-time-developmental-difficulties-children-research</guid>
       <description><![CDATA[New international research has challenged assumptions about the relationship between children&#x27;s screen use and development, finding no association between the amount of screen time and developmental difficulties at five or 10 years of age.]]></description>
       <content:encoded><![CDATA[New international research has challenged assumptions about the relationship between children&#x27;s screen use and development, finding no association between the amount of screen time and developmental difficulties at five or 10 years of age.]]></content:encoded>
-      <pubDate>Thu, 20 Aug 2026 09:28:12 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 10:38:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1397973271_e4176da5aa.webp" medium="image"/>
@@ -64,11 +64,21 @@
       <guid isPermaLink="true">https://thesector.com.au/article/positive-interactions-inappropriate-conduct-ecec-services</guid>
       <description><![CDATA[Queensland’s Regulatory Authority is reminding early childhood education and care (ECEC) services of their responsibilities to support positive relationships with children, alongside new national offences relating to inappropriate conduct.]]></description>
       <content:encoded><![CDATA[Queensland’s Regulatory Authority is reminding early childhood education and care (ECEC) services of their responsibilities to support positive relationships with children, alongside new national offences relating to inappropriate conduct.]]></content:encoded>
-      <pubDate>Thu, 20 Aug 2026 08:28:12 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 09:38:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_2199173319_2d05de911a.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2199173319_2d05de911a.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Victorian regulator shuts down 65 day care residences, suspends educators - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzlxak8zcTlSaG10N2licjdkMklUUy1wNmFjQmFZTC1mUzBoUUNfY2lncUczdGM5ZjVydi1iQUFCTHR0amU3bldCb21qZXVhMkhyd3Zvak5BcnVLbG9pNFBkOUJ0b3hvVzl4NEZNenl6NU9IemZsYVJhYzY0RnBKOTh2NWMwWWdWYzEyUUhhc1BUaWtENzhUUlI2X01vWXlodl9DRDk3ZENLejhCSDFQdk9tRQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzlxak8zcTlSaG10N2licjdkMklUUy1wNmFjQmFZTC1mUzBoUUNfY2lncUczdGM5ZjVydi1iQUFCTHR0amU3bldCb21qZXVhMkhyd3Zvak5BcnVLbG9pNFBkOUJ0b3hvVzl4NEZNenl6NU9IemZsYVJhYzY0RnBKOTh2NWMwWWdWYzEyUUhhc1BUaWtENzhUUlI2X01vWXlodl9DRDk3ZENLejhCSDFQdk9tRQ?oc=5</guid>
+      <description><![CDATA[Victorian regulator shuts down 65 day care residences, suspends educators - ABC News & Headlines – Australian Broadcasting Corporation]]></description>
+      <content:encoded><![CDATA[Victorian regulator shuts down 65 day care residences, suspends educators - ABC News & Headlines – Australian Broadcasting Corporation]]></content:encoded>
+      <pubDate>Thu, 20 Aug 2026 08:40:58 GMT</pubDate>
+      <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
       <title><![CDATA[65 Victorian childcare services shut over serious safety breaches - news24.com.au]]></title>
@@ -81,22 +91,12 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Victorian regulator shuts down 65 day care residences, suspends educators - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzlxak8zcTlSaG10N2licjdkMklUUy1wNmFjQmFZTC1mUzBoUUNfY2lncUczdGM5ZjVydi1iQUFCTHR0amU3bldCb21qZXVhMkhyd3Zvak5BcnVLbG9pNFBkOUJ0b3hvVzl4NEZNenl6NU9IemZsYVJhYzY0RnBKOTh2NWMwWWdWYzEyUUhhc1BUaWtENzhUUlI2X01vWXlodl9DRDk3ZENLejhCSDFQdk9tRQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzlxak8zcTlSaG10N2licjdkMklUUy1wNmFjQmFZTC1mUzBoUUNfY2lncUczdGM5ZjVydi1iQUFCTHR0amU3bldCb21qZXVhMkhyd3Zvak5BcnVLbG9pNFBkOUJ0b3hvVzl4NEZNenl6NU9IemZsYVJhYzY0RnBKOTh2NWMwWWdWYzEyUUhhc1BUaWtENzhUUlI2X01vWXlodl9DRDk3ZENLejhCSDFQdk9tRQ?oc=5</guid>
-      <description><![CDATA[Victorian regulator shuts down 65 day care residences, suspends educators - ABC News & Headlines – Australian Broadcasting Corporation]]></description>
-      <content:encoded><![CDATA[Victorian regulator shuts down 65 day care residences, suspends educators - ABC News & Headlines – Australian Broadcasting Corporation]]></content:encoded>
-      <pubDate>Thu, 20 Aug 2026 03:04:06 GMT</pubDate>
-      <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Exclusive “Fireside Chat” with Australia’s leading ECEC advocacy voice set to round off upcoming ECEC Compliance and Risk Forum]]></title>
       <link>https://thesector.com.au/article/john-cherry-goodstart-fireside-chat-ecec-compliance-risk-forum</link>
       <guid isPermaLink="true">https://thesector.com.au/article/john-cherry-goodstart-fireside-chat-ecec-compliance-risk-forum</guid>
       <description><![CDATA[As anticipation builds for The Sector’s inaugural ECEC Compliance and Risk Forum 2026 it is with great excitement that the team confirms an exclusive, intimate conversation as the final session of the day with John Cherry, Goodstart Early Learning’s foundational Head of Advocacy and one of Australia’s leading early learning voices.]]></description>
       <content:encoded><![CDATA[As anticipation builds for The Sector’s inaugural ECEC Compliance and Risk Forum 2026 it is with great excitement that the team confirms an exclusive, intimate conversation as the final session of the day with John Cherry, Goodstart Early Learning’s foundational Head of Advocacy and one of Australia’s leading early learning voices.]]></content:encoded>
-      <pubDate>Thu, 20 Aug 2026 01:28:12 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 02:38:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/The_Sector_Connect_ECEC_Risk_and_Compliance_Humantix_Banner_5_74205cde40_8d71d5da62_a7c829db8e.jpeg" medium="image"/>
@@ -108,7 +108,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/what-parents-want-childcare-safety-information</guid>
       <description><![CDATA[In recent weeks we’ve seen more reports of alleged child sexual abuse involving a Sydney childcare worker. There have also been reports of children leaving a Melbourne kindergarten unnoticed and getting onto a busy street.]]></description>
       <content:encoded><![CDATA[In recent weeks we’ve seen more reports of alleged child sexual abuse involving a Sydney childcare worker. There have also been reports of children leaving a Melbourne kindergarten unnoticed and getting onto a busy street.]]></content:encoded>
-      <pubDate>Thu, 20 Aug 2026 00:28:12 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 01:38:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1016743162_299b65e4a5.webp" medium="image"/>
@@ -131,16 +131,6 @@
       <description><![CDATA[Exceeding NQS in 2026: What the latest ACECQA data tells us about higher quality practice - The Sector]]></description>
       <content:encoded><![CDATA[Exceeding NQS in 2026: What the latest ACECQA data tells us about higher quality practice - The Sector]]></content:encoded>
       <pubDate>Tue, 18 Aug 2026 20:23:47 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Families falling through the gaps as new report calls for stronger child and family health system - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxORFhNUVBtdEswbTdYX3k5ZTRzV1N5eEZIN2t0REt1SE56SFlSc0VmcF95ODQ3UTdGQnpnUkpycEZYYmlTMzMta3Jib0VFSDBVY2ZrdW9iQ0F2Ri1lWFYtWE1BTU5vNFFMczJKd2tOUUhOQXNqWU9YV1VnZWNvOHBIZlZGSHN2QTVwWkY5R2Iwdl9hdnpDMWc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxORFhNUVBtdEswbTdYX3k5ZTRzV1N5eEZIN2t0REt1SE56SFlSc0VmcF95ODQ3UTdGQnpnUkpycEZYYmlTMzMta3Jib0VFSDBVY2ZrdW9iQ0F2Ri1lWFYtWE1BTU5vNFFMczJKd2tOUUhOQXNqWU9YV1VnZWNvOHBIZlZGSHN2QTVwWkY5R2Iwdl9hdnpDMWc?oc=5</guid>
-      <description><![CDATA[Families falling through the gaps as new report calls for stronger child and family health system - The Sector]]></description>
-      <content:encoded><![CDATA[Families falling through the gaps as new report calls for stronger child and family health system - The Sector]]></content:encoded>
-      <pubDate>Tue, 18 Aug 2026 19:08:22 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -529,6 +519,16 @@
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://images.theconversation.com/files/743014/original/file-20260619-71-1mnlj.jpg?ixlib=rb-4.1.1&amp;rect=71%2C91%2C4198%2C2099&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop" medium="image"/>
       <media:thumbnail url="https://images.theconversation.com/files/743014/original/file-20260619-71-1mnlj.jpg?ixlib=rb-4.1.1&amp;rect=71%2C91%2C4198%2C2099&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
+    </item>
+    <item>
+      <title><![CDATA[Sector welcomes worker retention payment extension but calls for continued reform - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnlrN0dFczhZVGFfdTFEQWFQVDRJRTNYeENqaF8xcWlLU3lNenNvZHJJMlhxc2wwekgtQ00td0NOX2daSktPYUxjaEdpbWx3elFiZGxfYTBZb3I3WWV0NmJtSFNsWnFENmpiTlVPQUZZMDNMQmxkcjNra3E5eVlfUFJSbWxwLW5GZ29ZVHc1TDJZVXNfSDBFcy1tWU9wOTZPS3V6bVVyczRDbTc1Q3hFV3VwV2JXTEQ4QVFRampIWUNCbml5SDhaYmxkN0Y4NzdLMnBEb3g2YzNscmM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnlrN0dFczhZVGFfdTFEQWFQVDRJRTNYeENqaF8xcWlLU3lNenNvZHJJMlhxc2wwekgtQ00td0NOX2daSktPYUxjaEdpbWx3elFiZGxfYTBZb3I3WWV0NmJtSFNsWnFENmpiTlVPQUZZMDNMQmxkcjNra3E5eVlfUFJSbWxwLW5GZ29ZVHc1TDJZVXNfSDBFcy1tWU9wOTZPS3V6bVVyczRDbTc1Q3hFV3VwV2JXTEQ4QVFRampIWUNCbml5SDhaYmxkN0Y4NzdLMnBEb3g2YzNscmM?oc=5</guid>
+      <description><![CDATA[Sector welcomes worker retention payment extension but calls for continued reform - The Sector]]></description>
+      <content:encoded><![CDATA[Sector welcomes worker retention payment extension but calls for continued reform - The Sector]]></content:encoded>
+      <pubDate>Wed, 17 Jun 2026 20:34:44 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
 </rss>
