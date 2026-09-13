@@ -6,69 +6,81 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Sun, 13 Sep 2026 16:49:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 19:07:47 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
+    <item>
+      <title><![CDATA[Mini Masterminds launches new team member perks]]></title>
+      <link>https://thesector.com.au/article/mini-masterminds-launches-team-member-perks-program</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/mini-masterminds-launches-team-member-perks-program</guid>
+      <description><![CDATA[Mini Masterminds has launched a new sector-leading Team Member Perks Program, providing its team with an extensive range of benefits, exclusive discounts and everyday savings designed to support their Money, Mind, Body and Life.]]></description>
+      <content:encoded><![CDATA[Mini Masterminds has launched a new sector-leading Team Member Perks Program, providing its team with an extensive range of benefits, exclusive discounts and everyday savings designed to support their Money, Mind, Body and Life.]]></content:encoded>
+      <pubDate>Sun, 13 Sep 2026 19:07:42 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://thesector.com.au/sector-og.jpg" medium="image"/>
+      <media:thumbnail url="https://thesector.com.au/sector-og.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What Australians think about the early years could shape support for reform]]></title>
+      <link>https://thesector.com.au/article/australian-early-years-mindsets-support-reform</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/australian-early-years-mindsets-support-reform</guid>
+      <description><![CDATA[Australians broadly recognise that children and families need greater support, but new research suggests understanding of what shapes early childhood development – and the solutions required to improve outcomes, remains uneven.]]></description>
+      <content:encoded><![CDATA[Australians broadly recognise that children and families need greater support, but new research suggests understanding of what shapes early childhood development – and the solutions required to improve outcomes, remains uneven.]]></content:encoded>
+      <pubDate>Sun, 13 Sep 2026 18:07:42 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/jay_chen_m_Kb_Z3z_Adi_B4_unsplash_0f02a57f55.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/jay_chen_m_Kb_Z3z_Adi_B4_unsplash_0f02a57f55.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Little photographers see the big picture: what children can teach us through a lens]]></title>
+      <link>https://thesector.com.au/article/little-sydney-lives-childrens-photography-perspectives</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/little-sydney-lives-childrens-photography-perspectives</guid>
+      <description><![CDATA[Children notice things adults can miss. The City of Sydney’s Little Sydney Lives photography competition offers a glimpse of the city from a different vantage point, through the eyes of some of its youngest residents.]]></description>
+      <content:encoded><![CDATA[Children notice things adults can miss. The City of Sydney’s Little Sydney Lives photography competition offers a glimpse of the city from a different vantage point, through the eyes of some of its youngest residents.]]></content:encoded>
+      <pubDate>Sun, 13 Sep 2026 17:07:42 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/44545edd_6295_4132_951e_241b6a69db3a_ab5de68a16.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/44545edd_6295_4132_951e_241b6a69db3a_ab5de68a16.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Private equity is reshaping childcare: what does it mean for Australia?]]></title>
+      <link>https://thesector.com.au/article/private-equity-childcare-australia-ecec</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/private-equity-childcare-australia-ecec</guid>
+      <description><![CDATA[New research into the United States childcare market has found that services backed by private equity charge substantially higher fees than providers overall and are less likely to accept subsidised children or offer financial assistance.]]></description>
+      <content:encoded><![CDATA[New research into the United States childcare market has found that services backed by private equity charge substantially higher fees than providers overall and are less likely to accept subsidised children or offer financial assistance.]]></content:encoded>
+      <pubDate>Sun, 13 Sep 2026 16:07:42 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/markus_winkler_c7tqd_Qz_RN_Y_unsplash_26762c35aa.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/markus_winkler_c7tqd_Qz_RN_Y_unsplash_26762c35aa.webp"/>
+    </item>
     <item>
       <title><![CDATA[Bravehearts calls for everyday personal safety conversations in ECEC]]></title>
       <link>https://thesector.com.au/article/bravehearts-personal-safety-conversations-ecec</link>
       <guid isPermaLink="true">https://thesector.com.au/article/bravehearts-personal-safety-conversations-ecec</guid>
       <description><![CDATA[Bravehearts is calling on families, communities and workplaces to turn awareness into action this National Child Protection Week, with Bravehearts Day returning on Friday 11 September 2026.]]></description>
       <content:encoded><![CDATA[Bravehearts is calling on families, communities and workplaces to turn awareness into action this National Child Protection Week, with Bravehearts Day returning on Friday 11 September 2026.]]></content:encoded>
-      <pubDate>Sun, 13 Sep 2026 16:49:21 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 15:07:42 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Photo_Bravehearts_Program_Busy_Bees_Edited_464_75959ba054.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/Photo_Bravehearts_Program_Busy_Bees_Edited_464_75959ba054.webp"/>
     </item>
     <item>
-      <title><![CDATA[One quarter of Australian kids are ‘developmentally vulnerable’ when they start school. Quality childcare can catch them up]]></title>
-      <link>https://thesector.com.au/article/quality-childcare-can-help-developmentally-vulnerable-children-catch-up</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/quality-childcare-can-help-developmentally-vulnerable-children-catch-up</guid>
-      <description><![CDATA[We know the first five years are a crucial time in a child’s life. Early experiences, such as family relationships or exposure to trauma, shape brain architecture, which lays the foundation for children’s learning, behaviour and health.]]></description>
-      <content:encoded><![CDATA[We know the first five years are a crucial time in a child’s life. Early experiences, such as family relationships or exposure to trauma, shape brain architecture, which lays the foundation for children’s learning, behaviour and health.]]></content:encoded>
-      <pubDate>Sun, 13 Sep 2026 15:49:21 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/pexels_kseniachernaya_8535236_fe00f25e1e.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/pexels_kseniachernaya_8535236_fe00f25e1e.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[National Child Safety Training recognised as finalist in IPAA Spirit of Service Awards]]></title>
+      <title><![CDATA[Double Win for MacKillop at the Victorian Protecting Children Awards]]></title>
       <link>https://thesector.com.au/article/national-child-safety-training-ipaa-awards-finalist</link>
       <guid isPermaLink="true">https://thesector.com.au/article/national-child-safety-training-ipaa-awards-finalist</guid>
       <description><![CDATA[Australia’s mandatory National Child Safety Training initiative has been recognised for its collaborative approach to strengthening child safety across the early childhood education and care sector, securing a finalist position in the 2026 IPAA ACT Spirit of Service Awards.]]></description>
       <content:encoded><![CDATA[Australia’s mandatory National Child Safety Training initiative has been recognised for its collaborative approach to strengthening child safety across the early childhood education and care sector, securing a finalist position in the 2026 IPAA ACT Spirit of Service Awards.]]></content:encoded>
-      <pubDate>Sun, 13 Sep 2026 14:49:21 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 09:07:42 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/flick_flank_b7_92jl_AA_5o_unsplash_6a4a3500b3.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/flick_flank_b7_92jl_AA_5o_unsplash_6a4a3500b3.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Celebrating the People at the Centre of Early Childhood Education]]></title>
-      <link>https://thesector.com.au/article/mini-masterminds-masters-of-childcare-awards-2026</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/mini-masterminds-masters-of-childcare-awards-2026</guid>
-      <description><![CDATA[Early childhood educators and leaders from across Sydney have been recognised for their outstanding contribution to children, families and early education at the Mini Masterminds Masters of Childcare Celebration Night, held at The Epping Club on Thursday 3 September.]]></description>
-      <content:encoded><![CDATA[Early childhood educators and leaders from across Sydney have been recognised for their outstanding contribution to children, families and early education at the Mini Masterminds Masters of Childcare Celebration Night, held at The Epping Club on Thursday 3 September.]]></content:encoded>
-      <pubDate>Sun, 13 Sep 2026 13:49:21 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/Hero_Shot_The_Sector_Image_4_b83ae13389.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/Hero_Shot_The_Sector_Image_4_b83ae13389.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Bilingual First Nations picture books launched to strengthen online child safety]]></title>
-      <link>https://thesector.com.au/article/bilingual-first-nations-books-online-child-safety</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/bilingual-first-nations-books-online-child-safety</guid>
-      <description><![CDATA[Two free bilingual picture books have been developed with First Nations communities to help children recognise unsafe online behaviour, protect their personal information and seek help from a trusted adult.]]></description>
-      <content:encoded><![CDATA[Two free bilingual picture books have been developed with First Nations communities to help children recognise unsafe online behaviour, protect their personal information and seek help from a trusted adult.]]></content:encoded>
-      <pubDate>Sun, 13 Sep 2026 12:49:21 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/nappy_W_W_2_LN_9z_Cs_unsplash_4e924cc5f5.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/nappy_W_W_2_LN_9z_Cs_unsplash_4e924cc5f5.webp"/>
     </item>
     <item>
       <title><![CDATA[Major expansion of early learning services announced for Devonport]]></title>
@@ -76,7 +88,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/devonport-early-learning-expansion-malangenna</guid>
       <description><![CDATA[Families in Devonport are set to gain access to significantly more early childhood education and care places, with up to $4 million committed to expand and refurbish Malangenna Children’s Centre.]]></description>
       <content:encoded><![CDATA[Families in Devonport are set to gain access to significantly more early childhood education and care places, with up to $4 million committed to expand and refurbish Malangenna Children’s Centre.]]></content:encoded>
-      <pubDate>Sun, 13 Sep 2026 04:49:21 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 07:07:42 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/70eb2b9a_ccdb_4a63_913c_020b293263e7_bf6cfabb50.webp" medium="image"/>
@@ -180,26 +192,6 @@
       <content:encoded><![CDATA[More child care options for families with new family day care services opening - The Sector]]></content:encoded>
       <pubDate>Sun, 09 Aug 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[The evidence behind 2 years and more time in kindergarten - vic.gov.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE4xNmJXT29HY3l2OGpnaThJcld5MnpLUDhjS2t6TloxMFRKdzZsVEU2dzltV3NjNnJLZnB4WWc0NUFybm1XWnh2MEpOaWxjVzZVRVY0M3hYa1dkclRYWkNLbUFKakpnZUR2NWEw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMia0FVX3lxTE4xNmJXT29HY3l2OGpnaThJcld5MnpLUDhjS2t6TloxMFRKdzZsVEU2dzltV3NjNnJLZnB4WWc0NUFybm1XWnh2MEpOaWxjVzZVRVY0M3hYa1dkclRYWkNLbUFKakpnZUR2NWEw?oc=5</guid>
-      <description><![CDATA[The evidence behind 2 years and more time in kindergarten - vic.gov.au]]></description>
-      <content:encoded><![CDATA[The evidence behind 2 years and more time in kindergarten - vic.gov.au]]></content:encoded>
-      <pubDate>Wed, 05 Aug 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[vic.gov.au]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Early Childhood Educators’ Day 2026 - vic.gov.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOSk9zTFNCbzJZeUNMYW55U1FWWkZMcklkR1paVVc5SzZkcFF5Z2QycnhHV3ZqTWlESjB3N2xvSGVldlBBMGZ1MDNPRmpKaWhJNmJmejltTmFjQ3ZqcTB3cjhqWjllUXZZVmtUalZFS2VNRWZtYm1hcllZQkZRc01WTWhJU1VwS2FLeWVpQTBCQUxzSlVVQndF?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxOSk9zTFNCbzJZeUNMYW55U1FWWkZMcklkR1paVVc5SzZkcFF5Z2QycnhHV3ZqTWlESjB3N2xvSGVldlBBMGZ1MDNPRmpKaWhJNmJmejltTmFjQ3ZqcTB3cjhqWjllUXZZVmtUalZFS2VNRWZtYm1hcllZQkZRc01WTWhJU1VwS2FLeWVpQTBCQUxzSlVVQndF?oc=5</guid>
-      <description><![CDATA[Early Childhood Educators’ Day 2026 - vic.gov.au]]></description>
-      <content:encoded><![CDATA[Early Childhood Educators’ Day 2026 - vic.gov.au]]></content:encoded>
-      <pubDate>Wed, 05 Aug 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[vic.gov.au]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -365,16 +357,6 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Police name Hunter centres in appeal to find childcare worker's alleged victims - newcastleherald.com.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUtUMWI3MUo3bFVwN3djSEtVbVFzM01jNnBjV1MyQlIxd0xqclNKVElUWmREbm1OQU5YbW9kZjJfNVp1aW81b0NvbGV1bkhZX0F3S2ZWMG1YejBTai15clZZZHEwei1jZnNRVTdON0l3YXBuTzhWYW05ZHdLOVF4UjR2dHcyVTJqZDJFYUI5RWRqc25tUkpPSEl3US15cTI4blRvVHp1OGpyMEwzSG9JRjlBNHA2REFIYXkw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUtUMWI3MUo3bFVwN3djSEtVbVFzM01jNnBjV1MyQlIxd0xqclNKVElUWmREbm1OQU5YbW9kZjJfNVp1aW81b0NvbGV1bkhZX0F3S2ZWMG1YejBTai15clZZZHEwei1jZnNRVTdON0l3YXBuTzhWYW05ZHdLOVF4UjR2dHcyVTJqZDJFYUI5RWRqc25tUkpPSEl3US15cTI4blRvVHp1OGpyMEwzSG9JRjlBNHA2REFIYXkw?oc=5</guid>
-      <description><![CDATA[Police name Hunter centres in appeal to find childcare worker's alleged victims - newcastleherald.com.au]]></description>
-      <content:encoded><![CDATA[Police name Hunter centres in appeal to find childcare worker's alleged victims - newcastleherald.com.au]]></content:encoded>
-      <pubDate>Tue, 14 Jul 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[newcastleherald.com.au]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Big change after 136 kids allegedly abused - News.com.au]]></title>
       <link>https://news.google.com/rss/articles/CBMirwJBVV95cUxPQ2NlZW5tQzdEMlFwMnFuaUZINFdSYXV3bE50S1lHZWRjRzlIVHJfNzZZRHNYd3d0M0hCV0p0NHRzMzZEZXJaMXBzX1J0dTRVUEVIb2hzQ0hfOFRoWWRySERmcE5qU0NxTUdYRGI2cDlkUzhTRF9sV1JOWEdNV3dtMTN1N0tnT0lTaFEzanBSb3hYZ3lHakdsRFk2UnZnVnlEeGd4eW5yOHRtMGlDNzI3WWZSVGVPUTVDemFxQ1pud21WSFNsQ3BtNmN2V1d4QzhIaFhyU1lfNnhjWEIxZmJRWWxxQlVkVzFPODhNNTVMd0p4RGtGb1d0d21JVVV0YjZ4andSWmVjaG5iaXhLdEY4aTRQUHlLa2drVlhRS0tjM3VDYzMxRGxUX00xWGM0eUXSAbQCQVVfeXFMTnAyd1g3TkpyVk5hVUJvXy0xaTJDeDZ5SUZ1Q2JMN1JqSUlIdG1PdThBZEVQcDVqZW1NYlFmclUzVF9DR0tCdGhfNXB0RW9Xa0FHcmh5TWdOSzZFRFp4dk0yYzh6emljdG9TWmxZMjVxenhTcDRndlpQeUo1NllYMFRZSkR0bEJkVGI1bS02blV4dU84SjVSd1V3a1kxQ2JXV1VBVHNrNnBoQS1JQ3JpdzNib2lGdGVJanRBY0tqb0lqamd2Yi1kdTBFSjFGZmhwaXBIWjNBX1ZwWHpXSDMxYjZnZ2I4a1lTcm9zSHhyYjlQRFlyOHFDa3RLU3ZtRlpfNmF0SjJPeFpwNDRfZm11eUtyalNMVXBnQ1ZPOGlIcmhXS21SUXhlaGQzMnBDY0ZvRndHdFY?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwJBVV95cUxPQ2NlZW5tQzdEMlFwMnFuaUZINFdSYXV3bE50S1lHZWRjRzlIVHJfNzZZRHNYd3d0M0hCV0p0NHRzMzZEZXJaMXBzX1J0dTRVUEVIb2hzQ0hfOFRoWWRySERmcE5qU0NxTUdYRGI2cDlkUzhTRF9sV1JOWEdNV3dtMTN1N0tnT0lTaFEzanBSb3hYZ3lHakdsRFk2UnZnVnlEeGd4eW5yOHRtMGlDNzI3WWZSVGVPUTVDemFxQ1pud21WSFNsQ3BtNmN2V1d4QzhIaFhyU1lfNnhjWEIxZmJRWWxxQlVkVzFPODhNNTVMd0p4RGtGb1d0d21JVVV0YjZ4andSWmVjaG5iaXhLdEY4aTRQUHlLa2drVlhRS0tjM3VDYzMxRGxUX00xWGM0eUXSAbQCQVVfeXFMTnAyd1g3TkpyVk5hVUJvXy0xaTJDeDZ5SUZ1Q2JMN1JqSUlIdG1PdThBZEVQcDVqZW1NYlFmclUzVF9DR0tCdGhfNXB0RW9Xa0FHcmh5TWdOSzZFRFp4dk0yYzh6emljdG9TWmxZMjVxenhTcDRndlpQeUo1NllYMFRZSkR0bEJkVGI1bS02blV4dU84SjVSd1V3a1kxQ2JXV1VBVHNrNnBoQS1JQ3JpdzNib2lGdGVJanRBY0tqb0lqamd2Yi1kdTBFSjFGZmhwaXBIWjNBX1ZwWHpXSDMxYjZnZ2I4a1lTcm9zSHhyYjlQRFlyOHFDa3RLU3ZtRlpfNmF0SjJPeFpwNDRfZm11eUtyalNMVXBnQ1ZPOGlIcmhXS21SUXhlaGQzMnBDY0ZvRndHdFY?oc=5</guid>
@@ -382,16 +364,6 @@
       <content:encoded><![CDATA[Big change after 136 kids allegedly abused - News.com.au]]></content:encoded>
       <pubDate>Tue, 14 Jul 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[News.com.au]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Planning for emergencies in early childhood education services - vic.gov.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzFQQ2JCMURFYW1xc1UyUENWTDhndzFXd3E5Z01IVkRFclJDa2RobWZLakRaMkdleVhOUFRvMW9qU1p0MXFVdEVSbWtJa1VKQ0IxVE53WUpBbk1HME15N090dVJNWmJKNFlCY3V6Z1Z3cTJKYWp2Ry0xWVNOd3RTRVRxSmc0RnphVXUxSXRwYmowU2VUaGg2NjZzUEFhODVUdXl4eEJTNTRHZ1R5dXc5VA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzFQQ2JCMURFYW1xc1UyUENWTDhndzFXd3E5Z01IVkRFclJDa2RobWZLakRaMkdleVhOUFRvMW9qU1p0MXFVdEVSbWtJa1VKQ0IxVE53WUpBbk1HME15N090dVJNWmJKNFlCY3V6Z1Z3cTJKYWp2Ry0xWVNOd3RTRVRxSmc0RnphVXUxSXRwYmowU2VUaGg2NjZzUEFhODVUdXl4eEJTNTRHZ1R5dXc5VA?oc=5</guid>
-      <description><![CDATA[Planning for emergencies in early childhood education services - vic.gov.au]]></description>
-      <content:encoded><![CDATA[Planning for emergencies in early childhood education services - vic.gov.au]]></content:encoded>
-      <pubDate>Mon, 13 Jul 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[vic.gov.au]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -522,6 +494,36 @@
       <content:encoded><![CDATA[‘Dual life’: Sydney daycare worker jailed for abuse in multiple centres - SMH.com.au]]></content:encoded>
       <pubDate>Thu, 02 Jul 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[SMH.com.au]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[ACECQA invites services to register interest in Quality Support Program - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPYk5nSk56ZmdsMzZ0UUFlQ1huZG1qblhsYnRlMVIzdUlnNk9YakQwLThwZERzUURxZWMtQno4bmxIOUlJU2tmZTZDQ2d2LVpBb3lEOGtVMllJWDRiTnRkYU50V3RscmxQVTNfRW9YRzdtRnI0X1V0VzZhQ0R3SGxOVk9EbzlSMmt0TWh1b3FuSmplRzh6cEJQem8wMDBock5i?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxPYk5nSk56ZmdsMzZ0UUFlQ1huZG1qblhsYnRlMVIzdUlnNk9YakQwLThwZERzUURxZWMtQno4bmxIOUlJU2tmZTZDQ2d2LVpBb3lEOGtVMllJWDRiTnRkYU50V3RscmxQVTNfRW9YRzdtRnI0X1V0VzZhQ0R3SGxOVk9EbzlSMmt0TWh1b3FuSmplRzh6cEJQem8wMDBock5i?oc=5</guid>
+      <description><![CDATA[ACECQA invites services to register interest in Quality Support Program - The Sector]]></description>
+      <content:encoded><![CDATA[ACECQA invites services to register interest in Quality Support Program - The Sector]]></content:encoded>
+      <pubDate>Wed, 01 Jul 2026 19:07:27 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[ACECQA updates child safety resources as national reforms continue across the ECEC sector - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVhLVXB6V25rdklieTlQV0VEZ2VxbG5sOEVxT3h3WTFVTldCRGFTZ0FqTDFaZE9mNU9jbkw4MFQxS2VMLVlWM3JNSldRUzVqY2pQUlRIckZTa3JsTkxPaWE3Rk5tdVZDMkJJWDRpNUR4RWt6eE9MUWd6a0Z0LWp2WWFSZjhCVE9kajQtX1hXTWJTdnhZYm80?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVhLVXB6V25rdklieTlQV0VEZ2VxbG5sOEVxT3h3WTFVTldCRGFTZ0FqTDFaZE9mNU9jbkw4MFQxS2VMLVlWM3JNSldRUzVqY2pQUlRIckZTa3JsTkxPaWE3Rk5tdVZDMkJJWDRpNUR4RWt6eE9MUWd6a0Z0LWp2WWFSZjhCVE9kajQtX1hXTWJTdnhZYm80?oc=5</guid>
+      <description><![CDATA[ACECQA updates child safety resources as national reforms continue across the ECEC sector - The Sector]]></description>
+      <content:encoded><![CDATA[ACECQA updates child safety resources as national reforms continue across the ECEC sector - The Sector]]></content:encoded>
+      <pubDate>Wed, 01 Jul 2026 19:02:04 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Beyond visibility: Why effective supervision is about more than keeping children in sight - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjhzRTZBUk54SWlxVXdtc0pRZExnU0o2SDVmT19fRjVnZEtSTExxbk1EbTdLRm8tNUVKV3NKUnA4MVlCWE5MeVdHWk44bkR4R3FWbGNIMXN4b3VySzJLNVBKOUxwRE94QWhZZGVnVGlickZjOWpYWmF1OUtycXJQWEVDcENTSUhLTDBUODl1V01oX25VSnFBNVRiLUZnTFc2dWJfME4tbXlPaWl4?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjhzRTZBUk54SWlxVXdtc0pRZExnU0o2SDVmT19fRjVnZEtSTExxbk1EbTdLRm8tNUVKV3NKUnA4MVlCWE5MeVdHWk44bkR4R3FWbGNIMXN4b3VySzJLNVBKOUxwRE94QWhZZGVnVGlickZjOWpYWmF1OUtycXJQWEVDcENTSUhLTDBUODl1V01oX25VSnFBNVRiLUZnTFc2dWJfME4tbXlPaWl4?oc=5</guid>
+      <description><![CDATA[Beyond visibility: Why effective supervision is about more than keeping children in sight - The Sector]]></description>
+      <content:encoded><![CDATA[Beyond visibility: Why effective supervision is about more than keeping children in sight - The Sector]]></content:encoded>
+      <pubDate>Wed, 01 Jul 2026 19:02:03 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
