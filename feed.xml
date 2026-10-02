@@ -6,7 +6,7 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Thu, 01 Oct 2026 20:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:22:33 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
@@ -16,11 +16,23 @@
       <guid isPermaLink="true">https://thesector.com.au/article/early-learning-victoria-regional-roadshow-new-early-learning-centres-2027</guid>
       <description><![CDATA[Early Learning Victoria (ELV) will visit five regional Victorian communities in October, connecting with families and prospective employees ahead of the opening of new government-owned early learning centres in early 2027.]]></description>
       <content:encoded><![CDATA[Early Learning Victoria (ELV) will visit five regional Victorian communities in October, connecting with families and prospective employees ahead of the opening of new government-owned early learning centres in early 2027.]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 20:42:19 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 00:22:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/early_learning_landscape_844x488_9d7699218d.png" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/early_learning_landscape_844x488_9d7699218d.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Child safety lessons emerge as Humpty Doo childcare service enters guilty pleas]]></title>
+      <link>https://thesector.com.au/article/humpty-doo-childcare-guilty-pleas-child-safety-lessons</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/humpty-doo-childcare-guilty-pleas-child-safety-lessons</guid>
+      <description><![CDATA[Court proceedings following the death of Ebony Thompson highlight the importance of active supervision, risk assessment and regulatory compliance in early childhood services.]]></description>
+      <content:encoded><![CDATA[Court proceedings following the death of Ebony Thompson highlight the importance of active supervision, risk assessment and regulatory compliance in early childhood services.]]></content:encoded>
+      <pubDate>Thu, 01 Oct 2026 23:22:03 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_486573959_01915c62b2.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_486573959_01915c62b2.webp"/>
     </item>
     <item>
       <title><![CDATA[Embark lifts Mayfield Childcare voting power above 50%]]></title>
@@ -28,21 +40,11 @@
       <guid isPermaLink="true">https://thesector.com.au/article/embark-mayfield-childcare-voting-power-above-50-percent</guid>
       <description><![CDATA[The acquisition of another 250,000 shares takes Embark’s reported voting power in Mayfield to 50.04%, following its earlier takeover bid.]]></description>
       <content:encoded><![CDATA[The acquisition of another 250,000 shares takes Embark’s reported voting power in Mayfield to 50.04%, following its earlier takeover bid.]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 19:42:19 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 22:22:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1307656244_a9ed34a7e7.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1307656244_a9ed34a7e7.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[South Australia promotes early childhood careers as three-year-old preschool expands - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0ZLaEhqcDMxYWVzbFJUazdEbzRQczlmWXF1cDd6UXlvVXBuZEQ5VnZPalcwM0oySVFlZ1BxMVJWaWJLa1pndGgxZnhBVGlmSGs0NmFvZVpkUThWQWxheGRZVlJteEhMMGJENmVlQjV6RGJyT2x0cmRvM2Y3N1RIVlV5X0c4VzRIWnlVN2dGNjBzS2dSbDZUbQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0ZLaEhqcDMxYWVzbFJUazdEbzRQczlmWXF1cDd6UXlvVXBuZEQ5VnZPalcwM0oySVFlZ1BxMVJWaWJLa1pndGgxZnhBVGlmSGs0NmFvZVpkUThWQWxheGRZVlJteEhMMGJENmVlQjV6RGJyT2x0cmRvM2Y3N1RIVlV5X0c4VzRIWnlVN2dGNjBzS2dSbDZUbQ?oc=5</guid>
-      <description><![CDATA[South Australia promotes early childhood careers as three-year-old preschool expands - The Sector]]></description>
-      <content:encoded><![CDATA[South Australia promotes early childhood careers as three-year-old preschool expands - The Sector]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 19:02:31 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
       <title><![CDATA[ACECQA campaign helps families make informed early learning choices]]></title>
@@ -50,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/acecqa-campaign-families-choose-quality-early-learning</guid>
       <description><![CDATA[A new national campaign from the Australian Children’s Education and Care Quality Authority (ACECQA) is encouraging families to look beyond a service’s location and availability when choosing early childhood education and care.]]></description>
       <content:encoded><![CDATA[A new national campaign from the Australian Children’s Education and Care Quality Authority (ACECQA) is encouraging families to look beyond a service’s location and availability when choosing early childhood education and care.]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 18:42:19 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 21:22:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1385197874_102c3adf8f.webp" medium="image"/>
@@ -62,23 +64,21 @@
       <guid isPermaLink="true">https://thesector.com.au/article/nsw-family-day-care-safe-sleep-training-march-2027</guid>
       <description><![CDATA[Family day care services in New South Wales are preparing for a new safe sleep training requirement, alongside the next stage of mandatory national child safety training.]]></description>
       <content:encoded><![CDATA[Family day care services in New South Wales are preparing for a new safe sleep training requirement, alongside the next stage of mandatory national child safety training.]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 17:42:19 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 20:22:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1736123132_3b1273f1b7.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1736123132_3b1273f1b7.webp"/>
     </item>
     <item>
-      <title><![CDATA[South Australia promotes early childhood careers as three-year-old preschool expands]]></title>
-      <link>https://thesector.com.au/article/south-australia-flying-start-early-childhood-career-pathways</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/south-australia-flying-start-early-childhood-career-pathways</guid>
-      <description><![CDATA[The state is directing prospective educators, career changers and existing staff to qualification pathways and financial support as Flying Start preschool rolls out.]]></description>
-      <content:encoded><![CDATA[The state is directing prospective educators, career changers and existing staff to qualification pathways and financial support as Flying Start preschool rolls out.]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 16:42:19 GMT</pubDate>
+      <title><![CDATA[South Australia promotes early childhood careers as three-year-old preschool expands - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0ZLaEhqcDMxYWVzbFJUazdEbzRQczlmWXF1cDd6UXlvVXBuZEQ5VnZPalcwM0oySVFlZ1BxMVJWaWJLa1pndGgxZnhBVGlmSGs0NmFvZVpkUThWQWxheGRZVlJteEhMMGJENmVlQjV6RGJyT2x0cmRvM2Y3N1RIVlV5X0c4VzRIWnlVN2dGNjBzS2dSbDZUbQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0ZLaEhqcDMxYWVzbFJUazdEbzRQczlmWXF1cDd6UXlvVXBuZEQ5VnZPalcwM0oySVFlZ1BxMVJWaWJLa1pndGgxZnhBVGlmSGs0NmFvZVpkUThWQWxheGRZVlJteEhMMGJENmVlQjV6RGJyT2x0cmRvM2Y3N1RIVlV5X0c4VzRIWnlVN2dGNjBzS2dSbDZUbQ?oc=5</guid>
+      <description><![CDATA[South Australia promotes early childhood careers as three-year-old preschool expands - The Sector]]></description>
+      <content:encoded><![CDATA[South Australia promotes early childhood careers as three-year-old preschool expands - The Sector]]></content:encoded>
+      <pubDate>Thu, 01 Oct 2026 19:02:31 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_684061754_eaf7b7bf68.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_684061754_eaf7b7bf68.webp"/>
     </item>
     <item>
       <title><![CDATA[Kenya’s large class sizes make it harder for teachers to help children learn]]></title>
@@ -93,50 +93,40 @@
       <media:thumbnail url="https://images.theconversation.com/files/759846/original/file-20260915-50-41k8mm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C84%2C1024%2C512&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
     </item>
     <item>
-      <title><![CDATA[Milieu launches new cookbook with a bold vision for food in early childhood]]></title>
-      <link>https://thesector.com.au/article/making-bush-kinder-learning-visible-without-checklists</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/making-bush-kinder-learning-visible-without-checklists</guid>
-      <description><![CDATA[A child balancing across a log, negotiating a route with a friend or returning to a place after rain may be showing learning that is easy to miss in a conventional assessment record. Bush kinder educators face a familiar challenge: how to document that learning for children and families while preserving the open-ended character of outdoor play.]]></description>
-      <content:encoded><![CDATA[A child balancing across a log, negotiating a route with a friend or returning to a place after rain may be showing learning that is easy to miss in a conventional assessment record. Bush kinder educators face a familiar challenge: how to document that learning for children and families while preserving the open-ended character of outdoor play.]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 10:42:19 GMT</pubDate>
+      <title><![CDATA[South Australia promotes early childhood careers as three-year-old preschool expands]]></title>
+      <link>https://thesector.com.au/article/south-australia-flying-start-early-childhood-career-pathways</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/south-australia-flying-start-early-childhood-career-pathways</guid>
+      <description><![CDATA[The state is directing prospective educators, career changers and existing staff to qualification pathways and financial support as Flying Start preschool rolls out.]]></description>
+      <content:encoded><![CDATA[The state is directing prospective educators, career changers and existing staff to qualification pathways and financial support as Flying Start preschool rolls out.]]></content:encoded>
+      <pubDate>Thu, 01 Oct 2026 13:22:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2285640768_9ad750ea04.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2285640768_9ad750ea04.webp"/>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_684061754_eaf7b7bf68.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_684061754_eaf7b7bf68.webp"/>
     </item>
     <item>
-      <title><![CDATA[Regional childcare access belongs in workforce planning, Jobs and Skills Australia roadmap shows]]></title>
-      <link>https://thesector.com.au/article/regional-childcare-access-workforce-planning-roadmap</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/regional-childcare-access-workforce-planning-roadmap</guid>
-      <description><![CDATA[Jobs and Skills Australia’s regional roadmap identifies childcare access as a barrier to employment and includes early childhood roles in its measure of essential service vacancies.]]></description>
-      <content:encoded><![CDATA[Jobs and Skills Australia’s regional roadmap identifies childcare access as a barrier to employment and includes early childhood roles in its measure of essential service vacancies.]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 09:42:19 GMT</pubDate>
+      <title><![CDATA[What ASQA’s AI principles mean for early childhood educator training]]></title>
+      <link>https://thesector.com.au/article/asqa-ai-principles-early-childhood-educator-training</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/asqa-ai-principles-early-childhood-educator-training</guid>
+      <description><![CDATA[New guidance gives registered training organisations a framework for using artificial intelligence while protecting the integrity of training and assessment. For early childhood qualifications, the distinction between helping someone learn and demonstrating what they can do in practice is particularly important.]]></description>
+      <content:encoded><![CDATA[New guidance gives registered training organisations a framework for using artificial intelligence while protecting the integrity of training and assessment. For early childhood qualifications, the distinction between helping someone learn and demonstrating what they can do in practice is particularly important.]]></content:encoded>
+      <pubDate>Thu, 01 Oct 2026 12:22:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2226590517_6e62b074c9.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2226590517_6e62b074c9.webp"/>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1242866654_304fcbc6ad.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1242866654_304fcbc6ad.webp"/>
     </item>
     <item>
-      <title><![CDATA[Geccko Course 5 launches on 30 September: what ECEC leaders need to know]]></title>
-      <link>https://thesector.com.au/article/geccko-course-5-child-safety-training-ecec-leaders</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/geccko-course-5-child-safety-training-ecec-leaders</guid>
-      <description><![CDATA[The final course in Australia’s national child safety training package focuses on leadership and governance. Providers can prepare by checking who needs it, scheduling completion and keeping training records current.]]></description>
-      <content:encoded><![CDATA[The final course in Australia’s national child safety training package focuses on leadership and governance. Providers can prepare by checking who needs it, scheduling completion and keeping training records current.]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 08:42:19 GMT</pubDate>
+      <title><![CDATA[Beyond the menu: putting the new ECEC food environment guide into practice]]></title>
+      <link>https://thesector.com.au/article/putting-ecec-food-environment-guide-into-practice</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/putting-ecec-food-environment-guide-into-practice</guid>
+      <description><![CDATA[The new guide brings together advice on mealtimes, food education, family engagement and service leadership. Its six modules offer educators and providers a way to review what children experience around food each day.]]></description>
+      <content:encoded><![CDATA[The new guide brings together advice on mealtimes, food education, family engagement and service leadership. Its six modules offer educators and providers a way to review what children experience around food each day.]]></content:encoded>
+      <pubDate>Thu, 01 Oct 2026 11:22:03 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1313353466_b1432c11d0.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1313353466_b1432c11d0.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[‘Quite humbled’: Award win a vote of confidence for Upper Yarra family day care educator - upperyarra.mailcommunity.com.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTJ5OUhPU1FDbjIzNXpHWnZfQ1ZlaFhsNC0yNVVsYzF3bXIyTWtiQ3lOZHd6ajJyd1g3SkZ2b1Q3SllWWTJob0R0UUxQbkxIRHZ3LXNmcjZSSDJTQTJTYTNaYUw4ejI3R2VESWMxZGZuR1hqUEhfeDBjRzRrYjVuaDVNdk9TR0tydDdBcnZHZFRWS0djaGFRRXFFVWNoaEFva280b2tJR2JyQ25DQU1MSk9zam1GTmJldFRmZ0lEeWZ3ZXJJeW9xSnpCY2VaQk1QSV9sZTA5N0w2Zw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTJ5OUhPU1FDbjIzNXpHWnZfQ1ZlaFhsNC0yNVVsYzF3bXIyTWtiQ3lOZHd6ajJyd1g3SkZ2b1Q3SllWWTJob0R0UUxQbkxIRHZ3LXNmcjZSSDJTQTJTYTNaYUw4ejI3R2VESWMxZGZuR1hqUEhfeDBjRzRrYjVuaDVNdk9TR0tydDdBcnZHZFRWS0djaGFRRXFFVWNoaEFva280b2tJR2JyQ25DQU1MSk9zam1GTmJldFRmZ0lEeWZ3ZXJJeW9xSnpCY2VaQk1QSV9sZTA5N0w2Zw?oc=5</guid>
-      <description><![CDATA[‘Quite humbled’: Award win a vote of confidence for Upper Yarra family day care educator - upperyarra.mailcommunity.com.au]]></description>
-      <content:encoded><![CDATA[‘Quite humbled’: Award win a vote of confidence for Upper Yarra family day care educator - upperyarra.mailcommunity.com.au]]></content:encoded>
-      <pubDate>Thu, 01 Oct 2026 07:00:45 GMT</pubDate>
-      <dc:creator><![CDATA[upperyarra.mailcommunity.com.au]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2229137539_6b84e97c0b.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2229137539_6b84e97c0b.webp"/>
     </item>
     <item>
       <title><![CDATA[More than $670,000 invested in future ECTs as Fraser Foundation brings sector together for annual luncheon - The Sector]]></title>
@@ -144,6 +134,16 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGI2TllVbXFhNHU0b0ZXeFNfbnhwWmNkRFM3UkVJSUExMDYyaVRoUG14YkZJejlyM2lrSmowWTJCaW4zdzY0bHRSOHJwRW5DS1BpQUhYOXRfY3Q4VEUweF9Fc2JqYmFNOW5XenVkSW5aUjVGdXVralJYbFpXQlJ2Rkp1MTJ1RVg5S29vbXJFMFQwT25Fdktva3dHQWI?oc=5</guid>
       <description><![CDATA[More than $670,000 invested in future ECTs as Fraser Foundation brings sector together for annual luncheon - The Sector]]></description>
       <content:encoded><![CDATA[More than $670,000 invested in future ECTs as Fraser Foundation brings sector together for annual luncheon - The Sector]]></content:encoded>
+      <pubDate>Wed, 30 Sep 2026 19:03:52 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Regional childcare access belongs in workforce planning, Jobs and Skills Australia roadmap shows - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnZFOS1sU3FVR1NHd2Z4STVtTVJvY1ROQjJ5cTdMRzJhS2pkOHpNNlpqTWwxUHhwVDUyWURZelJqeDdPNUZjeFZ5T3FRX3Q1MExyMENSVWxJbGx2QzJLUUoxYlBNbERqY1Y5LUN5TXFRdzdYVXFtVlJ0VWFYb0d3WWFESHdyQklZY2NMZDl3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnZFOS1sU3FVR1NHd2Z4STVtTVJvY1ROQjJ5cTdMRzJhS2pkOHpNNlpqTWwxUHhwVDUyWURZelJqeDdPNUZjeFZ5T3FRX3Q1MExyMENSVWxJbGx2QzJLUUoxYlBNbERqY1Y5LUN5TXFRdzdYVXFtVlJ0VWFYb0d3WWFESHdyQklZY2NMZDl3?oc=5</guid>
+      <description><![CDATA[Regional childcare access belongs in workforce planning, Jobs and Skills Australia roadmap shows - The Sector]]></description>
+      <content:encoded><![CDATA[Regional childcare access belongs in workforce planning, Jobs and Skills Australia roadmap shows - The Sector]]></content:encoded>
       <pubDate>Wed, 30 Sep 2026 19:03:52 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
@@ -191,33 +191,13 @@
       <media:thumbnail url="https://images.theconversation.com/files/762570/original/file-20260928-50-hsykll.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1024%2C512&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
     </item>
     <item>
-      <title><![CDATA[Childcare workers face compulsory registration - The Australian]]></title>
-      <link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPVXlHcnlpNVI3VXZzc2l2UlVIcVYwTG5TcjZRNzA1V0hzRldYUlZtbWZlMmF5T3RPSEhPRlhQTEJfa05RUVlnYnR0am5VOXlYZjBaclBZaVpyYmVQT3Z6VjFKUXROMEJMZDFFQjFTM0lXLURxSGxxMFNWZzNoQWVISlpKR081MDlGR3RUVlA2SUZsNUNRV2s0VmZ3Tm1TTDY2b0VLUl9KWW1qZWxaWEJHelhqX3FHaGpDV3FVaVBkMVBtUHFaSHpYN1haTUJwblpUQkkxXy10TFh4LXFEZTAxclI5d190SkxyaTlrTEJVSnJPRVBwUFBTMVU5XzlLUHBrYjlGMjZFRDRsNjFOWUd3eVl3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgJBVV95cUxPVXlHcnlpNVI3VXZzc2l2UlVIcVYwTG5TcjZRNzA1V0hzRldYUlZtbWZlMmF5T3RPSEhPRlhQTEJfa05RUVlnYnR0am5VOXlYZjBaclBZaVpyYmVQT3Z6VjFKUXROMEJMZDFFQjFTM0lXLURxSGxxMFNWZzNoQWVISlpKR081MDlGR3RUVlA2SUZsNUNRV2s0VmZ3Tm1TTDY2b0VLUl9KWW1qZWxaWEJHelhqX3FHaGpDV3FVaVBkMVBtUHFaSHpYN1haTUJwblpUQkkxXy10TFh4LXFEZTAxclI5d190SkxyaTlrTEJVSnJPRVBwUFBTMVU5XzlLUHBrYjlGMjZFRDRsNjFOWUd3eVl3?oc=5</guid>
-      <description><![CDATA[Childcare workers face compulsory registration - The Australian]]></description>
-      <content:encoded><![CDATA[Childcare workers face compulsory registration - The Australian]]></content:encoded>
-      <pubDate>Tue, 29 Sep 2026 09:58:30 GMT</pubDate>
-      <dc:creator><![CDATA[The Australian]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Childcare upheaval stokes family pressure, but experts say there’s a solution - SMH.com.au]]></title>
+      <title><![CDATA[Childcare upheaval stokes family pressure, but experts say there’s a solution - smh.com.au]]></title>
       <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYkFkcHQ5REFQdF9xZ3k1OVBKQkk0Wnd0ZkRPYUMta2JoQkRUWFFnZmd0enVmVTZaZzdSSTZ3elU1R2RzZFNhcU5HVWxxaUlvYjJNRHF5MDVzdm5YcTIwMURsWmlHQ3BHNlhmR3I2dGlyZ3o1bklnQTlRY3Q3VlJza2gzb3RWNThDVVZTOUV3dG1LLVJ3Y0Z2YmMzR04zeExoT1pzM255S3BYdG00c1I2U2c0STdIQjBka00tRWF0Z2p2ZElaTDFyZjc1NHhOQW10U0FUQQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYkFkcHQ5REFQdF9xZ3k1OVBKQkk0Wnd0ZkRPYUMta2JoQkRUWFFnZmd0enVmVTZaZzdSSTZ3elU1R2RzZFNhcU5HVWxxaUlvYjJNRHF5MDVzdm5YcTIwMURsWmlHQ3BHNlhmR3I2dGlyZ3o1bklnQTlRY3Q3VlJza2gzb3RWNThDVVZTOUV3dG1LLVJ3Y0Z2YmMzR04zeExoT1pzM255S3BYdG00c1I2U2c0STdIQjBka00tRWF0Z2p2ZElaTDFyZjc1NHhOQW10U0FUQQ?oc=5</guid>
-      <description><![CDATA[Childcare upheaval stokes family pressure, but experts say there’s a solution - SMH.com.au]]></description>
-      <content:encoded><![CDATA[Childcare upheaval stokes family pressure, but experts say there’s a solution - SMH.com.au]]></content:encoded>
+      <description><![CDATA[Childcare upheaval stokes family pressure, but experts say there’s a solution - smh.com.au]]></description>
+      <content:encoded><![CDATA[Childcare upheaval stokes family pressure, but experts say there’s a solution - smh.com.au]]></content:encoded>
       <pubDate>Tue, 29 Sep 2026 06:27:25 GMT</pubDate>
-      <dc:creator><![CDATA[SMH.com.au]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[NQF Snapshot Q2 2026: 92% of rated services meet the national standard - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnRESnVybWhMTW9YdmVkSTQtaHo2UmwyZHVtTzRUS1V6bmVBc2lfWkIzV0ZKZHVfaklHVENVcGh0eU54Q19FSjNMZmhqbk5hWVlOTS1hN2ZQb3ZlaEJ6MVl4bW5yWHRoVUFMOFdTT2M4akhpRl9Pc1o2SVRzcmdMQUYzelNQZ2NGZEpSUm1FUkUzOXJsYmZVZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnRESnVybWhMTW9YdmVkSTQtaHo2UmwyZHVtTzRUS1V6bmVBc2lfWkIzV0ZKZHVfaklHVENVcGh0eU54Q19FSjNMZmhqbk5hWVlOTS1hN2ZQb3ZlaEJ6MVl4bW5yWHRoVUFMOFdTT2M4akhpRl9Pc1o2SVRzcmdMQUYzelNQZ2NGZEpSUm1FUkUzOXJsYmZVZw?oc=5</guid>
-      <description><![CDATA[NQF Snapshot Q2 2026: 92% of rated services meet the national standard - The Sector]]></description>
-      <content:encoded><![CDATA[NQF Snapshot Q2 2026: 92% of rated services meet the national standard - The Sector]]></content:encoded>
-      <pubDate>Mon, 28 Sep 2026 19:04:53 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <dc:creator><![CDATA[smh.com.au]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -231,13 +211,23 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[UBS ceases to be substantial shareholder in G8 Education - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmdwMnhZb1ZwRV9BU1Mxa2lScGwxdG1HNGFRVVhJYTJ0c01JY0xiUzNuQnFvMGxJeXpVLUxuWDM5MXl4X3NxT0dCZHZ4dkR1M2k1YUk4VlpwWjZLaklyeWxKRUVQQ1hQX1ZIb2VQWWd2YWg1RjEzNzQ0ZEtMS3FPLVJvOFFtdUE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmdwMnhZb1ZwRV9BU1Mxa2lScGwxdG1HNGFRVVhJYTJ0c01JY0xiUzNuQnFvMGxJeXpVLUxuWDM5MXl4X3NxT0dCZHZ4dkR1M2k1YUk4VlpwWjZLaklyeWxKRUVQQ1hQX1ZIb2VQWWd2YWg1RjEzNzQ0ZEtMS3FPLVJvOFFtdUE?oc=5</guid>
-      <description><![CDATA[UBS ceases to be substantial shareholder in G8 Education - The Sector]]></description>
-      <content:encoded><![CDATA[UBS ceases to be substantial shareholder in G8 Education - The Sector]]></content:encoded>
-      <pubDate>Sun, 27 Sep 2026 19:12:46 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <title><![CDATA[International students’ ‘golden ticket’ residency loophole revealed - adelaidenow.com.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMiogJBVV95cUxQaTloYnc0bVFZVkFfNVkwb0R4d3lVTWItdmRHaTZrMUU3dE5mOHlvUW52R3RrUGhpaXdaanNaR3JEWDVPaU43WnQyYVR6bHlhaGNZTXFiNWFzZXVwN1BGSnZLd0JubkNKUk5WYjhsUEVXZ01WTTdZVndmZkd6b21oSVFIY0VyZ0hyUlRiYi1PRGJfSGNueFNZMVlwMHlYMjZSNEN3Y3o2RVRoZ3VfRFdOcWI0S2llUzY4dm9iMU9jR1ZnMFBselcxVTRybWNnejdoS3dwTENsVEgzYmZ1M19raXNJYUhNbjhVZElPeWVXMXd5am52aUhVZlc3LThmam5kY25sVjdha3Myc3FQZldLZVFIR21IaHd3aUc4VjdWX1BrUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogJBVV95cUxQaTloYnc0bVFZVkFfNVkwb0R4d3lVTWItdmRHaTZrMUU3dE5mOHlvUW52R3RrUGhpaXdaanNaR3JEWDVPaU43WnQyYVR6bHlhaGNZTXFiNWFzZXVwN1BGSnZLd0JubkNKUk5WYjhsUEVXZ01WTTdZVndmZkd6b21oSVFIY0VyZ0hyUlRiYi1PRGJfSGNueFNZMVlwMHlYMjZSNEN3Y3o2RVRoZ3VfRFdOcWI0S2llUzY4dm9iMU9jR1ZnMFBselcxVTRybWNnejdoS3dwTENsVEgzYmZ1M19raXNJYUhNbjhVZElPeWVXMXd5am52aUhVZlc3LThmam5kY25sVjdha3Myc3FQZldLZVFIR21IaHd3aUc4VjdWX1BrUQ?oc=5</guid>
+      <description><![CDATA[International students’ ‘golden ticket’ residency loophole revealed - adelaidenow.com.au]]></description>
+      <content:encoded><![CDATA[International students’ ‘golden ticket’ residency loophole revealed - adelaidenow.com.au]]></content:encoded>
+      <pubDate>Mon, 28 Sep 2026 19:03:24 GMT</pubDate>
+      <dc:creator><![CDATA[adelaidenow.com.au]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Careers in early childhood taking off - adelaidenow.com.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWGRVSDJLRWx2bDVDS2FuNHJ0eS1OMS1jR3U1QmF1LThmSnJqbmo4dXJHRnVSelFTVzRQRUM5Qk1odDlDd1hkRFRyNlFvUG9zeHZVdTRtTTVjMTlIVFVkWTNzZldUZU9XSElnWEtFdk9hQ1dYUWlWcUZwd0tkeXE0dVdzZDRLLWZOcUJ3RTZoMkJRZlE3QlQyaEhLNGp1WFNmazJ0eXVzVUdmNnVPSkU0MkpIbEVwRmViMEoyVFF4ZGxaZXI0WklJYlk3SnJHS1ZPUWl3QUVma0Q2QTBT?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWGRVSDJLRWx2bDVDS2FuNHJ0eS1OMS1jR3U1QmF1LThmSnJqbmo4dXJHRnVSelFTVzRQRUM5Qk1odDlDd1hkRFRyNlFvUG9zeHZVdTRtTTVjMTlIVFVkWTNzZldUZU9XSElnWEtFdk9hQ1dYUWlWcUZwd0tkeXE0dVdzZDRLLWZOcUJ3RTZoMkJRZlE3QlQyaEhLNGp1WFNmazJ0eXVzVUdmNnVPSkU0MkpIbEVwRmViMEoyVFF4ZGxaZXI0WklJYlk3SnJHS1ZPUWl3QUVma0Q2QTBT?oc=5</guid>
+      <description><![CDATA[Careers in early childhood taking off - adelaidenow.com.au]]></description>
+      <content:encoded><![CDATA[Careers in early childhood taking off - adelaidenow.com.au]]></content:encoded>
+      <pubDate>Sun, 27 Sep 2026 12:47:31 GMT</pubDate>
+      <dc:creator><![CDATA[adelaidenow.com.au]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -521,13 +511,23 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[NSW Early Learning Commission support for Operation Moonbi - education.nsw.gov.au]]></title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSVV4b0YtdktBbHFIUzh6ZVRYbG1GMmRBR1B5S1hzdTNlXzJYM3lwZ2NoNWU4UEZHQXV2eE9WMW9pUWJKQ2xUNXU3ZUZvZ1RvVW9rYjdXa0pYSlh0QkwzMFA4aGF1T05nQzhxQkJ6NmZyeXZmOHpBSTZVTE83aWJvZTZrT29zWlNpdHVEdGFxOG54OHhQb2JxbFRsS2NOMG1xdkh2UDZGM0ZXN2dYc3k1dzVDT2NEOXQ0R1lURjBUMThMTmxoVUpqUA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSVV4b0YtdktBbHFIUzh6ZVRYbG1GMmRBR1B5S1hzdTNlXzJYM3lwZ2NoNWU4UEZHQXV2eE9WMW9pUWJKQ2xUNXU3ZUZvZ1RvVW9rYjdXa0pYSlh0QkwzMFA4aGF1T05nQzhxQkJ6NmZyeXZmOHpBSTZVTE83aWJvZTZrT29zWlNpdHVEdGFxOG54OHhQb2JxbFRsS2NOMG1xdkh2UDZGM0ZXN2dYc3k1dzVDT2NEOXQ0R1lURjBUMThMTmxoVUpqUA?oc=5</guid>
-      <description><![CDATA[NSW Early Learning Commission support for Operation Moonbi - education.nsw.gov.au]]></description>
-      <content:encoded><![CDATA[NSW Early Learning Commission support for Operation Moonbi - education.nsw.gov.au]]></content:encoded>
-      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[education.nsw.gov.au]]></dc:creator>
+      <title><![CDATA[The hidden cost of Australia's early childhood sector - vu.edu.au]]></title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWVlTDAybTZDSmktUU5qdzRjeENfekU0R3A3RkpVc25Ndm5FVnBmOWFTOFNHWnFFNHdnYXFpSVg5VHQwREtHSGl4YnJBa213MnBCLVMxV3VpVm9NaXpJZ3dsNGEwck1OWTN1T2R5VENhblJMYmttZ0NabjdtUVd2MDlYQWVHOC1qZ2VqT0w2NTg1TkFKS25Sdjg5QVp5V0tzX1E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWVlTDAybTZDSmktUU5qdzRjeENfekU0R3A3RkpVc25Ndm5FVnBmOWFTOFNHWnFFNHdnYXFpSVg5VHQwREtHSGl4YnJBa213MnBCLVMxV3VpVm9NaXpJZ3dsNGEwck1OWTN1T2R5VENhblJMYmttZ0NabjdtUVd2MDlYQWVHOC1qZ2VqT0w2NTg1TkFKS25Sdjg5QVp5V0tzX1E?oc=5</guid>
+      <description><![CDATA[The hidden cost of Australia's early childhood sector - vu.edu.au]]></description>
+      <content:encoded><![CDATA[The hidden cost of Australia's early childhood sector - vu.edu.au]]></content:encoded>
+      <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[vu.edu.au]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Global report warns stronger public investment is key to protecting equitable early childhood education - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNWEJmZzVQRGlvTXdDaGl5VE9uU3FnM1pxMS1UR0NKZmZNUEw2TzJUVmJjdDFpSGNGSWpRNG9LeEhNSnB6LXBQRUlqZUlsb2NBUWhHeG50RXZ0Z2ozXzdxdzdGUk1EZkxFTS1aUUQxVkt0X21wSkt1NENBQnNvSDM5VGYzMFBCRzRLMmdBSUIyUXNwOG9NeFVBUlRQTE5yZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxNWEJmZzVQRGlvTXdDaGl5VE9uU3FnM1pxMS1UR0NKZmZNUEw2TzJUVmJjdDFpSGNGSWpRNG9LeEhNSnB6LXBQRUlqZUlsb2NBUWhHeG50RXZ0Z2ozXzdxdzdGUk1EZkxFTS1aUUQxVkt0X21wSkt1NENBQnNvSDM5VGYzMFBCRzRLMmdBSUIyUXNwOG9NeFVBUlRQTE5yZw?oc=5</guid>
+      <description><![CDATA[Global report warns stronger public investment is key to protecting equitable early childhood education - The Sector]]></description>
+      <content:encoded><![CDATA[Global report warns stronger public investment is key to protecting equitable early childhood education - The Sector]]></content:encoded>
+      <pubDate>Sun, 26 Jul 2026 19:07:08 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
