@@ -6,17 +6,29 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:37:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:30:29 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
+    <item>
+      <title><![CDATA[Stop asking educators to do more: an end-of-year wellbeing checklist]]></title>
+      <link>https://thesector.com.au/article/end-of-year-educator-wellbeing-checklist</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/end-of-year-educator-wellbeing-checklist</guid>
+      <description><![CDATA[As services approach the end of the year, there is plenty to feel proud of and still a lot to finish. Transition statements, enrolment enquiries and events need attention alongside the everyday work of educating and caring for children.]]></description>
+      <content:encoded><![CDATA[As services approach the end of the year, there is plenty to feel proud of and still a lot to finish. Transition statements, enrolment enquiries and events need attention alongside the everyday work of educating and caring for children.]]></content:encoded>
+      <pubDate>Mon, 19 Oct 2026 05:30:23 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/ruben_aster_t_Cmd_Ln33_Fxk_unsplash_fa33063815.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/ruben_aster_t_Cmd_Ln33_Fxk_unsplash_fa33063815.webp"/>
+    </item>
     <item>
       <title><![CDATA[Providers warn $150 million preschool funding cut could drive up fees]]></title>
       <link>https://thesector.com.au/article/nsw-preschool-funding-cut-providers-fee-warning</link>
       <guid isPermaLink="true">https://thesector.com.au/article/nsw-preschool-funding-cut-providers-fee-warning</guid>
       <description><![CDATA[Goodstart, KU and Gowrie NSW say increased family fee relief will not offset the loss of operational support for preschool programs delivered in long day care.]]></description>
       <content:encoded><![CDATA[Goodstart, KU and Gowrie NSW say increased family fee relief will not offset the loss of operational support for preschool programs delivered in long day care.]]></content:encoded>
-      <pubDate>Mon, 19 Oct 2026 00:37:42 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:30:23 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/sasun_bughdaryan_7_X_Uhaurw_Dd4_unsplash_7f180e0f2e.webp" medium="image"/>
@@ -28,7 +40,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/updated-abs-boundaries-ecec-demand-mapping</guid>
       <description><![CDATA[Before relying on a local demand study to plan new places or expand a service, ECEC providers should check that its population and service figures cover comparable areas. Using different boundary editions without accounting for changes can distort the picture of local demand.]]></description>
       <content:encoded><![CDATA[Before relying on a local demand study to plan new places or expand a service, ECEC providers should check that its population and service figures cover comparable areas. Using different boundary editions without accounting for changes can distort the picture of local demand.]]></content:encoded>
-      <pubDate>Sun, 18 Oct 2026 23:37:42 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 03:30:23 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Unknown_13_5a029a4712.webp" medium="image"/>
@@ -40,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/story-house-dandenong-north-menu-review-healthy-changes</guid>
       <description><![CDATA[Support from Monash Health helped the service review food provision, share nutrition information with families and identify further health and wellbeing priorities.]]></description>
       <content:encoded><![CDATA[Support from Monash Health helped the service review food provision, share nutrition information with families and identify further health and wellbeing priorities.]]></content:encoded>
-      <pubDate>Sun, 18 Oct 2026 22:37:42 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 02:30:23 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/ugyen_tenzin_f_Mj5arep_GXE_unsplash_4d86936364.webp" medium="image"/>
@@ -52,23 +64,11 @@
       <guid isPermaLink="true">https://thesector.com.au/article/gowrie-wa-katanning-67-place-early-childhood-hub</guid>
       <description><![CDATA[The preferred-operator decision moves Katanning’s integrated hub closer to operation, with lease approval and arrangements for the transition still to be finalised.]]></description>
       <content:encoded><![CDATA[The preferred-operator decision moves Katanning’s integrated hub closer to operation, with lease approval and arrangements for the transition still to be finalised.]]></content:encoded>
-      <pubDate>Sun, 18 Oct 2026 21:37:42 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 01:30:23 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/lisa_anna_Qh2_Quk_Y_Mb24_unsplash_df707a3a09.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/lisa_anna_Qh2_Quk_Y_Mb24_unsplash_df707a3a09.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Free kindy health checks expand to 11 Gold Coast services]]></title>
-      <link>https://thesector.com.au/article/healthy-kindy-kids-screening-gold-coast-expansion</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/healthy-kindy-kids-screening-gold-coast-expansion</guid>
-      <description><![CDATA[Healthy Kindy Kids is extending its reach following a Townsville pilot, with participating kindergartens offering free vision, hearing, speech and language screening.]]></description>
-      <content:encoded><![CDATA[Healthy Kindy Kids is extending its reach following a Townsville pilot, with participating kindergartens offering free vision, hearing, speech and language screening.]]></content:encoded>
-      <pubDate>Sun, 18 Oct 2026 20:37:42 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/nrd_a_Mm_D_Isdn_Uro_unsplash_aec4ff071c.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/nrd_a_Mm_D_Isdn_Uro_unsplash_aec4ff071c.webp"/>
     </item>
     <item>
       <title><![CDATA[Gowrie WA selected for new 67-place early childhood hub - The Sector]]></title>
@@ -86,7 +86,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/autism-wellbeing-toolkit-30000-grant-early-educators</guid>
       <description><![CDATA[A four-week early learning pilot will test the co-designed resource, with a pathway to free national distribution through La Trobe University.]]></description>
       <content:encoded><![CDATA[A four-week early learning pilot will test the co-designed resource, with a pathway to free national distribution through La Trobe University.]]></content:encoded>
-      <pubDate>Sun, 18 Oct 2026 11:37:42 GMT</pubDate>
+      <pubDate>Sun, 18 Oct 2026 16:30:23 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/2_A7_A0084_1_eb48626a47.webp" medium="image"/>
@@ -110,16 +110,6 @@
       <content:encoded><![CDATA[Children found by police after escaping from Canberra daycare - ABC News & Headlines – Australian Broadcasting Corporation]]></content:encoded>
       <pubDate>Wed, 14 Oct 2026 03:37:06 GMT</pubDate>
       <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Montessori Academy agrees to acquire nine Edge services as 11 centres face closure - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPWm9FanFPT1pJSW1qUnFVczRJM2lydUZZZjZPWmk0cWotdVd3LTk0cmNXVFVLLTB0Ujl3OFpUQm94eVQ1WGxUSThBRGRUU1V6RlF6Y3JRQzVjc19pWm94a2loUTUtWVFfNHJsU25JRVA1Y0kwQTBFSW1XdWtjSW1VTUUtQ2dIMjctVl83OTVPU1k1RnZ5Z2dpLUpiczBBVlEzUHREcUstSU5OZk8tRnQ1Ug?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxPWm9FanFPT1pJSW1qUnFVczRJM2lydUZZZjZPWmk0cWotdVd3LTk0cmNXVFVLLTB0Ujl3OFpUQm94eVQ1WGxUSThBRGRUU1V6RlF6Y3JRQzVjc19pWm94a2loUTUtWVFfNHJsU25JRVA1Y0kwQTBFSW1XdWtjSW1VTUUtQ2dIMjctVl83OTVPU1k1RnZ5Z2dpLUpiczBBVlEzUHREcUstSU5OZk8tRnQ1Ug?oc=5</guid>
-      <description><![CDATA[Montessori Academy agrees to acquire nine Edge services as 11 centres face closure - The Sector]]></description>
-      <content:encoded><![CDATA[Montessori Academy agrees to acquire nine Edge services as 11 centres face closure - The Sector]]></content:encoded>
-      <pubDate>Tue, 13 Oct 2026 20:19:58 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
@@ -193,21 +183,21 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Stronger school and OSHC partnerships support children’s safety, inclusion and wellbeing - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3Q2NFpDYzdISmJVejFTaWIxU0FLWElXQVNXTC1KMHpyd0pVY2FSZVBhZDFzSGhkMndWbkVvNk51NElRN2hCRjRERjc4cjZockxhY2lkd2htVTAtZTVQTHV1dUl3S0VOaERsZTF3RlJnS19jVlhISnB4cmxtYkx4NWwtSDdSODha?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3Q2NFpDYzdISmJVejFTaWIxU0FLWElXQVNXTC1KMHpyd0pVY2FSZVBhZDFzSGhkMndWbkVvNk51NElRN2hCRjRERjc4cjZockxhY2lkd2htVTAtZTVQTHV1dUl3S0VOaERsZTF3RlJnS19jVlhISnB4cmxtYkx4NWwtSDdSODha?oc=5</guid>
-      <description><![CDATA[Stronger school and OSHC partnerships support children’s safety, inclusion and wellbeing - The Sector]]></description>
-      <content:encoded><![CDATA[Stronger school and OSHC partnerships support children’s safety, inclusion and wellbeing - The Sector]]></content:encoded>
-      <pubDate>Wed, 07 Oct 2026 19:46:56 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
       <title><![CDATA[Active supervision in six steps: creating safer, more responsive learning environments - The Sector]]></title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1ldWFwR204R2paUVEwc3lqd0hDY0VvYmdfVXBPRzB2VzZwcll2bW5PVEZwbkVBcFR2bTV2SkIyVlFCaExHS1JFWWhBTXBDQnJWWDRYWGU1ZGE1REpkMDNjaTlpd1BWeFVIRHQyMGFIZjVNd21NV1Q4?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE1ldWFwR204R2paUVEwc3lqd0hDY0VvYmdfVXBPRzB2VzZwcll2bW5PVEZwbkVBcFR2bTV2SkIyVlFCaExHS1JFWWhBTXBDQnJWWDRYWGU1ZGE1REpkMDNjaTlpd1BWeFVIRHQyMGFIZjVNd21NV1Q4?oc=5</guid>
       <description><![CDATA[Active supervision in six steps: creating safer, more responsive learning environments - The Sector]]></description>
       <content:encoded><![CDATA[Active supervision in six steps: creating safer, more responsive learning environments - The Sector]]></content:encoded>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Stronger school and OSHC partnerships support children’s safety, inclusion and wellbeing - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3Q2NFpDYzdISmJVejFTaWIxU0FLWElXQVNXTC1KMHpyd0pVY2FSZVBhZDFzSGhkMndWbkVvNk51NElRN2hCRjRERjc4cjZockxhY2lkd2htVTAtZTVQTHV1dUl3S0VOaERsZTF3RlJnS19jVlhISnB4cmxtYkx4NWwtSDdSODha?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3Q2NFpDYzdISmJVejFTaWIxU0FLWElXQVNXTC1KMHpyd0pVY2FSZVBhZDFzSGhkMndWbkVvNk51NElRN2hCRjRERjc4cjZockxhY2lkd2htVTAtZTVQTHV1dUl3S0VOaERsZTF3RlJnS19jVlhISnB4cmxtYkx4NWwtSDdSODha?oc=5</guid>
+      <description><![CDATA[Stronger school and OSHC partnerships support children’s safety, inclusion and wellbeing - The Sector]]></description>
+      <content:encoded><![CDATA[Stronger school and OSHC partnerships support children’s safety, inclusion and wellbeing - The Sector]]></content:encoded>
       <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
@@ -524,6 +514,16 @@
       <content:encoded><![CDATA[More Illawarra educators supported to start family day care businesses, ease pressure on childcare access - psnews.com.au]]></content:encoded>
       <pubDate>Sun, 09 Aug 2026 20:19:35 GMT</pubDate>
       <dc:creator><![CDATA[psnews.com.au]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[More child care options for families with new family day care services opening - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1ZEVkVxbFpFU2YwejdLcXdNS3hiaHFoNWhXZ2dQVURXaU5IYnduTHpLRE1zRG5WR2lILW1RNlc5S1BTZG1jOFpDUHppempMU0g4d01qY2dsOTgwTUV6TzJ3bmJOTFBNS3ZaMEpaTVpEM0czREFvZ1NPREUxWVpDVjJLWEIwM3FyWFN3UEtraU4?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1ZEVkVxbFpFU2YwejdLcXdNS3hiaHFoNWhXZ2dQVURXaU5IYnduTHpLRE1zRG5WR2lILW1RNlc5S1BTZG1jOFpDUHppempMU0g4d01qY2dsOTgwTUV6TzJ3bmJOTFBNS3ZaMEpaTVpEM0czREFvZ1NPREUxWVpDVjJLWEIwM3FyWFN3UEtraU4?oc=5</guid>
+      <description><![CDATA[More child care options for families with new family day care services opening - The Sector]]></description>
+      <content:encoded><![CDATA[More child care options for families with new family day care services opening - The Sector]]></content:encoded>
+      <pubDate>Sun, 09 Aug 2026 19:04:54 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
