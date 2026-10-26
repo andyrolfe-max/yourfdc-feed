@@ -6,45 +6,57 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Mon, 26 Oct 2026 05:40:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:55:02 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
-    <item>
-      <title><![CDATA[New working-from-home changes: which ECEC administrators are covered?]]></title>
-      <link>https://thesector.com.au/article/working-from-home-ecec-administrators-clerks-award</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/working-from-home-ecec-administrators-clerks-award</guid>
-      <description><![CDATA[New Clerks Award provisions give eligible employees a pathway to request working from home. Early learning employers need to check who is covered before applying the change.]]></description>
-      <content:encoded><![CDATA[New Clerks Award provisions give eligible employees a pathway to request working from home. Early learning employers need to check who is covered before applying the change.]]></content:encoded>
-      <pubDate>Mon, 26 Oct 2026 05:40:14 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2226074248_2_46664531a3.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2226074248_2_46664531a3.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Nido’s Edge agreement offers a fresh start and questions for the sector]]></title>
-      <link>https://thesector.com.au/article/nido-edge-agreement-fresh-start-sector-questions</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/nido-edge-agreement-fresh-start-sector-questions</guid>
-      <description><![CDATA[Nido’s proposed acquisition of nine Edge Early Learning services offers the prospect of continuity for children, families and educators. It also raises questions about what makes an early learning service sustainable.]]></description>
-      <content:encoded><![CDATA[Nido’s proposed acquisition of nine Edge Early Learning services offers the prospect of continuity for children, families and educators. It also raises questions about what makes an early learning service sustainable.]]></content:encoded>
-      <pubDate>Mon, 26 Oct 2026 04:40:14 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2284704581_55c652b042.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2284704581_55c652b042.webp"/>
-    </item>
     <item>
       <title><![CDATA[Goodstart 2026 Annual Report highlights resilience and commitment during &quot;difficult year”]]></title>
       <link>https://thesector.com.au/article/goodstart-2026-annual-report-quality-investment-resilience</link>
       <guid isPermaLink="true">https://thesector.com.au/article/goodstart-2026-annual-report-quality-investment-resilience</guid>
       <description><![CDATA[Goodstart Early Learning, Australia’s largest provider of early childhood education and care (ECEC) services, delivered a solid 2026 performance despite a challenging operating environment with a surplus of $10.9 million reported and sector leading results in areas such as quality, inclusion spending, retention and advocacy.]]></description>
       <content:encoded><![CDATA[Goodstart Early Learning, Australia’s largest provider of early childhood education and care (ECEC) services, delivered a solid 2026 performance despite a challenging operating environment with a surplus of $10.9 million reported and sector leading results in areas such as quality, inclusion spending, retention and advocacy.]]></content:encoded>
-      <pubDate>Mon, 26 Oct 2026 03:40:14 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 11:54:58 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1524706991_6e19260111.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1524706991_6e19260111.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[New working-from-home changes: which ECEC administrators are covered?]]></title>
+      <link>https://thesector.com.au/article/working-from-home-ecec-administrators-clerks-award</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/working-from-home-ecec-administrators-clerks-award</guid>
+      <description><![CDATA[New Clerks Award provisions give eligible employees a pathway to request working from home. Early learning employers need to check who is covered before applying the change.]]></description>
+      <content:encoded><![CDATA[New Clerks Award provisions give eligible employees a pathway to request working from home. Early learning employers need to check who is covered before applying the change.]]></content:encoded>
+      <pubDate>Mon, 26 Oct 2026 10:54:58 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2226074248_2_46664531a3.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2226074248_2_46664531a3.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Is your service compliant on paper, but vulnerable in practice?]]></title>
+      <link>https://thesector.com.au/article/ecec-compliant-on-paper-vulnerable-in-practice</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/ecec-compliant-on-paper-vulnerable-in-practice</guid>
+      <description><![CDATA[Policies can be updated quickly. Giving educators the time, resources and support to embed them takes more work and responsibility for that work needs to be shared.]]></description>
+      <content:encoded><![CDATA[Policies can be updated quickly. Giving educators the time, resources and support to embed them takes more work and responsibility for that work needs to be shared.]]></content:encoded>
+      <pubDate>Mon, 26 Oct 2026 09:54:58 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1063760138_cc3d60cfaa.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1063760138_cc3d60cfaa.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Early childhood training gets five-year deal in $560M TAFE deal]]></title>
+      <link>https://thesector.com.au/article/nido-edge-agreement-fresh-start-sector-questions</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/nido-edge-agreement-fresh-start-sector-questions</guid>
+      <description><![CDATA[Nido’s proposed acquisition of nine Edge Early Learning services offers the prospect of continuity for children, families and educators. It also raises questions about what makes an early learning service sustainable.]]></description>
+      <content:encoded><![CDATA[Nido’s proposed acquisition of nine Edge Early Learning services offers the prospect of continuity for children, families and educators. It also raises questions about what makes an early learning service sustainable.]]></content:encoded>
+      <pubDate>Mon, 26 Oct 2026 05:54:58 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2284704581_55c652b042.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2284704581_55c652b042.webp"/>
     </item>
     <item>
       <title><![CDATA[Who helps educators make sense of children’s learning?]]></title>
@@ -52,7 +64,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/shared-assessment-childrens-learning-educator-perspectives</guid>
       <description><![CDATA[A lunchbox that will not open, a friend who is away or not knowing where to go can be a matter of concern to a child. Their questions can highlight the areas we should help them prepare for. Where will I put my bag? What if I can’t open my lunch? Who will I play with if my friend isn’t there?]]></description>
       <content:encoded><![CDATA[A lunchbox that will not open, a friend who is away or not knowing where to go can be a matter of concern to a child. Their questions can highlight the areas we should help them prepare for. Where will I put my bag? What if I can’t open my lunch? Who will I play with if my friend isn’t there?]]></content:encoded>
-      <pubDate>Mon, 26 Oct 2026 02:40:14 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 04:54:58 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1397844973_2_c0d0365d10.jpg" medium="image"/>
@@ -64,11 +76,35 @@
       <guid isPermaLink="true">https://thesector.com.au/article/starting-school-2027-helping-children-ask-for-help</guid>
       <description><![CDATA[A lunchbox that will not open, a friend who is away or not knowing where to go can be a matter of concern to a child. Their questions can highlight the areas we should help them prepare for. Where will I put my bag? What if I can’t open my lunch? Who will I play with if my friend isn’t there?]]></description>
       <content:encoded><![CDATA[A lunchbox that will not open, a friend who is away or not knowing where to go can be a matter of concern to a child. Their questions can highlight the areas we should help them prepare for. Where will I put my bag? What if I can’t open my lunch? Who will I play with if my friend isn’t there?]]></content:encoded>
-      <pubDate>Mon, 26 Oct 2026 01:40:14 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 03:54:58 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1739892890_af6c76c12d.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1739892890_af6c76c12d.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[New scholarships offer early childhood educators up to $25,000 towards teaching degrees]]></title>
+      <link>https://thesector.com.au/article/act-early-childhood-degree-scholarships-2026</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/act-early-childhood-degree-scholarships-2026</guid>
+      <description><![CDATA[Applications are now open for the ACT Government&#x27;s 2026 Early Childhood Degree Scholarship Program, which funds eligible early childhood educators to pursue an approved teaching qualification.]]></description>
+      <content:encoded><![CDATA[Applications are now open for the ACT Government&#x27;s 2026 Early Childhood Degree Scholarship Program, which funds eligible early childhood educators to pursue an approved teaching qualification.]]></content:encoded>
+      <pubDate>Mon, 26 Oct 2026 02:54:58 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2209014041_69b596ad0f.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2209014041_69b596ad0f.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Finexia confirms early learning group Shared Beginnings place in administration]]></title>
+      <link>https://thesector.com.au/article/Slug: finexia-shared-beginnings-voluntary-administration  Meta t</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/Slug: finexia-shared-beginnings-voluntary-administration  Meta t</guid>
+      <description><![CDATA[ASX listed financial services Group Finexia has confirmed that Shared Beginnings, its early learning subsidiary, has been placed in voluntary administration.]]></description>
+      <content:encoded><![CDATA[ASX listed financial services Group Finexia has confirmed that Shared Beginnings, its early learning subsidiary, has been placed in voluntary administration.]]></content:encoded>
+      <pubDate>Mon, 26 Oct 2026 01:54:58 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2286128288_4d824780b5.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2286128288_4d824780b5.webp"/>
     </item>
     <item>
       <title><![CDATA[Goodstart 2026 Annual Report highlights resilience and commitment during "difficult year” - The Sector]]></title>
@@ -81,16 +117,14 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
-      <title><![CDATA[Early childhood training gets five-year deal in $560M TAFE deal]]></title>
-      <link>https://thesector.com.au/article/private-not-for-profit-divide-early-learning</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/private-not-for-profit-divide-early-learning</guid>
-      <description><![CDATA[Different ownership models have different implications and responsibilities. They also have a common purpose that should motivate the sector to work together.]]></description>
-      <content:encoded><![CDATA[Different ownership models have different implications and responsibilities. They also have a common purpose that should motivate the sector to work together.]]></content:encoded>
-      <pubDate>Sun, 25 Oct 2026 19:40:14 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <title><![CDATA[In Australia, childcare has drifted from choice to control - The Australian]]></title>
+      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM2s2aDVwSEdGU2RGS05yeFV6ckNBeEU5cmdCODBYVEFaOFVUX3g5aHltMWxJZlRZMEdOZXdMY1VYOHpvd1dKZGxZUFZJcm1peklGMUt4dGd3aHZkVXQwdlJMN1VXZHp0WFlqSi1PdWg2SllxRTlpR0Y5LVoyLVZValNoMnQ0QjA5ZzR3RjQ0eEdrZWhuTHk4THJfdmVudXhiRVcxVzNaY0FhR25zM0M2YnprSWhoN3V5ZGs1bThTOGhac1lEQ0IzcUxXaVNodVdZMEI2Y2dMQ0huZ3NnV1E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM2s2aDVwSEdGU2RGS05yeFV6ckNBeEU5cmdCODBYVEFaOFVUX3g5aHltMWxJZlRZMEdOZXdMY1VYOHpvd1dKZGxZUFZJcm1peklGMUt4dGd3aHZkVXQwdlJMN1VXZHp0WFlqSi1PdWg2SllxRTlpR0Y5LVoyLVZValNoMnQ0QjA5ZzR3RjQ0eEdrZWhuTHk4THJfdmVudXhiRVcxVzNaY0FhR25zM0M2YnprSWhoN3V5ZGs1bThTOGhac1lEQ0IzcUxXaVNodVdZMEI2Y2dMQ0huZ3NnV1E?oc=5</guid>
+      <description><![CDATA[In Australia, childcare has drifted from choice to control - The Australian]]></description>
+      <content:encoded><![CDATA[In Australia, childcare has drifted from choice to control - The Australian]]></content:encoded>
+      <pubDate>Sun, 25 Oct 2026 19:03:38 GMT</pubDate>
+      <dc:creator><![CDATA[The Australian]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1363654464_2_158da3413f.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1363654464_2_158da3413f.webp"/>
     </item>
     <item>
       <title><![CDATA[Childcare worker's 'monstrous' assaults on kids captured on CCTV - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
@@ -101,28 +135,6 @@
       <pubDate>Sun, 25 Oct 2026 18:32:47 GMT</pubDate>
       <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[In Australia, childcare has drifted from choice to control - The Australian]]></title>
-      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM2s2aDVwSEdGU2RGS05yeFV6ckNBeEU5cmdCODBYVEFaOFVUX3g5aHltMWxJZlRZMEdOZXdMY1VYOHpvd1dKZGxZUFZJcm1peklGMUt4dGd3aHZkVXQwdlJMN1VXZHp0WFlqSi1PdWg2SllxRTlpR0Y5LVoyLVZValNoMnQ0QjA5ZzR3RjQ0eEdrZWhuTHk4THJfdmVudXhiRVcxVzNaY0FhR25zM0M2YnprSWhoN3V5ZGs1bThTOGhac1lEQ0IzcUxXaVNodVdZMEI2Y2dMQ0huZ3NnV1E?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM2s2aDVwSEdGU2RGS05yeFV6ckNBeEU5cmdCODBYVEFaOFVUX3g5aHltMWxJZlRZMEdOZXdMY1VYOHpvd1dKZGxZUFZJcm1peklGMUt4dGd3aHZkVXQwdlJMN1VXZHp0WFlqSi1PdWg2SllxRTlpR0Y5LVoyLVZValNoMnQ0QjA5ZzR3RjQ0eEdrZWhuTHk4THJfdmVudXhiRVcxVzNaY0FhR25zM0M2YnprSWhoN3V5ZGs1bThTOGhac1lEQ0IzcUxXaVNodVdZMEI2Y2dMQ0huZ3NnV1E?oc=5</guid>
-      <description><![CDATA[In Australia, childcare has drifted from choice to control - The Australian]]></description>
-      <content:encoded><![CDATA[In Australia, childcare has drifted from choice to control - The Australian]]></content:encoded>
-      <pubDate>Sun, 25 Oct 2026 17:33:37 GMT</pubDate>
-      <dc:creator><![CDATA[The Australian]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[New scholarships offer early childhood educators up to $25,000 towards teaching degrees]]></title>
-      <link>https://thesector.com.au/article/act-early-childhood-degree-scholarships-2026</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/act-early-childhood-degree-scholarships-2026</guid>
-      <description><![CDATA[Applications are now open for the ACT Government&#x27;s 2026 Early Childhood Degree Scholarship Program, which funds eligible early childhood educators to pursue an approved teaching qualification.]]></description>
-      <content:encoded><![CDATA[Applications are now open for the ACT Government&#x27;s 2026 Early Childhood Degree Scholarship Program, which funds eligible early childhood educators to pursue an approved teaching qualification.]]></content:encoded>
-      <pubDate>Sun, 25 Oct 2026 16:40:14 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_2209014041_69b596ad0f.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_2209014041_69b596ad0f.webp"/>
     </item>
     <item>
       <title><![CDATA[Childcare chain collapses amid wave of closures - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
@@ -202,16 +214,6 @@
       <content:encoded><![CDATA[Risk assessment in practice: supporting safety and meaningful learning - The Sector]]></content:encoded>
       <pubDate>Sun, 11 Oct 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[100 preschools set to open in NSW, but how many will be accepting children? - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHNySk5PRXMtZ3R0dXJ6ZWU2bDJTNnVXcnh0Y1hqMTBUNU51NHZ3YzlWM3RvenE2czhINXR6RjZVS29GUnc0TFZpajZkN1NSYXNveWxtdlhIQ0dlOGg5OV9xT3lDTmIwYmUtMmctOWt5cXY5UzZvVElfMFFKSkszOF9qbG5TdC1qNGxkYWhTNzJDSm5DX1VELTJUM1BIZXhYamg4Mk9tOWpmYWlmM25EZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHNySk5PRXMtZ3R0dXJ6ZWU2bDJTNnVXcnh0Y1hqMTBUNU51NHZ3YzlWM3RvenE2czhINXR6RjZVS29GUnc0TFZpajZkN1NSYXNveWxtdlhIQ0dlOGg5OV9xT3lDTmIwYmUtMmctOWt5cXY5UzZvVElfMFFKSkszOF9qbG5TdC1qNGxkYWhTNzJDSm5DX1VELTJUM1BIZXhYamg4Mk9tOWpmYWlmM25EZw?oc=5</guid>
-      <description><![CDATA[100 preschools set to open in NSW, but how many will be accepting children? - ABC News & Headlines – Australian Broadcasting Corporation]]></description>
-      <content:encoded><![CDATA[100 preschools set to open in NSW, but how many will be accepting children? - ABC News & Headlines – Australian Broadcasting Corporation]]></content:encoded>
-      <pubDate>Sun, 11 Oct 2026 07:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
