@@ -6,17 +6,41 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:59:00 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
+    <item>
+      <title><![CDATA[LDC new centre growth falls to 2.2% as weight of closures and fewer openings start to bite]]></title>
+      <link>https://thesector.com.au/article/long-day-care-centre-growth-slows-september-2026</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/long-day-care-centre-growth-slows-september-2026</guid>
+      <description><![CDATA[The percentage growth in net new long day care service approvals in the three months ended September 2026 fell to 2.2 per cent when compared to the same period last year, data from the latest ACECQA snapshot has shown.]]></description>
+      <content:encoded><![CDATA[The percentage growth in net new long day care service approvals in the three months ended September 2026 fell to 2.2 per cent when compared to the same period last year, data from the latest ACECQA snapshot has shown.]]></content:encoded>
+      <pubDate>Tue, 10 Nov 2026 08:58:55 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/lisa_anna_3t_Cz_E1uxx4_unsplash_b53f0351c8.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/lisa_anna_3t_Cz_E1uxx4_unsplash_b53f0351c8.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Provider outlines regional early learning exit as replacement arrangements take shape]]></title>
+      <link>https://thesector.com.au/article/uplyft-regional-early-learning-exit-transition-arrangements</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/uplyft-regional-early-learning-exit-transition-arrangements</guid>
+      <description><![CDATA[Uplyft says its Mount Barker and Katanning early learning centres will close by the end of December 2026, while it works towards transitioning its Kojonup service to another provider in the first half of 2027.]]></description>
+      <content:encoded><![CDATA[Uplyft says its Mount Barker and Katanning early learning centres will close by the end of December 2026, while it works towards transitioning its Kojonup service to another provider in the first half of 2027.]]></content:encoded>
+      <pubDate>Tue, 10 Nov 2026 07:58:55 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/lisa_anna_w9r_LM_6r6r_Kw_unsplash_ce92e237b3.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/lisa_anna_w9r_LM_6r6r_Kw_unsplash_ce92e237b3.webp"/>
+    </item>
     <item>
       <title><![CDATA[Body boundaries and trusted adults guide QCCS child safety learning]]></title>
       <link>https://thesector.com.au/article/qccs-child-safety-body-boundaries-trusted-adults</link>
       <guid isPermaLink="true">https://thesector.com.au/article/qccs-child-safety-body-boundaries-trusted-adults</guid>
       <description><![CDATA[Body boundaries, trusted adults and asking for help were central to the learning experiences Queensland Childcare Services (QCCS) outlined on Day for Daniel 2026. On the day the provider included safety conversations, creative activities and family involvement across its early learning centres.]]></description>
       <content:encoded><![CDATA[Body boundaries, trusted adults and asking for help were central to the learning experiences Queensland Childcare Services (QCCS) outlined on Day for Daniel 2026. On the day the provider included safety conversations, creative activities and family involvement across its early learning centres.]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 01:18:04 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 06:58:55 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Photo_1_2_8f54320aca.webp" medium="image"/>
@@ -28,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/guardian-family-hub-digital-learning-program</guid>
       <description><![CDATA[Guardian Childcare & Education will begin moving its exclusive To BE Me learning program onto a new Guardian Family Hub app in late November, with the transition scheduled for completion by March 2027.]]></description>
       <content:encoded><![CDATA[Guardian Childcare & Education will begin moving its exclusive To BE Me learning program onto a new Guardian Family Hub app in late November, with the transition scheduled for completion by March 2027.]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 00:18:04 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 05:58:55 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/Guardian_Childcare_and_Education_41_7a31d1387c.jpg" medium="image"/>
@@ -40,35 +64,45 @@
       <guid isPermaLink="true">https://thesector.com.au/article/rise-shine-educator-inspired-music-movement-program</guid>
       <description><![CDATA[Rise & Shine Kindergarten has introduced its Inspired Music & Movement program, combining original songs, movement and play-based learning for infants and toddlers. Delivered across its NSW and Queensland early learning centres, the program now includes music videos families can enjoy at home.]]></description>
       <content:encoded><![CDATA[Rise & Shine Kindergarten has introduced its Inspired Music & Movement program, combining original songs, movement and play-based learning for infants and toddlers. Delivered across its NSW and Queensland early learning centres, the program now includes music videos families can enjoy at home.]]></content:encoded>
-      <pubDate>Mon, 09 Nov 2026 23:18:04 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 04:58:55 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/20250210_RSK_Inspired_Music_19_d9473455b9.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/20250210_RSK_Inspired_Music_19_d9473455b9.webp"/>
     </item>
     <item>
-      <title><![CDATA[Educators’ voices and experience help shape preschool assessment tool]]></title>
+      <title><![CDATA[Directors Day today, this thank you is for you]]></title>
       <link>https://thesector.com.au/article/educator-voices-shape-preschool-outcomes-measure-pilot</link>
       <guid isPermaLink="true">https://thesector.com.au/article/educator-voices-shape-preschool-outcomes-measure-pilot</guid>
       <description><![CDATA[Teachers and educators have completed more than 1,000 assessments across 236 services nationally as part of the Preschool Outcomes Measure pilot. The educator&#x27;s feedback is helping refine the national tool, including how easily it can be used and how it supports planning for children’s learning. This feedback is vital and is progressive in ensuring that the tool being developed is being built within the early childhood and educational programs and with qualified and experienced educators ac]]></description>
       <content:encoded><![CDATA[Teachers and educators have completed more than 1,000 assessments across 236 services nationally as part of the Preschool Outcomes Measure pilot. The educator&#x27;s feedback is helping refine the national tool, including how easily it can be used and how it supports planning for children’s learning. This feedback is vital and is progressive in ensuring that the tool being developed is being built within the early childhood and educational programs and with qualified and experienced educators ac]]></content:encoded>
-      <pubDate>Mon, 09 Nov 2026 22:18:04 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 22:58:55 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/i_Stock_1225663414_5829ae205b.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1225663414_5829ae205b.webp"/>
     </item>
     <item>
-      <title><![CDATA[Directors Day today, this thank you is for you]]></title>
-      <link>https://thesector.com.au/article/directors-day-thank-you-early-childhood-leaders</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/directors-day-thank-you-early-childhood-leaders</guid>
-      <description><![CDATA[Today is Directors Day, we’re taking a moment to recognise you, the person others turn to when they need an answer, support or a decision.]]></description>
-      <content:encoded><![CDATA[Today is Directors Day, we’re taking a moment to recognise you, the person others turn to when they need an answer, support or a decision.]]></content:encoded>
-      <pubDate>Mon, 09 Nov 2026 21:18:04 GMT</pubDate>
+      <title><![CDATA[Impact of Worker Retention Payment revealed in Government report response]]></title>
+      <link>https://thesector.com.au/article/worker-retention-payment-workforce-fees-government-response</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/worker-retention-payment-workforce-fees-government-response</guid>
+      <description><![CDATA[The Australian Government has provided some high level details on the impact that the Worker Retention Payment program has had on the availability of educators and fee rises since its introduction in 2024.]]></description>
+      <content:encoded><![CDATA[The Australian Government has provided some high level details on the impact that the Worker Retention Payment program has had on the availability of educators and fee rises since its introduction in 2024.]]></content:encoded>
+      <pubDate>Mon, 09 Nov 2026 19:58:55 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1334513598_dcdd7bc11d.jpg" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1334513598_dcdd7bc11d.jpg"/>
+      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1154012261_09c0cad0c9.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1154012261_09c0cad0c9.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Educators’ voices and experience help shape preschool assessment tool - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVU3ZWRtZlp6LWdOdzNNWmRWMENMaFVFSE5NYXppQlhJd3p5b2JZM1dvSTFxZXd0TXFsQ0p5VWRpQ25HOGdhc0FJYWc2RGNrSUgtZkVLMUhjOEhJbzkyMm1ZLUpjeG5yS1F6S2dEOEVQRHVTZVctQXRGTHY1R3BYMGRjMzd1TTlldDFwYi01YzI?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVU3ZWRtZlp6LWdOdzNNWmRWMENMaFVFSE5NYXppQlhJd3p5b2JZM1dvSTFxZXd0TXFsQ0p5VWRpQ25HOGdhc0FJYWc2RGNrSUgtZkVLMUhjOEhJbzkyMm1ZLUpjeG5yS1F6S2dEOEVQRHVTZVctQXRGTHY1R3BYMGRjMzd1TTlldDFwYi01YzI?oc=5</guid>
+      <description><![CDATA[Educators’ voices and experience help shape preschool assessment tool - The Sector]]></description>
+      <content:encoded><![CDATA[Educators’ voices and experience help shape preschool assessment tool - The Sector]]></content:encoded>
+      <pubDate>Mon, 09 Nov 2026 19:06:38 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
       <title><![CDATA[Early childhood education centres are growing. Some experts are worried - SMH.com.au]]></title>
@@ -79,18 +113,6 @@
       <pubDate>Mon, 09 Nov 2026 18:30:00 GMT</pubDate>
       <dc:creator><![CDATA[SMH.com.au]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Impact of Worker Retention Payment revealed in Government report response]]></title>
-      <link>https://thesector.com.au/article/worker-retention-payment-workforce-fees-government-response</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/worker-retention-payment-workforce-fees-government-response</guid>
-      <description><![CDATA[The Australian Government has provided some high level details on the impact that the Worker Retention Payment program has had on the availability of educators and fee rises since its introduction in 2024.]]></description>
-      <content:encoded><![CDATA[The Australian Government has provided some high level details on the impact that the Worker Retention Payment program has had on the availability of educators and fee rises since its introduction in 2024.]]></content:encoded>
-      <pubDate>Mon, 09 Nov 2026 12:18:04 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1154012261_09c0cad0c9.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1154012261_09c0cad0c9.webp"/>
     </item>
     <item>
       <title><![CDATA[Families face 150km daily drive as more regional childcare centres close - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
@@ -129,6 +151,16 @@
       <description><![CDATA[Education Minister’s meeting completed: Early Learning Commission, CCTV and supervision reforms all on agenda - The Sector]]></description>
       <content:encoded><![CDATA[Education Minister’s meeting completed: Early Learning Commission, CCTV and supervision reforms all on agenda - The Sector]]></content:encoded>
       <pubDate>Thu, 05 Nov 2026 23:00:35 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Worker Retention Payment extended to 2028: what early childhood providers need to know - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ2NoSXdjdGZ4RmF5TFNlMmlHMFlWU2tzbXRkWlYzenU1MGlfY0dzbkk2WGdoSVh3RHpZVFNVSk95bi1RYzNHNlE5NTYwS191eE1KbjEtUGN1T0hvRy1DUWNlOFBDX2Y5dG5xZXIyS3c0RGJ4Z0dNZTNqX1NVTFNoOXI4NVdZc04xaFpGNDhZQzF2QnhyajBJMnpnVlM1ME45M3ZPcVRPSDc0OVJ4ZmhWcWlOUHJCcUw5VUYwcGR2eExyUXYxWF9VTDYyMTJ0bDNDREt6MzY1UE5QU1BHU3c?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ2NoSXdjdGZ4RmF5TFNlMmlHMFlWU2tzbXRkWlYzenU1MGlfY0dzbkk2WGdoSVh3RHpZVFNVSk95bi1RYzNHNlE5NTYwS191eE1KbjEtUGN1T0hvRy1DUWNlOFBDX2Y5dG5xZXIyS3c0RGJ4Z0dNZTNqX1NVTFNoOXI4NVdZc04xaFpGNDhZQzF2QnhyajBJMnpnVlM1ME45M3ZPcVRPSDc0OVJ4ZmhWcWlOUHJCcUw5VUYwcGR2eExyUXYxWF9VTDYyMTJ0bDNDREt6MzY1UE5QU1BHU3c?oc=5</guid>
+      <description><![CDATA[Worker Retention Payment extended to 2028: what early childhood providers need to know - The Sector]]></description>
+      <content:encoded><![CDATA[Worker Retention Payment extended to 2028: what early childhood providers need to know - The Sector]]></content:encoded>
+      <pubDate>Mon, 02 Nov 2026 21:54:42 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -507,38 +539,6 @@
       <pubDate>Wed, 27 May 2026 07:00:00 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Nominations open for 2026 Excellence in Family Day Care Awards - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPVFBIN2JNOFJFYWRIZTQyV0g1Z2VOY3pKb3J2SUpmdjVZS25IbFdTcGpqVWVxVnBVRF9Ba0dxZmlJZGV3R3JLTUY1ZDVKcFR4QjNXSjhRcFpWLVpnUUJZbkFJemxjVWRXV1dOam5IV1NndW5WRkhkbzBENXVmOGpIdDgwbHZuSDdXMWplUmdIRXNBS1dGdHc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxPVFBIN2JNOFJFYWRIZTQyV0g1Z2VOY3pKb3J2SUpmdjVZS25IbFdTcGpqVWVxVnBVRF9Ba0dxZmlJZGV3R3JLTUY1ZDVKcFR4QjNXSjhRcFpWLVpnUUJZbkFJemxjVWRXV1dOam5IV1NndW5WRkhkbzBENXVmOGpIdDgwbHZuSDdXMWplUmdIRXNBS1dGdHc?oc=5</guid>
-      <description><![CDATA[Nominations open for 2026 Excellence in Family Day Care Awards - The Sector]]></description>
-      <content:encoded><![CDATA[Nominations open for 2026 Excellence in Family Day Care Awards - The Sector]]></content:encoded>
-      <pubDate>Mon, 25 May 2026 19:05:29 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[ACECQA Snapshot reveals governance, safety and workforce pressures shaping quality outcomes in ECEC - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFNWTUFJeHdyekZLU1VTaXlvZ2o1Q3JoMy1rWjFxdEoyU3VSVjBJTGxUT1pQbl9KWEZIcXFUbTBqU1oxVWdNU1NlTVI2SjFCNjFLVG1ibWtMQk42NFY1SWRPRE1TRjE3cmY3cGF5Zmc4T3dINjRiSm5NaWcwU3JWXzdxbmpaTk1fWlFQV2JsaXM1ZXUxWHFlbm1zTldkbDNhdVVFYTJiZlR2UQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFNWTUFJeHdyekZLU1VTaXlvZ2o1Q3JoMy1rWjFxdEoyU3VSVjBJTGxUT1pQbl9KWEZIcXFUbTBqU1oxVWdNU1NlTVI2SjFCNjFLVG1ibWtMQk42NFY1SWRPRE1TRjE3cmY3cGF5Zmc4T3dINjRiSm5NaWcwU3JWXzdxbmpaTk1fWlFQV2JsaXM1ZXUxWHFlbm1zTldkbDNhdVVFYTJiZlR2UQ?oc=5</guid>
-      <description><![CDATA[ACECQA Snapshot reveals governance, safety and workforce pressures shaping quality outcomes in ECEC - The Sector]]></description>
-      <content:encoded><![CDATA[ACECQA Snapshot reveals governance, safety and workforce pressures shaping quality outcomes in ECEC - The Sector]]></content:encoded>
-      <pubDate>Mon, 25 May 2026 01:38:10 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[To improve children’s mental health, start by supporting their parents]]></title>
-      <link>https://theconversation.com/to-improve-childrens-mental-health-start-by-supporting-their-parents-271944</link>
-      <guid isPermaLink="true">https://theconversation.com/to-improve-childrens-mental-health-start-by-supporting-their-parents-271944</guid>
-      <description><![CDATA[Long-term data shows children are more likely to develop mental health issues when their parents experience financial stress and housing instability.]]></description>
-      <content:encoded><![CDATA[Long-term data shows children are more likely to develop mental health issues when their parents experience financial stress and housing instability.]]></content:encoded>
-      <pubDate>2026-05-18T20:08:22Z</pubDate>
-      <dc:creator><![CDATA[The Conversation]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://images.theconversation.com/files/731258/original/file-20260421-57-4bcs48.jpg?ixlib=rb-4.1.1&amp;rect=0%2C384%2C4608%2C2304&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop" medium="image"/>
-      <media:thumbnail url="https://images.theconversation.com/files/731258/original/file-20260421-57-4bcs48.jpg?ixlib=rb-4.1.1&amp;rect=0%2C384%2C4608%2C2304&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
     </item>
   </channel>
 </rss>
