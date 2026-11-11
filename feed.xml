@@ -6,17 +6,41 @@
     <atom:link href="https://news.yourfdc.au/xseefeed" rel="self" type="application/rss+xml"/>
     <description>Australia's dedicated Family Day Care news hub.</description>
     <language>en-AU</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:04:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:24:44 GMT</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>yourfdc.au</generator>
+    <item>
+      <title><![CDATA[Australia signs Children First Declaration with early learning among priorities]]></title>
+      <link>https://thesector.com.au/article/australia-children-first-declaration-early-learning-priorities</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/australia-children-first-declaration-early-learning-priorities</guid>
+      <description><![CDATA[Australia has signed the Children First Declaration, which identifies quality early childhood education as a priority for improving children’s wellbeing.]]></description>
+      <content:encoded><![CDATA[Australia has signed the Children First Declaration, which identifies quality early childhood education as a priority for improving children’s wellbeing.]]></content:encoded>
+      <pubDate>Wed, 11 Nov 2026 02:24:33 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/dieter_van_hammee_Ku_HPC_Iq_XA_M_unsplash_2_b6ba749f14.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/dieter_van_hammee_Ku_HPC_Iq_XA_M_unsplash_2_b6ba749f14.webp"/>
+    </item>
+    <item>
+      <title><![CDATA[Preschool funding changes face scrutiny as not-for-profits warn of cutsents take shape]]></title>
+      <link>https://thesector.com.au/article/preschool-funding-changes-not-for-profit-cuts-scrutiny</link>
+      <guid isPermaLink="true">https://thesector.com.au/article/preschool-funding-changes-not-for-profit-cuts-scrutiny</guid>
+      <description><![CDATA[Member for Cootamundra Steph Cooke has asked the NSW Government to explain how preschool funding changes will affect regional and rural community preschools. She lodged a question on notice in the Legislative Assembly on 10 November, seeking financial modelling, consultation details and safeguards for services facing reductions.]]></description>
+      <content:encoded><![CDATA[Member for Cootamundra Steph Cooke has asked the NSW Government to explain how preschool funding changes will affect regional and rural community preschools. She lodged a question on notice in the Legislative Assembly on 10 November, seeking financial modelling, consultation details and safeguards for services facing reductions.]]></content:encoded>
+      <pubDate>Wed, 11 Nov 2026 01:24:33 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://api.thesector.com.au/uploads/troy_t_WA_2_EE_7_Ytz_C4_unsplash_6b63a43e1a.webp" medium="image"/>
+      <media:thumbnail url="https://api.thesector.com.au/uploads/troy_t_WA_2_EE_7_Ytz_C4_unsplash_6b63a43e1a.webp"/>
+    </item>
     <item>
       <title><![CDATA[First Nations languages in early learning: starting with people, not a word list]]></title>
       <link>https://thesector.com.au/article/first-nations-languages-early-learning-community-guidance</link>
       <guid isPermaLink="true">https://thesector.com.au/article/first-nations-languages-early-learning-community-guidance</guid>
       <description><![CDATA[When considering introducing local First Nations language into your early learning program, knowing where to begin can feel uncertain. Community Early Learning Australia’s (CELA) guidance explores how educators can approach this respectfully, starting with relationships, permission and advice from the community whose language they hope to share.]]></description>
       <content:encoded><![CDATA[When considering introducing local First Nations language into your early learning program, knowing where to begin can feel uncertain. Community Early Learning Australia’s (CELA) guidance explores how educators can approach this respectfully, starting with relationships, permission and advice from the community whose language they hope to share.]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 22:04:11 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 00:24:33 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/megan_clark_v_O_Pg_KJA_2_Voo_unsplash_996248ec43.webp" medium="image"/>
@@ -28,7 +52,7 @@
       <guid isPermaLink="true">https://thesector.com.au/article/teacher-wellbeing-training-retention-initial-teacher-education</guid>
       <description><![CDATA[Teachers are being prepared to enter the teaching profession however they may not be being adequately prepared to stay in the profession. A new report by the University of Melbourne highlights that teachers’ well-being is one of the biggest factors influencing their staying power. However, it is not currently being taught as a part of teacher training programs. Future teachers are expected to manage increasingly complex classrooms, student mental health, family relationships and increased worklo]]></description>
       <content:encoded><![CDATA[Teachers are being prepared to enter the teaching profession however they may not be being adequately prepared to stay in the profession. A new report by the University of Melbourne highlights that teachers’ well-being is one of the biggest factors influencing their staying power. However, it is not currently being taught as a part of teacher training programs. Future teachers are expected to manage increasingly complex classrooms, student mental health, family relationships and increased worklo]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 21:04:11 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 23:24:33 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/ahmadreza_rezaie_e_J_Vn_Bi25_Xms_unsplash_d6bd39c7cc.webp" medium="image"/>
@@ -40,71 +64,11 @@
       <guid isPermaLink="true">https://thesector.com.au/article/long-day-care-centre-growth-slows-september-2026</guid>
       <description><![CDATA[The percentage growth in net new long day care service approvals in the three months ended September 2026 fell to 2.2 per cent when compared to the same period last year, data from the latest ACECQA snapshot has shown.]]></description>
       <content:encoded><![CDATA[The percentage growth in net new long day care service approvals in the three months ended September 2026 fell to 2.2 per cent when compared to the same period last year, data from the latest ACECQA snapshot has shown.]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 20:04:11 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 22:24:33 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://api.thesector.com.au/uploads/lisa_anna_3t_Cz_E1uxx4_unsplash_b53f0351c8.webp" medium="image"/>
       <media:thumbnail url="https://api.thesector.com.au/uploads/lisa_anna_3t_Cz_E1uxx4_unsplash_b53f0351c8.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Provider outlines regional early learning exit as replacement arrangements take shape]]></title>
-      <link>https://thesector.com.au/article/uplyft-regional-early-learning-exit-transition-arrangements</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/uplyft-regional-early-learning-exit-transition-arrangements</guid>
-      <description><![CDATA[Uplyft says its Mount Barker and Katanning early learning centres will close by the end of December 2026, while it works towards transitioning its Kojonup service to another provider in the first half of 2027.]]></description>
-      <content:encoded><![CDATA[Uplyft says its Mount Barker and Katanning early learning centres will close by the end of December 2026, while it works towards transitioning its Kojonup service to another provider in the first half of 2027.]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 19:04:11 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/lisa_anna_w9r_LM_6r6r_Kw_unsplash_ce92e237b3.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/lisa_anna_w9r_LM_6r6r_Kw_unsplash_ce92e237b3.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Body boundaries and trusted adults guide QCCS child safety learning]]></title>
-      <link>https://thesector.com.au/article/qccs-child-safety-body-boundaries-trusted-adults</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/qccs-child-safety-body-boundaries-trusted-adults</guid>
-      <description><![CDATA[Body boundaries, trusted adults and asking for help were central to the learning experiences Queensland Childcare Services (QCCS) outlined on Day for Daniel 2026. On the day the provider included safety conversations, creative activities and family involvement across its early learning centres.]]></description>
-      <content:encoded><![CDATA[Body boundaries, trusted adults and asking for help were central to the learning experiences Queensland Childcare Services (QCCS) outlined on Day for Daniel 2026. On the day the provider included safety conversations, creative activities and family involvement across its early learning centres.]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 18:04:11 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/Photo_1_2_8f54320aca.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/Photo_1_2_8f54320aca.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Directors Day today, this thank you is for you]]></title>
-      <link>https://thesector.com.au/article/educator-voices-shape-preschool-outcomes-measure-pilot</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/educator-voices-shape-preschool-outcomes-measure-pilot</guid>
-      <description><![CDATA[Teachers and educators have completed more than 1,000 assessments across 236 services nationally as part of the Preschool Outcomes Measure pilot. The educator&#x27;s feedback is helping refine the national tool, including how easily it can be used and how it supports planning for children’s learning. This feedback is vital and is progressive in ensuring that the tool being developed is being built within the early childhood and educational programs and with qualified and experienced educators ac]]></description>
-      <content:encoded><![CDATA[Teachers and educators have completed more than 1,000 assessments across 236 services nationally as part of the Preschool Outcomes Measure pilot. The educator&#x27;s feedback is helping refine the national tool, including how easily it can be used and how it supports planning for children’s learning. This feedback is vital and is progressive in ensuring that the tool being developed is being built within the early childhood and educational programs and with qualified and experienced educators ac]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 12:04:11 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1225663414_5829ae205b.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1225663414_5829ae205b.webp"/>
-    </item>
-    <item>
-      <title><![CDATA[Guardian Early Learning adds digital Family Hub to wider investment program]]></title>
-      <link>https://thesector.com.au/article/guardian-family-hub-digital-learning-program</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/guardian-family-hub-digital-learning-program</guid>
-      <description><![CDATA[Guardian Childcare & Education will begin moving its exclusive To BE Me learning program onto a new Guardian Family Hub app in late November, with the transition scheduled for completion by March 2027.]]></description>
-      <content:encoded><![CDATA[Guardian Childcare & Education will begin moving its exclusive To BE Me learning program onto a new Guardian Family Hub app in late November, with the transition scheduled for completion by March 2027.]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 11:04:11 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/Guardian_Childcare_and_Education_41_7a31d1387c.jpg" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/Guardian_Childcare_and_Education_41_7a31d1387c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Impact of Worker Retention Payment revealed in Government report response]]></title>
-      <link>https://thesector.com.au/article/worker-retention-payment-workforce-fees-government-response</link>
-      <guid isPermaLink="true">https://thesector.com.au/article/worker-retention-payment-workforce-fees-government-response</guid>
-      <description><![CDATA[The Australian Government has provided some high level details on the impact that the Worker Retention Payment program has had on the availability of educators and fee rises since its introduction in 2024.]]></description>
-      <content:encoded><![CDATA[The Australian Government has provided some high level details on the impact that the Worker Retention Payment program has had on the availability of educators and fee rises since its introduction in 2024.]]></content:encoded>
-      <pubDate>Tue, 10 Nov 2026 09:04:11 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-      <media:content url="https://api.thesector.com.au/uploads/i_Stock_1154012261_09c0cad0c9.webp" medium="image"/>
-      <media:thumbnail url="https://api.thesector.com.au/uploads/i_Stock_1154012261_09c0cad0c9.webp"/>
     </item>
     <item>
       <title><![CDATA[Educators’ voices and experience help shape preschool assessment tool - The Sector]]></title>
@@ -143,26 +107,6 @@
       <description><![CDATA[Government responds to landmark Senate Child Safety Review: One of 23 recommendations supported - The Sector]]></description>
       <content:encoded><![CDATA[Government responds to landmark Senate Child Safety Review: One of 23 recommendations supported - The Sector]]></content:encoded>
       <pubDate>Sun, 08 Nov 2026 21:58:37 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Imagine’s Eden Academy acquisition gets ACCC green light to proceed - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmRNZkxNQVpOd2loSmZ4dk94Q3QwWThKdktEVFVlZUw4VEZHdHBnVmhaUld3WEpuV2FQOHVFdHNuWXdNODJrQk44VFNqWDVwYVhlTVpkdkd4OEpXWkFRZHgyOF93SjlSZFg4MC1DWDZPUTZqdUtkbG96VlZ1dmI3WjdSUDNYZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmRNZkxNQVpOd2loSmZ4dk94Q3QwWThKdktEVFVlZUw4VEZHdHBnVmhaUld3WEpuV2FQOHVFdHNuWXdNODJrQk44VFNqWDVwYVhlTVpkdkd4OEpXWkFRZHgyOF93SjlSZFg4MC1DWDZPUTZqdUtkbG96VlZ1dmI3WjdSUDNYZw?oc=5</guid>
-      <description><![CDATA[Imagine’s Eden Academy acquisition gets ACCC green light to proceed - The Sector]]></description>
-      <content:encoded><![CDATA[Imagine’s Eden Academy acquisition gets ACCC green light to proceed - The Sector]]></content:encoded>
-      <pubDate>Sun, 08 Nov 2026 21:58:12 GMT</pubDate>
-      <dc:creator><![CDATA[The Sector]]></dc:creator>
-      <category><![CDATA[Family Day Care]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Education Minister’s meeting completed: Early Learning Commission, CCTV and supervision reforms all on agenda - The Sector]]></title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkFTUlJtOU54NU84QXc2MWY4QmxxWWVOLXg5NEt1clJRQ2xVdk1NY0FNY1Q2b0hpVkxGR1lHaU5Dc3JZM200VF80emc5ZkRzVVB5aHhxS05Qdmt5M2lYTzYzTkVwRkFuSnNWUjdWUkxaWkY3NDEzYXZ1bVc0dFIxWGpsMEJUdWhpUWtpbmF5ZzZERnhrMXFNZ1NNOG1WbUN6aDdDV0VR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkFTUlJtOU54NU84QXc2MWY4QmxxWWVOLXg5NEt1clJRQ2xVdk1NY0FNY1Q2b0hpVkxGR1lHaU5Dc3JZM200VF80emc5ZkRzVVB5aHhxS05Qdmt5M2lYTzYzTkVwRkFuSnNWUjdWUkxaWkY3NDEzYXZ1bVc0dFIxWGpsMEJUdWhpUWtpbmF5ZzZERnhrMXFNZ1NNOG1WbUN6aDdDV0VR?oc=5</guid>
-      <description><![CDATA[Education Minister’s meeting completed: Early Learning Commission, CCTV and supervision reforms all on agenda - The Sector]]></description>
-      <content:encoded><![CDATA[Education Minister’s meeting completed: Early Learning Commission, CCTV and supervision reforms all on agenda - The Sector]]></content:encoded>
-      <pubDate>Thu, 05 Nov 2026 23:00:35 GMT</pubDate>
       <dc:creator><![CDATA[The Sector]]></dc:creator>
       <category><![CDATA[Family Day Care]]></category>
     </item>
@@ -505,6 +449,16 @@
       <category><![CDATA[Family Day Care]]></category>
     </item>
     <item>
+      <title><![CDATA[Childcare centre that exposed kids to rat poison stripped of funding - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNaG1oclhfNEcyS19feURmQnV5dzZ6NjhyRGNFZERFdTE0enJOZGt0bVRTeFk2ZWZSMzBhbU9XcU9abHNjRGVpclJmM25MVFJuV053RTVpU0FUNDdtTVlIN2x1SzVNcnp3d2RWT1VCanBWQ1FMalVQNlYxdjdmc2E4WlYya2hMclFHTTlwVXRfNmd2N19BYnVxYzhfbGM2d19k?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxNaG1oclhfNEcyS19feURmQnV5dzZ6NjhyRGNFZERFdTE0enJOZGt0bVRTeFk2ZWZSMzBhbU9XcU9abHNjRGVpclJmM25MVFJuV053RTVpU0FUNDdtTVlIN2x1SzVNcnp3d2RWT1VCanBWQ1FMalVQNlYxdjdmc2E4WlYya2hMclFHTTlwVXRfNmd2N19BYnVxYzhfbGM2d19k?oc=5</guid>
+      <description><![CDATA[Childcare centre that exposed kids to rat poison stripped of funding - ABC News & Headlines – Australian Broadcasting Corporation]]></description>
+      <content:encoded><![CDATA[Childcare centre that exposed kids to rat poison stripped of funding - ABC News & Headlines – Australian Broadcasting Corporation]]></content:encoded>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
       <title><![CDATA[Everyone experiences loss and grief – but that doesn’t make it any easier to talk with kids about it]]></title>
       <link>https://theconversation.com/everyone-experiences-loss-and-grief-but-that-doesnt-make-it-any-easier-to-talk-with-kids-about-it-282713</link>
       <guid isPermaLink="true">https://theconversation.com/everyone-experiences-loss-and-grief-but-that-doesnt-make-it-any-easier-to-talk-with-kids-about-it-282713</guid>
@@ -539,6 +493,48 @@
       <category><![CDATA[Family Day Care]]></category>
       <media:content url="https://images.theconversation.com/files/742330/original/file-20260617-57-iek7z1.jpg?ixlib=rb-4.1.1&amp;rect=1175%2C183%2C4016%2C2008&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop" medium="image"/>
       <media:thumbnail url="https://images.theconversation.com/files/742330/original/file-20260617-57-iek7z1.jpg?ixlib=rb-4.1.1&amp;rect=1175%2C183%2C4016%2C2008&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
+    </item>
+    <item>
+      <title><![CDATA[Toy Story 5 pits traditional toys vs a tablet. In real life, families can combine the two]]></title>
+      <link>https://theconversation.com/toy-story-5-pits-traditional-toys-vs-a-tablet-in-real-life-families-can-combine-the-two-284938</link>
+      <guid isPermaLink="true">https://theconversation.com/toy-story-5-pits-traditional-toys-vs-a-tablet-in-real-life-families-can-combine-the-two-284938</guid>
+      <description><![CDATA[The latest instalment of the film franchise addresses a dilemma many parents face: what happens to playtime when children become obsessed with screens?]]></description>
+      <content:encoded><![CDATA[The latest instalment of the film franchise addresses a dilemma many parents face: what happens to playtime when children become obsessed with screens?]]></content:encoded>
+      <pubDate>2026-06-15T20:10:38Z</pubDate>
+      <dc:creator><![CDATA[The Conversation]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+      <media:content url="https://images.theconversation.com/files/741763/original/file-20260615-71-96za94.jpg?ixlib=rb-4.1.1&amp;rect=0%2C384%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop" medium="image"/>
+      <media:thumbnail url="https://images.theconversation.com/files/741763/original/file-20260615-71-96za94.jpg?ixlib=rb-4.1.1&amp;rect=0%2C384%2C6000%2C3000&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"/>
+    </item>
+    <item>
+      <title><![CDATA[Early childhood educators burnt out, stretched and 'paid peanuts', experts say - ABC News & Headlines – Australian Broadcasting Corporation]]></title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPVllUcHVmdHdmaGVQWW5uV29oY1VGX3VrU09iX3RWYlJWYmZxX1pUbGJzNnFBYkN2MUFORzNFa0F0TWVobzNRTDhzUnJoQlRaZGFyN2pHc0kxNWJFOVRlU1pnaXVLMGRwWkV0b2RqcGZFR0IzendqTWVhZFBXTXNSbjgwTUVySGpuMGpCZ1BLV2U1ZEZ2ZjlZa29kZzRBU0Fm?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxPVllUcHVmdHdmaGVQWW5uV29oY1VGX3VrU09iX3RWYlJWYmZxX1pUbGJzNnFBYkN2MUFORzNFa0F0TWVobzNRTDhzUnJoQlRaZGFyN2pHc0kxNWJFOVRlU1pnaXVLMGRwWkV0b2RqcGZFR0IzendqTWVhZFBXTXNSbjgwTUVySGpuMGpCZ1BLV2U1ZEZ2ZjlZa29kZzRBU0Fm?oc=5</guid>
+      <description><![CDATA[Early childhood educators burnt out, stretched and 'paid peanuts', experts say - ABC News & Headlines – Australian Broadcasting Corporation]]></description>
+      <content:encoded><![CDATA[Early childhood educators burnt out, stretched and 'paid peanuts', experts say - ABC News & Headlines – Australian Broadcasting Corporation]]></content:encoded>
+      <pubDate>Sat, 13 Jun 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[Australian Broadcasting Corporation]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Western Sydney's Airlie Preschool recognised among top 1% with rare second 'Excellent' rating - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnZ3QTNRNmZkbG1TYWNUX3RZbV9jbGdxWEpXN1dKYndQV3VXZ3Z1NWJyb3dUYldBc3BGRGdyZkd4XzJSRWlfWG5VSlVpUlZvbnVCSlAwQnVSMGtXS0Z6MWhCS1Vra0IyQ1NUcy1MdWMwY1JYbkREMTV2dnR0NGg5YkN6TkRTSjlDZHp1b29hNndOZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnZ3QTNRNmZkbG1TYWNUX3RZbV9jbGdxWEpXN1dKYndQV3VXZ3Z1NWJyb3dUYldBc3BGRGdyZkd4XzJSRWlfWG5VSlVpUlZvbnVCSlAwQnVSMGtXS0Z6MWhCS1Vra0IyQ1NUcy1MdWMwY1JYbkREMTV2dnR0NGg5YkN6TkRTSjlDZHp1b29hNndOZw?oc=5</guid>
+      <description><![CDATA[Western Sydney's Airlie Preschool recognised among top 1% with rare second 'Excellent' rating - The Sector]]></description>
+      <content:encoded><![CDATA[Western Sydney's Airlie Preschool recognised among top 1% with rare second 'Excellent' rating - The Sector]]></content:encoded>
+      <pubDate>Wed, 10 Jun 2026 20:18:50 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
+    </item>
+    <item>
+      <title><![CDATA[ACECQA Incident Response Template strengthens child safe governance expectations across ECEC - The Sector]]></title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxORWYtMW1CaGFJWGJER2JSUmoxTUlrZTNTckFJaU9SVWlzY3V4UGtENFhfQjBBeTZmbG5ESmxZbG5RX3BmRE5xeUUxclpCd3h2cTFZNnhSWEN0OWd5bjZ4SGxyNXdHaU1DU1h6WC1fNklXOWN2Y1AyZkJrajM5SFUtVFhLVUdjY1RIamtNZUMybmJWbWQzNXAxdzJPcGYwUDY2MmhQRzR1RzlLNVlNalZSZDcxVVhwdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxORWYtMW1CaGFJWGJER2JSUmoxTUlrZTNTckFJaU9SVWlzY3V4UGtENFhfQjBBeTZmbG5ESmxZbG5RX3BmRE5xeUUxclpCd3h2cTFZNnhSWEN0OWd5bjZ4SGxyNXdHaU1DU1h6WC1fNklXOWN2Y1AyZkJrajM5SFUtVFhLVUdjY1RIamtNZUMybmJWbWQzNXAxdzJPcGYwUDY2MmhQRzR1RzlLNVlNalZSZDcxVVhwdw?oc=5</guid>
+      <description><![CDATA[ACECQA Incident Response Template strengthens child safe governance expectations across ECEC - The Sector]]></description>
+      <content:encoded><![CDATA[ACECQA Incident Response Template strengthens child safe governance expectations across ECEC - The Sector]]></content:encoded>
+      <pubDate>Wed, 27 May 2026 07:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[The Sector]]></dc:creator>
+      <category><![CDATA[Family Day Care]]></category>
     </item>
   </channel>
 </rss>
